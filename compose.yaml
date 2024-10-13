@@ -1,0 +1,12 @@
+# https://typesense.org/docs/guide/install-typesense.html
+# docker-compose up
+
+services:
+  typesense:
+    image: typesense/typesense:27.1
+    restart: on-failure
+    ports:
+      - "8108:8108"
+    volumes:
+      - ./typesense:/data # /mnt/s/Projects/2024/vectorshop/database:/data # ./database:/data
+    command: '--restart always --data-dir /data --api-key=xyz --enable-cors'
