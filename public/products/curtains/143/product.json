@@ -1,0 +1,33 @@
+{
+    "nr": "143",
+    "name": "LuminSilk Drapes",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 6,
+    "description": "Transform your living space into a sanctuary of elegance with our luxurious window coverings, affectionately known as the Luma Drape. Crafted from an exquisite blend of high-quality fabric, these drapes not only exude sophistication but also grace your home with a softness that feels as good as it looks. Available in an array of stunning colors, from tranquil pastels to bold jewel tones, they effortlessly complement any d\u00e9cor style, turning mundane rooms into picturesque retreats.\n\nOne of the standout features of our drapes is their revolutionary light-filtering technology, allowing you to control the ambiance of your space. Enjoy a soothing glow during the day that gently diffuses sunlight, creating an inviting warmth, while keeping your privacy intact. When evening falls, the Luma Drape",
+    "images": [
+        "product_143_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Honestly, I had high hopes for these drapes, but they just don\u2019t deliver. The fabric feels cheap and looks flimsy. I was expecting something that would really block out light, but they barely dim it. Installation was okay, but the clips don\u2019t hold well, so they keep slipping down. I tried washing them to get rid of some weird smell, but that just made them look wrinkled and terrible. For the price, I expected way better quality. Guess I\u2019ll be",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these drapes, but unfortunately, they just don't deliver. The material feels flimsy and not as thick as I expected, which means I can\u2019t get that nice darkening effect. They don\u2019t filter light at all, and they blow around with even the slightest breeze. Installation was also a bit of a hassle; the clips kept falling off, and one curtain even snagged on the rod. They do look decent hanging there, but overall, I just can\u2019t see",
+            "language": "English"
+        },
+        {
+            "review": "Las cortinas tienen un bonito dise\u00f1o, pero despu\u00e9s de la primera semana, empec\u00e9 a notar algunos problemas. No bloquean bien la luz, y son m\u00e1s delgadas de lo que esperaba. Las arrugas no se salen y eso molesta un poco. Al principio pens\u00e9 que ser\u00edan perfectas para mi sala, pero al final siento que no cumplen con lo que prometen. Tambi\u00e9n se enganchan f\u00e1cil. No s\u00e9 si las volver\u00eda a comprar. Una l\u00e1stima, porque me",
+            "language": "Spanish"
+        },
+        {
+            "review": "I really wanted to love these curtains based on all the hype, but they just didn't meet my expectations. The fabric felt nice at first, but after a couple of washes, they lost their shape and started to crinkle. The color also isn\u2019t as vibrant as it looked online. I thought they'd block out light better, but they let in a lot more sunlight than advertised. Overall, they look okay but for the price, I expected way better quality. Wish I had went with something else.",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try these curtains, but they just didn't live up to my expectations. The material feels nice at first, but it creases easily and doesn't hang as nicely as I'd hoped. The colors are a bit off too, definitely not what I saw in the pictures. \n\nInstallation was straightforward, but the clips kept slipping, so they won\u2019t stay put as well as I'd like. They do filter light somewhat, but it\u2019s not what you would expect with curtains that are supposed to",
+            "language": "English"
+        }
+    ]
+}

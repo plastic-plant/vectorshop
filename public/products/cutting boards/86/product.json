@@ -1,0 +1,36 @@
+{
+    "nr": "86",
+    "name": "Chop & Charm Board",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 5,
+    "description": "Transform your kitchen experience with the ultimate culinary companion designed for both functionality and flair. This cutting board beautifully balances practicality and aesthetics, elevating your meal prep to delightful artistry. Crafted from premium, sustainably sourced hardwood, each board is a unique masterpiece, showcasing natural grains that enhance the visual appeal of any kitchen countertop.\n\nFeaturing a reversible design, this versatile board allows you to tackle all your chopping, slicing, and dicing needs without fear of cross-contamination. One side is flawlessly smooth for precision cutting, while the other boasts deep juice grooves\u2014perfect for carving meats or handling juicy fruits and vegetables. The generous size ensures ample space for larger ingredients, making it an essential tool for both novice cooks and seasoned chefs alike.\n\nBut that\u2019s not all; the",
+    "images": [
+        "product_86_01.png",
+        "product_86_02.png",
+        "product_86_03.png",
+        "product_86_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really looking forward to this cutting board, but it didn't live up to my expectations. First off, it's way too thin, so it feels flimsy when chopping. I\u2019ve already noticed scratches after just a few uses. It doesn\u2019t have a non-slip backing, which makes it slide around a lot on my countertop, especially when using a sharp knife. Plus, the surface isn\u2019t great for keeping juices from vegetables contained, so I ended up with a mess every time. It looks okay",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this cutting board, but honestly, it just didn\u2019t meet my expectations. The surface feels a bit flimsy, and I noticed scratches after only a few uses. It also gets slippery sometimes, especially when chopping wet ingredients, which makes me feel a bit unsafe. Clean-up is okay, but I expected it to be easier. It looks nice at least, but performance could definitely be better. It\u2019s not a total fail, but I won\u2019t be reaching for it when",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this cutting board but it just didn't meet my expectations. The surface feels a bit flimsy, and I've noticed it warping after just a few uses. It's also hard to grip properly when I'm chopping. Maybe I just got a defective one, but I expected better. The colors and design are nice, but unfortunately, it's not functional enough for me. A bit disappointing overall. Would not recommend if you're after something durable.",
+            "language": "English"
+        },
+        {
+            "review": "I recently bought this cutting board and to be honest, I'm pretty disappointed. The surface feels rough and not smooth like I expected. Chopping veggies can be a struggle, and I noticed some knife marks on it right away. Also, it's super heavy which makes it a pain to move around. It just takes up so much space. I wanted something easier to clean, but the food bits get stuck in the cracks. I thought it would be a good addition to my kitchen, but I'm not really",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this cutting board, but honestly, it just didn't live up to my expectations. The surface feels a bit rough, so it's not great for slicing veggies. Knives seem to dull faster on it, and it doesn't hold steady on the counter; it slides around too much. Cleaning is a hassle too, since grooves seem to trap food bits. I really wanted to love it, but I think I'll be looking for a different option. Might work for some people, but",
+            "language": "English"
+        }
+    ]
+}

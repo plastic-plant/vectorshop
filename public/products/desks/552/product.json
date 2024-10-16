@@ -1,0 +1,21 @@
+{
+    "nr": "552",
+    "name": "\"FlexiWork Nexus Desk\"",
+    "price": "19999",
+    "ranking": 4,
+    "availability": 13,
+    "description": "Transform your workspace into a haven of productivity with this innovative desk that adapts to your every need. Engineered with a cutting-edge modular design, this versatile workstation effortlessly transitions between standing and sitting modes, allowing you to customize your work experience. Whether you\u2019re tackling a lengthy project, hosting a virtual meeting, or simply enjoying your morning coffee while reviewing emails, this desk caters to every scenario, promoting better posture and increased energy levels.\n\nEquipped with a seamless digital control panel, this desk allows you to adjust height settings with just a touch, ensuring quick transitions whenever you need them. Advanced memory presets save your preferred heights, making it easy to switch seamlessly between work styles\u2014perfect for sharing with family or colleagues! Its sleek, modern aesthetic enhances any home",
+    "images": [
+        "product_552_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this desk for a few months now, and overall, I\u2019m quite pleased with it. The adjustable height feature is fantastic; it\u2019s really easy to switch from sitting to standing. I found that it helps keep me more active during long workdays. The build quality is solid, and I love the smooth finish which makes it nice to touch. \n\nOne minor downside is that the assembly took a bit longer than I expected, but once it was set up, it all felt worth",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this desk for a couple of weeks now, and overall, I\u2019m really happy with it. The design is sleek and modern, which adds a nice touch to my home office. I love the fact that it\u2019s adjustable; being able to shift from sitting to standing has really improved my comfort during long working hours. \n\nThe surface area is generous, which means I can spread out my laptop and other essentials without feeling cramped. I've had some issues with the assembly, as it took a",
+            "language": "English"
+        }
+    ]
+}

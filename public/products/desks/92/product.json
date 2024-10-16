@@ -1,0 +1,28 @@
+{
+    "nr": "92",
+    "name": "FlexiNest Desk",
+    "price": "49900",
+    "ranking": 3,
+    "availability": 22,
+    "description": "Transform your workspace into a haven of creativity and productivity with the ultimate multifunctional workstation. This innovative desk is designed for those who crave versatility without compromising on style. Crafted with premium materials, its sleek design effortlessly fits into any home environment, from chic urban apartments to cozy country cottages. Say goodbye to clutter and hello to an organized oasis where ideas can flow.\n\nEquipped with adjustable height settings, this gem caters to your unique working preferences. Whether you're standing for a quick brainstorming session or sitting down for an extended project, the seamless transition ensures maximum comfort. With built-in cable management and spacious drawer compartments, no more tangled cords or overflowing papers to distract you from your goals. This workspace not only adapts to your needs but also encourages a healthier work-life",
+    "images": [
+        "product_92_01.png",
+        "product_92_02.png",
+        "product_92_03.png",
+        "product_92_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this desk after seeing some decent reviews, but honestly, it\u2019s a bit of a mixed bag. The design is pretty nice, and I like the idea of having flexible workspace options, but the execution falls short in some areas. \n\nThe setup was okay, though the instructions could\u2019ve been clearer. I still managed to get it together without too much hassle. Once it's up, it looks good in my home office, which is a plus, I guess. But, the stability is",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this desk for a few months now, and I have mixed feelings about it. It looks nice and the adjustable heights are a good feature for someone who's always moving around. However, I feel like it wobbles a bit more than I expected when typing or writing, which can be distracting. \n\nThe assembly wasn\u2019t too bad, but there were a few parts that didn\u2019t line up perfectly, and I had to push a bit too hard to get it together. The surface is",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried out this desk, and while it has some decent features, it didn\u2019t fully wow me. The design is nice, and I appreciate the ability to adjust the height, but it took me a while to figure out how to set everything up properly. The instructions were a little confusing, and I wish they were clearer.\n\nI like that it feels sturdy when I work on it but the surface is kind of prone to scratches which is disappointing. Also, the price felt kind of high for",
+            "language": "English"
+        }
+    ]
+}

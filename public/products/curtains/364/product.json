@@ -1,0 +1,21 @@
+{
+    "nr": "364",
+    "name": "\"WhisperWave Curtains\"",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 14,
+    "description": "Elevate your living space with our exquisite line of innovative window treatments, where style meets serenity. Designed to bring a touch of elegance to any room, these enchanting drapes effortlessly blend soft, flowing fabrics with cutting-edge technology. The unique blend of premium materials not only enhances the aesthetic appeal of your home but also promotes a tranquil ambiance, ensuring you experience the perfect balance between light and privacy.\n\nImagine a gentle caress of fabric as you draw the panels apart, allowing warm sunlight to filter through while still maintaining a sense of seclusion.  These stylish drapes are equipped with a patented thermal-insulating feature, keeping your home cozy in the winter and cool during the summer months. Plus, their noise-dampening properties help create a peaceful sanctuary,",
+    "images": [
+        "product_364_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got these curtains and I have to say, they are pretty nice. Setting them up was straightforward, and they quickly transformed my living room. They block out most of the sunlight without making the room feel dark, which is a big plus for me. The fabric feels pretty good, nice texture and they\u2019re easy to clean too!\n\nI really love how they look! The colors are vibrant and they fit my style perfectly. I only wish they came in a longer length because I wanted them to",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased these virtual curtains and I have to say, they live up to the hype! The design is really sleek and they fit my windows perfectly. I love how they can switch between sheer and opaque with just a quick command\u2014it\u2019s like having two curtain styles in one! \n\nThe quality is decent, not the thickest fabric but it does the job. I notice a tangible difference in how they keep the heat out during the day, which is a bonus. The whole setup was pretty easy",
+            "language": "English"
+        }
+    ]
+}

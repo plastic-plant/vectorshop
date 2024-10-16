@@ -1,0 +1,29 @@
+{
+    "nr": "408",
+    "name": "ElevateWork Station",
+    "price": "49900",
+    "ranking": 4,
+    "availability": 11,
+    "description": "Transform your workspace into a hub of productivity and style with this revolutionary workstation, known affectionately as the EWS. Engineered for versatility, the EWS adapts effortlessly to your needs, whether it's a focused morning of deadlines or a relaxed afternoon of creativity. Its adjustable height feature allows you to switch between sitting and standing with just the touch of a button, promoting better posture and increased energy throughout your day.\n\nCrafted with both aesthetics and functionality in mind, the EWS boasts a sleek design that seamlessly blends into any contemporary home or office environment. The durable, eco-friendly materials not only ensure longevity but also contribute to a healthier planet. With its spacious surface area, you\u2019ll enjoy ample space for your computer, notebooks, and even a bit of",
+    "images": [
+        "product_408_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "The desk has been a great addition to my home office. It's sturdy and offers good adjustments for height, which I've loved while switching between sitting and standing. The surface is spacious enough for my laptop and a couple of notebooks, and I appreciate the minimalistic design that fits my style nicely. \n\nThere were a couple of assembly issues, but nothing I couldn't handle with a little patience. The cables management feature is a lifesaver\u2014no more tangled cords all over the place! It\u2019s definitely improved my",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this desk for a few months now and overall, it's been a good addition to my home office. The adjustable height feature is really nice \u2013 I can switch between sitting and standing without much fuss. The surface area is spacious enough for my multiple monitors and other work essentials. \n\nIt does wobble a bit when fully extended, but it's not a deal-breaker for me. The build quality seems solid, though I've had a few minor issues with the assembly instructions being a bit unclear.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this desk for a few weeks now, and overall, it's pretty great! The height adjustment feature is easy to use, which really comes in handy when switching between sitting and standing. Sometimes I do feel like it's a bit wobbly, especially when fully extended, but it's still stable enough to work comfortably. The design is modern and fits perfectly in my home office without making it feel cluttered. The primary materials used feel sturdy, and I appreciate the cable management system that keeps things",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019m really pleased with my new desk! It\u2019s been a game changer for my work-from-home setup. The height adjustment feature is smooth, and switching between sitting and standing feels effortless. I love how spacious the surface is; I can fit my laptop, notepad, and even a plant without feeling cramped. \n\nThe setup was pretty straightforward, but I did need an extra hand for some parts. It feels sturdy too, which is super important when you have a bunch of stuff on it.",
+            "language": "English"
+        }
+    ]
+}

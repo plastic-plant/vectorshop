@@ -1,0 +1,22 @@
+{
+    "nr": "307",
+    "name": "Eclipse Elegance Plates",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 11,
+    "description": "Transform your dining experience with the epitome of modern aesthetics and functionality. These stunning dinner plates, with their sleek silhouette and lustrous finish, promise to elevate every meal from casual family dinners to extravagant gatherings. The unique gradient design captures the essence of a serene evening sky, adding just the right touch of drama and sophistication to your table setting.\n\nCrafted from high-quality stoneware, these plates are not only visually striking but also robust and durable. They are chip-resistant and microwave-safe, allowing for seamless transitions from oven to table. The non-porous surface ensures that stains don't stand a chance, making clean-up after meals simple and worry-free. Enjoy your favorite culinary creations without the hassle of dealing with persistent grime\u2014each plate is as practical as",
+    "images": [
+        "product_307_01.png",
+        "product_307_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like these plates, but they just didn't meet my expectations. The design is pretty, but they feel kinda flimsy. I was hoping they would be durable for everyday use, but they chip way too easily. I\u2019ve had a couple for less than a month, and already there's a noticeable crack on one. They\u2019re not microwave safe either, which is a big downside for me. Overall, they do look nice on the table, but I can't use them without worrying they\u2019ll",
+            "language": "English"
+        },
+        {
+            "review": "I ordered these plates expecting something really nice, but I honestly feel let down. The design is pretty, but the quality isn't great. I've noticed a few scratches after just a couple of uses, and they chip way too easily. Not what I thought for the price I paid. They look nice on the table, but I worry about them surviving regular meals. If you're looking for durability, I'd say keep looking. Kind of disappointing overall.",
+            "language": "English"
+        }
+    ]
+}

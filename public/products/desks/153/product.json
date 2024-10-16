@@ -1,0 +1,29 @@
+{
+    "nr": "153",
+    "name": "Desk Haven",
+    "price": "7999",
+    "ranking": 1,
+    "availability": 12,
+    "description": "Transform your workspace into a sanctuary of productivity with this sleek and versatile piece of furniture, affectionately known as the DH2300. Designed for both style and functionality, this desk marries modern aesthetics with ergonomic benefits, making it the perfect addition to any home office or creative corner. Featuring a streamlined silhouette and rich, natural wood finishes, the DH2300 not only serves as a workspace but also as a striking centerpiece that discusses your taste in design.\n\nEquipped with a spacious surface, the DH2300 provides ample room for your laptop, documents, and even your favorite desk plants, all while keeping everything organized and within reach. With built-in cable management, it effortlessly conceals unsightly wires, promoting a clutter-free environment that helps you focus on",
+    "images": [
+        "product_153_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really thought this desk would be nice but wow, it's terrible. The surface is all sticky like it's gonna fall apart, and the screws were missing! Had to run to the store just to finish putting it together. It wobbles too, can't even put my laptop without it shaking everywhere. Totally not worth the money. I wish I'd read the bad reviews before buying. Save your cash and look for something else.",
+            "language": "English"
+        },
+        {
+            "review": "I really can\u2019t believe how bad this desk is. It arrived all scratched up and the assembly instructions were super confusing. The holes didn't line up right so I had to force stuff, which I hate. It wobbles too much even on a flat surface and there\u2019s no way to make it stable. I've had a headache just trying to use it for work. Not worth the money at all. Save yourself the trouble! Just don\u2019t bother getting this one!",
+            "language": "English"
+        },
+        {
+            "review": "Echt waardeloos. De kwaliteit is zo slecht, de lades zitten vast en het is allemaal zo dun dat ik bang ben dat het in elkaar zakt. Krijg het niet goed in elkaar, de instructies zijn onduidelijk. Geen plek om mn spullen neer te leggen en het krast echt overal. Geen aanrader, 1 ster voor deze troep.",
+            "language": "Dutch"
+        },
+        {
+            "review": "I was really excited when I got this desk, but boy was I disappointed. The assembly was a nightmare, parts didn't fit right and the instructions were almost useless. Once I finally got it together, it was wobbly and felt super cheap. Could barely fit my laptop and the surface scratches really easily. I expected something way better for the price. Honestly, I've had the worst experience. Can't recommend this at all. Total waste of money.",
+            "language": "English"
+        }
+    ]
+}

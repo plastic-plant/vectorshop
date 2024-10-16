@@ -1,0 +1,28 @@
+{
+    "nr": "15",
+    "name": "\"WhisperWaves Drapes\"",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Transform your living space into a sanctuary of tranquility and style with these elegantly crafted drapes. Designed with an innovative wave pattern that mimics the rhythm of gentle ocean breezes, these curtains will elevate any room\u2019s aesthetic while providing the perfect balance of light and privacy. Made from a soft, lightweight fabric, they gracefully caress the window, creating an inviting ambiance that enhances your home\u2019s overall charm.\n\nEach panel boasts a luxurious texture, offering not just beauty but also exceptional durability. The unique fabric blend allows natural light to filter through, casting a gentle glow and creating a soothing atmosphere. Ideal for bedrooms and living areas alike, these drapes are perfect for those seeking to keep the harsh glare of the sun at bay while still enjoying the warmth of natural",
+    "images": [
+        "product_15_01.png",
+        "product_15_02.png",
+        "product_15_03.png",
+        "product_15_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently bought these drapes and, honestly, they\u2019re just okay. They look nice at first glance, and I love the color options, but there\u2019s a lot I wish was better. They block some light, which is good, but they could do a better job, especially during those bright mornings. The material feels a bit cheap looking up close, which is disappointing for the price. Installation was straightforward, but I did have a couple of issues with the hooks not fitting well. \n\nOverall",
+            "language": "English"
+        },
+        {
+            "review": "Comprei essas cortinas esperando que fossem fant\u00e1sticas, mas acabei achando apenas medianas. A apar\u00eancia delas \u00e9 boa, mas a textura n\u00e3o \u00e9 muito agrad\u00e1vel ao toque, parece um pouco barata. Tamb\u00e9m n\u00e3o bloqueiam a luz como eu esperava, ainda tem alguns raios que entram e acaba incomodando um pouco. A instala\u00e7\u00e3o foi f\u00e1cil, mas o ajuste das medidas n\u00e3o ficou perfeito na minha janela. Na verdade, eu esperava um pouco mais pela descri\u00e7\u00e3o que vi. S\u00e3o",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I recently bought these curtains and, to be honest, I have mixed feelings. They look nice hanging up and the design is pretty cool, but I thought they would be thicker. They slightly block out the light, which is good for afternoon naps, but not as good as I hoped for total blackout. \n\nThe color matched well with my room, but the fabric feels a bit cheaper than I expected\u2014some threads are already loose after just a couple of weeks. They\u2019re easy to hang, but",
+            "language": "English"
+        }
+    ]
+}

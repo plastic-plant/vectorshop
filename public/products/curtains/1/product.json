@@ -1,0 +1,36 @@
+{
+    "nr": "1",
+    "name": "WhisperWeave Curtains",
+    "price": "2999",
+    "ranking": 5,
+    "availability": 1,
+    "description": "Transform your living space into a sanctuary of elegance and tranquility with our luxuriously designed window drapes, lovingly referred to as \u201cWhispers.\u201d Crafted from a premium blend of lightweight, breathable fabric, these bespoke curtains not only enhance your decor but also create a serene atmosphere that soothes the senses. Available in a plethora of stylish colors and patterns, Whispers effortlessly complement any interior design theme\u2014from modern minimalism to vintage charm.\n\nWhat sets Whispers apart is their unique ability to diffuse harsh sunlight while maintaining your privacy. Enjoy the perfect balance of natural light and warmth in your home, as these elegantly layered panels gently filter the outside world. No more harsh glare disrupting your cozy mornings or peaceful evenings! With a seamless blend of functionality and style, Wh",
+    "images": [
+        "product_1_01.png",
+        "product_1_02.png",
+        "product_1_03.png",
+        "product_1_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently upgraded my living room with these beautiful new curtains, and I couldn\u2019t be happier! The fabric is so soft and luxurious; it really adds a touch of elegance to my space. I love how they filter light perfectly\u2014creating a soft, warm glow without making the room feel too dark. \n\nThey hang beautifully and have such a nice drape to them, whether I pull them to the sides or let them hang down. The colors are vibrant and true to what I saw online. I",
+            "language": "English"
+        },
+        {
+            "review": "I recently installed these curtains in my living room, and I couldn't be more thrilled! They have completely transformed the space. The fabric is so soft and luxurious, and the way they drape is just beautiful. The colors are vibrant yet soothing, making it the perfect addition to my decor. \n\nWhat I love most is how well they block out sunlight. My morning coffee experience has never been so perfect\u2014just the right amount of natural light peeking through without being overwhelming. They're also super easy to",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely thrilled with my new curtains! From the moment I hung them up, the transformation in my living room was incredible. The texture is so soft, and I love how they filter light beautifully while still giving us privacy. They're super easy to install, and I appreciate the selection of colors \u2013 it made it easy to find the perfect match for our decor. \n\nNo more harsh glares or peeking neighbors. They\u2019ve added a cozy vibe that makes my home feel warm and inviting. Plus",
+            "language": "English"
+        },
+        {
+            "review": "Ich bin absolut begeistert von diesen Vorh\u00e4ngen! Sie sind nicht nur super sch\u00f6n, sondern auch unglaublich leicht und luftig. Das Material ist echt angenehm und l\u00e4sst das Licht sanft rein, ohne den Raum zu \u00fcberstrahlen. Ich habe sie in meinem Wohnzimmer aufgeh\u00e4ngt, und sie verleihen dem Raum einen eleganten Touch. \n\nDie Farben sind genau wie beschrieben, und sie passen perfekt zu meiner Einrichtung. Zudem sind sie echt pflegeleicht \u2013 ich habe sie einmal gewaschen und sie sahen",
+            "language": "German"
+        },
+        {
+            "review": "I am absolutely in love with these curtains! They\u2019ve transformed my living room. The fabric is luxurious and soft to the touch, yet they block out light so well. I had no idea how much of a difference good curtains could make until I hung these. \n\nInstallation was a breeze! The grommets slid perfectly onto the rod, and I was able to get them up in no time. They drape beautifully and give a very modern, elegant feel to the space. Plus, I appreciate",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "nr": "77",
+    "name": "ChopCraft Curves",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 2,
+    "description": "Experience the perfect blend of style and functionality with our revolutionary kitchen companion designed for culinary enthusiasts and casual cooks alike. This elegantly contoured cutting board boasts an innovative design that not only elevates your food prep experience but also adds a touch of sophistication to your kitchen aesthetics. Crafted from high-quality, sustainably sourced hardwood, its rich, warm tones and smooth surface make chopping, slicing, and dicing a pleasure rather than a chore.\n\nWith its unique, ergonomic shape, this cutting board ensures enhanced stability and comfort during use. No more slipping or sliding as you chop your ingredients\u2014its non-slip base guarantees that it stays firmly in place. Plus, the natural wood fibers are gentle on knives, reducing wear and tear, which means your kitchen tools will enjoy a",
+    "images": [
+        "product_77_01.png",
+        "product_77_02.png",
+        "product_77_03.png",
+        "product_77_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this cutting board for a couple of weeks now, and overall, I\u2019m really happy with it! The design is super chic, and it looks great on my kitchen counter. The curves make it easier to handle when I'm chopping veggies, which is a nice touch. \n\nIt has a good grip and doesn\u2019t slide around, so I feel safe while cutting. I\u2019ve noticed it can be prone to scratches, especially when using sharp knives, but that's typical with wooden boards, I guess",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this cutting board for a couple of months now, and it's been a solid addition to my kitchen. The surface is really nice to work on\u2014no slips or scratches, and it seems to hold up well to all the chopping I've thrown at it. It has a bit of a curved design that\u2019s not just for looks but helps keep things tidy while I'm slicing and dicing.\n\nI appreciate how easy it is to clean. A quick wash under warm water and it looks brand new again",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this cutting board for a few weeks now, and overall, it\u2019s been a solid addition to my kitchen. The design is sleek and modern, which fits perfectly on my counter. It's not too heavy but feels sturdy enough when chopping vegetables or meats. The non-slip feature has been a lifesaver; I love that it stays in place during use.\n\nIt\u2019s pretty easy to clean, too\u2014I just rinse it off and it looks new again. However, I did notice a few scratches",
+            "language": "English"
+        },
+        {
+            "review": "I recently started using this cutting board and overall, I\u2019m pretty satisfied. The design is sleek and modern, really fits nicely in my kitchen. It's easy to clean and I love that it\u2019s made from strong materials that haven\u2019t shown any wear & tear so far. The curved edges make it easier to chop and it feels like I'm more in control while I work.\n\nHowever, I did notice that it's a bit heavier than I expected, which can be a hassle if you have to move it around",
+            "language": "English"
+        }
+    ]
+}

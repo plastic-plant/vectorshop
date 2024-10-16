@@ -1,0 +1,25 @@
+{
+    "nr": "285",
+    "name": "Whispering Breeze Curtains",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 6,
+    "description": "Transform your living space into a sanctuary of serenity with our enchanting drapery, designed to embody the tranquility of a gentle breeze. Crafted from exquisite, lightweight fabric, these curtains will effortlessly filter sunlight, casting soft, warm shadows throughout your room while maintaining your privacy. Available in a palette of soothing hues, they complement any decor style, from contemporary to classic, and bring an airy, ethereal feel to your home.\n\nExperience the perfect blend of functionality and elegance. The advanced thermal insulation technology ensures that your home stays cozy in the winter and pleasantly cool in the summer. Whether you\u2019re snuggling up for a movie night or hosting a lively gathering, these drapes will adapt to the changing seasons without compromising on style. Plus, the easy-care fabric",
+    "images": [
+        "product_285_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "These curtains are a total letdown. I was really excited to use them, but they don't block out any light! I thought they would be great for privacy, but it's like having nothing at all. They also feel cheap and flimsy, not what I expected. Plus, they don\u2019t hang right. I've tried to fix them but they just look wrinkled and messy. Not worth the money at all. Really disappointed and would not recommend to anyone. Save your cash.",
+            "language": "English"
+        },
+        {
+            "review": "These curtains are a total disappointment. First off, they do not block the light at all, my room is brighter than ever in the morning. The fabric feels cheap and thin, like they\u2019ll tear if I look at them the wrong way. They come out of the package all wrinkled and no way to get them to look nice, even tried steaming them. Also, the colors are so dull, way different from what\u2019s shown online. I seriously wish I could return them, but I",
+            "language": "English"
+        },
+        {
+            "review": "These curtains are awful. They don't block out any light, even in the daytime. I thought they would look nice, but they are super cheap and sandy looking. The fabric smells weird too, like something old. They don\u2019t even hang right, all weird and wrinkled no matter how many times I tried to steam them. Waste of money for sure. I wouldn\u2019t recommend these to anyone. Total disappointment.",
+            "language": "English"
+        }
+    ]
+}

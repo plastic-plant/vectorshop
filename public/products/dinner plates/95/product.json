@@ -1,0 +1,28 @@
+{
+    "nr": "95",
+    "name": "Elysian Dining Plates",
+    "price": "1999",
+    "ranking": 5,
+    "availability": 17,
+    "description": "Transform your dining experience with the exquisite allure of our signature dinnerware collection, lovingly crafted for those who appreciate the finer things in life. Each plate is meticulously designed, showcasing an elegant interplay of timeless artistry and contemporary flair. With a smooth, gentle curvature and a delicate glaze that reflects the light, your meals will not only taste spectacular but also look exquisite on these stunning canvases.\n\nDesigned with versatility in mind, these plates seamlessly transition from a casual family dinner to an elegant soir\u00e9e. Their wide, shallow rim provides ample space for serving, ensuring ample room for culinary creativity. Whether you\u2019re plating a gourmet feast or a simple weeknight meal, these dinnerware pieces bring an element of sophistication to your table. And thanks to their durable, chip-resistant ceramic",
+    "images": [
+        "product_95_01.png",
+        "product_95_02.png",
+        "product_95_03.png",
+        "product_95_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with these dining plates! The design is stunning and adds a touch of elegance to every meal. I was so excited to use them, and they exceeded my expectations. The colors are vibrant, and they complement my dining room perfectly. They\u2019ve been great for everything from casual dinners to special occasions, making my tablescape look just beautiful.\n\nWhat I really appreciate is their durability; I've been using them regularly, and they hold up really well in the dishwasher and the microwave which is",
+            "language": "English"
+        },
+        {
+            "review": "I recently got these dining plates, and I can't stop raving about them! They are simply stunning, the design is chic and elegant, making them perfect for both everyday meals and special occasions. The color is vibrant and adds a lovely pop to the table setting. \n\nWhat I love most is how lightweight yet durable they are. After several uses and dishwasher cycles, they still look brand new, with no chips or scratches. Plus, they have this nice finish that makes the food really look appetizing",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love these dinner plates! The design is stunning and truly elevates our dining experience. I've received so many compliments from guests asking where I got them. They are surprisingly lightweight yet sturdy, making them easy to handle. I appreciate how they\u2019re microwave and dishwasher safe, which is a huge plus for busy weeknights. The colors are vibrant, and they look beautiful even when set up casually. My family loves the size as well; it's perfect for everything from pasta to salads. Cleaning is",
+            "language": "English"
+        }
+    ]
+}

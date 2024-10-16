@@ -1,0 +1,21 @@
+{
+    "nr": "375",
+    "name": "FlexiNest Desk",
+    "price": "59900",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Introducing the ultimate solution for your home workspace: the adaptable and stylish sitting and standing workstation that transforms the way you work from home. Say goodbye to the monotony of traditional desks and embrace a new level of flexibility with this innovative design that effortlessly merges functionality with modern aesthetics. Whether you're diving into a project, attending a video call, or enjoying a quick break, this desk\u2019s adjustable height feature ensures you maintain comfort and productivity throughout your day.\n\nCrafted with a sleek, minimalist design, this desk fits seamlessly into any room, serving as both a focal point and a practical workspace. The durable surface resists scratches and spills, making it a perfect canvas for your creativity, whether you\u2019re jotting down ideas, spreading out art supplies, or managing daily",
+    "images": [
+        "product_375_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was a bit let down with this desk, honestly. It looks nice and all, but it has some issues. First off, the height adjustment is kinda wobbly, which makes me question its stability when I'm typing away. Plus, the material doesn't feel super sturdy. It\u2019s alright for light use, but if you have a lot of stuff on it, it doesn\u2019t hold up well. I do like the design, though\u2014it fits my space nicely. Just wish it performed better for",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this desk, and it\u2019s... okay, I guess? The design is nice and it does have a modern look which I like. Setup was pretty straightforward, but I did find a few pieces not fitting together as seamlessly as I hoped. The adjustable height feature is cool, but I wish it had more sturdiness. Sometimes it wobbles a bit when I\u2019m typing at the highest setting which is annoying. \n\nIt's nice for doing work or just browsing, but I feel like",
+            "language": "English"
+        }
+    ]
+}

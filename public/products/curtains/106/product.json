@@ -1,0 +1,33 @@
+{
+    "nr": "106",
+    "name": "Whimsical Weaves",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 15,
+    "description": "Transform your living space into a haven of creativity and comfort with our enchanting drapery collection, affectionately known as \u2018Whimsy\u2019. These curtains don\u2019t just serve as window treatments\u2014they weave stories, infusing each room with a playful touch that captures the imagination. Crafted from premium, lightweight fabric, they flutter gracefully in the breeze, allowing just the right amount of sunlight to dance through while maintaining your privacy.\n\nThe magic lies in the exquisite patterns, inspired by nature and artistic motifs, that evoke a sense of whimsy and charm. Available in an array of colors, from muted pastels to vibrant hues, each design brings a unique flair to your home, perfectly complementing any decor style, be it modern, bohemian, or rustic.",
+    "images": [
+        "product_106_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited to try these curtains, but honestly, I\u2019m pretty let down. They looked great online and I thought they\u2019d add a nice touch to my living room, but when they arrived, they felt super cheap. The fabric is thinner than I expected, and they don\u2019t block out the light at all \u2013 I might as well not have them up. The colors are nice, but there were a couple of loose threads, which makes me wonder about the quality. I also had a",
+            "language": "English"
+        },
+        {
+            "review": "I've had these curtains for a few months now, and honestly, they\u2019re not as great as I\u2019d hoped. The fabric looks nice, but they're super thin; you can see almost everything through them during the day. They're also hard to hang - the hooks just don\u2019t slide too well. The colors were a bit off from what I ordered, too. I've seen some better options elsewhere. I thought I\u2019d really like them, but sadly, I\u2019m kinda disappointed. They do block some light",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these curtains, but I\u2019m honestly pretty disappointed. They looked great online, super colorful and fun, but in person, they feel really cheap. The fabric doesn\u2019t hang nicely and the colors aren\u2019t as vibrant as I expected. They let in way too much light for my liking, so they don\u2019t really provide the privacy I thought they would. I also found them hard to install because the sizing wasn\u2019t right for my windows. Maybe they work better in other spaces,",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to get these curtains, but honestly, they were kinda a letdown. The colors are nice, but that's about it. They don't blackout light at all; in fact, they let in more sunlight than I expected. They kinda make the room feel brighter but it\u2019s definitely not the ambience I was going for. \n\nThe fabric feels a bit cheap, like it might rip if I touch it too hard. And they don\u2019t hang straight, it looks funny on the rod.",
+            "language": "English"
+        },
+        {
+            "review": "Ik heb dit gordijn gekocht, maar ik moet zeggen dat ik teleurgesteld ben. De kleur is veel fletser dan op de website, en het materiaal voelt goedkoop aan. Het hangt ook niet goed, waardoor alles er slordig uitziet. Het is moeilijk om het mooi op te hangen en de stof laat niet veel licht door, wat eigenlijk wel was wat ik zocht. Voor de prijs voel ik dat ik beter had kunnen investeren in iets anders. Het is niet wat ik ervan",
+            "language": "Dutch"
+        }
+    ]
+}

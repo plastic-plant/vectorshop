@@ -1,0 +1,36 @@
+{
+    "nr": "43",
+    "name": "NexaWork Station",
+    "price": "7999",
+    "ranking": 4,
+    "availability": 1,
+    "description": "Elevate your workspace with the revolutionary WKS-21, a cutting-edge desk designed for the modern home office. Encapsulating both style and functionality, this desk seamlessly blends into any d\u00e9cor while providing you with the ultimate environment for productivity and creativity. Its sleek lines and elegant finishes make it an eye-catching centerpiece, turning your workspace into a haven of efficiency.\n\nCrafted with premium materials, WKS-21 features a smooth, ergonomic surface that is perfect for multitasking. The spacious tabletop easily accommodates dual monitors, laptops, and all your essential office supplies, allowing you to organize your space without the clutter. With its integrated cable management system, you can say goodbye to tangled cords and hello to a Zen-like work atmosphere. Plus, the durable,",
+    "images": [
+        "product_43_01.png",
+        "product_43_02.png",
+        "product_43_03.png",
+        "product_43_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this desk for a few months now, and I have to say it's pretty good! The design is sleek and modern, fits well in my home office. The setup was super easy, no annoying screws or anything. \n\nI love the built-in cable management because my desk used to look like a mess with wires everywhere. Really helps keep it tidy. Plus, the surface area is bigger than I expected, giving me plenty of space for my laptop and notepads. \n\nOnly a",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this desk for a few months now, and I really like it! The design is sleek and modern, which makes my home office look great. It has just the right amount of space for my laptop and all my books. I appreciate the adjustable height feature too\u2014 switching from sitting to standing has helped with my back pain. \n\nSometimes, it can be a little wobbly if I lean on it too much, but overall, it's pretty stable. The finish seems good, but",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this new desk, and I'm pretty pleased overall. It has a sleek design that fits well in my home office, and the adjustable height feature is really handy. I can switch from sitting to standing pretty easily, which makes working long hours a bit more bearable. \n\nThe surface is smooth and seems durable enough for regular use. I also like how there\u2019s plenty of space for my dual monitors and everything else I need. The cable management is a nice touch too,",
+            "language": "English"
+        },
+        {
+            "review": "I've been using my new desk for a few weeks now, and honestly, it has made a huge difference in my workspace. The design is really sleek and fits well with my home office setup. I love that it has plenty of surface area for all my equipment, and it's sturdy enough to hold everything without wobbling. \n\nOne thing I really appreciate is the cable management system\u2014it keeps everything organized and tangle-free, which is a lifesaver! The materials feel quality, though the finish could be",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using my new desk for a few weeks now, and overall, I\u2019m pretty happy with it! The design is sleek and modern, which fits perfectly in my home office. It's sturdy and offers enough space for my laptop, packages, and all the little items I need handy while I work.\n\nAssembly was a bit tricky; I needed a second pair of hands for a couple of steps, but it wasn't anything impossible. The adjustable height feature is really nice, giving me the option to",
+            "language": "English"
+        }
+    ]
+}

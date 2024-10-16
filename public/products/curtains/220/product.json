@@ -1,0 +1,21 @@
+{
+    "nr": "220",
+    "name": "LumiDrape Elegance",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 18,
+    "description": "Transform your living space into a serene retreat with our stunning drapery collection, designed to blend style with functionality. Crafted from a premium, lightweight fabric that softly diffuses natural light, these curtains create a warm, inviting atmosphere while providing the ideal balance of privacy and luminosity. The unique weave not only enhances the aesthetic of any room but also promotes energy efficiency, helping to regulate indoor temperatures year-round. \n\nAvailable in a variety of sophisticated colors and patterns, our curtains can seamlessly complement any decor theme, from contemporary to classic. The elegant, flowing drape enhances your windows, making them a focal point of the room rather than an afterthought. With easy-to-install tabs or rings, you can effortlessly hang them for instant transformation \u2014 no professional help",
+    "images": [
+        "product_220_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love my new curtains! They have completely transformed my living room, adding a touch of elegance that was missing before. The way they drape is so stunning, they let in just the right amount of light while still providing privacy. I was amazed at how easy they were to hang\u2014clear instructions and all the hardware included made it a breeze. \n\nThe fabric is soft but durable, and washing them is a piece of cake; they come out looking as good as new! I\u2019ve received",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased these curtains, and I couldn\u2019t be happier! They completely transform my living space with their elegant design and soft texture. The way they drape is just stunning \u2013 it adds a touch of sophistication that I didn\u2019t know my room needed. Plus, they do an amazing job of blocking out sunlight without feeling heavy. I love how they come in various colors, which made it super easy to find the perfect match for my decor.\n\nInstallation was a breeze! The hanging system is user-friendly",
+            "language": "English"
+        }
+    ]
+}

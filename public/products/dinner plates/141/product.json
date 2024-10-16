@@ -1,0 +1,25 @@
+{
+    "nr": "141",
+    "name": "Celestial Dine Plates",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 25,
+    "description": "Elevate your dining experience with a set of enchanting dinner plates that transform every meal into a celestial celebration. Crafted with intricate designs inspired by the cosmos, these plates feature stunning celestial motifs that include shimmering stars, radiant moons, and soft nebula swirls. Each piece is not just a dish but a work of art, making every meal a feast for both the eyes and the palate. \n\nThese dinner plates are designed with versatility and durability in mind. Made from high-quality, chip-resistant porcelain, they effortlessly transition from casual family meals to exquisite dinner parties. The smooth, non-porous surface ensures that sauces and gravies slide off easily, making cleanup a breeze. Plus, they are dishwasher and microwave safe, ensuring that they complement your busy lifestyle",
+    "images": [
+        "product_141_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "these plates r terrible. they showed up chipped and don\u2019t fit in my dishwasher. tried using them once and food just slid right off. not impressed at all! really expected better for the price. would not recommend to anyone. save your money!",
+            "language": "English"
+        },
+        {
+            "review": "I really don\u2019t get the hype around these plates. They look nice but feel super cheap. One dropped and cracked right away. The design chipped off after just a couple uses. Not even dishwasher safe as advertised! Totally regret buying them. I wouldn\u2019t recommend to anyone. Save your money.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these plates, but man, what a disappointment. The quality is just terrible. They feel so flimsy and chip really easily. I\u2019ve already got a couple of cracks after just a few uses. It\u2019s like they crack at the slightest bump. Also, the designs looked super pretty online but in person they're kinda faded and not really bright. Definitely thought it would be better for the price I paid. Honestly, save your money and look somewhere else. Really not worth it",
+            "language": "English"
+        }
+    ]
+}

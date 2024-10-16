@@ -1,0 +1,36 @@
+{
+    "nr": "71",
+    "name": "LuxeVeil Curtains",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 1,
+    "description": "Transform your living space into a sanctuary of elegance and warmth with our premium drapery solution, the Luxe Drapes. Designed with the modern home in mind, these curtains effortlessly blend style and functionality, providing an inviting atmosphere in any room. Crafted from exquisite, lightweight fabric, they boast a soft sheen that catches the light beautifully, creating a soothing ambiance while offering just the right amount of privacy.\n\nNot only do these curtains elevate your decor, but they also serve as an energy-efficient option for your home. The innovative thermal insulating properties help maintain a comfortable temperature year-round, keeping your space cool in the summer and cozy in the winter. With their ability to block out harsh sunlight, you'll cherish the unobstructed views and gentle diffused light, perfect",
+    "images": [
+        "product_71_01.png",
+        "product_71_02.png",
+        "product_71_03.png",
+        "product_71_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ik ben absolutely in love met mijn nieuwe gordijnen! Ze geven zo'n luxe uitstraling aan mijn woonkamer, echt een instant upgrade. De stof is heerlijk zacht en valt prachtig, waardoor er een mooie elegantie in de ruimte is. Ze blokkeren het licht perfect, waardoor mijn slaapkamer in de ochtend heerlijk donker blijft. Ook moet ik zeggen dat ze super easy te hangen zijn; handig zelfs voor iemand zoals ik die meestal niet zo handig is. Kortom, een fantastische aanvulling op mijn huis, ik kan",
+            "language": "Dutch"
+        },
+        {
+            "review": "These curtains are absolutely wonderful! The moment I hung them up, my living room transformed into a cozy haven. The quality is top-notch; you can really feel the luxurious fabric. They block out light perfectly, making movie nights even better. Plus, I love the elegant design \u2013 it adds a perfect touch of sophistication to my space.\n\nInstallation was a breeze, and they drape beautifully. I\u2019ve received so many compliments from friends and family. They have a nice weight to them, so they don",
+            "language": "English"
+        },
+        {
+            "review": "I'm absolutely in love with these curtains! The moment I hung them up, my whole living room transformed. They're such a gorgeous blend of style and practicality. The fabric is thick yet soft, providing just the right amount of privacy while still letting some light filter through. I love how they hang beautifully and the way they drape adds some real elegance to my space.\n\nInstallation was a breeze, and I really appreciate the variety of colors they come in. I picked a deep navy blue, and it matches",
+            "language": "English"
+        },
+        {
+            "review": "I recently installed these curtains in my living room, and I couldn't be happier! They look absolutely stunning and have really transformed the space. The fabric is soft yet sturdy, and they drape beautifully. I love how they elegantly diffuse the natural light without making the room feel too dark.  \n\nInstallation was a breeze, and the colors are exactly as shown in the photos. I've received so many compliments from friends and family. They block out noise surprisingly well too, making my home feel even more peaceful.",
+            "language": "English"
+        },
+        {
+            "review": "He estado usando estas cortinas en mi sala y \u00a1son simplemente incre\u00edbles! La calidad del tejido es excelente, se siente tan suave y lujosa. Al cerrar las cortinas, realmente bloquean la luz y dan un ambiente acogedor a todo el room. Adem\u00e1s, vienen en varios colores, as\u00ed que fue f\u00e1cil encontrar el que combinar\u00e1 con mi decoraci\u00f3n. \n\nLa instalaci\u00f3n fue muy sencilla; en poco tiempo ya estaban colgadas. He recibido muchos cumplidos de amigos y familia sobre c\u00f3mo real",
+            "language": "Spanish"
+        }
+    ]
+}

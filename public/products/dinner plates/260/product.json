@@ -1,0 +1,25 @@
+{
+    "nr": "260",
+    "name": "Elysian Dineware",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 9,
+    "description": "Transform your dining experience with our exquisite line of dinner plates, a delightful fusion of sophisticated design and everyday functionality. Crafted with an artisan's touch, each plate features an elegant, handcrafted glaze that reflects light beautifully, enhancing the visual appeal of your meals. The unique textures and subtle color variations add a touch of luxury to any table setting, ensuring that every dinner feels like a special occasion.\n\nEngineered with durability in mind, these plates are dishwasher and microwave safe, seamlessly transitioning from oven to table, to the cleanup routine. Made from premium stoneware, they resist chipping and scratching, maintaining their pristine beauty through years of use. Whether serving a lavish dinner party or a cozy weeknight meal, their versatile sizes cater to all your culinary creations, from",
+    "images": [
+        "product_260_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Disappointing!! As soon as I opened the box, I saw that as placas eram mais finas do que eu esperava. Mal consegui servir a comida sem que uma delas entortasse. E as cores? Muito feias, n\u00e3o parecem nada com as fotos do site. Usei uma vez e j\u00e1 tem risco. N\u00e3o recomendo. Uma grande decep\u00e7\u00e3o!!",
+            "language": "Portuguese"
+        },
+        {
+            "review": "Bought these plates and honestly, what a big letdown. They're super flimsy, not durable at all. I was really hoping for something that could handle everyday use, but they chipped after just one week. Plus, they don\u2019t feel like real dishes. More like cheap plastic. I can\u2019t see these in any nice setting, too embarrassing. Overall really disappointed. Don\u2019t waste your money on this.",
+            "language": "English"
+        },
+        {
+            "review": "I bought these plates hoping they\u2019d be nice for dinner but they\u2019re super flimsy. They feel like cheap plastic not ceramic at all. I had one slip from my hand and it cracked right down the middle! Was so mad. Also they don\u2019t stack well, takes too much space in the cupboard. Eating off them was no better, they stain quick and the design faded. Really not worth the money. Save yourself and buy something else.",
+            "language": "English"
+        }
+    ]
+}

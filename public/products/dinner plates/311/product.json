@@ -1,0 +1,34 @@
+{
+    "nr": "311",
+    "name": "Elysian Tableware",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Elevate your dining experience with our exquisite dinner plates, designed to transform every meal into a celebration. Crafted from premium, durable porcelain, each plate showcases a stunning, hand-painted finish that captures the essence of elegance. Whether you\u2019re hosting a formal dinner party or enjoying a casual family gathering, these plates are perfect for any occasion, turning every meal into a feast for the senses.\n\nWhat sets these plates apart is their harmonious blend of beauty and practicality. The advanced glaze coating not only enhances their vibrant colors but also provides a scratch-resistant surface, ensuring they remain as breathtaking as the day you first unbox them. Dishwasher and microwave safe, they offer the ultimate convenience, allowing you to focus on what really matters\u2014connecting with loved ones over delicious food.",
+    "images": [
+        "product_311_01.png",
+        "product_311_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with these dinner plates! They\u2019re stunning and really elevate my dining experience. The design is elegant, with beautiful patterns that look great whether I'm having friends over or just enjoying a quiet dinner at home. They have a nice weight to them, feeling sturdy and high-quality.\n\nThe size is perfect for both large meals and lighter fare, and I\u2019ve found myself reaching for them every day since I got them. And cleanup is a breeze! They\u2019re dishwasher safe, which is a",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased these dinner plates, and I couldn't be happier! The design is simply stunning\u2014elegant yet modern, and they add a touch of class to every meal. They are surprisingly sturdy; I\u2019ve used them in the microwave and dishwasher with no issues. \n\nWhat I love the most is how beautifully they showcase the food. Whether it\u2019s a casual dinner or a special occasion, the plates elevate every moment. I received so many compliments from friends and family during our last gathering.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these dinner plates for a couple of months now, and I can't say enough good things about them! The design is absolutely stunning\u2014simple yet elegant with just the perfect hint of sophistication. They elevate every meal, making even a casual dinner feel like a special occasion. \n\nThe quality is top-notch too; they're sturdy and hold up well in the dishwasher. I've had no issues with chips or scratches, and that's saying a lot because I can be a bit clumsy! They also come",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with these dinner plates! The design is so elegant yet practical - a beautiful addition to my dining table that impresses every guest. The colors are rich and vibrant, and they really brighten up the meal. \n\nWhat I appreciate most is how sturdy they are. I\u2019ve run them through the dishwasher multiple times, and they look as good as new. No cracks, chips or fading\u2014just perfect! They\u2019re also a great size, perfect for serving everything from appetizers to full",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely in love with these dinner plates! The design is simply stunning\u2014elegant yet modern, they elevate every meal to a new level. The craftsmanship is evident; they feel sturdy in hand but have a lightness that makes them easy to handle. I've used them for everything from casual dinners to fancy occasions, and they've received nothing but compliments. \n\nCleaning is a breeze too, as they\u2019re dishwasher safe. No worrying about chips or scratches, even after multiple uses. The color is vibrant and",
+            "language": "English"
+        }
+    ]
+}

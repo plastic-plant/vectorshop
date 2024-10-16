@@ -1,0 +1,29 @@
+{
+    "nr": "255",
+    "name": "ChopNest Cutting Board",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 4,
+    "description": "Elevate your culinary adventures with the ultimate kitchen companion that revolutionizes meal prep. This innovative cutting board features an integrated nesting design, allowing for seamless stackability and efficient organization in even the coziest kitchens. Crafted from premium, eco-friendly bamboo, it not only provides a resilient surface for slicing and dicing but also adds a touch of natural beauty to your countertop.\n\nSay goodbye to rummaging through cluttered drawers for various cutting boards! This multi-functional marvel comes equipped with convenient size options that cater to all your chopping needs\u2014from mincing herbs to slicing meats. Each board is designed with non-slip edges to ensure stability as you work, putting your safety first without compromising style. Plus, the antibacterial properties of bamboo mean you can prep food with peace",
+    "images": [
+        "product_255_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This cutting board is a total joke. It warped after just one use. Couldn't even cut veggies straight without slipping everywhere. The material feels cheap like it's gonna break any second. Also, not easy to clean; stuff gets stuck in the grooves and it\u2019s hard to scrub out. I regret buying it. Definitely not worth the money. Will be looking for a better one.",
+            "language": "English"
+        },
+        {
+            "review": "I was really disappointed with this cutting board. It's super flimsy and moves around too much when I'm slicing. The surface started to scratch after just a few uses, like, really bad. Also, it claimed to be \u201ceasy to clean\u201d but I had to scrub it so hard to get the stains off. Total waste of money. Would not recommend. Save your cash and look for something better.",
+            "language": "English"
+        },
+        {
+            "review": "Big let down. Thought this would be a nice cutting board but it\u2019s just flimsy and cheap. The surface scratched up real fast, even with just my knife. Not worth the money at all. Plus it kept slipping all over the counter! I\u2019m done using it, just sticks to my old board which is way better. Total waste of time and cash. 1 star for sure.",
+            "language": "English"
+        },
+        {
+            "review": "Very disappointed with this cutting board. The material feels cheap and it keeps sliding around on the counter. Tried to chop some veggies, and it was like trying to cut on ice. Not happy at all! Also, the grooves for the juice are way too shallow, so now there's a mess everywhere when I cut. Honestly, it just makes cooking more of a hassle. Wouldn't recommend it to anyone. Can't believe I wasted my money.",
+            "language": "English"
+        }
+    ]
+}

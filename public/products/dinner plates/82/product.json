@@ -1,0 +1,24 @@
+{
+    "nr": "82",
+    "name": "Elysian Dish",
+    "price": "1499",
+    "ranking": 2,
+    "availability": 5,
+    "description": "Transform every meal into a culinary masterpiece with these beautifully crafted dinner plates. Designed with elegance in mind, each piece harmoniously blends timeless aesthetics with modern functionality. Their mesmerizing glaze and intricate patterns catch the eye, elevating family dinners and gatherings into memorable occasions, while remaining versatile enough for a casual brunch or a festive holiday feast.\n\nThese plates are not only a feast for the eyes but are also crafted from durable, high-quality porcelain, ensuring they'll withstand the rigors of everyday use. With a chip-resistant finish and easy-to-clean surface, they are designed to handle the ups and downs of family life\u2014spills, heat, and all. You can confidently place them in the dishwasher or microwave, reducing your after-dinner cleanup time, so you can",
+    "images": [
+        "product_82_01.png",
+        "product_82_02.png",
+        "product_82_03.png",
+        "product_82_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "J'ai achet\u00e9 ces assiettes en esp\u00e9rant qu'elles seraient super, mais je suis un peu d\u00e9\u00e7u. Elles ont l'air bien, mais d\u00e8s la premi\u00e8re utilisation, je les ai trouv\u00e9es trop fragiles. J'ai remarqu\u00e9 quelques petites \u00e9gratinures apr\u00e8s le premier repas et \u00e7a m\u2019a vraiment ennerv\u00e9. De plus, elles ne passent pas au micro-ondes et \u00e7a, c\u2019est pas pratique du tout ! Le design est joli, mais je veux des assiettes",
+            "language": "French"
+        },
+        {
+            "review": "I was really hopeful about these dinner plates, but they haven\u2019t lived up to my expectations. First off, they look nice but that\u2019s about it. The surface is super prone to scratches and doesn\u2019t hold up well in the dishwasher. After just a few uses, I noticed some chips appearing. Also, they can get really hot in the microwave, which is not great when you\u2019re trying to serve dinner. They\u2019re kind of heavy too, which makes it a bit awkward to handle. I",
+            "language": "English"
+        }
+    ]
+}

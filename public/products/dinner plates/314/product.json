@@ -1,0 +1,22 @@
+{
+    "nr": "314",
+    "name": "Elysian Feast Plates",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 15,
+    "description": "Elevate your dining experience with our stunning dinnerware collection, designed for those who appreciate both beauty and functionality in their culinary adventures. Crafted from durable, high-quality porcelain, each plate in this exquisite range features a delicate rim adorned with intricate floral patterns that evoke a sense of timeless elegance. The smooth, glazed surface not only enhances the visual appeal but also makes for easy cleaning, ensuring you spend more time enjoying meals and less time scrubbing dishes.\n\nImagine gathering your loved ones around a beautifully set table, where every meal feels like a celebration. The generous size of each plate allows for generous servings, whether you're plating a gourmet dish or a comforting family classic. With a lightweight design, these plates stack neatly and efficiently in your cabinet, making meal prep and",
+    "images": [
+        "product_314_01.png",
+        "product_314_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "These plates are terrible. They look nice but that's about it. Super heavy and hard to clean. Everything sticks to them! Tried putting them in the dishwasher but they came out dirty. They feel cheap and brittle, one of mine broke during dinner! \n\nNot worth the money at all. Just stick with regular plates, these are a waste of time and frustrate me every time I use them! Wouldn't recommend to anyone.",
+            "language": "English"
+        },
+        {
+            "review": "Waste of money. Plates just not good. Looked nice online but when I got them, they felt cheap. They chip easy, I barely used them and there are scratches all over. The size isn't right for normal meals, too small. Tried to return but it\u2019s a hassle. Would not recommend to anyone.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "191",
+    "name": "Eclipse Dining Plates",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 22,
+    "description": "Elevate your dining experience with our stunning dinnerware collection, where contemporary design meets timeless elegance. Crafted from premium ceramic, each plate showcases a mesmerizing gradient that shifts from deep midnight blue to a soft celestial shimmer, reminiscent of a breathtaking evening sky. These plates not only serve as functional dinnerware but also as captivating centerpieces, sparking conversation and admiration at every gathering.\n\nDesigned with depth and versatility in mind, the plates are perfect for everything from casual family dinners to sophisticated entertaining. Their generous size accommodates hearty portions, while the subtle raised rim helps to keep sauces and sides neatly contained. Say goodbye to spills and messes\u2014these plates are your secret weapon for a stress-free dining experience. Plus, their lightweight yet durable construction ensures they are as practical",
+    "images": [
+        "product_191_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently picked up these dining plates, and they\u2019re alright. They look nice on the table, a bit modern and all that, but there are some downsides. For one, I noticed some scratches forming after just a couple of uses, which is kinda disappointing. Also, the size is kind of awkward for some meals. You end up piling things on, and it doesn't always fit. \n\nThey wash up fine in the dishwasher, though, so that\u2019s a plus. I guess they work",
+            "language": "English"
+        },
+        {
+            "review": "J'ai achet\u00e9 ces assiettes r\u00e9cemment et je dois dire que je suis un peu mitig\u00e9. Elles ont un design sympa, mais niveau qualit\u00e9, ce n\u2019est pas super. Apr\u00e8s quelques utilisations, j'ai remarqu\u00e9 quelques rayures d\u00e9j\u00e0. Elles sont l\u00e9g\u00e8res, ce qui est bien, mais j'ai peur de les casser facilement. Pour un repas quotidien, \u00e7a fait le job, mais je ne suis pas totalement convaincu. J'attendais un peu mieux pour le prix. Peut",
+            "language": "French"
+        },
+        {
+            "review": "These dinner plates are okay, but I expected a bit more. They look nice on the table, but they're not as durable as I hoped. One of mine chipped on the edge after just a few uses, which was disappointing. They\u2019re nice for serving guests, but I wouldn't recommend them for everyday use if you have kids or tend to drop things. The size is good for portion control, but the design kind of makes it hard to stack in my cupboard. Overall, they\u2019re fine, not",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these plates for a few weeks now and honestly, they\u2019re okay. The design is nice, and they definitely look good on the table, but they can be a bit heavy and awkward to handle. I've noticed some scratches after just a few uses, which is disappointing. They\u2019re great for presentation, but in terms of practicality, they fall a little short. They could be more durable, and the size is a tad smaller than I expected. Not a bad choice if you're just going",
+            "language": "English"
+        }
+    ]
+}

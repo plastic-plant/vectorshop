@@ -1,0 +1,34 @@
+{
+    "nr": "320",
+    "name": "EcoNest Workstation",
+    "price": "49900",
+    "ranking": 3,
+    "availability": 25,
+    "description": "Transform your work-from-home routine with a game-changer designed for today's modern lifestyle. This sustainable workstation merges functionality with eco-friendly materials, creating an inviting space that inspires productivity and serenity. With its sleek design, the desk fits seamlessly into any home decor, whether your style leans toward minimalistic chic or cozy aesthetics. \n\nCrafted from responsibly sourced bamboo, this standout piece not only elevates your workspace but also contributes to a healthier planet. Its smooth surface provides ample room for your laptop, notebooks, and essential office supplies, while the ergonomic height and thoughtfully designed layout cater to your comfort, reducing strain during those long working hours. The built-in cable management system ensures a clutter-free environment, giving you more freedom to focus on what truly matters.",
+    "images": [
+        "product_320_01.png",
+        "product_320_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this workstation for a few weeks now, and it\u2019s pretty decent overall but has a few issues. The design is nice and looks great in my home office, very modern. It's spacious enough for my laptop and a couple of notebooks, which is a plus. \n\nHowever, I did notice that the height adjustment feature can be a bit finicky. Sometimes it sticks when I try to raise or lower it. Also, while the material feels sturdy, I\u2019ve noticed a few scratches after",
+            "language": "English"
+        },
+        {
+            "review": "I bought this workstation hoping it would be a game changer for my home office. It looks nice and is pretty spacious, which is great for my monitor setup. But honestly, there are quite a few things that could be better. \n\nThe assembly was a bit frustrating; the instructions weren\u2019t the clearest. It still wobbles a little, which is annoying when I'm typing hard or crafting notes. The finish looks nice but scratches kinda easily too. The keyboard tray is handy, but it feels",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this workstation for a little while now, and it's kind of a mixed bag for me. The design looks nice, and I appreciate the eco-friendly materials. That said, it feels a bit wobbly, especially when I'm typing or if I lean on it just a little.\n\nThe height adjustability is decent, but it doesn't go low enough for my shorter chair, which can be a pain. I also noticed some scratches on the surface after just a week of use,which is",
+            "language": "English"
+        },
+        {
+            "review": "I was pretty excited to set this up, but after using it for a few weeks, I'm feeling kinda mixed. On one hand, it looks really good, and the materials seem decent. The eco-friendly part is a big plus for me, but the design isn\u2019t as functional as I\u2019d hoped.\n\nThe surface is spacious enough for my laptop and paperwork, but I\u2019ve noticed it shakes a bit when I type, which is annoying. The storage options are there but not super useful, could use",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this workstation for a few months now, and honestly, it\u2019s just okay. On the plus side, the design is pretty nice and it fits well with my home decor. The surfaces are decent and it feels like it could withstand daily use. However, I expected more in terms of storage. The drawers are a bit shallow, so I end up needing extra shelf space, which is annoying. Sometimes, it wobbles a little when I lean on it, and I do",
+            "language": "English"
+        }
+    ]
+}

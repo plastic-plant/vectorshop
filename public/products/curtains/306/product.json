@@ -1,0 +1,26 @@
+{
+    "nr": "306",
+    "name": "Whimsy Weaves Curtains",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 2,
+    "description": "Transform your living space into a vibrant oasis with our enchanting drapery solution that brings both style and comfort to any room. Crafted with high-quality fabrics that evoke a sense of whimsy and charm, these curtains seamlessly fuse elegance with functionality. Each panel flaunts an eye-catching pattern that dances with light, making ordinary windows the focal point of your decor. You\u2019ll love how your space is instantly elevated, turning drab into fab with just the pull of a curtain rod.\n\nDesigned for the modern homeowner, these drapes offer exceptional light-filtering capabilities that allow for just the right amount of sunshine to pour in, creating a warm and inviting ambiance. The lightweight yet durable fabric softens harsh sunlight, protecting your furnishings from fading, while still keeping the",
+    "images": [
+        "product_306_01.png",
+        "product_306_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to love these curtains, but I\u2019m pretty disappointed. They looked great online but in person they're pretty thin and let a lot of light through, which is not what I was expecting. Installation was a hassle, too. The clips kept slipping off, and I had to redo it multiple times. I thought they\u2019d be better quality for the price. They definitely add some color to the room, but honestly, I don\u2019t think I\u2019d recommend them if you want something that actually blocks",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these curtains, but honestly, they just didn\u2019t live up to expectations. They look cute online, but in person, the fabric feels cheap and flimsy. Installation was a hassle; the hooks didn\u2019t slide properly, and I ended up fighting with them to get them up. Plus, they let in way too much sunlight even when I thought I got the blackout version. I can deal with a little light, but this is more than a little!\n\nI wanted to love",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these curtains given the price, but I\u2019m kinda disappointed. The colors are pretty, but they don\u2019t block enough light. My room still feels kinda bright during the day, which was the main reason I bought them. Also, they wrinkled so easily and even after ironing, they just don\u2019t look polished. Plus, they have a weird smell right out of the package that took a few days to go away. Overall, they look nice when you first hang them",
+            "language": "English"
+        }
+    ]
+}

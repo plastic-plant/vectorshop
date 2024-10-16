@@ -1,0 +1,25 @@
+{
+    "nr": "412",
+    "name": "Elysian Eats Plates",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 23,
+    "description": "Transform your dining experience with our exquisite plates that blend artistry and functionality, promising to elevate your everyday meals into culinary masterpieces. Crafted from premium, durable porcelain, these stunning dishes boast a brilliant white finish that enhances the vibrancy of your food, making every meal an opportunity for visual delight. Each plate features a unique hand-painted rim, providing a graceful touch that complements both casual gatherings and elegant dinner parties.\n\nDesigned with thoughtful attention to detail, these plates are not only beautiful but also practical. The smooth surface ensures effortless cleaning, whether you choose to hand wash or toss them in the dishwasher. Resistant to scratches and chips, they are built to withstand the rigors of daily use while maintaining their radiant charm for years to come. You\u2019ll appreciate the generous size",
+    "images": [
+        "product_412_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got these dinner plates a while back, and they\u2019re pretty okay. They look nice on the table for sure, and the colors are cool. However, I was hoping for something that holds up a little better in the dishwasher. I\u2019ve noticed some scratches after a few uses, which is kinda disappointing. They\u2019re lightweight, which is nice, but that also means they can feel a bit flimsy when you stack them. Overall, they do the job, but there\u2019s definitely room for improvement",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased these dinner plates and they\u2019ve been pretty average, to be honest. They look nice enough, but I thought they were gonna be more durable. I\u2019ve already noticed a few scratches after just a couple of uses. The design is pretty, but it could be a bit deeper for pasta dishes or\u2014like those saucy meals I love. \n\nThey wash fine in the dishwasher, so I can\u2019t complain too much there. It gets the job done, but I expected something a bit",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these plates for a few weeks now, and honestly, they\u2019re okay, but not what I expected. They look nice enough, with a cool design and everything, but they\u2019re a bit heavier than I would like. When I stack them, It takes up a bit more space than my old plates used to. \n\nThe size is decent for dinner meals, but some of my food spills over sometimes, which is annoying. I\u2019ve had some scratches appear after a few uses too,",
+            "language": "English"
+        }
+    ]
+}
