@@ -1,0 +1,25 @@
+{
+    "nr": "483",
+    "name": "LuxeNest Coffee Table",
+    "price": "7999",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Transform your living space into an oasis of style and functionality with our elegantly designed centerpiece, the LNX Table. Crafted with a perfect blend of contemporary design and timeless appeal, this coffee table features a sleek finish that effortlessly elevates your room's aesthetic. Whether you're hosting friends for a cozy evening or enjoying a quiet afternoon with a good book, this stunning piece offers both visual interest and practical utility.\n\nThe LNX Table boasts a spacious, sturdy surface made from premium materials, ensuring durability while providing ample space for your favorite coffee mugs, snacks, and decor. With an innovative dual-layer design, it not only serves as a display for your treasured coffee table books and art pieces, but also cleverly conceals storage for remote controls, magazines, and other essentials",
+    "images": [
+        "product_483_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently purchased this stunning coffee table, and I couldn't be happier with my choice! It perfectly combines elegance and functionality. The design is modern yet classic, making it fit seamlessly into my living room decor. The high-quality materials give it a sturdy feel, and I love how smooth the surface is \u2013 it\u2019s super easy to clean after a cozy coffee session.\n\nThe size is just right \u2013 it provides plenty of space for books, coasters, and even a few decorative items without feeling bulky. I",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been on the hunt for the perfect coffee table, and WOW, did I hit the jackpot! This table is stunning and fits right into my living room decor. The mid-century design is so elegant, and it stands out without overpowering the space. The materials used are top-notch; it feels solid and durable. \n\nI love how it has just the right amount of surface area for my coffee mugs, books, and the occasional board game night with friends. It\u2019s surprisingly easy to clean",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this coffee table! It's a perfect blend of style and functionality that has truly elevated my living room. The design is modern yet classy, and it fits seamlessly with my decor. The surface is spacious enough for my coffee, books, and even a small plant\u2014it\u2019s become the star of the room. \n\nI really appreciate how sturdy it feels while still having that sleek look. The finish is seamless, and cleaning is a breeze; I simply wipe it down, and it",
+            "language": "English"
+        }
+    ]
+}

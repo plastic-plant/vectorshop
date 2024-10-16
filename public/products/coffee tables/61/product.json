@@ -1,0 +1,28 @@
+{
+    "nr": "61",
+    "name": "\"ChicNest Coffee Table\"",
+    "price": "7999",
+    "ranking": 4,
+    "availability": 7,
+    "description": "Transform your living space into a haven of sophistication with this exquisite coffee table, an elegant blend of modern flair and timeless design. Crafted from high-quality, sustainably sourced wood, its seamless lines and smooth finish create a centerpiece that draws the eye while maintaining a cozy atmosphere. This table isn\u2019t just about aesthetics; it's a durable and functional piece, built to withstand the rigors of daily life while offering ample space for your coffee cups, books, and the occasional board game night.\n\nWhat sets this coffee table apart is its versatile design. The chic yet understated silhouette seamlessly complements a variety of decor styles, from contemporary urban lofts to rustic cottages. Its neutral color palette allows you to accessorize freely, whether you're showcasing vibrant floral arrangements or elegant decorative trays.",
+    "images": [
+        "product_61_01.png",
+        "product_61_02.png",
+        "product_61_03.png",
+        "product_61_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this coffee table, and I have to say, I'm quite impressed! The design is modern and fits perfectly with my living room aesthetic. It's the right size\u2014not too big, not too small, and I love the color. It\u2019s really sturdy too, so I don't worry about it wobbling when I have drinks on it.\n\nThe hidden storage feature is a huge bonus; I can easily stash away magazines and remotes, which keeps things neat. However, there are some minor scratches",
+            "language": "English"
+        },
+        {
+            "review": "I really like this coffee table! It looks super stylish and fits nicely in my living room. The design is modern and the finish is very sleek. I was worried about assembly, but it was surprisingly easy. It took me about 30 minutes to put together by myself. \n\nThe storage underneath is also a great feature; I can keep books and magazines hidden away, which helps reduce clutter. The only downside is that it\u2019s a bit lighter than I expected, so I have to be careful not",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased this coffee table and overall I'm quite happy with it! The design is sleek and modern, making my living room look so much better. I love how there\u2019s extra storage space inside, perfect for keeping coasters and magazines out of sight. The surface is great for coffee mugs and snacks when I have friends over.\n\nAssembly was pretty easy, but I did find a few screws that were a bit tough to get in. However, it\u2019s not a huge issue, and once it was",
+            "language": "English"
+        }
+    ]
+}

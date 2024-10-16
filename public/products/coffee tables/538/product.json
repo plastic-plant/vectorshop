@@ -1,0 +1,21 @@
+{
+    "nr": "538",
+    "name": "Caf\u00e9 Haven Table",
+    "price": "24900",
+    "ranking": 2,
+    "availability": 5,
+    "description": "Transform your living space into a stylish retreat with this versatile centerpiece that combines elegance with functionality. Crafted with a stunning hardwood veneer finish and a sleek glass top, this masterpiece reflects modern design while offering ample space for coffee cups, magazines, or decorative accents. The bold yet sophisticated color palette seamlessly complements any d\u00e9cor, making it the ultimate addition to your home.\n\nNot just a pretty face, this table is engineered for everyday living. Its sturdy construction ensures durability, making it perfect for family gatherings or those cozy nights alone with your favorite book. The innovative storage shelves beneath provide an ideal spot for stowing away remotes, books, or gadgets, helping you maintain a clutter-free environment. Elevate your daily rituals as you sip your morning brew or host friends over",
+    "images": [
+        "product_538_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I wanted to love this coffee table, but it just hasn\u2019t lived up to my expectations. Assembly was super confusing\u2014took way longer than I thought it would. Once it was finally together, it doesn\u2019t feel all that sturdy; I can shake it a little just by putting my feet on the edge. The design is okay, I guess, but it looks cheap in person. I thought it would fit my living room well, but it kind of blends in and disappears. Overall, not",
+            "language": "English"
+        },
+        {
+            "review": "Compr\u00e9 esta mesa con altas expectativas, pero me ha decepcionado un poco. El dise\u00f1o se ve bonito, pero la calidad no es la mejor. Al principio, parece resistente, pero despu\u00e9s de un par de semanas de uso, ya tiene algunas marcas y rasgu\u00f1os. Adem\u00e1s, me parece que no es muy estable. Cada vez que apoyamos algo sobre ella, tiembla un poco. Tambi\u00e9n, el ensamblaje fue complicado, las instrucciones no estaban claras. En general, aunque",
+            "language": "Spanish"
+        }
+    ]
+}

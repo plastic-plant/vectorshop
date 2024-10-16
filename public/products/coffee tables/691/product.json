@@ -1,0 +1,29 @@
+{
+    "nr": "691",
+    "name": "\"EchoCraft Coffee Table\"",
+    "price": "7999",
+    "ranking": 1,
+    "availability": 2,
+    "description": "Transform your living space with a statement piece that effortlessly balances style and functionality. This meticulously crafted coffee table combines modern elegance with rustic charm, making it the perfect centerpiece for any room. The sleek lines and rich wood tones create a warm atmosphere, inviting friends and family to gather around for heartfelt conversations or leisurely afternoons spent sipping coffee and flipping through magazines.\n\nDesigned with versatility in mind, this table features a spacious surface area that can accommodate everything from your morning brew to decorative items that showcase your unique style. The highlight of its design is the innovative hidden storage compartment, providing a discreet solution for stashing away remote controls, magazines, or even blankets, keeping your space tidy and organized without sacrificing aesthetics. Whether you\u2019re looking to declutter your space or simply showcase",
+    "images": [
+        "product_691_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Je suis vraiment d\u00e9\u00e7u. La table est instable, elle penche d\u00e8s qu'on pose quelque chose dessus. Les mat\u00e9riaux semblent cheap, et les parties \u00e9taient ray\u00e9es \u00e0 l\u2019arriv\u00e9e. Une fois mont\u00e9e, \u00e7a ne ressemble \u00e0 rien. C'est trop cher pour ce que c'est. Franchement, c'est une perte d'argent. Je ne recommande pas du tout.",
+            "language": "French"
+        },
+        {
+            "review": "Awful experience! first off, it looks cheap and doesn\u2019t even match my decor. the app was a nightmare to set up, took forever and I never got it working right. I've had it fall apart while trying to put drinks down. i thought it would be sturdy but it wobbles like crazy! save your money and buy something else. total waste!",
+            "language": "English"
+        },
+        {
+            "review": "This coffee table is a total waste of money. It arrived with scratches all over, and the instructions were super confusing. I tried to set it up, but nothing fit right. It wobbles like crazy! You can\u2019t even put a drink on it without it tipping over. Not worth the hassle. Save your cash and look for something else. I\u2019m so disappointed. Wish I could give it zero stars.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this coffee table, but I\u2019m super disappointed. It looks nice in the pics but when I got it, the quality was awful. The surface scratches so easily, and it's wobbly. I thought it was gonna be sturdy but I can\u2019t even put my coffee cup down without worrying it\u2019ll spill. Assembly was a nightmare too. Just a waste of money. Wouldn't recommend to anyone.",
+            "language": "English"
+        }
+    ]
+}

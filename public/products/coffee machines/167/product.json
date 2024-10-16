@@ -1,0 +1,29 @@
+{
+    "nr": "167",
+    "name": "BrewVibe Artisan 360",
+    "price": "7999",
+    "ranking": 2,
+    "availability": 17,
+    "description": "Experience the perfect blend of style and innovation with our cutting-edge coffee machine, the BrewVibe 360. Designed for enthusiasts and casual drinkers alike, this sleek appliance transforms your morning ritual into a delightful experience. With its eye-catching design, featuring a polished stainless-steel finish and intuitive touch controls, it effortlessly complements any kitchen aesthetic while providing a taste of barista-level brews right at home.\n\nImagine waking up to the aroma of freshly brewed coffee, prepared just the way you love it. With customizable brewing options, including strength selection, brew temperature adjustments, and the ability to program your coffee schedule, the BrewVibe 360 puts you in control of your coffee destiny. Whether you crave a robust espresso or a silky smooth cold brew,",
+    "images": [
+        "product_167_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this coffee machine for a few weeks now, and honestly, I'm kinda disappointed. First off, it looks really nice, but that's about where the good vibes end. It takes forever to brew, and half the time, my coffee tastes kinda burnt or flat \u2212 I really don't get it!\n\nAlso, the control panel is confusing. I thought it would be easy to use, but I keep pressing the wrong buttons and ending up with some weird brew cycle. Not cool when all you want",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this coffee machine and honestly, it's underwhelming. The design looks fancy, but that\u2019s about it. The brewing process takes forever, and sometimes it just doesn\u2019t make the coffee hot enough. I tried to follow the instructions, but I feel like it just lacks simple usability. The flavor isn\u2019t all that great either. Thought I would get a lovely cup of coffee, but most times I end up disappointed. For the price, you\u2019d expect more. I don\u2019t really",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this coffee machine, but honestly, I'm pretty disappointed. It looks nice and sleek on my counter, but that's about where the praise ends. The brewing process is super slow, taking longer than I expected, and it just doesn\u2019t always get the coffee hot enough. Sometimes I have to reheat it in the microwave, and that\u2019s just not ideal. \n\nAlso, the flavors are kind of hit or miss. I\u2019ve tried different beans, thinking maybe that was the issue",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this coffee machine, but I\u2019m honestly pretty disappointed. It looks great on my counter and has all these cool settings, but the performance just isn't there. Sometimes it brews okay coffee, but other times it\u2019s just watered down and not hot enough. The touchscreen is finicky, I find myself tapping it multiple times to get it to work. \n\nPlus, cleaning it is more of a hassle than I thought it would be; the parts don't come apart easily, and",
+            "language": "English"
+        }
+    ]
+}

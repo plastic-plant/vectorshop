@@ -1,0 +1,32 @@
+{
+    "nr": "80",
+    "name": "\"Urban Nest Table\"",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 15,
+    "description": "Transform your living space into a sanctuary of style and functionality with the ultimate coffee table, where modern design meets practical usability. Crafted with a sleek, minimalist silhouette, this piece is perfect for any contemporary home, effortlessly enhancing your decor while serving as a central gathering point for family and friends. Whether you\u2019re hosting a casual get-together or enjoying a quiet evening with a book and a cup of coffee, this versatile table elevates every moment.\n\nAt the heart of its charm is a striking combination of high-quality materials and smart design. The tabletop features a rich, textured finish that not only adds warmth to the room but is also resistant to stains and scratches, ensuring it\u2019ll look stunning for years to come. Beneath its surface, clever hidden storage spaces",
+    "images": [
+        "product_80_01.png",
+        "product_80_02.png",
+        "product_80_03.png",
+        "product_80_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this coffee table. I mean, it looks great in the photos, but it just doesn\u2019t feel as sturdy as I'd hoped. The wood seems kind of cheap and it wobbles when you put a drink on it. I\u2019m always worried it might tip over. \n\nAssembly was a headache too; the instructions weren\u2019t clear, and I had to redo a step because nothing lined up. Wish I\u2019d paid more attention to those two-star reviews. Not a total waste",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this coffee table. It looks good in photos, but when it arrived, I felt a bit let down. The assembly was tougher than it needed to be \u2013 the instructions weren\u2019t clear, and I ended up using some tools I didn\u2019t need to. \n\nOnce it was together, it rocked a little on my floor, and even though I tried to fix it, it still wobbles. I also thought the material would be sturdier, but it feels kinda cheap",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this coffee table, but honestly, it\u2019s a letdown. The design looked great in the pictures, but once it arrived, it felt cheap and flimsy. Assembly was a hassle, too; the instructions were unclear, and some screws didn\u2019t fit properly. Now, the surface scratches way easier than I thought it would. I was expecting something that could hold up to regular use, but it just doesn't. It looks okay in my living room, but that's about it",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this coffee table, but it just didn't live up to my expectations. The design is nice, I'll give it that, but it's sturdier than it looks and that's a problem. One leg was wobbly right out of the box, and even after adjusting it, it never felt secure. The finish scratches easily, too. I was hoping for something that could handle daily use, but it feels like it's going to show signs of aging way too soon. \n\nAssembly was",
+            "language": "English"
+        }
+    ]
+}

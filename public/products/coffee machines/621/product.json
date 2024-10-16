@@ -1,0 +1,21 @@
+{
+    "nr": "621",
+    "name": "BrewMaster Pro 360",
+    "price": "14999",
+    "ranking": 4,
+    "availability": 23,
+    "description": "Wake up to a world of rich aromas and caf\u00e9-quality brews right in the comfort of your own kitchen. Our state-of-the-art coffee machine is meticulously engineered to transform your daily routine into a luxurious ritual. With its sleek, modern design and intuitive interface, this coffee maker allows you to unleash your inner barista, crafting everything from a robust espresso to a smooth cappuccino with the mere touch of a button. The 360-degree brewing technology ensures even extraction and maximizes flavor, giving you the same satisfaction as your favorite coffee shop \u2014 without the wait.\n\nEquipped with customizable settings, this coffee machine understands that every coffee lover is unique. Choose your strength, temperature, and even the brew size to match your mood. With a built-in grinder",
+    "images": [
+        "product_621_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this coffee machine, and it\u2019s been a real game changer for my mornings. The design is sleek and modern, and I love how it fits seamlessly on my countertop. It heats up super fast, which is awesome for those busy mornings when I really need my caffeine fix.\n\nThe customizable brew strength and temperature settings are a huge plus\u2014it allows me to dial in exactly what I want, whether I\u2019m in the mood for a strong espresso or a smooth, milder cup",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this coffee machine for a couple of months now, and I have to say, it truly does a great job. The design is sleek and fits perfectly on my countertop, and it's super easy to operate. I love the variety of settings available, which means I can switch things up depending on my mood. \n\nThe coffee brews quickly, and the taste is consistently rich and satisfying\u2014not too bitter like some machines I\u2019ve tried. I also appreciate that it has a built-in grinder for",
+            "language": "English"
+        }
+    ]
+}

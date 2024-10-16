@@ -1,0 +1,29 @@
+{
+    "nr": "431",
+    "name": "Culinary Harmony Cookware Set",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 18,
+    "description": "Transform your culinary experience with this elegantly crafted cookware collection designed for both novice cooks and seasoned chefs. Each piece in this premium set is constructed from durable, high-grade stainless steel that ensures even heat distribution, preventing those pesky hot spots. The reflective, mirror-finish not only adds a touch of sophistication to your kitchen but also makes cleanup a breeze\u2014simply handwash or toss them in the dishwasher, and you're done!\n\nImagine whipping up a gourmet meal with the precision of a professional chef. This set includes a variety of pots and pans: a versatile saucepan for sauces, a deep stockpot perfect for hearty stews, and a spacious frying pan that handles everything from saut\u00e9ing vegetables to searing meats. The ergonomic stay-cool handles provide a safe",
+    "images": [
+        "product_431_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this cookware set after reading the description, but it hasn\u2019t lived up to my expectations. The pans heat unevenly, which makes cooking kind of a pain. I've tried using them for different recipes, and I often end up with some parts burnt while other parts are undercooked. Plus, the non-stick coating started wearing off pretty quickly, which I didn\u2019t expect for the price. Also, they seem a bit flimsy; I\u2019m worried about durability. Cleaning isn't",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping this cookware set would be great, but it\u2019s been pretty disappointing. First off, the nonstick surface started to wear off after just a few uses. It sticks now, and I have to use so much oil just to get anything to cook without sticking. Plus, the handles get hot, which is kind of dangerous. I expected better quality for the price. Cleanup is a hassle, and some of the pots don\u2019t heat evenly. I thought this would be a solid option",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this cookware set, but I'm kind of disappointed. The pots look nice, but they don\u2019t heat evenly at all. I\u2019ve had issues with burning on the bottom while the food on top is still cold. It's a real hassle. Also, I thought the non-stick feature was gonna be great, but food still sticks a lot, and cleaning is more work than I expected. Plus, the handles get super hot and that's kinda scary! I guess you get what you pay",
+            "language": "English"
+        },
+        {
+            "review": "Ik had er veel van verwacht maar ben echt teleurgesteld. De kwaliteit is beneden niveau, de pannensets geven snel een soort vreemde smaak aan het eten. De handleiding was vaag en daardoor had ik bij sommige dingen geen idee wat te doen. Het was leuk in de reclame, maar in de praktijk valt het gewoon tegen. Thermisch lijkt het niet te werken zoals beloofd. Er zijn betere opties op de markt. Echt zonde van het geld!",
+            "language": "Dutch"
+        }
+    ]
+}

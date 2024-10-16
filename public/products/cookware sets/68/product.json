@@ -1,0 +1,36 @@
+{
+    "nr": "68",
+    "name": "Culinary Canvas Cookware Set",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 10,
+    "description": "Discover the joy of cooking with our exquisite cookware collection\u2014a perfect blend of artistry and functionality designed to elevate your culinary experience. Engineered for both aspiring home chefs and seasoned gastronomes, this premium set features non-stick surfaces that ensure effortless food release and hassle-free cleanup. Say goodbye to sticking, scraping, and scrubbing; this cookware not only saves you time but also makes meal preparation a breeze, whether you're whipping up a weeknight dinner or hosting a weekend feast.\n\nCrafted with precision, each piece in the set embodies a contemporary design that seamlessly integrates elegance into your kitchen. The durable aluminum construction provides excellent heat conductivity, ensuring even cooking every time. Moreover, the vibrant, aesthetically pleasing colors add a touch of style, making each piece a work of",
+    "images": [
+        "product_68_01.png",
+        "product_68_02.png",
+        "product_68_03.png",
+        "product_68_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve had this cookware set for a little while now, and overall it\u2019s... fine. The design is pretty nice, and it looks good in my kitchen, but there are some issues that are hard to ignore. The non-stick coating works okay \u2013 not the best, but it gets the job done most of the time. \n\nI found that it heats evenly, which is great for things like saut\u00e9ing veggies. But, I\u2019ve also noticed some scratches developing after just a few uses, and",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried this cookware set and while it has some good points, it doesn't live up to the hype. The design looks nice and modern, but I've noticed some issues. The nonstick feature is kinda hit or miss. Sometimes things stick more than I expected, which is really frustrating. The heat distribution isn\u2019t the best either; I\u2019ve burned a few meals because the pots and pans don't heat evenly.\n\nOn the positive side, they're fairly lightweight, making them easy to handle, and they clean",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this cookware set, and while it definitely has some nice features, it hasn't quite met my expectations. The design looks great and the colors are a fun touch, but the performance is just okay. The pots heat up nicely, but I found that they can stick if you're not really careful with the temperature and the oil. \n\nCleaning is also a mixed bag; some pieces come clean easily while others seem to need a bit more scrubbing, which can be frustrating. I",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased a set of cookware that\u2019s gotten a lot of mixed reviews, and I can see why. On one hand, the design is quite nice and looks good in my kitchen, but on the other hand, I found some aspects a bit underwhelming. \n\nThe non-stick surface works alright, but I did notice some sticking when frying eggs. It's a bit of a hit or miss. The handles feel good and the pots are pretty lightweight, which is a plus for me. However",
+            "language": "English"
+        },
+        {
+            "review": "I was expecting a lot from this cookware set, but it turned out to be just okay. The design is nice and it looks good in my kitchen, but the performance is a bit hit-or-miss. Some pieces heat up evenly, while others seem to have hot spots, which makes cooking a bit tricky. I've noticed a bit of sticking with certain foods, even though it's advertised as non-stick. Clean-up isn't as easy as I hoped it would be. It's not a bad set, but",
+            "language": "English"
+        }
+    ]
+}

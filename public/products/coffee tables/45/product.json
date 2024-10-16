@@ -1,0 +1,32 @@
+{
+    "nr": "45",
+    "name": "\"VistaCraft Coffee Table\"",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 16,
+    "description": "Elevate your living space with a centerpiece that perfectly marries function and artistry. This exquisite coffee table transforms any room into a sophisticated enclave, featuring a sleek, minimalist design that complements both modern and traditional decor. Crafted from premium materials, the stunning interplay of tempered glass and solid wood brings a sense of lightness while ensuring durability that stands the test of time. Whether you're entertaining guests or enjoying a quiet evening at home, this piece serves as a versatile platform for your favorite books, gourmet snacks, or a stylish floral arrangement.\n\nRichly crafted with a unique, open-concept base, this table invites creativity into your home. The spacious surface is ideal for functional use, while the built-in storage shelf below provides an ingenious solution for stowing away magazines",
+    "images": [
+        "product_45_01.png",
+        "product_45_02.png",
+        "product_45_03.png",
+        "product_45_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this coffee table, but it just doesn't hit the mark. The design looks good online, but once I got it, I noticed a few scratches right out of the box which was super frustrating. Assembly was okay but not easy\u2014some parts felt like they didn't fit quite right. It also doesn\u2019t feel as sturdy as I expected; when I put my drink on it, I\u2019m always a bit worried it might tip over. The size works for my space but overall,",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this coffee table. It looked great online, and I was excited to have it in my living room. But honestly, it\u2019s not everything I hoped for. The assembly was kind of a headache \u2013 the instructions were confusing and some of the screws didn\u2019t line up well. It wobbles a bit, which is annoying when I\u2019m trying to set a drink on it. Plus, the surface scratches WAY too easily. For the price, I expected something sturdier and",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to getting this coffee table, but it just didn\u2019t live up to my expectations. First off, the assembly was a nightmare. The instructions were confusing, and some of the parts didn\u2019t even fit right. After a struggle, I finally got it together, but I was left with a wobbly table that doesn\u2019t seem stable at all. \n\nThe finish on the surface looked nice at first, but after a couple of weeks, I noticed scratches already. I\u2019m",
+            "language": "English"
+        },
+        {
+            "review": "I was pretty excited about this coffee table, but it's turned out to be a bit of a letdown. The design looked great in the pictures, but in real life, it feels cheap and kinda flimsy. The assembly instructions were confusing, and I ended up with some extra screws that I'm not sure what to do with. \n\nAlso, the surface scratches way too easily. I didn't think I'd have to baby a coffee table, but here we are. It's a nice size, and I do",
+            "language": "English"
+        }
+    ]
+}

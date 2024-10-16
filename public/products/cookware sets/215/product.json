@@ -1,0 +1,29 @@
+{
+    "nr": "215",
+    "name": "Culinary Harmony Cookware Set",
+    "price": "4999",
+    "ranking": 1,
+    "availability": 15,
+    "description": "Elevate your culinary adventures with the perfect blend of style and functionality. Our exquisite cookware ensemble is crafted from premium, non-stick materials that ensure even heat distribution for mouthwatering results every time. Say goodbye to stubborn stains and pesky food residues. With a sleek, easy-to-clean surface, you\u2019ll spend less time scrubbing and more time enjoying your culinary creations. Each piece in this remarkable collection is designed to inspire your inner chef while providing the durability you need for everyday use.\n\nThis remarkable set features a range of versatile pots and pans, each equipped with ergonomic handles that offer a comfortable grip and exceptional control. Whether you are simmering sauces, saut\u00e9ing vegetables, or searing meats, you\u2019ll appreciate how effortlessly each piece transitions from stovetop to oven",
+    "images": [
+        "product_215_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "bought this cookware set and honestly it\u2019s the biggest regret ever. the pots are super flimsy, they wobble when you cook anything. think they\u2019ve got some kind of coating but it peels off after just a short while. not even easy to clean, everything sticks like glue. after the first use they looked so scratched, felt like I had them for years. \n\nthe lids don\u2019t fit right either, they just won\u2019t stay on. had soup all over my stove because the",
+            "language": "English"
+        },
+        {
+            "review": "These pots and pans are just awful. I thought I was getting a good deal, but they burn everything! I can't even make scrambled eggs without them sticking. The handles get super hot, and you\u2019ve gotta use an oven mit just to pick them up. Also, they scratch really easily. I've only used them a couple times and already have deep marks on the surface. Not worth the money at all! Definitely regret buying this set. Avoid it if you like cooking anything decent.",
+            "language": "English"
+        },
+        {
+            "review": "I wish I could give this 0 stars. The non-stick is a joke\u2014food sticks to everything! I followed all instructions but my eggs turned into a mess. The handles are cheap plastic, and they started melting after just a few uses. Maybe it\u2019s just me, but I expected way better quality. It\u2019s not even worth the price, it\u2019s just rubbish. I regret buying it and will be tossing this set in the trash. Save your money, folks.",
+            "language": "English"
+        },
+        {
+            "review": "I was super excited to get this cookware set, but man, what a letdown! The quality is just awful, like the pans started scratching after a couple uses. They don\u2019t heat evenly at all \u2014 some stuff burnt while other parts didn't cook. Seriously wasted my time making a simple meal. The handles get super hot too, feels dangerous to me. I\u2019ve had better luck with my old stuff! Not worth the money; you can find way better Chef-level products. 1 star all",
+            "language": "English"
+        }
+    ]
+}

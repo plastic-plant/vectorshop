@@ -1,0 +1,29 @@
+{
+    "nr": "250",
+    "name": "Culinary Symphony Cookware Set",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 4,
+    "description": "Elevate your culinary experience with the harmonious blend of style and performance found in our exquisite cookware collection. Designed for both novice cooks and seasoned chefs alike, this stunning set promises to bring your kitchen to life and inspire your culinary creativity. Crafted from premium-grade stainless steel, each piece features a polished exterior that not only adds a touch of elegance to your kitchen but also ensures exceptional durability and resistance to rust and corrosion.\n\nEnjoy even heat distribution with the innovative construction that this set offers, allowing your meals to cook uniformly and achieve perfect results every time. The tempered glass lids allow you to monitor your culinary creations without losing valuable heat, while the ergonomic handles provide a comfortable grip for easy handling. Whether you\u2019re simmering a delicate sauce or searing a hearty steak",
+    "images": [
+        "product_250_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this amazing cookware set and I couldn\u2019t be happier! The quality is just outstanding. Each piece heats evenly and retains heat really well, which makes cooking a breeze. I've used them for everything from saut\u00e9ing veggies to making sauces, and the non-stick surface just glides right on. Cleaning up is so simple\u2014most of the time, a quick rinse is all it needs.\n\nThe design is gorgeous too! They look fabulous in my kitchen and definitely elevate the space.",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this cookware set! The quality is phenomenal, and you can really tell that it\u2019s built to last. The non-stick surface is a game changer; I've saut\u00e9ed vegetables and fried eggs without a hitch \u2013 nothing sticks at all! Cleanup is a breeze, which saves me so much time after cooking. \n\nThe heat distribution is simply perfect. Every time I simmer sauce or sear a steak, everything cooks evenly. Plus, the stylish design makes my kitchen feel so upscale",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love these pots and pans! The quality is outstanding, and they heat up so evenly. I've tried multiple dishes, from saut\u00e9ing to simmering sauces, and everything cooks flawlessly. The non-stick surface is a game changer\u2014clean up is so easy, and I don't worry about food sticking. They\u2019re surprisingly lightweight, yet feel sturdy and well-made. Plus, the sleek design looks great in my kitchen! I\u2019ve even used them in the oven, and they held up perfectly. Overall",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely thrilled with this cookware set! From the moment I unpacked it, I was impressed by its sleek design and solid feel. The pots and pans heat evenly and cook my meals to perfection every time. I love how the non-stick surface works like a charm \u2013 no more burnt food or sticky mess!\n\nI've used it for everything from searing steaks to simmering delicate sauces, and each piece has performed beautifully. Clean-up is a breeze, too! Just a quick rinse and they look",
+            "language": "English"
+        }
+    ]
+}

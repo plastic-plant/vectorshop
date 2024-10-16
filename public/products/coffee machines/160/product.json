@@ -1,0 +1,21 @@
+{
+    "nr": "160",
+    "name": "BrewSphere 360",
+    "price": "29900",
+    "ranking": 5,
+    "availability": 20,
+    "description": "Elevate your home brewing with the ultimate coffee companion, the BrewSphere. Designed for coffee aficionados and casual sippers alike, this innovative machine redefines how you enjoy your daily brew. Experience barista-quality coffee at the push of a button, transforming your kitchen into a caffeine haven without the hassle of complicated controls or messy setups. \n\nEquipped with our state-of-the-art extraction technology, the BrewSphere delivers a rich, aromatic cup every time. Its customizable brewing modes allow you to select the intensity and flavor profile that suits your taste, whether you crave a mellow morning cup or a robust afternoon pick-me-up. Plus, with its sleek aesthetics, the BrewSphere fits seamlessly into any kitchen d\u00e9cor, adding a touch of elegance while saving precious counter space",
+    "images": [
+        "product_160_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019m absolutely in love with my new coffee machine! This beauty has completely transformed my mornings. The design is sleek and modern, fitting perfectly on my kitchen counter. One of the best features is the customizable cup size \u2013 I can easily make a small espresso or a large travel mug for my commute.\n\nThe brewing process is quick and super quiet, which is a game changer when I\u2019m half asleep. The taste of the coffee is rich and flavorful, much better than anything I've had from the store.",
+            "language": "English"
+        },
+        {
+            "review": "I recently upgraded to this amazing coffee machine, and it has completely transformed my mornings! The sleek design fits perfectly in my kitchen, and it\u2019s so easy to use. Just a press of a button, and in no time, I have a rich, steaming cup of coffee. The customizable settings really allow me to get the brew just the way I like it, whether I\u2019m in the mood for a strong espresso or a milder cup. \n\nI also love the built-in grinder \u2013 freshly ground",
+            "language": "English"
+        }
+    ]
+}

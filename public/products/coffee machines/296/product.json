@@ -1,0 +1,22 @@
+{
+    "nr": "296",
+    "name": "BrewSphere 360",
+    "price": "7999",
+    "ranking": 2,
+    "availability": 19,
+    "description": "Elevate your morning ritual with the ultimate game-changer in coffee innovation. Meet the BR360, a coffee machine meticulously designed for those who appreciate the art of brewing, bringing caf\u00e9-quality coffee right to your counter. With its sleek, contemporary design and intuitive interface, the BR360 transforms your kitchen into a barista's haven, ensuring that every cup is a flawless blend of rich flavor and aromatic bliss.\n\nAt the heart of the BR360 is its advanced brewing technology, featuring a precision temperature control system that guarantees optimal extraction from your favorite beans. Whether you crave a robust espresso or a velvety cappuccino, the BR360 delivers consistent results with each brew. With customizable settings, you can tailor each cup to your unique taste, ensuring every sip",
+    "images": [
+        "product_296_01.png",
+        "product_296_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I honestly had high hopes for this coffee machine but it just doesn\u2019t cut it. It looks nice, I\u2019ll give it that, but the functionality is lacking. It brews super slowly, sometimes taking over 10 minutes for a single cup which is just unacceptable. The coffee itself isn\u2019t very flavorful either, it tastes weak even with the strongest coffee I could find. I tried adjusting the settings but nothing seemed to help. The cleanup can also be a pain, with too many parts to dis",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this coffee machine, but honestly, it's been kinda a letdown. It looks great and I thought it would make really good coffee, but it\u2019s just okay. The brewing process takes way longer than I expected, and sometimes it doesn\u2019t even produce a full cup! I keep getting weird taste too \u2014 not what I wanted. The settings are super confusing, I feel like I'm always pushing random buttons to get it right. It\u2019s a hassle. I\u2019ve heard people say",
+            "language": "English"
+        }
+    ]
+}

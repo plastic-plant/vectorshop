@@ -1,0 +1,30 @@
+{
+    "nr": "347",
+    "name": "Culinary Canvas Cookware Set",
+    "price": "9999",
+    "ranking": 1,
+    "availability": 8,
+    "description": "Elevate your culinary experience with our premium cookware ensemble, designed for the modern kitchen renaissance. Crafted from durable, non-stick materials, each piece promises effortless food release and seamless cleanup, allowing you to focus on what truly matters\u2014creating unforgettable meals for loved ones. The sleek design and vibrant colors not only inspire creativity in the kitchen but also serve as a stunning statement piece for your countertop.\n\nExperience the ultimate in versatility and performance with this thoughtfully curated collection. Each component, from the lavish saucepans to the durable skillet, features heat-resistant technology that ensures even cooking and a quick heat-up time. The ergonomic, stay-cool handles provide a secure grip, guaranteeing safety whether you're saut\u00e9ing vegetables or simmering sauces to perfection. Say goodbye to cumbersome cooking",
+    "images": [
+        "product_347_01.png",
+        "product_347_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really disappointed with this cookware set. The first time I used the frying pan, it scratched so easily, like super cheap material. Cooked some eggs, and they stuck so bad! I ended up using a ton of oil just to avoid a mess. The handles feel loose, like they're gonna break off any second. I thought it would be easy to clean, but even with soaking, I couldn't get the stains off. Not worth the money at all. Save yourself the trouble and look",
+            "language": "English"
+        },
+        {
+            "review": "got this cookware set but wow what a let down. it scratched so easily and the handles get too hot to touch. I thought I got a good deal but now I\u2019m feeling ripped off. I expect my pans to last longer than just a few uses. they also took forever to heat up, I'm not waiting around forever to cook. super disappointed. never buying again",
+            "language": "English"
+        },
+        {
+            "review": "Compre este set de ollas y sartenes y fue un gran error. Apenas unos meses de uso y ya tienen rayones por todos lados. Se calientan de manera desigual, algunas partes cocinan m\u00e1s que otras. No se pegan, dicen, pero todo se queda pegado. La comida se arruina y se me quema todo. Adem\u00e1s parecen de juguete, muy baratas. Muy decepcionado, no recomiendo.",
+            "language": "Spanish"
+        },
+        {
+            "review": "I regret buying this cookware set. At first glance it looks okay but after a few uses, it started to scratch and the non-stick part wears off. The pots heat unevenly, so my meals come out weird. I followed the instructions for care, but everything just seems to burn. Clean up is a nightmare. They might be cheap, but you get what you pay for. Save your money and look for something better. Not happy at all with this. Just plain disappointed.",
+            "language": "English"
+        }
+    ]
+}

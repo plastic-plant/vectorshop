@@ -1,0 +1,28 @@
+{
+    "nr": "18",
+    "name": "Culinary Canvas Cookware Set",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 17,
+    "description": "Elevate your cooking experience with the ultimate kitchen companion, a remarkable cookware collection designed for both novice chefs and culinary aficionados alike. This expertly crafted set offers a seamless blend of functionality and style, allowing you to explore new recipes while showcasing your creativity in the kitchen. Each piece features a stunning, non-stick surface that not only ensures easy food release but also simplifies cleanup, inviting you to effortlessly whip up your favorite meals without the hassle.\n\nEngineered for durability and performance, this cookware set boasts a heavy-gauge construction that distributes heat evenly, eliminating hot spots and ensuring that your dishes are cooked to perfection every time. The ergonomic, heat-resistant handles provide a secure grip, while the tempered glass lids let you keep an eye on your culinary creations with ease.",
+    "images": [
+        "product_18_01.png",
+        "product_18_02.png",
+        "product_18_03.png",
+        "product_18_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this cookware set for a few weeks now and overall, I\u2019m pretty satisfied! The pots heat up nicely and I love how even the heat distribution is. They do seem a bit heavier than my old ones, which I don\u2019t mind but it took a little getting used to. The non-stick surface works well, and I haven't had any issues with food sticking, even with less oil.\n\nCleanup is super easy, which is a big plus for me. I just make sure to use",
+            "language": "English"
+        },
+        {
+            "review": "I got this cookware set a few weeks ago, and I have to say I'm pretty impressed overall! The variety of pots and pans included is great for all my cooking needs. They heat up nicely and distribute heat evenly, which is a big plus. I love the non-stick surface; it makes cooking and cleaning a breeze. \n\nThe handle feels sturdy, and I've had no issues with it getting too hot to touch, which is a relief. The only thing I noticed is that one of the frying",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this cookware set for a few weeks now, and I'm really impressed overall! The pots and pans are super lightweight yet feel sturdy enough for everyday use. They heat up evenly, making my cooking experience a lot smoother, which is a huge plus.\n\nThe non-stick coating works wonders; I've had no issues with food sticking, and clean-up is a breeze! I've tried frying, simmering, and even baking with them, and everything turns out great. The handles are comfortable too, not",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "110",
+    "name": "LuxeNest Coffee Table",
+    "price": "15000",
+    "ranking": 5,
+    "availability": 1,
+    "description": "Transform your living space into a chic sanctuary with the epitome of style and functionality. Our stunning centerpiece seamlessly blends modern elegance with timeless charm, making it the ultimate addition to any room. Designed with both beauty and practicality in mind, this stunning furniture piece showcases a unique silhouette that serves as both an eye-catching focal point and a versatile surface for all your daily needs.\n\nCrafted from high-quality materials, this versatile staple features a durable, scratch-resistant surface that withstands the hustle and bustle of everyday life. The spacious tabletop provides ample room for your favorite coffee mugs, stylish decor, or even that relaxing evening board game with friends. With its discreet storage compartment, clutter will be a thing of the past as you can easily tuck away magazines, remote controls",
+    "images": [
+        "product_110_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I can\u2019t believe how much I love my new coffee table! It\u2019s just perfect for my living room. The design is so sleek and modern; it fits right in with my decor. The color is exactly what I wanted\u2014deep and rich, which really makes it a statement piece.\n\nIt\u2019s the perfect size for snacks and drinks when I have friends over, and the sturdy build means I can put my feet up without worrying about it tipping. I've even used it to showcase my favorite books and",
+            "language": "English"
+        },
+        {
+            "review": "I couldn\u2019t be happier with my new coffee table! It's absolutely stunning, and the design fits perfectly with my living room decor. The sleek finish and modern lines make it a showstopper. It feels really sturdy, too, which is great for putting down those heavier books and my coffee mugs.\n\nWhat I love most is the hidden storage feature; it keeps clutter out of sight but still within reach when I need it. The tabletop is so spacious, perfect for entertaining friends or just having a cozy",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with my new coffee table! From the moment it arrived, I knew it was going to be a perfect fit for my living room. The design is modern yet timeless, and it really elevates the whole space. The quality is just amazing; the wood feels solid and durable, and the finish is flawless \u2013 no scratches or marks anywhere.\n\nSetting it up was a breeze, and it\u2019s nice to have such a functional piece that also acts as a stylish centerpiece. I\u2019ve",
+            "language": "English"
+        }
+    ]
+}

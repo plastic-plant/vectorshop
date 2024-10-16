@@ -1,0 +1,36 @@
+{
+    "nr": "35",
+    "name": "Culinary Harmony Cookware Set",
+    "price": "5999",
+    "ranking": 1,
+    "availability": 1,
+    "description": "Elevate your culinary experience with this versatile cookware collection that promises to turn every meal into a masterpiece. Crafted from premium-grade stainless steel, this set boasts a robust yet elegant design that not only enhances durability but also provides even heat distribution for perfectly cooked dishes every time. Say goodbye to uneven meals and hello to gourmet results as the non-stick interiors allow for effortless cooking and an easy cleanup, making your time in the kitchen more enjoyable.\n\nDiscover the joy of cooking with perfectly designed ergonomic handles that offer a confident grip, ensuring safety and comfort while flipping, stirring, or pouring. The tempered glass lids let you monitor your culinary creations without breaking the seal, allowing steam to build up for that rich flavor you crave. Whether you\u2019re searing a steak or simmer",
+    "images": [
+        "product_35_01.png",
+        "product_35_02.png",
+        "product_35_03.png",
+        "product_35_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this cookware set last month and I seriously regret it. First off, the pots are super thin and feel like they might bend if you look at them wrong. Tried cooking pasta and it burnt on the bottom! Like, how is that even possible? The non-stick coating started peeling after a few uses, which is just not safe. Handles get hot, too. Almost burned my hand once. Clean up is a headache because food just sticks, no matter what I do. I was excited",
+            "language": "English"
+        },
+        {
+            "review": "i was really disappointed with this cookware set. first off, it scratches way too easily and after a few uses it looks super old. the handles get super hot while cooking too, which is really annoying. and cleaning it is a pain! food sticks to the bottom no matter what. its supposed to be non-stick but it just does not work. really not worth the money at all. would not recommend to anyone. save your cash for something better.",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping this set would be great but it\u2019s a complete letdown. Pots are flimsy and bend easy. Handles overheat all the time, almost burnt my hand! They say it's non-stick but everything just sticks anyway. Clean up is a nightmare. Even water doesn't come off without scrubbing hard. I feel like I wasted my money seriously... Wouldn\u2019t recommend to anyone. Just not worth it at all. Total disappointment.",
+            "language": "English"
+        },
+        {
+            "review": "I bought this cookware set thinking it would make cooking easier but boy was I wrong. The pots heat unevenly, so half my food is burnt while the other half is raw. They scratch really easy too, and I've only used them a few times. Totally a waste of money! I expected better quality for the price. Plus, they don't seem to be non-stick at all. Everything just sticks so you end up with a huge mess to clean. I wouldn't recommend this to anyone. Save your",
+            "language": "English"
+        },
+        {
+            "review": "got this cookware set expecting good things but was super disappointed. pans don\u2019t heat evenly, it takes forever to cook anything. they scratch really easy, even with soft spatulas. the handles get hot so watch out for burns. I tried to clean em and now they look even worse. saved some $$ but you get what you pay for, shoulda stuck with my old set. wouldn\u2019t recommend to anyone!",
+            "language": "English"
+        }
+    ]
+}

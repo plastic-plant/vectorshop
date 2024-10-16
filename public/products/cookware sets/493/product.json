@@ -1,0 +1,33 @@
+{
+    "nr": "493",
+    "name": "Culinary Harmony Cookware Set",
+    "price": "9999",
+    "ranking": 3,
+    "availability": 1,
+    "description": "Indulge your inner chef with this exquisite cookware collection, designed for both culinary enthusiasts and everyday cooks alike. Each piece in this elegant set is crafted from durable, high-quality materials ensuring exceptional heat distribution and retention, which means your favorite recipes will cook evenly, every time. Say goodbye to the hassle of unevenly cooked meals; this collection guarantees perfection in every dish.\n\nExperience the perfect blend of functionality and style with ergonomically designed handles that provide a firm grip, ensuring safety and comfort while cooking. The non-stick interior makes for effortless food release and easy cleanup, allowing you to spend more time enjoying your culinary creations and less time scrubbing pots and pans. Plus, the chic aesthetic adds a touch of sophistication to your kitchen, transforming it into a",
+    "images": [
+        "product_493_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "J\u2019ai r\u00e9cemment achet\u00e9 un ensemble de casseroles, et je dois dire que c'est un peu une histoire mixte. Au d\u00e9but, l\u2019ensemble paraissait vraiment sympa, mais apr\u00e8s quelques utilisations, je me suis rendu compte de quelques d\u00e9fauts. La bonne nouvelle, c'est que elles cuisent assez bien et la chaleur se r\u00e9partit uniform\u00e9ment. Mais, apr\u00e8s quelques cuisson, il y a d\u00e9j\u00e0 des rayures sur le fond, ce qui est un peu d\u00e9cevant!\n\nUne autre chose",
+            "language": "French"
+        },
+        {
+            "review": "I recently bought this cookware set expecting great results, but it\u2019s been a bit of a mixed bag for me. The pots and pans look nice and seem sturdy at first glance, but the non-stick coating isn\u2019t really living up to the hype. I\u2019ve had issues with sticking, even after careful oiling. They heat pretty evenly for the most part, but I noticed some warping after just a few uses, which is kind of a bummer.\n\nCleaning isn\u2019t super convenient either. Food",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this cookware set and honestly, it\u2019s okay. It looks really nice at first glance, but I've found some ups and downs while using it. The non-stick surface is decent, but not as great as I hoped. Sometimes things stick, especially with eggs or cheese. \n\nI love the variety of sizes included\u2014a good mix for different dishes, but the handles heat up a bit too much, which makes me worry about burning myself. Cleanup isn't too bad, but I\u2019ve gotten some",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this cookware set and overall, it\u2019s just okay. The design is nice, and I love how it looks in my kitchen. However, while cooking, I\u2019ve noticed that it doesn\u2019t heat evenly sometimes. I\u2019ve had a couple meals turn out burnt on one side while the other remains undercooked. The handles can get a bit hot too, which is a safety concern for me.\n\nClean-up is mostly fine, but you have to be careful not to scratch them if you",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this cookware set for a few months now, and it\u2019s really a mixed bag. On one hand, the pots and pans heat pretty evenly, which helps with cooking. But on the other hand, I was hoping for something more durable. The nonstick coating started to wear off faster than expected, and I\u2019m nervous about scratching it every time I use metal utensils.\n\nThe handles are comfy and stay cool, which is nice, but I found that some of the larger pieces are",
+            "language": "English"
+        }
+    ]
+}

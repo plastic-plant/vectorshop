@@ -1,0 +1,25 @@
+{
+    "nr": "442",
+    "name": "Culinary Harmony Cookware Set",
+    "price": "2999",
+    "ranking": 5,
+    "availability": 21,
+    "description": "Unleash your culinary creativity with the ultimate cookware ensemble! This exceptional set is designed for both the seasoned chef and the enthusiastic home cook, offering an unparalleled blend of durability, performance, and elegance. Each piece in this functional collection boasts a premium non-stick surface, allowing for effortless food release and easy cleanup\u2014no more struggling with stubborn, stuck-on dishes after a delightful meal.\n\nCrafted with a sleek, modern aesthetic, this cookware collection elevates your kitchen's decor while providing the high-quality performance you demand. The heat-conducting aluminum ensures even cooking, eliminating hot spots and producing perfectly seared meats, saut\u00e9ed vegetables, and simmered sauces for every occasion. Reinforced with a tough, scratch-resistant coating, these pans are built to",
+    "images": [
+        "product_442_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I can't say enough good things about this cookware set! From the moment I unpacked it, I was impressed by the sleek design and solid feel. Cooking has become such a joy since I got it. The non-stick surface works like a charm, making cleanup so easy. I\u2019ve tried everything from frying eggs to simmering sauces, and everything comes out perfectly. \n\nThe heat distribution is fantastic\u2014no more hot spots! Plus, they fit nicely on my kitchen racks and look beautiful hanging up.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using my new cookware set for a few weeks now, and I am absolutely in love! The non-stick surface really delivers. Eggs slide right off without any fuss, and clean-up is a breeze. I've also noticed the heat distribution is fantastic; no more hot spots!\n\nI tried making a stir-fry, and everything cooked evenly, with vibrant colors and tenderness that impressed even my picky family. The handles feel sturdy and stay cool, making it easy to maneuver from stovetop to table.",
+            "language": "English"
+        },
+        {
+            "review": "I've just started using this cookware set and I am absolutely in love! The quality is top-notch \u2013 the pots and pans heat evenly and cook food perfectly every time. I've tried frying, boiling, and saut\u00e9ing, and everything turned out fantastic! \n\nThe non-stick surface really makes cleaning a breeze. I remember my old set where I always had to scrub and scrape, but not with this one! Just a simple wipe and everything comes right off. The handles stay cool to the touch even while cooking",
+            "language": "English"
+        }
+    ]
+}

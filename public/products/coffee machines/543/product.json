@@ -1,0 +1,29 @@
+{
+    "nr": "543",
+    "name": "BrewFusion Artisan 360",
+    "price": "49900",
+    "ranking": 5,
+    "availability": 2,
+    "description": "Transform your morning routine with the innovative coffee companion that will elevate your coffee experience to a whole new level. Featuring cutting-edge technology and a stunning design, this state-of-the-art machine captures the essence of artisanal brewing right in the comfort of your kitchen. Designed for both connoisseurs and casual drinkers alike, this coffee maker effortlessly combines versatility and sophistication, enabling you to craft everything from bold espressos to creamy lattes with ease.\n\nEquipped with a customizable brewing system, it allows you to adjust the strength, temperature, and brew time to suit your preferences. The intuitive LCD touchscreen makes navigation a breeze, so you can whip up your perfect cup in seconds. Moreover, the quick-heat function ensures that you're just minutes away from indul",
+    "images": [
+        "product_543_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich bin einfach begeistert von dieser Kaffeemaschine! \ud83e\udd29 Die Benutzerfreundlichkeit ist einfach super. Ich habe noch nie so schnell und einfach einen perfekten Kaffee zubereitet. Der Prozess ist wirklich intuitiv, und selbst Technik-Noobs kommen hier leicht klar. \n\nDie Vielfalt der Kaffeestile, die ich damit zubereiten kann, ist echt beeindruckend. Von kr\u00e4ftigem Espresso bis zu cremigem Cappuccino \u2013 alles schmeckt fantastisch! Besonders der Milchschaum ist ein Traum",
+            "language": "German"
+        },
+        {
+            "review": "I recently purchased this coffee machine, and it has completely transformed my morning routine! The rich flavors and aromas produced each time are just heavenly. It's super easy to use; I just fill the water tank, add my favorite coffee grounds, and press a button. The different brew settings make it versatile enough for both espresso and regular drip coffee, which I love!\n\nThe sleek design is a real highlight, fitting perfectly on my kitchen counter without looking bulky. Cleaning is a breeze, thanks to the removable parts",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this coffee machine! \u2615\ufe0f From the moment I unboxed it, I could tell it was quality. The sleek design fits perfectly in my kitchen, and it's surprisingly compact given all the amazing features it packs.\n\nBrewing coffee has never been easier! I can make everything from a strong espresso to frothy cappuccinos with just a push of a button. The programmable settings allow me to wake up to the rich aroma of freshly brewed coffee every morning, and I",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely thrilled with this coffee machine! It has completely transformed my morning routine. The design is sleek and modern\u2014definitely not your average coffee maker. The touch screen is super intuitive and allows me to easily customize my brews. I love the range of options\u2014from bold to mild\u2014and the quality of the coffee is just impeccable. \n\nThe ability to brew different quantities is great because I can make just one cup or a whole pot for guests. Also, the eco-friendly features and easy cleaning",
+            "language": "English"
+        }
+    ]
+}

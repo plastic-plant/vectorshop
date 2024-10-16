@@ -1,0 +1,25 @@
+{
+    "nr": "169",
+    "name": "BrewCraft Artisan 360",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 25,
+    "description": "Elevate your morning routine with the revolutionary barista-quality coffee machine that transforms ordinary coffee moments into extraordinary experiences. This machine marries sleek design with cutting-edge technology, ensuring that every cup brews to perfection, from the first sip to the last drop. With its customizable brew settings, you can dial up the intensity, flavor profile, and temperature, catering to your unique preferences, whether you crave a bold espresso, a smooth latte, or a refreshing cold brew.\n\nImagine starting your day with the rich aroma of freshly ground coffee filling your kitchen. The integrated grinder features precision blades and customizable grind settings, allowing you to achieve the ideal coarseness that unlocks the full richness of your coffee beans. With a 360-degree rotating interface, choosing your",
+    "images": [
+        "product_169_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this coffee machine for a few weeks now, and I have mixed feelings. On one hand, it brews a decent cup of coffee, and the steam wand works well for frothing milk, but on the other, it's a little confusing to operate at times. The touch controls are not very responsive, and I found myself pressing them multiple times to get it to do what I wanted. The water reservoir isn't as big as I thought it would be either, which means I'm constantly ref",
+            "language": "English"
+        },
+        {
+            "review": "I've had this coffee machine for a few months now, and it\u2019s kind of hit or miss. On good days, it brews a nice cup with decent flavor, but then it also has its days where the coffee comes out weak or even a little burnt. The variety of options is great, but the GUI feels a bit clunky - takes longer to figure out than you'd expect. Also, it can be pretty noisy, especially in the morning when you're trying to wake up. The design is",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this coffee machine for a few months now, and I gotta say it\u2019s just okay. Setup was pretty easy, but some of the features feel a bit gimmicky. The interface is fine but not super intuitive; I had to refer to the manual more than I wanted. The coffee it brews is decent\u2014not the best I've had, but definitely not the worst either. Sometimes it takes longer to brew than I expected, which can be annoying when I\u2019m in a hurry.",
+            "language": "English"
+        }
+    ]
+}

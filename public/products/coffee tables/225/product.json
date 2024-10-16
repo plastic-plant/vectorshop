@@ -1,0 +1,21 @@
+{
+    "nr": "225",
+    "name": "\"TimberTryst Coffee Table\"",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Transform your living space into a warm and inviting haven with this exquisite centerpiece that combines rustic charm with modern design. Crafted from sustainably sourced hardwood, this stunning coffee table boasts a rich, natural finish that showcases the unique grain patterns of the wood. Its sturdy build not only ensures longevity but also provides a stable surface for your favorite books, beverages, and decorative accents. With a design that complements a variety of d\u00e9cor styles, from farmhouse chic to contemporary minimalism, it brings a touch of elegance to any room.\n\nFunctionality meets flair with this coffee table\u2019s thoughtful features. The spacious tabletop is perfect for entertaining guests or enjoying a cozy night in, while the hidden storage compartment beneath the surface allows you to neatly stow away remote controls, magazines, or board",
+    "images": [
+        "product_225_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this coffee table a few weeks ago, and it's kinda okay. It looks nice, and the wood finish is decent, but I expected a bit more for the price. The legs feel a bit wobbly, and I\u2019m not sure it will hold up if I put too much stuff on top. Assembly was straightforward, but the instructions were a bit confusing. It's fine for a smaller living room, but I wouldn\u2019t recommend it if you\u2019re looking for something super sturdy. Overall,",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this coffee table, and it\u2019s been a bit of a mixed bag for me. The design is really nice, and it fits well with my living room decor. However, I do have a few issues with it. The surface gets scratched pretty easily, so I have to be careful with coasters. The assembly was also kind of a hassle, took longer than I expected and the instructions weren\u2019t super clear. \n\nI do love the size, it's perfect for my space, and",
+            "language": "English"
+        }
+    ]
+}

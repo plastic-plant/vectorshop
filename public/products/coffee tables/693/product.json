@@ -1,0 +1,29 @@
+{
+    "nr": "693",
+    "name": "\"NestCraft Coffee Table\"",
+    "price": "12900",
+    "ranking": 5,
+    "availability": 15,
+    "description": "Transform your living space with this exquisitely designed centerpiece, where modern elegance meets functional artistry. Crafted from premium, sustainable materials, this coffee table boasts a sleek silhouette that complements any decor style while providing unmatched durability. Its genius nested design allows you to effortlessly slide out additional tables for entertaining guests or creating a cozy spot for snacks and drinks. Perfect for those spontaneous movie nights or inviting friends over, this essential piece adapts to your needs with grace.\n\nSay goodbye to clutter with the cleverly designed storage compartments that keep your favorite books, magazines, and remotes organized and within reach. Thoughtfully engineered, the table features a smooth surface that\u2019s perfect for displaying decorative items or enjoying a leisurely cup of coffee. With a rich finish that highlights the natural grain",
+    "images": [
+        "product_693_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with my new coffee table! The design is stunning and fits perfectly in my living room. It has this sleek, modern look that really brightens the space. The surface is big enough for my magazines, coffee cups, and even my laptop when I\u2019m working from home. \n\nThe best part is all the hidden storage options! I can tuck away blankets and books without it looking cluttered. It feels super sturdy, and I have no worries about it taking heavy items.",
+            "language": "English"
+        },
+        {
+            "review": "Estou encantada com minha nova mesa de centro! Desde que chegou, transformou completamente minha sala de estar. O design \u00e9 super moderno e combina perfeitamente com a decora\u00e7\u00e3o. \u00c9 muito espa\u00e7osa, o que facilita acomodar minhas x\u00edcaras de caf\u00e9 e livros ao mesmo tempo.\n\nAdorei o fato de que ela tem um espa\u00e7o de armazenamento embaixo, bem pr\u00e1tico para guardar jogos de tabuleiro e revistas. A qualidade do material \u00e9 impec\u00e1vel, parece muito resistente e f\u00e1cil de limpar.",
+            "language": "Portuguese"
+        },
+        {
+            "review": "From the moment I plugged it in, I was absolutely amazed! The seamless design matches my living room decor perfectly. It\u2019s sturdy but not too heavy, which makes rearranging a breeze. The built-in storage is a game changer\u2014it keeps my space tidy without sacrificing style. I love the customizable lighting feature! My friends are always complimenting how cozy it feels when we gather around it. Plus, the touch controls are super intuitive. Honestly, I\u2019ve never enjoyed lounging at home more. This has",
+            "language": "English"
+        },
+        {
+            "review": "Estoy completamente enamorada de esta mesa de caf\u00e9. Desde el momento en que la sacamos de la caja, supe que era perfecta para nuestra sala. El dise\u00f1o moderno le da un toque elegante a mi hogar, y la calidad de los materiales es impresionante. Es muy funcional, con espacio suficiente para todos mis libros y algunos adornos. Adem\u00e1s, su superficie es f\u00e1cil de limpiar, lo cual es un gran plus con ni\u00f1os en casa.\n\nMe encanta que se puede ajustar la altura, lo que la",
+            "language": "Spanish"
+        }
+    ]
+}

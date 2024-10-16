@@ -1,0 +1,34 @@
+{
+    "nr": "322",
+    "name": "BrewCraft Artisan 360",
+    "price": "59900",
+    "ranking": 2,
+    "availability": 10,
+    "description": "Elevate your morning ritual with the innovative BrewMaster 360\u2014a stunning blend of functionality and style that transforms ordinary coffee brewing into a remarkable experience. With its sleek, contemporary design and intuitive interface, the BrewMaster 360 seamlessly fits into any kitchen d\u00e9cor while allowing you to craft the perfect cup of coffee tailored to your taste buds. Whether you prefer a bold espresso shot, rich pour-over, or a smooth cold brew, this versatile machine does it all with exceptional ease and precision.\n\nDive into a world of customizable brewing options! With its unique Smart Brew technology, the BrewMaster 360 lets you adjust brew strength, temperature, and extraction time at the touch of a button, ensuring that every sip is as robust or mellow as you desire. The built",
+    "images": [
+        "product_322_01.png",
+        "product_322_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to love this coffee machine because it sounded great, but honestly, it was such a letdown. The brew time is really slow, and I found myself waiting around for my coffee more times than I can count. The taste is okay but nothing special, and some days it's just plain weak. It's also a bit complicated to clean. I thought it'd be easy since there are so many buttons, but ugh, so many parts to take apart. I wish it had a nice,",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this coffee machine, but it just fell short. The design looks great on the countertop, but honestly, that's about all it has going for it. The brewing time is ridiculously long, and sometimes the coffee even taste a bit burnt. I mean, how can that happen? I followed all the instructions and cleaning recommendations. It\u2019s also really loud when it\u2019s brewing, which isn't ideal for those early mornings. I expected a lot more for the price. It's okay, but",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this coffee machine, but it's been a bit of a letdown. First off, it looks great on my counter, but that\u2019s pretty much where the good times stop. The brewing process is really slow. I mean, I'm not asking for instant coffee, but waiting over 10 minutes for a single cup is just too much. Also, it doesn\u2019t maintain the temperature that well. My coffee\u2019s lukewarm by the time I sit down to drink it, which",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this coffee machine, but honestly, it just didn\u2019t cut it. The design is pretty sleek, and it looks nice on my counter, but that\u2019s where the good stuff ends. It\u2019s super confusing to operate\u2014the buttons are not intuitive at all, and I found myself fumbling around just trying to brew a simple cup. \n\nThe coffee, when it finally worked, was often weaker than I like, even when I used the darker blend. Plus, there were a",
+            "language": "English"
+        },
+        {
+            "review": "I've been trying out this coffee machine for a few weeks now, but honestly, I'm kinda disappointed. It looks nice on the counter, but it just isn\u2019t working out for me. The coffee it brews tastes kinda bland, like it's missing a lot of flavor. I've followed all the instructions but sometimes it just won't brew at all, which is super frustrating, especially in the mornings. I expected more for the price. \n\nCleaning it is a hassle too. The parts don't seem to come off",
+            "language": "English"
+        }
+    ]
+}

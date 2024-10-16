@@ -1,0 +1,21 @@
+{
+    "nr": "425",
+    "name": "BrewSphere Artisan 360",
+    "price": "7999",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Transform your morning ritual with the revolutionary coffee machine that promises to elevate every cup to an artisanal experience. This sleek, sophisticated brewing marvel fuses cutting-edge technology with a dash of elegance, making it the perfect addition to any kitchen countertop. With its user-friendly interface and customizable brewing options, you'll unlock the potential of your coffee beans, extracting rich flavors and aromas that awaken your senses and complement every moment of your day. \n\nThis remarkable coffee maker features a state-of-the-art heating element, ensuring the ideal temperature and optimal extraction for all coffee types, from dark roasts to light blends. With an innovative brewing system that adapts to your preferences, you have the power to select from multiple brewing strengths and styles, whether you\u2019re in the mood for",
+    "images": [
+        "product_425_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this incredible coffee machine, and I can\u2019t stop raving about it! From the moment I unboxed it, I knew I was in for a treat. The design is sleek and modern, fitting perfectly in my kitchen without taking up too much space. \n\nMaking coffee has become a delightful experience rather than just a morning chore. The one-touch brewing system is an absolute game changer! I can customize my coffee strength and even choose between different types of brews. The",
+            "language": "English"
+        },
+        {
+            "review": "Ich bin absolut begeistert von diesem Kaffeeautomaten! Die Bedienung ist super einfach und das Design ist einfach nur schick. Ich liebe die vielen Funktionen, die er bietet. Man kann die St\u00e4rke und Temperatur des Kaffees ganz nach Geschmack einstellen, und die verschiedenen Br\u00fcheinstellungen machen das Erlebnis einfach genial.\n\nDer Kaffee schmeckt so frisch und aromatisch, als w\u00e4re er gerade von einem Barista zubereitet worden. Ich habe ihn einmal f\u00fcr einen Brunch mit Freunden verwendet und alle waren total begeistert.",
+            "language": "German"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "530",
+    "name": "Culinary Canvas Cookware Set",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 24,
+    "description": "Transform your kitchen into a culinary masterpiece with the ultimate in cookware innovation. This exquisite collection is meticulously crafted to elevate your cooking experience, combining vibrant design with unparalleled functionality. Each piece features a stunning exterior that not only turns heads but also withstands the rigors of daily cooking. From sumptuous stews to seared steaks, you'll have all the tools you need at your fingertips, wrapped in a visually captivating array of colors.\n\nDesigned for versatility, these pots and pans are suitable for a variety of stovetops, including gas, electric, and induction. The non-stick, easy-to-clean surface ensures that your culinary creations glide out effortlessly, making cleanup a breeze. Whether you\u2019re simmering sauces, saut\u00e9ing vegetables, or baking fresh bread, you\u2019ll",
+    "images": [
+        "product_530_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I guess I had high hopes, but this cookware set really missed the mark for me. The non-stick coating wore off too quickly, and I found myself battling with scrambled eggs that refused to slide out of the pan. Heats unevenly, even tho I tried following the instructions. The handles are a bit flimsy and feel like they could break with any decent use. Cleaning was also a hassle since food gets stuck in weird spots. Overall, I wouldn\u2019t recommend this set, especially at this",
+            "language": "English"
+        },
+        {
+            "review": "I was pretty excited to try this cookware set, but honestly, it\u2019s been a bit of a letdown. The non-stick coating didn\u2019t work as well as I expected; food tends to stick even when I follow the instructions. Plus, the pans feel kinda flimsy, and they heat unevenly. I've had some burnt spots while cooking, which is super frustrating. I thought the handles would have a nice grip, but they get hot really fast, so be careful. All in all,",
+            "language": "English"
+        },
+        {
+            "review": "Comprei esse conjunto de panelas achando que ia ser um \u00f3timo investimento, mas me decepcionei. As panela demoram pra aquecer, e quando finalmente aquecem, a comida gruda! \u00c9 meio complicado de limpar e isso \u00e9 um grande problema pra mim. Al\u00e9m disso, parece que s\u00e3o muito fr\u00e1geis, algumas partes j\u00e1 come\u00e7ando a descascar depois de pouco uso. O design \u00e9 bonitinho, mas pra mim isso n\u00e3o \u00e9 o mais importante se",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I had high hopes for this cookware set but honestly, it's just okay. The design looks nice, but the quality feels cheap. The pans are pretty heavy which is fine, but after a couple of uses they started to scratch. Not impressed at all. I thought they'd be non-stick, but I've had food sticking to them way too easily. Clean-up is a hassle since some stuff just won\u2019t come off. Also, the handles get really hot when cooking, not safe at all. It cooks",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this cookware set, but it just didn\u2019t live up to my expectations. The materials feel kind of cheap, and I had high hopes for how they would cook. I found that they don't distribute heat evenly, so some things burnt while others were barely cooked. \n\nCleaning is a real pain too because food tends to stick, which is pretty frustrating. Plus, they just don't look as nice as I thought they would after a couple of uses. Been using them for a few",
+            "language": "English"
+        }
+    ]
+}

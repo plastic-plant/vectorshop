@@ -1,0 +1,29 @@
+{
+    "nr": "195",
+    "name": "Culinary Harmony Cookware Set",
+    "price": "3499",
+    "ranking": 3,
+    "availability": 11,
+    "description": "Discover the ultimate kitchen companion that redefines your cooking experience with unparalleled efficiency and style. Our state-of-the-art cookware set features premium materials designed for optimal heat distribution, ensuring every dish is cooked to perfection. Say goodbye to uneven cooking and hello to a new era of culinary excellence. Each piece is crafted from durable, non-stick materials that not only make cooking a breeze but also facilitate effortless cleanup, allowing you to spend more time enjoying your meals and less time scrubbing pans.\n\nElevate your kitchen aesthetics with the sleek and modern design that this set brings to your countertop. With its eye-catching color schemes and elegant finish, it's not just cookware; it\u2019s a stunning addition to your kitchen decor. Each piece is designed for versatility, accommodating everything from casual",
+    "images": [
+        "product_195_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich habe mir das Kochgeschirr-Set gekauft und muss sagen, ich bin ein bisschen entt\u00e4uscht. Die T\u00f6pfe sehen echt schick aus und auch das Material macht einen soliden Eindruck, aber die W\u00e4rmeleitung ist nicht die beste. Manchmal brennt das Essen an, besonders bei h\u00f6heren Temperaturen. Die Griffe sind okay, aber ich finde sie ein bisschen rutschig, vor allem wenn man beim Kochen mal feuchte H\u00e4nde hat. Auch das reinigen ist ein bisschen m\u00fchs",
+            "language": "German"
+        },
+        {
+            "review": "I recently picked up this cookware set, and honestly, it\u2019s been a bit of a mixed bag. The design looks nice and I really like the colors, but the performance doesn\u2019t quite live up to the hype for me. \n\nThe pots heat evenly, which is great, but I noticed some sticking when I was saut\u00e9ing veggies. I\u2019m used to nonstick surfaces, so seeing food stuck wasn\u2019t what I expected. Some of the pieces feel a little flimsy too, like I have",
+            "language": "English"
+        },
+        {
+            "review": "I bought this cookware set thinking it would change my cooking game, but honestly, it's just okay. The pans heat up well and are decent for everyday use, but I expected more quality for the price. Some of the nonstick surfaces started wearing off after a few weeks, which is a bit concerning. \n\nThe handles feel a little flimsy, and I've noticed they can get hot while cooking, which isn't great for safety. I've had a few minor sticking issues even though I followed the care instructions",
+            "language": "English"
+        },
+        {
+            "review": "Ich habe mir das Kochgeschirr-Set gekauft und muss sagen, es ist alright, aber nicht das, was ich erwartet habe. Die T\u00f6pfe sehen echt gut aus, aber ich hatte ein paar Probleme beim Kochen. Die W\u00e4rmeleitung k\u00f6nnte besser sein, und manchmal bleibt das Essen am Boden kleben. Es ist auch schwer, die T\u00f6pfe nach dem Kochen sauber zu bekommen, besonders die gr\u00f6\u00dferen. Die Griffe sind ganz okay, aber nicht so rutschfest, wie ich",
+            "language": "German"
+        }
+    ]
+}

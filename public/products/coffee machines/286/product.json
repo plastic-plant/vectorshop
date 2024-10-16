@@ -1,0 +1,21 @@
+{
+    "nr": "286",
+    "name": "BrewSculptor 5000",
+    "price": "8999",
+    "ranking": 1,
+    "availability": 13,
+    "description": "Awaken your senses and elevate your coffee experience with the revolutionary brewing companion designed for true coffee enthusiasts. This state-of-the-art coffee machine not only brews a perfect cup every time, but it also transforms your morning ritual into an art form. With its sleek, modern design and intuitive interface, this coffee maker blends seamlessly into any kitchen aesthetic while delivering barista-quality beverages at the touch of a button.\n\nEquipped with a precision brewing system, this machine allows you to customize every aspect of your coffee. Choose from a variety of brew strengths and temperatures to create your perfect cup, whether you crave a robust espresso shot or a smooth, mellow drip coffee. The integrated grinder preserves the freshness of your beans, ensuring that each sip is bursting with flavor.",
+    "images": [
+        "product_286_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "this coffee machine is a total letdown. I can\u2019t even get it to turn on half the time. when it does work, the coffee tastes burnt or just plain bad. the settings are confusing and there\u2019s always an error message flashing on the screen. tried to get customer service to help but they were no help either! save your money, it\u2019s not worth it.",
+            "language": "English"
+        },
+        {
+            "review": "This coffee machine is a complete waste of money. I thought it would brew great coffee, but it\u2019s a nightmare. Always messes up my drinks, beans get stuck, and the water never heats right. Takes forever just to get a cup! Super complicated to set up. I just want my morning coffee\u2014this thing just makes me angry. I expected better, but now it just collects dust. Do not recommend at all. Total disappointment.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "259",
+    "name": "Culinary Harmony Cookware Collection",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 15,
+    "description": "Elevate your culinary adventures with the exquisite cookware set designed for the modern kitchen enthusiast. This stunning collection offers an array of versatile pieces, each crafted to ensure consistent results and effortless cooking. Whether you\u2019re saut\u00e9ing fresh vegetables, simmering savory sauces, or searing a succulent steak, each item in this set promises to deliver professional-quality performance every time.\n\nCrafted from high-grade, non-stick materials that are PFOA-free, our cookware ensures easy food release and hassle-free cleanup. The elegant and durable titanium-infused surface is not only scratch-resistant but also provides lasting heat distribution, allowing you to cook evenly and achieve perfection on every plate. With ergonomic, stay-cool handles, you\u2019ll enjoy a comfortable grip while expertly maneuvering your pans",
+    "images": [
+        "product_259_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Die T\u00f6pfe sehen echt gut aus, aber ich hatte mehr erwartet. Einige der Pfannen sind nicht antihaftbeschichtet, wie versprochen. Das Essen klebt echt fest und wird nicht gleichm\u00e4\u00dfig gegart. Au\u00dferdem habe ich ein paar Kratzer nach der ersten Benutzung entdeckt. F\u00fcr den Preis kann man echt bessere Sets finden. Die Griffe sind auch ziemlich hei\u00df, das ist gef\u00e4hrlich. Insgesamt bin ich entt\u00e4uscht. Hatte auf mehr gehofft.",
+            "language": "German"
+        },
+        {
+            "review": "N\u00e3o superou minhas expectativas. O conjunto de panelas parece bonito, mas na pr\u00e1tica n\u00e3o \u00e9 t\u00e3o eficiente. As frigideiras n\u00e3o distribuem bem o calor e os alimentos grudam com facilidade, mesmo com \u00f3leo. A qualidade do material me deixou na d\u00favida, parece que n\u00e3o vai durar muito tempo. Al\u00e9m disso, as al\u00e7as esquentei bastante ao usar no fogo, o que \u00e9 um perigo. Pelo pre\u00e7o que paguei, esperava algo melhor, mas pelo jeito vou ter que procurar",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I really wanted to like this cookware set but it just doesn\u2019t cut it. The pots look nice and all, but they don't heat evenly. I\u2019ve burned a few meals already. The non-stick coating I thought was great at first started peeling after only a few uses. Super disappointing! The handles get really hot too \u2013 I had to use oven mitts all the time. I had high hopes but honestly not worth the money. Wouldn\u2019t recommend it.",
+            "language": "English"
+        }
+    ]
+}
