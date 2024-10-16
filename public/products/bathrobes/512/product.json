@@ -1,0 +1,33 @@
+{
+    "nr": "512",
+    "name": "CloudEmbrace Robe",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 20,
+    "description": "Wrap yourself in the ultimate sanctuary of comfort and luxury with our magnificent LushHug Robe. Perfectly designed for those who understand that a little indulgence goes a long way, this plush robe transforms mundane moments into a personal spa experience. Crafted from a premium blend of ultra-soft microfiber and fuzzy fleece, each wear envelops you in a gentle embrace, making it the perfect companion for your morning rituals, cozy evenings, or serene self-care days.\n\nThe LushHug Robe boasts a thoughtfully engineered fit that flatters every silhouette, featuring a stylish shawl collar and wide sleeves that allow for unrestricted movement. With deep front pockets designed to cradle your essentials\u2014be it your phone, a favorite book, or a warm mug of tea\u2014",
+    "images": [
+        "product_512_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this robe, but honestly, it just didn\u2019t live up to my expectations. The material feels kinda cheap, not soft like I wanted. After just a few washes, it started to pill, which is disappointing. Also, the sizing is off - I ordered a large, and it fits more like a medium. It\u2019s not very cozy either, just feels like I\u2019m draped in a not-so-warm blanket. I expected way better for the price. It's just",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this bathrobe based on the ads, but it didn't really live up to them. The material feels kinda cheap and isn't very soft. I expected something cozy to wrap up in after my showers, but instead it just scratches a bit. Also, the fit is strange. It's kind of tight in the shoulders but wide at the bottom? What\u2019s up with that? \n\nI bought this thinking it'd be good for lounging around at home, but it doesn\u2019t do a great job",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this robe, but it just didn\u2019t live up to my expectations. The material feels cheap and isn\u2019t as soft as I hoped. Used it after a shower, and it didn\u2019t absorb the water well at all. Also, it\u2019s way too loose\u2014it slips off my shoulders too easily. The fit is off, and it\u2019s not very flattering, which was disappointing. Overall, I\u2019ve had better robes for less money. It\u2019s okay, but I wouldn\u2019t recommend",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this robe\u2014thought it would be super comfy and warm. But honestly, it just wasn\u2019t what I expected. The material felt kinda scratchy, and it doesn\u2019t keep me warm at all. It looks nice but when I wear it, I just don't feel cozy like I do in my other bathrobes. Plus, it shrank a little after the first wash, which really disappointed me. I expected better for the price so yeah\u2014it\u2019s okay but not great.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this robe; it looked great online but doesn\u2019t quite hit the mark for me. The fabric is softer than I expected, which is nice, but it feels thin and cheap. It doesn't keep me warm at all, and sometimes I wish I hadn\u2019t even bothered wearing it. The sizing is also off\u2014it's either too tight in the shoulders or way too loose everywhere else. \n\nI thought I would find it cozy to lounge around in, but instead, it just feels",
+            "language": "English"
+        }
+    ]
+}

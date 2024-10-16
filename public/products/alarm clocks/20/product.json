@@ -1,0 +1,28 @@
+{
+    "nr": "20",
+    "name": "Snooze Symphony",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 2,
+    "description": "Experience the dawn of a new day like never before with the ultimate sleep companion, the Sonata Alarm Clock. Designed for those who appreciate both form and function, this innovative alarm clock transforms the art of waking into a melodious symphony. Its unique, gradual wake-up feature gently lifts you from sleep with soft light and harmonious sounds, allowing for a more natural and refreshing start to your mornings.\n\nThe Sonata is not just an alarm clock; it\u2019s a personalized experience. With a selection of over twelve tranquil sounds, ranging from gentle birdsong to soothing ocean waves, you can select the perfect wake-up tune that suits your mood. Pair this with customizable brightness settings that simulate a natural sunrise, and say goodbye to the jarring blare of traditional alarms.",
+    "images": [
+        "product_20_01.png",
+        "product_20_02.png",
+        "product_20_03.png",
+        "product_20_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love this alarm clock! It has completely changed my mornings for the better. The sound quality is amazing \u2013 I appreciate the gentle wake-up tones that gradually increase in volume. No more jolting out of bed! I also love the customizable settings; I can choose different melodies for different days based on my mood. The design is sleek and modern, fitting perfectly on my nightstand. \n\nAnother fantastic feature is the sleep sounds. They really help me drift off at night. I find the nature",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love my new alarm clock! The sound quality is amazing\u2014it's like waking up to a gentle symphony of nature. The selection of melodies is impressive, and I appreciate that I can customize my wake-up tunes to fit my mood. The snooze feature is perfectly designed; just a light tap and I can grab a few extra minutes of blissful rest without any fuss.\n\nOne of my favorite features is the gradual volume increase. It really does make waking up so much less jarring!",
+            "language": "English"
+        },
+        {
+            "review": "J'ai enfin trouv\u00e9 le r\u00e9veil parfait ! Lorsqu'il sonne le matin, la m\u00e9lodie douce est si agr\u00e9able que je n'ai plus envie de le jeter \u00e0 travers la pi\u00e8ce. Les sons de la nature m'apaisent et me mettent de bonne humeur d\u00e8s le r\u00e9veil. La fonction de calage qui joue des accords harmonieux est vraiment innovante et rend mes mornings tellement mieux ! J'aime aussi le r\u00e9glage facile de l'heure et les fonctionnalit\u00e9s suppl\u00e9mentaires comme le simulateur de lever",
+            "language": "French"
+        }
+    ]
+}

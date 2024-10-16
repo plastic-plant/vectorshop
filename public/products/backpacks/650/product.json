@@ -1,0 +1,27 @@
+{
+    "nr": "650",
+    "name": "TrailBlaze Rucksack",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 2,
+    "description": "Discover the ultimate companion for your outdoor adventures with our top-of-the-line rucksack, designed for those who crave the thrill of exploration. This innovative pack combines a sleek, modern design with unparalleled functionality, ensuring you\u2019re ready for any journey, whether it's a day hike through rugged wilderness or a leisurely stroll through the city. Its lightweight yet durable materials offer resilience against the elements while maintaining comfort throughout your adventures.\n\nExperience the convenience of intelligent organization with multiple compartments, including a spacious main section, front pocket for easy access to essentials, and specialized sleeves for hydration reservoirs. The thoughtfully designed side pockets are perfect for stashing water bottles or snacks, while the internal mesh pockets keep your smaller items secure. Seamlessly transition between outdoor activities with adjustable straps that provide a",
+    "images": [
+        "product_650_01.png",
+        "product_650_02.png",
+        "product_650_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely thrilled with this rucksack! From the moment I put it on, I felt like I was ready to tackle any adventure. The first thing I noticed was how incredibly comfortable it is \u2013 the padded straps are perfect, even when fully loaded. I can wear it all day without any discomfort.\n\nThe storage capacity is amazing! There are plenty of pockets to keep everything organized, and I love how spacious the main compartment is. I easily fit my laptop, water bottle, and all my essentials",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had the best experience with this rucksack! From the moment I put it on, I could feel how comfortable it is; the padding is perfect and doesn\u2019t dig into my shoulders. I\u2019ve taken it on hiking trips and daily commutes, and it holds everything I need without feeling bulky. The pockets are super handy for organizing my gear, especially the side pockets for my water bottles. \n\nThe material seems really durable too, I can tell it\u2019s made to last through all the outdoor",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely love this rucksack! The design is sleek and it fits my back perfectly. I've taken it on numerous hikes and it\u2019s super comfortable, even when packed with all my gear. The pockets are just the right size, and I love how organized it keeps everything. No more digging around for my snacks or phone! The material feels durable, and I can tell it\u2019s going to last me for years.\n\nI also appreciate the color options \u2013 I went with the deep blue, and it looks fantastic",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "273",
+    "name": "NomadNest Backpack",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 19,
+    "description": "Elevate your adventures with the ultimate companion designed for the modern explorer\u2014the NNB! This versatile backpack combines style, functionality, and comfort, making it the perfect choice for daily commutes, weekend getaways, or spontaneous outdoor escapades. Crafted from water-resistant, durable fabric, the NNB ensures your belongings stay safe and dry, whether you\u2019re navigating a bustling city street or trekking through nature\u2019s trails.\n\nWith an innovative design that prioritizes organization, the NNB features multiple compartments and pockets, including a padded laptop sleeve, ideal for tech-savvy users, and a quickly accessible front pocket for essentials like your phone and wallet. The spacious main compartment offers ample room for clothes and gear, allowing you to transition from the office to the gym with",
+    "images": [
+        "product_273_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve had this backpack for a few months now, and I have to say, it's pretty average. It looks great at first glance but doesn't live up to the hype. The pockets are kind of cramped\u2014ideal for smaller items but tough for bigger stuff like my water bottle or laptop. \n\nThe straps don\u2019t feel as comfy as I hoped either, especially when it's fully loaded. I've even noticed some stitching coming undone after a short time. On the plus side, it is lightweight, and it",
+            "language": "English"
+        },
+        {
+            "review": "Tengo sentimientos encontrados con esta mochila. Por un lado, es ligera y parece bien dise\u00f1ada, pero no cumple con todas mis expectativas. Los compartimentos son suficientes, pero me gustar\u00eda que tuvieran m\u00e1s organizaci\u00f3n para mantener mis cosas en su lugar. He tenido un par de problemas con las costuras que se ven un poco flojas, lo que me hace dudar de su durabilidad a largo plazo. El estilo est\u00e1 bien, aunque no es tan atractivo como otros que he visto por el mismo precio",
+            "language": "Spanish"
+        },
+        {
+            "review": "I have mixed feelings about this backpack. It has great compartments, and I like how many things you can store, but it's not as comfortable as I was hoping. After a few hours of wearing it, the straps dig into my shoulders pretty bad, which is disappointing since I liked using it for daily errands. The design looks nice at first glance, but you can tell the material doesn't feel super durable. It's decent for the price, and if you\u2019re just looking for something to toss stuff in,",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this backpack, and it\u2019s okay but not amazing. The design is nice and it looks pretty sleek, but I wish it had more pockets. I couldn\u2019t fit all my stuff comfortably. The straps are kinda thin, so after a while it hurts my shoulders. It does carry my laptop well, but that\u2019s about it. I also don't like the material too much; it feels cheap and I\u2019m not sure how durable it is. Overall, it's an all-right bag just not",
+            "language": "English"
+        }
+    ]
+}

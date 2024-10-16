@@ -1,0 +1,33 @@
+{
+    "nr": "137",
+    "name": "VentureVault Backpack",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 19,
+    "description": "Unleash your adventurous spirit with this versatile travel companion, designed for those who thrive on exploration and mobility. Crafted from durable, weather-resistant materials, this backpack effortlessly adapts to any environment, whether you're navigating urban jungles, hiking rugged terrains, or commuting to work. Its sleek, modern design not only ensures you stand out in a crowd, but it also offers unmatched functionality that meets the needs of today\u2019s fast-paced lifestyle.\n\nExperience unparalleled organization with multiple compartments tailored for convenience and accessibility. A dedicated laptop pocket fits devices up to 15 inches, complete with a plush lining to keep your tech safe and secure. Side pockets provide easy access to water bottles or umbrellas, while an expansive main compartment leaves ample room for clothes, gear, or gym",
+    "images": [
+        "product_137_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Got this backpack thinking it would help me organize my stuff better, but it's just a total mess. The zippers keep getting stuck, and the pockets are way too small for anything useful. The straps hurt my shoulders, can't even carry it for long. Also, it looks cheap and not durable at all. Super disappointing. Don't waste your money like I did.",
+            "language": "English"
+        },
+        {
+            "review": "I really don't get the hype around this thing. It's super uncomfortable! The straps just dig into my shoulders no matter how I adjust em. The pockets are so small, I can barely fit my laptop and a few essentials. Plus, the zipper broke after a week!! \ud83d\ude21 Really disappointing, I expected way better. Save your money and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "This backpack is a total letdown. First off, the quality is bad. The zippers get stuck all the time, and the straps are way too thin. I\u2019m really disappointed, it doesn't hold much and feels cheap. I tried to cram my laptop in, but it barely fits and feels like it\u2019s gonna rip. The pockets are useless, not enough space for my stuff. Would not recommend this to anyone. Save your money for a better one!",
+            "language": "English"
+        },
+        {
+            "review": "This backpack is a total letdown. I really expected more from it but it feels cheap and flimsy. The straps dug into my shoulders and didn\u2019t feel comfortable even with a light load. The zippers jammed constantly and I could barely fit my laptop and books inside. The design is so plain, looks nothing like it did in the pictures. Plus, the pockets are awkwardly placed, it\u2019s hard to get to anything quickly. Save your money, not worth it at all. I",
+            "language": "English"
+        },
+        {
+            "review": "This backpack is awful. First day I used it, the straps started ripping. The pockets are way too small, can't fit anything but a pencil, and even then it spills out. Other users might say it's comfy, but it's not\u2014hard to carry and just overall a hassle. Plus, zippers get stuck all the time, super annoying. I regret buying. Don\u2019t waste your money.",
+            "language": "English"
+        }
+    ]
+}

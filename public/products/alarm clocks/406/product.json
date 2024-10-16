@@ -1,0 +1,29 @@
+{
+    "nr": "406",
+    "name": "\"WakeWave Alarm\"",
+    "price": "2999",
+    "ranking": 2,
+    "availability": 22,
+    "description": "Transform your mornings with a revolutionary wake-up experience designed to seamlessly integrate into your daily routine. This innovative alarm clock isn\u2019t just a timekeeper; it's a personalized wake-up assistant that adapts to your unique sleep cycle and lifestyle. With its gentle, progressive wake-up light that mimics the sunrise, you'll awaken in a state of calm and serenity, leaving the harshness of traditional alarms behind.\n\nEquipped with smart snooze technology, this remarkable device allows you to gently drift back to sleep for those precious extra minutes without the guilt of overdoing it. Set your desired snooze duration, and stay snug in your covers while it gradually increases both light and sound, nudging you awake at a pace tailored just for you. The intuitive touch panel and",
+    "images": [
+        "product_406_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this alarm clock, especially with all the cool features advertised. But honestly, it just doesn't cut it. Setting the time is confusing, and I still can\u2019t figure out how to make it stop snoozing relentlessly. The sound options? They\u2019re not great, a lot of them are just annoying, not relaxing at all. Plus, the light is way too bright for early mornings; it\u2019s more like a spotlight than a gentle wake-up call. Overall, I wanted",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love this alarm clock, but it just didn\u2019t deliver. The features sounded great on paper, like the gradual wake up thing and all the nature sounds, but in reality, it just wakes me up too suddenly. The volume is either too low or way too loud\u2014no middle ground. The snooze button is annoyingly small too, I keep hitting the wrong one when I'm still half asleep. Also, the app setup was a hassle, it kept crashing and made my mornings more",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this alarm clock, but it just didn\u2019t meet my expectations. The design is neat, I\u2019ll give it that, but it often doesn\u2019t go off when it\u2019s supposed to. I\u2019ve woken up late a few times because of it, which is super frustrating. The app is confusing and doesn't always sync with the clock. One time, I had it set to go off on a weekday and it totally ignored my settings. Honestly, I expected way more for",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this alarm clock but it just misses the mark. It looked great online and had some cool features, but in reality, it's not as user-friendly as I hoped. The snooze button is way too hard to press, and sometimes it doesn't even wake me up at the right time! Plus, the sound is not loud enough for my taste \u2013 I often sleep right through it. \n\nThe app that connects to it is kinda clunky, too. Sometimes it won't sync and",
+            "language": "English"
+        }
+    ]
+}

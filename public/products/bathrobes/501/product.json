@@ -1,0 +1,21 @@
+{
+    "nr": "501",
+    "name": "CloudCocoon Bathrobe",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 18,
+    "description": "Wrap yourself in the ultimate comfort with the most luxurious robe you\u2019ll ever own. This exquisite bathrobe is designed to cradle your body like a gentle embrace, transforming your post-bath routine into a spa-like experience. Imagine stepping out of a warm shower and into a world where softness and warmth are paramount\u2014this robe serves as the perfect cocoon to envelop you in tranquility.\n\nCrafted from a premium blend of ultra-soft materials, the robe features an innovative fabric technology that retains warmth without feeling heavy. Its lightweight design allows for unrestricted movement, whether you\u2019re lounging with a book, brewing your morning coffee, or enjoying a cozy movie night. Say goodbye to stiff, scratchy robes; this luxurious piece drapes elegantly over your skin, making every moment",
+    "images": [
+        "product_501_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this bathrobe for a few weeks now, and I have to say, it's really nice overall. The fabric is super soft and fluffy, making it perfect for lounging around the house. I love how cozy it feels after a shower, and it keeps me warm without being too heavy. \n\nThe fit is pretty good too; it drapes nicely and isn't too tight. The pockets are a nice touch\u2014you can never have enough of those! The only downside is that I wish it had",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this bathrobe for a few weeks now, and I have to say, it's pretty great. The fabric is soft and cozy, making it perfect for chilly mornings. It\u2019s not too heavy but still feels warm, which is a nice balance. \n\nThe fit is comfortable; I don\u2019t feel constricted at all when I wear it. Love the pockets too\u2014they're deep enough for my phone, which is a huge plus. \n\nMy only small issue is that it could be a",
+            "language": "English"
+        }
+    ]
+}

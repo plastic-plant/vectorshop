@@ -1,0 +1,29 @@
+{
+    "nr": "122",
+    "name": "Velvet Whisper Bathrobe",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 3,
+    "description": "Indulge in the ultimate blend of luxury and comfort with our sumptuous bathrobe, designed for those who appreciate the finer things in life. Crafted from an ultra-soft, plush fabric that caresses your skin like a gentle whisper, this robe promises to wrap you in warmth and serenity every time you slip it on. Whether you're enjoying a leisurely morning with a cup of coffee or winding down after a long day, this cozy companion transforms everyday rituals into exquisite experiences.\n\nThe thoughtfully designed layering of fabric not only provides unmatched softness but also retains optimal warmth while remaining breathable, ensuring you stay comfortable year-round. With its elegant drape and flowing silhouette, this robe enhances your self-care routine, making you feel like royalty in the comfort of your home. Plus,",
+    "images": [
+        "product_122_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really disappointed with this bathrobe. The fabric feels cheap and scratchy, not soft at all like I expected. It doesn\u2019t keep me warm either; kinda feels like wearing a paper towel. It started shedding lint everywhere after just one wash. The fit is off too\u2014too tight around the shoulders and way too long. Can\u2019t even walk properly in it. Definitely wouldn\u2019t recommend it. Save your money.",
+            "language": "English"
+        },
+        {
+            "review": "This bathrobe is a total letdown. First off, the fabric is rough, not soft like I expected. It feels cheap and uncomfortable against my skin. Sizing is also off; it's way too tight around the shoulders but way too loose everywhere else. I can't even tie it properly without it slipping. Not cozy at all! After a couple of washings, it started to pill and just looks worn out. What a waste of money. Not recommending this to anyone. Super disappointed!",
+            "language": "English"
+        },
+        {
+            "review": "This bathrobe is a total letdown! First off, the fabric feels cheap. It\u2019s supposed to be soft, but instead it\u2019s scratchy and kinda uncomfortable. The size is way off too\u2014way too small. I bought a large and it fits like a medium. After a few washes, the color faded a lot and it\u2019s pilling like crazy. I honestly thought it would be cozy but every time I wear it, I regret my choice. Really not worth the money. Would",
+            "language": "English"
+        },
+        {
+            "review": "had high hopes for this robe but it totally misses the mark. the fabric feels cheap and doesn't wrap around me properly, super uncomfortable. I thought it would be cozy but it's scratchy and not warm at all. the sizing is weird too, I got a large and it's still too tight in some places. total waste of money. seriously disappointed, won\u2019t buy again.",
+            "language": "English"
+        }
+    ]
+}

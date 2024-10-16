@@ -1,0 +1,22 @@
+{
+    "nr": "303",
+    "name": "DreamWave Alarm Clock",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 7,
+    "description": "Awaken your senses and embrace the dawn with a revolutionary timepiece designed for the dreamers and doers of today. This extraordinary alarm clock doesn\u2019t just tell time; it transforms your morning routine into a serene and revitalizing experience. With its sleek, modern design and vibrant LED display, this clock complements any bedroom style, while a customizable color palette allows you to set the perfect ambiance for a peaceful slumber or an invigorating wake-up call.\n\nBid goodbye to jarring alarms that start your day on the wrong note. This innovative device features a gentle sunrise simulation, gradually illuminating your room with soothing light that mimics the natural rising sun. You can wake up in harmony with nature, feeling refreshed rather than shocked awake. Coupled with an assortment",
+    "images": [
+        "product_303_01.png",
+        "product_303_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this alarm clock, but it just doesn\u2019t cut it. The features sounded great, like the sunrise simulation and the Bluetooth speaker. But honestly, the sunrise feature is more like a dim glow than a real wake-up light. I still find myself hitting snooze. And the sound quality? Not great \u2013 it sounds really tinny. The setup was a hassle too, kept disconnecting from my phone. I thought maybe it just needed time to warm up, but it never",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this alarm clock, but it\u2019s been pretty disappointing. The design is nice, but that doesn\u2019t make up for its flaws. The sound barely wakes me up, and I often end up snoozing it without realizing. Also, the light is too bright at night even on the lowest setting, which makes it hard to sleep. Connecting it to my phone for the music feature took forever, and it keeps disconnecting randomly. I've tried to like it, but it hasn't",
+            "language": "English"
+        }
+    ]
+}

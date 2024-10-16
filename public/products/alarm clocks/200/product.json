@@ -1,0 +1,21 @@
+{
+    "nr": "200",
+    "name": "\"Snooze Sphere\"",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 9,
+    "description": "Meet your new favorite wake-up companion, the ultimate solution for anyone who struggles with mornings. This innovative orb combines modern design with cutting-edge technology to create an experience that transforms your wake-up routine into something pleasant and refreshing. No more jarring alarms or feelings of panic\u2014the softly glowing light and gentle sounds will slowly ease you into your day, making waking up a delightful ritual instead of a dreaded chore.\n\nEquipped with state-of-the-art soundscapes, this product offers a range of ambiance options, from serene ocean waves to the chirping of dawn-lit birds. You can even personalize your wake-up playlist via Bluetooth, ensuring you rise to the music that inspires and energizes you. The gradual volume increase means you\u2019ll wake feeling alert and invigorated",
+    "images": [
+        "product_200_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This thing is awful. Got it thinking it would help me wake up, but it just doesn't work. The \"snooze\" feature is a joke. Somehow makes me sleep longer instead of waking me up! Sometimes it doesn\u2019t even go off. It looks cool but it's useless. Wish I could return it. Save your money and get a regular alarm clock. This is just a waste of space.",
+            "language": "English"
+        },
+        {
+            "review": "This is just a waste of money. The alarm goes off and it takes forever to actually get to it. Half the time, it doesn\u2019t even ring! I thought it would help me wake up easier but it just makes me more tired. The setup was super complicated and I still can\u2019t figure it out. This thing is just a confusing mess. Trust me, you can do better.",
+            "language": "English"
+        }
+    ]
+}

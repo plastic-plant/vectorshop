@@ -1,0 +1,25 @@
+{
+    "nr": "373",
+    "name": "WanderGuard Backpack",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 18,
+    "description": "Meet your ultimate adventure companion\u2014a backpack designed to elevate every journey with style and functionality. Crafted for the modern explorer, this multifunctional carrier merges sleek aesthetics with cutting-edge innovation. Whether you\u2019re navigating a bustling cityscape, embarking on a weekend getaway, or hitting the trails, this remarkable pack is built to accommodate all of your needs without compromising comfort.\n\nDesigned with the brightest minds in ergonomics, this backpack features an adjustable suspension system that contours to your back, ensuring all-day comfort, no matter where your travels take you. Equipped with an innovative airflow back panel, it maximizes ventilation to keep you cool even during those long hikes or spontaneous urban explorations. Plus, its lightweight yet durable design allows you to pack everything you need without feeling weighed down",
+    "images": [
+        "product_373_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "A mochila parece legal por fora, mas quando voc\u00ea come\u00e7a a usar, \u00e9 meio decepcionante. A qualidade do material n\u00e3o \u00e9 l\u00e1 essas coisas, me senti inseguro com as costuras. O espa\u00e7o interno \u00e9 limitado, n\u00e3o consegui levar tudo que precisava e a parte do suporte nas costas n\u00e3o \u00e9 confort\u00e1vel, parece que tudo pesa mais. N\u00e3o tem tantos bolsos e, as al\u00e7as quando ajusto ficam escorregando. \u00c9 uma pena, tinha grandes expectativas! poderia ser bem melhor.",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I've got to say, I had high hopes for this backpack, but it really fell short. It looks nice at first glance and has a decent amount of space. But the straps are super thin and uncomfortable for longer hikes, and I feel like they're gonna break any second. Plus, the pockets are awkwardly placed; I can never find my stuff when I need it. \n\nIt's okay for short trips, but for anything more, I wouldn't trust it. Honestly, for the price, I expected",
+            "language": "English"
+        },
+        {
+            "review": "Comprei esta mochila esperando que fosse uma \u00f3tima adi\u00e7\u00e3o ao meu dia a dia, mas n\u00e3o atendeu minhas expectativas. A qualidade do material n\u00e3o parece muito boa e j\u00e1 percebi algumas costuras soltas. O espa\u00e7o interno tamb\u00e9m \u00e9 bem limitado, e eu tenho dificuldades em organizar minhas coisas. As al\u00e7as s\u00e3o desconfort\u00e1veis, especialmente quando a mochila est\u00e1 cheia. O design \u00e9 bonito, mas isso n\u00e3o compensa os problemas. No geral, n\u00e3o fico satisfeita com a compra e n\u00e3o",
+            "language": "Portuguese"
+        }
+    ]
+}

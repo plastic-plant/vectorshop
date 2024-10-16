@@ -1,0 +1,36 @@
+{
+    "nr": "38",
+    "name": "TrailBlazer Pack",
+    "price": "4999",
+    "ranking": 1,
+    "availability": 16,
+    "description": "Embrace adventure with the ultimate companion designed for explorers and busy go-getters alike. This versatile backpack effortlessly combines style and functionality, making it the perfect accessory for everything from trekking through dense forests to navigating the bustling city streets. Crafted with high-quality, water-resistant materials, it ensures that your belongings stay dry and secure, no matter what the weather throws your way. You'll love the lightweight yet durable construction that keeps you comfortable, whether you're climbing mountains or commuting to work.\n\nWith ample storage space, the thoughtfully-designed interior features multiple compartments that make organization a breeze. There's a dedicated laptop sleeve to keep your tech safe, while side pockets provide easy access to water bottles or quick-grab essentials. A front zip pocket is perfect for stowing away smaller items",
+    "images": [
+        "product_38_01.png",
+        "product_38_02.png",
+        "product_38_03.png",
+        "product_38_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "comprei essa mochila e estou muito decepcionado. primeiramente, chegou com um furo na lateral, parecia usada. al\u00e9m disso, a qualidade do material \u00e9 p\u00e9ssima, se eu colocar algumas coisas, j\u00e1 fica parecendo que vai arrebentar. n\u00e3o tem estrutura e as al\u00e7as s\u00e3o muito finas, machucam os ombros. n\u00e3o compensa o pre\u00e7o. n\u00e3o recomendo pra ningu\u00e9m, \u00e9 um desperd\u00edcio de dinheiro. se eu pudesse devolvia. quase nunca",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I really wanted to like this, but wow, what a disappointment. The straps are so uncomfortable, it feels like I'm carrying a rock on my back. I mean, who designed this? The pockets are useless\u2014can barely fit my water bottle in. Zippers get stuck all the time, and it looks like it'll fall apart any moment. I can't believe I wasted money on this. Definitely not worth it!",
+            "language": "English"
+        },
+        {
+            "review": "Got my hopes up with this pack but it was a huge letdown. The straps hurt my shoulders after a few minutes, and it's not even heavy. Zippers got stuck right outta the box, like what a waste. There's barely any space inside, I struggle to fit my laptop and books. Things started falling apart within a week, seams coming undone. I expected way more for the price, very disappointed. Not worth it at all, don\u2019t bother.",
+            "language": "English"
+        },
+        {
+            "review": "this is the worst backpack i've ever owned. it rips so easily! i barely stuffed it and already a hole. the zippers are like stuck half the time and it\u2019s impossible to close. the straps are super uncomfortable and dig into my shoulders. i thought it was going to be spacious but it feels like there's no room at all. not worth the money at all. i regret buying it!",
+            "language": "English"
+        },
+        {
+            "review": "This backpack is a disaster. It looks cheap and feels like it\u2019ll rip any moment. The straps are super uncomfortable and digging into my shoulders. I tried to put a water bottle in the side pocket and it doesn\u2019t even fit! The zippers get stuck all the time, and half the time they don\u2019t open all the way. I've already had to sew a seam because it busted open. It's a total waste of money, honestly. Don\u2019t bother with this one. You\u2019ll regret it",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "nr": "76",
+    "name": "LuxeLounge Bathrobe",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 23,
+    "description": "Indulge in the epitome of comfort and elegance with our cozy companion, the Luxe Wrap. Crafted from the softest, ultra-absorbent fabric, this bathrobe envelops you in warmth as you step out of the shower or sip your morning coffee. Every stitch is designed to embrace your skin gently, transforming your self-care rituals into a lavish experience. Imagine feeling the plush texture draping over your shoulders as you unwind, cocooned in luxury after a long day.\n\nDesigned with both style and practicality in mind, the Luxe Wrap features an adjustable waist belt that not only ensures a perfect fit but also adds a touch of sophistication to your lounging attire. With spacious pockets conveniently positioned to house your phone, remote, or a cheeky",
+    "images": [
+        "product_76_01.png",
+        "product_76_02.png",
+        "product_76_03.png",
+        "product_76_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently picked up a new bathrobe, and I have to say, it\u2019s pretty nice! It\u2019s incredibly soft and cozy, making my morning routine feel like a spa day. The material is lightweight, so it doesn\u2019t make me feel too hot, which is a big plus. \n\nIn terms of size, it fits well, and the length is just right\u2014no worries about it being too short or slipping off. The pockets are good for slipping in my phone or some snacks when I",
+            "language": "English"
+        },
+        {
+            "review": "I recently picked up this bathrobe and overall, it\u2019s been pretty great. The fabric feels soft and cozy, perfect for lounging around the house. It\u2019s lightweight, which means it\u2019s not too bulky, but still has that warmth you want after a bath or shower. \n\nThe sizing is generous; I didn\u2019t feel constricted at all. Plus, the pockets are a nice touch\u2014big enough to hold my phone or some snacks! I really like the color options too. \n\nThe only",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this bathrobe, and I have to say it\u2019s really nice! It\u2019s super soft and cozy \u2013 perfect for lounging around the house. The fabric feels high-quality, and I love how it wraps around you just right. The pockets are a great touch, and I appreciate being able to keep my phone handy while I'm relaxing. \n\nThe only downside is that I wish it was a bit warmer, especially for those chilly mornings. Also, it could be a tad longer in length for",
+            "language": "English"
+        }
+    ]
+}

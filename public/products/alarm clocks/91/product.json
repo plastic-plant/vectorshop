@@ -1,0 +1,28 @@
+{
+    "nr": "91",
+    "name": "SnoozeSphere",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 19,
+    "description": "Transform the way you wake up with the ultimate blend of innovation and style. Imagine a sunrise every morning tailored just for you. Our revolutionary alarm clock provides a customizable light simulation, gradually illuminating your bedroom to mimic the dawn. Say goodbye to harsh beeping and embrace a more natural waking experience with soft hues that ease you into the day. With a simple, chic design that complements any decor, this device is not just an alarm clock; it's a stunning piece of art that enhances your living space.\n\nBut that\u2019s only the beginning. This intelligent clock goes beyond a gentle wake-up call by offering personalized settings for every day of the week. You can choose from various natural sounds\u2014like gentle ocean waves or chirping birds\u2014that play for you at your designated",
+    "images": [
+        "product_91_01.png",
+        "product_91_02.png",
+        "product_91_03.png",
+        "product_91_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this smart alarm clock for a few weeks now, and I gotta say it\u2019s pretty great! Setting alarms is a breeze. The touch interface is really smooth and responsive, which I love. The snooze feature is super convenient, and the gradual brightness for waking up is such a pleasant way to start the day instead of being jolted awake. \n\nI also appreciate the customizable sounds; I\u2019m a fan of nature sounds, so it adds a nice peaceful vibe in the morning.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smart alarm clock for a few weeks now, and overall, I\u2019m quite pleased with it! The design is sleek, and it fits nicely on my nightstand. The sound quality of the alarms is really impressive; it\u2019s gentle enough to wake me up without feeling jolted. I appreciate the gradual volume increase feature too\u2014it\u2019s much nicer than my old alarm. \n\nThe customizable settings are a bonus; I love that I can select nature sounds or even my favorite tunes to wake",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this alarm clock and I have to say, it\u2019s overall pretty decent! The design is sleek and modern, which really fits into my bedroom decor. I love that it has customizable light settings; it's super nice to wake up to a gentle glow rather than a blaring sound. The snooze function works great, though I do wish the snooze duration was a bit longer. \n\nSetup was straightforward, but I had to read the instructions because some features were a bit tricky to figure",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "nr": "633",
+    "name": "TrailBlazer Backpack",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 13,
+    "description": "Step into adventure with a companion that redefines convenience and style! The TrailBlazer's innovative design is perfect for those on the move\u2014whether you're hiking through rugged terrain, navigating the urban jungle, or embarking on a weekend getaway. Crafted with high-quality, water-resistant materials, this backpack ensures that your belongings are safe and dry, no matter the environment. Enjoy the freedom to explore without worrying about the weather or wear and tear, making every journey a worry-free experience.\n\nWith a spacious main compartment that effortlessly accommodates everything from a laptop to your favorite hiking gear, organization is made easy with adjustable internal dividers and multiple pockets. The padded, adjustable shoulder straps ensure a comfortable fit, reducing strain as you carry your essentials. The thoughtfully designed back panel",
+    "images": [
+        "product_633_01.png",
+        "product_633_02.png",
+        "product_633_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this backpack, and overall, I'm pretty satisfied with it. The design is sleek and modern, and it has just the right amount of pockets for organizing my stuff. I've taken it on a few hikes and it's super comfortable to wear, even after a long day out. The material feels durable, which is a plus since I can be a bit rough on my gear. \n\nThe storage space is generous\u2014perfect for my laptop and other essentials. I was a little worried about how it",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this backpack for a few weeks now, and overall, I\u2019m really happy with it. It has a great design and the materials feel sturdy. It holds everything I need, and I love the separate compartments for organization. The straps are comfortable, even when fully loaded, which is a huge plus for me. \n\nOne downside I noticed is that there could be a little more padding on the back; it can feel a bit stiff after carrying it for a long time. Also, the",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this backpack, and overall, it's been pretty great! The design is stylish and very comfortable to wear. I love how many compartments it has; I can organize my stuff easily. The straps are padded nicely, which is a plus when carrying heavier loads.\n\nThe only downside I've noticed is that the zipper can be a bit tricky at times, especially when it's full. Sometimes it feels like it might get stuck, which is a little annoying. But apart from that, it holds up well",
+            "language": "English"
+        }
+    ]
+}

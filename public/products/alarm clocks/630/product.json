@@ -1,0 +1,33 @@
+{
+    "nr": "630",
+    "name": "SnoozeSphere",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 15,
+    "description": "Transform your mornings with the ultimate sleep companion that redefines the way you wake up. Our innovative alarm clock, affectionately dubbed the \u201cSnoozer,\u201d is designed not just to jolt you awake but to elevate your entire awakening experience. With its sleek, modern design and customizable LED display, the Snoozer harmonizes seamlessly with any bedroom d\u00e9cor while providing intuitive usability that makes it a delight to interact with. \n\nThe Snoozer features an intelligent wake-up system that gradually brightens the display just like a natural sunrise, gently nudging you from slumber into your day. Choose from a variety of soothing sound options, from nature's gentle waves to soft chirping birds, allowing you to wake up gradually without the shock of a typical",
+    "images": [
+        "product_630_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Simplesmente maravilhoso! Este despertador mudou completamente as minhas manh\u00e3s. O design \u00e9 super elegante e combina perfeitamente com a decora\u00e7\u00e3o do meu quarto. As op\u00e7\u00f5es de despertador s\u00e3o incr\u00edveis; posso escolher entre v\u00e1rias melodias relaxantes ou sons da natureza. Al\u00e9m disso, a fun\u00e7\u00e3o de soneca \u00e9 espetacular. S\u00f3 de apertar um bot\u00e3o, eu ganho mais alguns minutinhos de sono, sem precisar ficar lutando com o alarme que \u00e9 irritante. \n\nA qualidade do som",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I've been using this new alarm clock for the past month, and it has completely changed my mornings! From the moment I set it up, I was impressed with how sleek and modern it looks. The display is clear and easy to read, even at a glance.\n\nI love the customizable wake-up sounds\u2014there\u2019s a perfect mix of nature sounds and gentle melodies that make waking up much more pleasant. I often struggle to get out of bed, but this clock has made it a lot easier for me",
+            "language": "English"
+        },
+        {
+            "review": "I can't believe how transformative this alarm clock is! From the sleek design to the customizable features, it's truly a game changer for my mornings. The gentle wake-up sounds are like being cradled in a warm embrace, which is such a relief compared to the jarring noise of traditional alarms.\n\nI love the snooze feature, which actually feels like you're enveloped in a soft cloud. It's so nice to have options, whether I want nature sounds, soothing melodies, or even my favorite podcast to",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely amazing! This alarm clock has changed my mornings entirely. The design is sleek and modern, fitting perfectly on my nightstand. What I love most is the customizable nature of the wake-up sounds; I can choose from soothing nature sounds or my favorite playlist to wake up to. No more jarring beeping that left me groggy and irritated. \n\nThe snooze feature is super handy\u2014I can tap it without even getting out of bed, and the functionality of the ambient light is simply fantastic.",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love my new alarm clock! It's honestly been a game changer for my mornings. The design is sleek and modern, fitting perfectly into my bedroom decor. It has an amazing feature that mimics a sunrise, gradually brightening the light to wake me up gently\u2014I feel so much more refreshed than when I used a regular alarm!\n\nThe sound quality is excellent; I can choose from soothing nature sounds or soft music, which helps me wake up relaxed rather than startled. There\u2019s even a snooze",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "477",
+    "name": "WakeWave Clock",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 2,
+    "description": "Experience a new dawn with this revolutionary alarm companion that transforms your mornings into a blissful ritual. Designed for the modern dreamer, this sleek and stylish timepiece offers more than just timekeeping; it's your gateway to a peaceful waking experience. With gentle sunrise simulation that gradually brightens your room, it mimics the natural rise of the sun, easing you into your day without the jarring interruption of traditional alarms. Say goodbye to groggy mornings and hello to a refreshed start that leaves you energized and ready to tackle whatever the day brings.\n\nEquipped with customizable sounds ranging from tranquil nature melodies to your favorite tunes, this clock tailors your morning wake-up call to suit your unique preferences. The intuitive touch display allows for easy navigation through its various features",
+    "images": [
+        "product_477_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "this alarm clock is just terrible. the sound is super weak and i can barely hear it even on full volume. tried to set the alarms multiple times but it just won\u2019t work right. woke up late so many times because of it. also the display is a pain to read at night, way too bright and blinding! not worth the money at all. do yourself a favor and avoid this headache. complete waste of time and space.",
+            "language": "English"
+        },
+        {
+            "review": "Worst alarm clock ever! Doesn't wake me up at all. The sound is too low even with volume up max. I missed work because of it! Also, the snooze button???? Super annoying. You hit it, but it doesn't even work half the time! The screen is too bright too, makes it hard to sleep. Save your money and invest in something reliable. Total waste of time!",
+            "language": "English"
+        },
+        {
+            "review": "these have to be the worst clocks ever! can't believe I waste my money on this. it doesn\u2019t wake me up at all! I hit snooze like 5 times every morning! the screen is way too bright at night, I can\u2019t even sleep. also, the sounds are annoying like some cheap old toy. I expected better quality but it feels super flimsy, like it might break any minute. seriously don\u2019t bother with this.",
+            "language": "English"
+        },
+        {
+            "review": "Deze wekker is echt een grote teleurstelling. Het geluid is veel te zacht en ik hoor het gewoon niet. Zelfs op de hoogste stand! Bovendien blijft de klok steeds op hetzelfde uur staan en soms valt hij gewoon uit. Geen snooze functie die werkt! Ook de app die erbij hoort is traag en begrijp ik niet. Was verwachtingen veel hoger, maar dit is echt geen aanrader. Verspil je geld hier niet aan.",
+            "language": "Dutch"
+        }
+    ]
+}

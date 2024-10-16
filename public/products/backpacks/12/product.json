@@ -1,0 +1,28 @@
+{
+    "nr": "12",
+    "name": "NomadNest Backpack",
+    "price": "2999",
+    "ranking": 5,
+    "availability": 20,
+    "description": "Discover the ultimate companion for your adventures with the versatile travel buddy that couples style with functionality. Engineered for both the urban explorer and outdoor enthusiast, it features a sleek, weather-resistant design crafted from durable materials that stand up to the rigors of everyday life. Its streamlined silhouette and modern aesthetics ensure you\u2019ll turn heads whether you\u2019re commuting through the city or trekking through the wilderness.\n\nExperience unparalleled organization with multiple compartments tailored for every need. The ingenious interior layout includes padded laptop and tablet sleeves, handy pockets for your essentials, and a spacious main compartment designed to hold everything from hiking gear to office supplies. With smart cord management, you can effortlessly charge your devices on the go, keeping you connected without the chaotic tangle of cords.\n\nComfort is crucial,",
+    "images": [
+        "product_12_01.png",
+        "product_12_02.png",
+        "product_12_03.png",
+        "product_12_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this backpack for a few weeks now, and it's absolutely fantastic! The design is sleek and modern, making it perfect for both work and casual outings. The compartments are so well thought out; I can fit my laptop, charger, textbooks, and even a water bottle without feeling cramped. The back support is a game changer, and I can carry it for hours without feeling any strain. \n\nThe materials feel high quality and durable, and I love that it's water-resistant! It has saved",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this backpack for a couple of months now, and I couldn't be happier with it! The design is not only sleek but functional too. I love how it has compartments for everything! My laptop fits perfectly in its padded sleeve, and there's still plenty of space for books, snacks, and my charger. The fabric feels durable, and I really appreciate how water-resistant it is. I had to walk in the rain the other day, and everything inside stayed completely dry.\n\nOne of my favorite",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this backpack, and I have to say, it\u2019s been a game-changer for my daily routine! The design is sleek and stylish, easily making it my go-to choice for both work and weekend trips. The fabric feels incredibly durable and resistant to wear, which gives me confidence it\u2019ll last a long time.\n\nI love the smart organization features! There are so many pockets that I can keep everything I need tidy and accessible. My laptop fits perfectly in its own padded section, and",
+            "language": "English"
+        }
+    ]
+}

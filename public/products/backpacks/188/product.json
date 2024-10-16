@@ -1,0 +1,21 @@
+{
+    "nr": "188",
+    "name": "TrailBlazer Backpack",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 15,
+    "description": "Introducing the ultimate companion for adventurers and daily commuters alike\u2014the VeloPack! Designed for those who seek both functionality and flair, this backpack combines rugged durability with a sleek, modern aesthetic. Made from high-quality, water-resistant fabric, the VeloPack ensures that your belongings stay dry and secure, whether you're traversing mountain trails or navigating urban jungles. The reinforced stitching and heavy-duty zippers guarantee a long-lasting performance, making it an investment you can rely on for years to come.\n\nWith an ergonomic design that focuses on comfort, the VeloPack features adjustable padded shoulder straps and a breathable back panel, allowing you to carry your load without strain during long treks. The lightweight architecture ensures that even when packed full, you can maintain agility",
+    "images": [
+        "product_188_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this backpack, but it has some major flaws. First off, the space is not as big as I thought. I can barely fit all my school stuff in there, which is super disappointing. The straps are pretty uncomfortable too; they dig into my shoulders when it's full. It looks nice, but when it comes to actually using it, it falls short. Also, the pockets aren\u2019t laid out well, making it hard to find things. Doesn\u2019t seem worth the hype",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this backpack, but it just didn't meet my expectations. The design looked great and it had some cool features, but that's where the good stuff ends. The material feels kind of cheap, and after a few weeks of use, I noticed some fraying on the straps. Also, the back support is not very comfortable, especially when carrying it for a long time.\n\nI thought I could fit all my things easily, but it turns out the main compartment is smaller than I expected",
+            "language": "English"
+        }
+    ]
+}

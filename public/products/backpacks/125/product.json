@@ -1,0 +1,29 @@
+{
+    "nr": "125",
+    "name": "AdventureHaul Backpack",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 19,
+    "description": "Introducing the ultimate companion for explorers and daily commuters alike: the all-in-one travel marvel designed for those who live life on the go! This innovative backpack combines style, practicality, and durability, ensuring that every journey, whether a stroll through the urban jungle or a weekend camping trip, is not only stress-free but also filled with thrills. With multiple compartments and pockets, you can easily organize your gear, essentials, and tech while having everything at your fingertips.\n\nCrafted from high-quality, weather-resistant materials, this multifunctional backpack stands up to whatever adventure you throw at it. The reinforced seams and ultra-durable zippers guarantee that you\u2019ll enjoy years of reliable use, rain or shine. Furthermore, the ergonomic design and adjustable straps provide optimal comfort,",
+    "images": [
+        "product_125_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this backpack for a few weeks now, and it has completely changed how I go on adventures! The design is super stylish and modern, and I love the variety of color options available. The storage space is incredible; I can fit everything I need for a day trip \u2013 snacks, water bottle, camera, and my Kindle \u2013 without feeling like I'm carrying a brick on my back.\n\nThe comfort level is off the charts! The straps are padded just right, and I can wear it for",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely love this backpack! The design is incredible\u2014it's so sleek and modern, making it easy to carry around. I took it on a weekend hike, and it was super comfortable. The padded straps are a game changer; I hardly felt the weight even with my gear packed. \n\nThe compartments are perfect for organizing my essentials\u2014my water bottle fits nicely, and there's plenty of room for snacks and a first aid kit! I also really appreciate the hidden pocket for my phone, keeps it safe and",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love this backpack! It has completely exceeded my expectations and has become my go-to for all my adventures. The design is sleek and super stylish, making it perfect for both outdoor activities and casual outings. \n\nThe pockets are so well-organized; I can fit everything from my laptop to snacks without any hassle. I've taken it hiking and on weekend trips, and it's incredibly comfortable to carry. The padding on the straps is just right, and even when it\u2019s packed full, it doesn\u2019t",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this backpack! The design is fabulous\u2014so sleek and modern. I\u2019ve taken it on hikes, to the gym, and even used it as a carry-on for a recent trip. The storage is unbeatable; I can fit everything I need without feeling like I\u2019m lugging around a massive suitcase. \n\nThe pockets are perfectly placed, making it super easy to grab my phone or water bottle on the go. I was pleasantly surprised by how comfortable it feels, even when",
+            "language": "English"
+        }
+    ]
+}

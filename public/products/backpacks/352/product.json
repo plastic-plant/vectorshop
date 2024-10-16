@@ -1,0 +1,21 @@
+{
+    "nr": "352",
+    "name": "TrailBlazer Elite Backpack",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 4,
+    "description": "Unleash your adventurous spirit with the ultimate companion for all your journeys\u2014the Elite Pack. Designed for those who seek adventure without sacrificing style, this backpack marries function with fashion, making it your go-to choice for both urban escapades and wilderness explorations. With its sleek silhouette and premium materials, the Elite Pack doesn\u2019t just carry your essentials; it elevates your entire experience.\n\nCrafted with durability in mind, this backpack features reinforced stitching and water-resistant fabric, ensuring your gear stays protected no matter the environment. The thoughtfully designed organizational compartments keep your items neatly in place, while a dedicated tech pocket safely stores your laptop or tablet. Say goodbye to the frantic search for your keys and chargers; with the Elite Pack, everything has its rightful place",
+    "images": [
+        "product_352_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "J'ai achet\u00e9 ce sac \u00e0 dos r\u00e9cemment, et je dois dire que \u00e7a ne vaut pas ce que j'attendais. Tout d'abord, le confort n'est pas top, les bretelles me grattent un peu. J'ai aussi remarqu\u00e9 qu'il manque de poches pour ranger mes affaires. La qualit\u00e9 des mat\u00e9riaux semble un peu cheap, surtout pour le prix. Une fermeture \u00e9clair \u00e9tait d\u00e9j\u00e0 bloqu\u00e9e apr\u00e8s une semaine d'utilisation. C'est super frustrant ! Je m'attend",
+            "language": "French"
+        },
+        {
+            "review": "I wanted to like this backpack, I really did. It looks nice, but that\u2019s about where the good stuff ends. The material feels kinda cheap and I worry it won\u2019t last. The straps are not comfortable, especially when it\u2019s packed with my books. I mean, who thought making them so thin was a good idea? \n\nZippers can get stuck and there's not enough room for everything - some pockets are ridiculously small. It's just not practical for daily use. I've seen better for the",
+            "language": "English"
+        }
+    ]
+}

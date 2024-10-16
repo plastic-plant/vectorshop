@@ -1,0 +1,21 @@
+{
+    "nr": "369",
+    "name": "SnoozeSphere",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 7,
+    "description": "Experience mornings like never before with your new favorite wake-up companion, affectionately known as the S.S. This isn\u2019t just any ordinary alarm clock; it\u2019s a beacon of tranquility and functionality designed to enhance your daily routine. Crafted with a sleek, minimalist design, the S.S. seamlessly fits into any bedroom aesthetic, turning your nightstand into a stylish hub of relaxation and productivity.\n\nImagine waking up to soft, nature-inspired sounds that gently ease you from slumber, rather than the jarring blare of a traditional alarm. The S.S. features a customizable sunrise simulation, gradually filling your room with warm light and signaling your body to wake up in sync with the sun. This innovative approach not only helps you feel more refreshed but also boosts your",
+    "images": [
+        "product_369_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "this alarm clock is honestly useless. it doesn\u2019t wake me up at all no matter how loud i set it. once i almost overslept for work because of it smh. the snooze function is a joke too, it barely works. plus, the app connection always fails so i can't even adjust the settings properly. totally disappointing and way overpriced for something that doesn\u2019t even do its job. save your money and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "This alarm clock is terrible. It hardly works half the time, and when it does, it doesn\u2019t wake me up at all! The sounds are weird and way too quiet. The snooze button is so unresponsive, I end up sleeping right through the alarms. Also, the setup was confusing. I\u2019m still trying to figure it out. Overall, I regret buying this thing. Save your money and find something else.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nr": "59",
+    "name": "WakeWave Alarm",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 25,
+    "description": "Imagine waking up each morning to a gentle simulation of dawn instead of the jarring buzz of a traditional alarm. Meet the right-hand companion for restful mornings, where the art of gentle awakening meets modern technology. This alarm clock harnesses the power of scientifically backed light therapy to mimic a gradual sunrise, easing you into wakefulness and transforming your mornings into serene experiences. \n\nEquipped with cutting-edge soundscapes that range from soothing ocean waves to tranquil forest birds, the enchanting auditory options allow you to customize your wake-up ritual. Choose your perfect combination of light intensity and sound, seamlessly adjusting from deep slumber to full alertness, making those groggy moments a thing of the past. Plus, with its sleek, minimalist design, this product perfectly complements",
+    "images": [
+        "product_59_01.png",
+        "product_59_02.png",
+        "product_59_03.png",
+        "product_59_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely thrilled with this alarm clock! It has completely transformed my mornings. The features are brilliantly designed; I love the customizable wake-up sounds \u2013 it\u2019s refreshing to wake up to soothing melodies instead of a harsh beep. The gradual brightness setting is a game changer, too! It mimics a natural sunrise, so I nearly wake up gently every day. The design is sleek and modern, fitting beautifully in my bedroom d\u00e9cor. \n\nSetting alarms is super easy; the touchscreen interface is responsive and intuitive",
+            "language": "English"
+        },
+        {
+            "review": "I can't say enough good things about this alarm clock! It has completely transformed my mornings. The gentle wake-up feature is a game changer! Instead of a jarring beep that startles me awake, it gradually increases the volume of soothing sounds and soft lights. I feel so much more refreshed when I finally open my eyes!\n\nThe design is sleek and modern, fitting perfectly on my nightstand. Plus, I love that it has customizable settings for different wake-up sounds and brightness levels. There\u2019s even",
+            "language": "English"
+        }
+    ]
+}

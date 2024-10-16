@@ -1,0 +1,24 @@
+{
+    "nr": "16",
+    "name": "CloudCocoon Bathrobe",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 8,
+    "description": "Wrap yourself in the ultimate indulgence with our luxurious bathrobe \u2013 a soft embrace designed to make everyday moments feel extraordinary. Crafted from the finest, ultra-plush fabric, this cozy essential mimics the sensation of being gently cradled in a cloud, providing unparalleled warmth and comfort. Whether you\u2019re sipping your morning coffee or unwinding after a long day, this robe is the perfect companion for relaxation and rejuvenation.\n\nWhat sets this robe apart is its innovative blend of premium materials that are both lightweight and breathable, ensuring you stay snug without feeling overheated. The thoughtfully designed deep pockets offer convenience for stashing late-night snacks or keeping your phone within arm\u2019s reach. With a generous hood to envelop your head in warmth, you can easily transition from",
+    "images": [
+        "product_16_01.png",
+        "product_16_02.png",
+        "product_16_03.png",
+        "product_16_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really didn\u2019t like this robe at all. The fabric feels cheap, like a blanket that just won\u2019t warm you up. After a couple of washes, it started to look all frayed and worn out, like it\u2019s been years old. Also, the size isn\u2019t true to fit. I ordered a large and it felt more like a small. Super disappointing. I was hoping for something cozy but this is just a letdown. Do yourself a favor and skip it.",
+            "language": "English"
+        },
+        {
+            "review": "i was really hoping this bathrobe would be cozy but it's just horrible. material is so scratchy and feel cheap. it doesn't even keep me warm, i'm freezing all the time! also the size is way off, feels way too small despite following the sizing guide. pockets are a joke, so shallow can barely fit my phone. really disappointing, i expected way more. def not worth the money. would not recommend!",
+            "language": "English"
+        }
+    ]
+}

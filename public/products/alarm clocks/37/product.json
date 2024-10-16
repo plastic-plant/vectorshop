@@ -1,0 +1,24 @@
+{
+    "nr": "37",
+    "name": "DreamPulse Alarm Clock",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 22,
+    "description": "Awaken to a new day with the revolutionary sleep companion that elevates your mornings from mundane to magnificent. Imagine a world where waking up is no longer a jarring experience but a gentle, rhythmic embrace that sets a harmonious tone for the day. This pioneering alarm clock outshines traditional models with its state-of-the-art features designed to enhance your sleep quality and morning routine.\n\nThe innovative dawn simulation technology bathes your room in a warm, soft light that gradually brightens over a customizable period, mimicking a natural sunrise. This gentle approach ensures a smooth transition from sleep to wakefulness, promoting a feeling of rejuvenation and well-being. Coupled with soothing, nature-inspired sounds or your favorite tunes, this sleep aid transforms your morning routine into a",
+    "images": [
+        "product_37_01.png",
+        "product_37_02.png",
+        "product_37_03.png",
+        "product_37_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love this alarm clock! From the moment I set it up, I knew it was going to change my mornings for the better. The display is crystal clear, and I can adjust the brightness to avoid waking up to an overly bright screen. \n\nThe gentle wake-up feature is simply fantastic. It gradually increases the volume, which feels way more pleasant than a jarring beep. I\u2019ve had such restful nights knowing that I'll wake up a bit more slowly instead of being jolted out of sleep",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this alarm clock! It has truly transformed my mornings for the better. The sleek design fits perfectly on my nightstand, and the projection feature is just amazing\u2014 I can see the time clearly on my ceiling without having to squint or reach for my glasses. \n\nThe customizable wake-up sounds are a game changer! Instead of a jarring beep, I can wake up to soothing nature sounds or gentle melodies that ease me into the day. Plus, the light gradually bright",
+            "language": "English"
+        }
+    ]
+}

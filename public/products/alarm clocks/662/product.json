@@ -1,0 +1,31 @@
+{
+    "nr": "662",
+    "name": "DreamChaser Alarm Clock",
+    "price": "2999",
+    "ranking": 5,
+    "availability": 25,
+    "description": "Transform your mornings with a first-of-its-kind wake-up companion designed to harmonize your sleep patterns and energize your awakening experience. This innovative timepiece integrates advanced sleep tracking technology, allowing you to rise gently, synchronizing your wake time with your sleep cycle. Imagine being nudged awake during a light sleep phase, feeling invigorated and ready to embrace the day rather than jolted from deep slumber. Start your day with a sense of calm, rather than chaos.\n\nThis remarkable device features a sleek, modern design that complements any bedroom aesthetic. Its warm, ambient glow transitions from soothing night light to energizing morning beacon, ensuring that you\u2019re greeted with just the right amount of light. With customizable color settings, you can personalize your wake-up",
+    "images": [
+        "product_662_01.png",
+        "product_662_02.png",
+        "product_662_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "Tenho que dizer que este despertador mudou completamente minhas manh\u00e3s! Desde que comprei, n\u00e3o consigo mais viver sem ele. O design \u00e9 super moderno e combina perfeitamente com meu quarto. As fun\u00e7\u00f5es s\u00e3o incr\u00edveis, principalmente o recurso de simula\u00e7\u00e3o do nascer do sol, que me acorda de forma t\u00e3o suave e natural. \n\nOs sons dos alarmes s\u00e3o lindos e tranquilizantes, nada daquele barulho estrondoso que irrita logo cedo. Al\u00e9m disso, a op\u00e7\u00e3o de snooze \u00e9 pr\u00e1tica",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I absolutely love this alarm clock! It has completely transformed my morning routine. The design is sleek and modern, fitting perfectly on my bedside table. The customizable display is a game changer\u2014I can adjust the brightness to my liking, which is great for late-night reading.\n\nSetting the alarms is super intuitive; I can easily choose different tones for each one, and the gentle wake feature really eases me into the day. I also adore how it syncs with my phone for all those special events and reminders",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this amazing alarm clock, and I couldn't be happier! From the moment I set it up, it felt like a game changer in my morning routine. The sleek design fits perfectly on my bedside table, and the vibrant display is super easy to read. \n\nOne of the coolest features is the gently escalating volume\u2014none of that sudden blaring that gives you a heart attack! It gradually gets louder, which makes waking up feel a lot less jarring. Plus, I",
+            "language": "English"
+        },
+        {
+            "review": "I can\u2019t say enough good things about this amazing alarm clock! It has completely transformed my mornings. The sleek design fits perfectly on my nightstand, and the display is just the right brightness \u2013 not too harsh on the eyes at night but still easy to read in the morning.\n\nOne of my favorite features is the customizable wake-up sounds. You can choose from a gentle sunrise chime to nature sounds, so you can wake up feeling relaxed rather than jolted awake. Plus, the snooze function",
+            "language": "English"
+        }
+    ]
+}

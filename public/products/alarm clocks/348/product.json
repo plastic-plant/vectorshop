@@ -1,0 +1,34 @@
+{
+    "nr": "348",
+    "name": "DreamRinger",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 24,
+    "description": "Transform your mornings with the innovative alarm clock that redefines waking up. Its sleek, modern design seamlessly fits into any bedroom decor, while its vibrant touchscreen display offers customizable colors and brightness levels to match your mood. In addition to classic alarms, it features gentle wake-up options that gradually increase in volume, ensuring a peaceful start to your day rather than a jarring wake-up call.\n\nExperience a whole new level of functionality with integrated smart features, enabling you to connect your devices via Bluetooth. Enjoy your favorite tunes as the alarm rings or use it as a speaker for hands-free calls. By synchronizing with your smartphone, this intelligent clock notifies you of the weather, your schedule, and even upcoming reminders, all displayed in an intuitive user interface that you",
+    "images": [
+        "product_348_01.png",
+        "product_348_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this alarm clock for a few weeks now, and overall, it's pretty good. It has some cool features like customizable alarms and calming sounds to wake up to. The design is sleek and fits nicely on my bedside table. The only issue I've had is with the app connection; sometimes it gets a bit glitchy. But when it works, it\u2019s super handy! The snooze button is also easier to reach than other clocks I've had, which is a plus. If they sort out",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this alarm clock for a few weeks now and I\u2019m pretty pleased with it! The design is sleek and fits perfectly on my nightstand. The customizable alarm tones are a game changer; I love being able to wake up to my favorite tunes instead of the usual beeping sound. The snooze feature is convenient too, it allows me to get just a few extra minutes of sleep without too much hassle.\n\nI wish the display was a bit brighter for those nights when I need to",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smart alarm clock for a few weeks now, and it's mostly been a great addition to my mornings. The sound quality is excellent; the customizable ringtones are a nice touch, and they make waking up a little bit easier. I really like the gradual sunrise feature that mimics natural light\u2014it\u2019s super soothing. \n\nSetting it up was straightforward, and I particularly appreciate how I can control it through my phone. It wasn't hard to sync up, unlike some other gadgets I\u2019ve tried",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this alarm clock for a few weeks now, and overall it\u2019s been a pretty solid addition to my morning routine. The design is sleek and modern, fitting nicely on my bedside table without taking up too much space. I love all the customization options \u2013 I can choose different sounds or even set my favorite music as my wake-up tone, which is a nice touch.\n\nThe snooze function is generous, allowing me a few extra minutes in bed, which I take full advantage of!",
+            "language": "English"
+        },
+        {
+            "review": "Really impressed with this alarm clock overall! The design is sleek and modern, which fits perfectly on my nightstand. I love the customizable melodies \u2013 there are so many options! Waking up to my favorite tunes instead of a standard beep is such a nice touch. \n\nThe app that goes along with it is easy to use, making setting the alarms a breeze. The snooze feature is great too; I can hit it a couple of times without feeling guilty. The only thing holding me back from",
+            "language": "English"
+        }
+    ]
+}
