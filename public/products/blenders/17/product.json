@@ -1,0 +1,36 @@
+{
+    "nr": "17",
+    "name": "BlendVibe Pro",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 2,
+    "description": "Unleash your inner culinary artist with the ultimate blending experience that combines power, precision, and style. The innovative blender redefines kitchen convenience, packing a robust motor and advanced blending technology into a sleek design that complements any countertop. Say goodbye to lumpy smoothies and uneven sauces; with this high-performance machine, you can achieve smooth, velvety textures in seconds, thanks to its razor-sharp stainless-steel blades and customizable speed settings. Your culinary creations will not only taste exceptional, but they\u2019ll also look visually stunning, elevating your dining experience.\n\nEquipped with a generous, BPA-free pitcher, this appliance holds enough for the entire family while being easy to pour and clean. The intuitive interface includes a one-touch pulse option, allowing you",
+    "images": [
+        "product_17_01.png",
+        "product_17_02.png",
+        "product_17_03.png",
+        "product_17_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this blender for a few months now, and overall, I\u2019m quite happy with it! It blends smoothies super quickly and gets everything nice and smooth. I love making my morning shakes, and this thing can crush ice like a champ, which is a big win for me. \n\nThe design is sleek, and it fits well in my kitchen. The controls are pretty straightforward, though I wish the buttons were more intuitive sometimes. It does get a bit loud while in use, but honestly",
+            "language": "English"
+        },
+        {
+            "review": "Comprei este liquidificador h\u00e1 algumas semanas e tenho que dizer que ele impressiona! A pot\u00eancia \u00e9 \u00f3tima, misturando at\u00e9 os ingredientes mais duros sem dificuldades. A textura dos smoothies que fa\u00e7o ficou bem aveludada. O design tamb\u00e9m \u00e9 muito bacana, combina super bem com minha cozinha.\n\nUsei para fazer sopas e molhos, e a facilidade de limpeza \u00e9 um ponto positivo. O recipiente \u00e9 super resistente e n\u00e3o risquei at\u00e9 agora, o que acontece com outros",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I\u2019ve been using this blender for a few weeks now, and overall, I\u2019m really happy with it. It blends smoothies super smoothly and the motor is pretty powerful, which makes quick work of ice and frozen fruit. Cleanup is a breeze since the parts are dishwasher safe. \n\nThe design looks sleek on my countertop, although the size is a bit bulkier than I expected it to be\u2014might be a tight fit for smaller kitchens. The noise level is okay, but it does get a bit",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this blender for a few months now, and I have to say I\u2019m pretty impressed. It has a strong motor that makes quick work of smoothies and soups. I love how it blends everything so smoothly, and the cleanup is easy, which is a game changer! \n\nThe variable speed settings are great. I can really control the consistency of what I'm making. The bowl is spacious, so I can make larger batches without a problem. But it does take up more counter space than",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this blender for a couple of months now, and it\u2019s definitely earned its place on my countertop. The design is sleek and fits nicely with my kitchen decor. It\u2019s got plenty of power and blends up smoothies and soups in no time, which I appreciate in the mornings when I\u2019m rushing.\n\nI love the sharp blades; they make a huge difference when it comes to getting everything evenly blended. I\u2019ve tried making nut butter and it came out super smooth, which I didn\u2019t",
+            "language": "English"
+        }
+    ]
+}

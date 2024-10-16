@@ -1,0 +1,26 @@
+{
+    "nr": "328",
+    "name": "BlendVibe Fusion Pro",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Introducing the ultimate culinary companion that transforms your kitchen experience into a fusion of flavor and efficiency. This powerhouse appliance boasts a robust, high-performance motor designed for professionals and home chefs alike, ensuring each blend is consistently smooth and creamy. The secret lies in its advanced multi-directional blade system, which creates a cyclone of ingredients that expertly combine even the toughest fruits and veggies, yielding nutritious and delicious smoothies, soups, and sauces in seconds.\n\nEquipped with an intuitive touch interface, this vibrant blender allows you to customize your blending experience with precision and ease. Whether you desire a silk-smooth puree or a chunky salsa, you can choose from a range of pre-set programs or manually adjust the speed to achieve your desired texture. The sleek, modern design fits beautifully",
+    "images": [
+        "product_328_01.png",
+        "product_328_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this blender for a couple of months now and it's pretty average. It gets the job done but honestly, I expected a bit more. Sometimes it struggles with frozen fruits, which is a bit annoying when I'm trying to make my smoothies. The motor is not the quietest either, which can be irritating. \n\nOn the flip side, I like how easy it is to clean, and it looks nice on my counter. The controls are straightforward, but I wish there was one for pulses",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this blender for a few months now. It does what it says, but honestly, it\u2019s not blowing my mind. It blends okay but sometimes leaves chunks, and I have to go back and do it again. The noise is way louder than I expected, which kinda drives me crazy when I\u2019m trying to make a smoothie in the morning. \n\nCleaning it can be a hassle too. The parts fit together snugly, but I feel like it takes more time to take apart",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this blender for a few weeks now, and it\u2019s just okay. The design looks nice on the counter and it doesn\u2019t take up too much space, but it\u2019s not as powerful as I hoped. It struggles with tougher ingredients like leafy greens or hard fruits, sometimes leaving chunks behind. The button interface is a bit confusing too, with all the presets. I find myself using the manual setting most of the time to get a smoother blend.\n\nCleaning is fairly easy, which is",
+            "language": "English"
+        }
+    ]
+}

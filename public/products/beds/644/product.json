@@ -1,0 +1,27 @@
+{
+    "nr": "644",
+    "name": "DreamNest Luxe",
+    "price": "29900",
+    "ranking": 3,
+    "availability": 24,
+    "description": "Introducing the ultimate sanctuary for your sleep \u2013 a bed designed not just for resting, but for rejuvenation. With its unrivaled fusion of luxurious comfort and contemporary design, the DreamNest Luxe, affectionately referred to as \u201cThe Nest,\u201d transforms every night into a serene escape. Crafted for those who value quality, this exquisite piece of furniture promises to elevate your bedroom into a haven of restful bliss.\n\nThe Nest boasts an innovative multi-layered mattress that combines memory foam, premium latex, and supportive gel-infused layers\u2014each element meticulously selected to provide unparalleled support and pressure relief. Say goodbye to tossing and turning; the advanced ventilation system ensures optimal breathability, keeping you cool and comfortable throughout the night, regardless of the season. You\u2019ll wake up feeling",
+    "images": [
+        "product_644_01.png",
+        "product_644_02.png",
+        "product_644_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve had this bed for a couple of months now, and I have mixed feelings about it. The design is nice and I love the way it looks in my bedroom, but comfort-wise, it\u2019s just okay. Some nights I sleep like a baby, while other nights I end up tossing and turning. The mattress is a bit firmer than I expected, which isn\u2019t a dealbreaker, but I was hoping for a softer feel. \n\nThe support is decent, but I thought the hype",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this bed for a few months now and, honestly, it has its ups and downs. The comfort level is decent, but I expected a bit more given the hype. The memory foam does contour well, but it also feels hot sometimes, which means I wake up sweating. \n\nSetup was easy, and it looks nice\u2014definitely a plus for my bedroom. However, I ended up noticing some creaking when I change positions, which is kind of annoying, especially at night",
+            "language": "English"
+        },
+        {
+            "review": "Die Bett ist ganz okay, aber ich hatte mir mehr erwartet. Der Komfort ist nicht schlecht, aber auch nicht \u00fcberragend. Man sinkt zwar gut ein, jedoch f\u00fchlte ich mich manchmal nicht wirklich unterst\u00fctzt. \n\nDie Matratze ist relativ weich \u2013 gut f\u00fcr die, die es m\u00f6gen, aber nicht ganz mein Fall. Auch der Stoff des Bezugs sieht sch\u00f6n aus, f\u00fchlt sich aber schneller abgenutzt an, als ich dachte. Die Verarbeitung wirkt insgesamt solide, aber ich habe schon bessere",
+            "language": "German"
+        }
+    ]
+}

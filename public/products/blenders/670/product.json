@@ -1,0 +1,33 @@
+{
+    "nr": "670",
+    "name": "BlendVibe 360",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 25,
+    "description": "Crafted for the modern kitchen, the innovative blending marvel redefines what it means to create delightful drinks and meals. Say goodbye to clunky machines and hello to a streamlined powerhouse designed for optimal performance. With its whisper-quiet motor and ultra-sleek design, it not only looks fabulous on your countertop but also breathes life into your culinary adventures. Whether you\u2019re whipping up smoothies, soups, or sauces, this blender has your back with its on-demand freshness.\n\nEquipped with cutting-edge technology, the blender features a state-of-the-art, high-speed motor that pulverizes even the toughest ingredients in seconds. The intuitive digital display is not only user-friendly but also offers multiple pre-programmed settings for perfect results every time. Want to crush ice",
+    "images": [
+        "product_670_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this blender, but honestly, it just didn\u2019t meet my expectations. The design looked great, but it struggles with basic tasks, like smoothies and soups. I used it a few times, and it started making weird noises, almost like it was protesting. The motor doesn\u2019t seem strong enough, and I had to cut my fruits into tiny pieces to avoid jamming. Clean-up is a hassle, and it leaks if you try to make anything a bit watery. Super frustrating",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to using this blender, but I've gotta say, I'm pretty disappointed. The design looks good, but it just doesn't work as well as I thought it would. It struggles with smoothies, leaving chunks behind, and that's a bummer. The sound it makes is kinda annoying too\u2014super loud for a kitchen appliance. \n\nI had high hopes for the blending speed, but it\u2019s not quite fast enough for what I need. Cleanup is okay, but honestly, I wouldn't mind",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited about this blender, but honestly, it has not been great. The design looks sleek, but that's where the positives stop. It's super noisy when blending, and it struggles with even the easiest of tasks. I tried to make a simple smoothie, and it left chunks everywhere. Plus, the clean-up is annoying. The lid doesn't fit right, and food gets stuck in the grooves. Pretty frustrating given how much I spent.  I'll keep using it for now but not impressed at",
+            "language": "English"
+        },
+        {
+            "review": "Ik heb dit blender gekocht in de hoop dat het mijn smoothie game zou veranderen, maar eerlijk gezegd ben ik teleurgesteld. Het lijkt wel een goede mix te maken, maar na een paar weken begon het raar te slierten en leek het steeds minder goed zijn werk te doen. De knoppen reageren soms niet, en het moet er soms echt voor duwen. En ja, de handleiding is niet echt duidelijk. Er zijn zeker betere blenders op de markt. Voor deze prijs verwacht je",
+            "language": "Dutch"
+        },
+        {
+            "review": "I was really looking forward to trying this blender, but so far I\u2019m pretty disappointed. It\u2019s not blending as well as I had expected. Sometimes it leaves chunks in my smoothies, which is kind of the point of having a blender, right? It's also a bit loud, more than what I thought it would be. The design is nice, I\u2019ll give it that, but the performance hasn\u2019t matched up to my needs. Maybe it just doesn\u2019t work for my recipes? The cleanup is",
+            "language": "English"
+        }
+    ]
+}

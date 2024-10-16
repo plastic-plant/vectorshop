@@ -1,0 +1,21 @@
+{
+    "nr": "287",
+    "name": "BlendSphere 360",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 11,
+    "description": "Experience the future of blending with the revolutionary BS360, where innovation meets efficiency. This state-of-the-art blender is designed to transform your kitchen into a hub of creativity and culinary delight. Engineered with a powerful, ultra-quiet motor and advanced blade technology, it effortlessly crushes ice, blends fruits, and pur\u00e9es vegetables; all while maintaining a whisper-soft sound that won\u2019t disrupt your peaceful mornings or family conversations.\n\nThe BS360 features a sleek, ergonomic design that comes in a variety of stunning colors, allowing it to complement any kitchen d\u00e9cor. With its intuitive touch control panel and smart blend technology, you can choose from preset modes for smoothies, soups, nut butters, and more. The self-cleaning function makes post-blend cleanup a",
+    "images": [
+        "product_287_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to love this blender, but honestly, it fell short. The design is sleek and all, but it just doesn\u2019t blend well. I tried making smoothies and had to keep stopping to push everything down. \n\nIt\u2019s loud too! Like, seriously, I didn't expect it to sound like a plane taking off in my kitchen. The cleanup was a bit annoying because sometimes the lid sticks, and it's just a hassle to take apart. \n\nFor the price, I thought I\u2019d get",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had high hopes for this blender, but it's been a real letdown. It looks nice and all, espacially in my kitchen, but when I tried to blend smoothies, I was disappointed. The motor feels weak, and sometimes it just won't blend well. I had chunks of fruit left floating around even after a long blend. The buttons can be unresponsive too, which is really frustrating if you\u2019re in a hurry.\n\nCleaning is a bit tedious since you have to take everything apart,",
+            "language": "English"
+        }
+    ]
+}

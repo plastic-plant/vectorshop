@@ -1,0 +1,24 @@
+{
+    "nr": "39",
+    "name": "BeltAlchemy",
+    "price": "2999",
+    "ranking": 2,
+    "availability": 6,
+    "description": "Transform your wardrobe with the ultimate accessory that effortlessly blends style and functionality. This innovative belt is not just a piece of clothing; it\u2019s a game-changer for your everyday look. Available in a variety of stunning colors and premium materials, our signature belt promises to elevate any outfit while providing unparalleled comfort and durability. Whether you're dressing up for a night out or looking to add a touch of flair to your casual attire, this belt is designed to meet your needs.\n\nCrafted with cutting-edge, adjustable technology, this belt allows for a perfect fit every time. Gone are the days of worrying about unsightly belt holes; experience the freedom of customization that adapts to your unique body shape. With robust stitching and high-quality fastenings, you can trust",
+    "images": [
+        "product_39_01.png",
+        "product_39_02.png",
+        "product_39_03.png",
+        "product_39_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich hab mir diesen G\u00fcrtel gekauft, weil die Idee cool klang, aber ehrlich gesagt bin ich entt\u00e4uscht. Die Qualit\u00e4t ist nicht wirklich gut, nach ein paar Wochen tr\u00e4gt er sich schon ab und das Material wirkt billig. Auch die Farbe hat nicht lange gehalten und sieht jetzt ganz anders aus. Plus, die Schnalle klemmt oft, was richtig nervig ist. Hatte mehr erwartet und kann ihn nicht so empfehlen. Preis-Leistung stimmt einfach nicht. Schade.",
+            "language": "German"
+        },
+        {
+            "review": "Honestly, I was really excited to try this product based on the description, but it just didn't live up to the hype. The fit is kinda off \u2013 my waist isn\u2019t huge, but it felt super tight even with the adjustment options. The material is okay, but it feels cheap and isn\u2019t as durable as I hoped. I was worried it would snap after only a short time using it and I can see other users feel the same. Plus, it has these weird design choices that make it",
+            "language": "English"
+        }
+    ]
+}

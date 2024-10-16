@@ -1,0 +1,25 @@
+{
+    "nr": "624",
+    "name": "Belted Bliss",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 2,
+    "description": "Elevate your wardrobe with the ultimate in comfort and style, designed for those who refuse to compromise on quality or flair. This delightful accessory is crafted from premium materials that ensure durability while providing a soft, luxurious touch against your skin. Whether you\u2019re heading out for a day at the office or gearing up for a weekend adventure, this versatile essential seamlessly complements any outfit, offering a perfect fit and an effortless boost of confidence.\n\nFeaturing an innovative adjustable mechanism, this belt allows for a customized fit that caters to all body types. The sleek, minimalist design is available in a range of chic colors, making it easy to mix and match with your favorite jeans, dresses, or shorts. Say goodbye to uncomfortable, rigid belts that pinch and dig into your waist;",
+    "images": [
+        "product_624_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with this belt! The quality is top-notch, and you can really see the craftsmanship that went into making it. The material feels durable but still has a luxurious touch, which is a hard combination to find. \n\nWhat's even better is how versatile it is\u2014I can pair it with everything from casual outfits to more formal wear. The adjustable fit is perfect; it's super easy to find the right size and keeps everything securely in place without feeling too tight.\n\nI've received so many compliments",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this belt! The quality is top-notch, and I can feel the durability just from putting it on. It fits perfectly - not too tight, not too loose. I've worn it all day long, and it stayed comfortable without pinching or digging in. The design is sleek and versatile, so it goes with almost any outfit, whether dressed up or down. I also appreciate how easy it is to adjust; settling on the perfect fit was a breeze. Definitely the best",
+            "language": "English"
+        },
+        {
+            "review": "I can't say enough good things about this belt! The moment I put it on, I felt the quality. The material is super soft yet durable, and it just fits like a dream. I love how versatile it is; I can wear it with jeans, skirts, or even dress pants, and it looks amazing with everything. The design is chic and modern while still being practical.\n\nThe clasp is really secure but easy to use, which I appreciate. I also noticed how adjustable it is\u2014no",
+            "language": "English"
+        }
+    ]
+}

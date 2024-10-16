@@ -1,0 +1,21 @@
+{
+    "nr": "692",
+    "name": "BlendVoyage Pro",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 18,
+    "description": "Unleash your culinary creativity with the ultimate kitchen companion that redefines blending! Designed for aspiring chefs and home cooks alike, this powerful kitchen marvel boasts a robust motor and precision-engineered blades that effortlessly obliterate even the toughest ingredients. Imagine whipping up velvety smoothies bursting with freshness, creamy soups that warm your soul, or decadent sauces that elevate any dish\u2014all in a matter of seconds. Say goodbye to lumpy mixtures and hello to consistently smooth textures that will impress every pallette.\n\nCrafted with user-friendly technology and sleek aesthetics, this exceptional blender is more than just a pretty face. Equipped with intuitive touch controls and pre-programmed settings, you can achieve perfect results every time, whether you\u2019re blending, pureeing, or crushing ice for",
+    "images": [
+        "product_692_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this blender for a few months now, and honestly, it's just okay. It blends pretty well for smoothies, but it sometimes struggles with harder ingredients like frozen fruit, which is frustrating. The noise level is kinda loud too\u2014don\u2019t expect to chat with someone while it\u2019s running. I do like how easy it is to clean, though. It\u2019s just not the powerhouse I hoped it would be. If you're looking for something reliable but not the best, I guess it's decent",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this blender for a few months now, and while it gets the job done, it's just okay for the price. The motor seems powerful enough, but sometimes it struggles with a few tougher ingredients like frozen fruits. I\u2019ve had to stop it a couple of times and help it out, which can be a hassle. \n\nOn the plus side, it\u2019s pretty easy to clean, and the design looks nice on my countertop. The different speed settings are handy, but I feel like they",
+            "language": "English"
+        }
+    ]
+}

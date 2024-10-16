@@ -1,0 +1,32 @@
+{
+    "nr": "67",
+    "name": "BeltCraft Fusion",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 19,
+    "description": "Elevate your wardrobe with a revolutionary accessory that seamlessly combines style and function\u2014the perfect addition for any fashion-savvy individual. This exceptional belt redefines versatility, featuring an innovative design that adapts effortlessly to any occasion, from casual outings to formal events. Crafted with premium materials, its durability ensures it will be your go-to accessory for years to come, while the elegant finish adds a touch of sophistication to every outfit.\n\nWhat sets this belt apart is its unique adjustable mechanism, allowing for a customized fit that\u2019s both comfortable and flattering. No more worries about sizing issues; the innovative design ensures a perfect embrace around your waist, providing unparalleled support without sacrificing style. Choose from an array of stunning colors and textures to match your personal aesthetic and elevate your look instantly",
+    "images": [
+        "product_67_01.png",
+        "product_67_02.png",
+        "product_67_03.png",
+        "product_67_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been absolutely blown away by this belt! The material feels high-end and super durable, and I love how it fits. It adapts to my waist perfectly and stays in place all day without any itching or discomfort. The design is sleek and stylish, which complements both my casual and formal outfits. The adjustable features are genius! I can easily change the size without fuss, making it incredibly user-friendly. So glad I invested in this! It\u2019s honestly become my go-to accessory, and I",
+            "language": "English"
+        },
+        {
+            "review": "Wat een geweldige ervaring met deze riem! De kwaliteit is echt top, hij voelt super stevig aan en is prachtig afgewerkt. De verstelbaarheid is perfect; ik kan hem helemaal makkelijk aanpassen aan mijn taille zonder gedoe. Daarnaast zijn de kleuren echt stijlvol en passen ze bij bijna elke outfit. Het draagcomfort is fantastisch, ik voel hem helemaal niet zitten, zelfs niet na een lange dag! \n\nDe sleek look maakt het ook mogelijk om hem zowel voor casual outfits als voor meer formele gelegen",
+            "language": "Dutch"
+        },
+        {
+            "review": "I can\u2019t believe how amazing this belt is! The design is sleek and modern, and it fits perfectly with any outfit\u2014dressy or casual. The adjustable feature is a game-changer; it makes finding the ideal fit super easy. I love the durability; it feels like it will last forever.\n\nWearing it every day, I\u2019ve noticed how comfortable it is. I forget I\u2019m even wearing a belt sometimes! It doesn\u2019t dig into my sides like others I\u2019ve tried, which gives",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely love this belt! The style is so versatile; I can wear it with jeans or dress it up with a nice outfit. The material feels high quality and really sturdy, but it\u2019s also super comfortable. No more pinching or sliding down every time I move! \n\nThe buckles are easy to adjust, which is fantastic because I like a snug fit but don\u2019t want to deal with the hassle of resizing. Plus, the color options are gorgeous \u2014 I ended up getting one in black and",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nr": "24",
+    "name": "BeltAura",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 19,
+    "description": "Unleash the perfect blend of style and functionality with this innovative belt, designed to elevate your wardrobe while offering optimal support. Crafted from premium, eco-friendly materials, it features an adjustable fit to accommodate every body type, ensuring you look and feel your best whether you're at a casual gathering or a formal event. Lightweight and durable, this belt provides an effortless look that complements any outfit, from jeans and t-shirts to dresses and suits.\n\nSay goodbye to the frustrations of traditional buckle systems! Our unique \"snap-in\" technology allows for quick adjustments, enabling you to customize the tension to your preference with ease. No more fumbling with intricate latch mechanisms\u2014just a simple snap and you\u2019re good to go. The sleek, minimalist design not only makes it",
+    "images": [
+        "product_24_01.png",
+        "product_24_02.png",
+        "product_24_03.png",
+        "product_24_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this belt for a few weeks now, and it\u2019s pretty good overall. I like the adjustable feature; it makes finding the right fit super easy. The design is modern and stylish, which matches almost anything in my wardrobe. The material feels sturdy, so I think it will last a while. \n\nOne downside is that sometimes the buckle gets a little tricky to open, especially when I'm in a rush. And I wish there were more color options available; I really wanted a navy blue",
+            "language": "English"
+        },
+        {
+            "review": "I recently picked up this virtual belt, and overall, I'm pretty satisfied with it. It fits well and does what it's supposed to without any fuss. The design is nice and modern, which I appreciate. I particularly love the range of customization options\u2014it's great having the ability to switch styles according to my outfit or mood. However, I did expect a bit more from the virtual experience itself. Sometimes it feels a bit laggy when I'm trying to interact with it, which can be a little annoying",
+            "language": "English"
+        }
+    ]
+}

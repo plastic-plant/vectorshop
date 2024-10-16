@@ -1,0 +1,23 @@
+{
+    "nr": "638",
+    "name": "\"SpireShelves\"",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Elevate your living space with a storage solution that seamlessly blends sophistication and functionality. This innovative bookshelf stands as a stunning centerpiece, designed to showcase your treasured tomes while providing a mesmerizing visual anchor for any room. With a unique asymmetrical design that draws the eye upward, the shelves create the illusion of soaring heights, transforming even the smallest areas into inviting havens of creativity and inspiration. \n\nCrafted from high-quality, sustainable materials, this bookshelf not only cradles your favorite reads but also prioritizes durability and environmental consciousness. The smooth, rich finishes are available in an array of contemporary colors, allowing you to find the perfect match for your decor style. Each shelf is adjustable, catering to books of varying sizes, and rounding out the piece\u2019s",
+    "images": [
+        "product_638_01.png",
+        "product_638_02.png",
+        "product_638_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got these virtual shelves for my reading space. They are decent, but nothing too special. The setup was pretty straightforward, but the design felt a bit limited. I expected more customization options. The organization is okay; though I like that I can categorize my books, scrolling through them feels a bit clunky at times.\n\nThe images for the book covers sometimes don't show up correctly, which is annoying. Plus, I have a large collection, and the limit on shelf space feels restrictive. Overall",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to like this virtual bookshelf, but I'm feeling pretty meh about it. The design is nice and all, but there are some glitches that really bother me. I often have to refresh my view to see the new books I've added, which can be super annoying. And the organization feature is kinda clunky\u2014not as intuitive as I'd hoped. On one hand, I appreciate having digital options for my books, but on the other hand, I expected a smoother experience. Overall, it's okay, but",
+            "language": "English"
+        }
+    ]
+}

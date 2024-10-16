@@ -1,0 +1,21 @@
+{
+    "nr": "555",
+    "name": "Beltology Essentials",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 14,
+    "description": "Discover the ultimate blend of form and function with this essential accessory designed for the modern lifestyle. Crafted with meticulous attention to detail, this versatile belt is not just a practical solution for keeping your pants securely in place; it's also a statement piece that elevates any outfit, whether you're dressing up for a formal event or keeping it casual on a weekend outing. Its sleek profile effortlessly transitions from day to night, making it a staple in every wardrobe.\n\nEngineered for comfort and durability, this belt features a premium quality material that is both supple and resilient, ensuring it stands the test of time. The innovative adjustable mechanism allows for a customizable fit, eliminating the frustration of pinching and tightening. Additionally, the carefully designed buckle offers an easy-on, easy-off experience",
+    "images": [
+        "product_555_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "De riemen zijn echt fijn! Ze zijn van goede kwaliteit en zitten lekker. Zeker handig dat je ze makkelijk kunt aanpassen aan je taille. Ik heb er een paar verschillende kleuren besteld, en ze passen goed bij vrijwel elke outfit. \n\nEr zijn zwartekanten, zoals dat ik soms moeite heb om ze los te maken, en ik had liever gehad dat de clip wat steviger was. Maar over het algemeen erg blij! De prijs is bovendien leuk, dus ik denk dat ik in de toekomst nog",
+            "language": "Dutch"
+        },
+        {
+            "review": "I recently purchased this new belt and overall, it\u2019s been pretty great! The design is modern and goes well with almost all my outfits. The materials feel durable, and I really appreciate the flexibility it gives, rather than feeling overly stiff like some other brands. \n\nI love that it fit well and doesn\u2019t slip, which is a big plus for me. It\u2019s easy to adjust, making it perfect for different styles whether I'm dressing up for work or keeping it casual on weekends. The color selection",
+            "language": "English"
+        }
+    ]
+}

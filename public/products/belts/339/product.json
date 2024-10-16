@@ -1,0 +1,22 @@
+{
+    "nr": "339",
+    "name": "\"FlexiFit Belt\"",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Introducing the ultimate game-changer for your wardrobe: the revolutionary adjustable belt that promises unparalleled comfort and style. With its innovative design, this belt adapts to your body, ensuring a perfect fit that moves with you, whether you\u2019re at work, at play, or out on the town. Say goodbye to the days of constrictive, overly rigid options and step into a world where flexibility meets fashion!\n\nCrafted from premium materials, our adjustable belt showcases a sleek, modern aesthetic suitable for any occasion. The smooth strap glides effortlessly through custom-designed, precision-fit loops, allowing you to secure the belt at any desired tension. This means no more awkward bulges or last-minute adjustments\u2014just pure confidence in every outfit. Available in an array of colors",
+    "images": [
+        "product_339_01.png",
+        "product_339_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this belt thinking it would be the solution to my wardrobe problems, but it's a bit of a mixed bag. On one hand, it's flexible and adjusts to your size, which is nice. Sometimes I appreciate that it doesn\u2019t dig into my waist like some others do. \n\nHowever, the material feels cheaper than expected and I\u2019m not sure how long it\u2019ll really last. I've had some issues with the buckle too; it can be tricky to fasten at times. Overall, it",
+            "language": "English"
+        },
+        {
+            "review": "I bought this belt thinking it would be great for my daily outfits, but I\u2019m kinda mixed about it. On one hand, it looks stylish and has cool adjustable features, so I can fit it pretty well for different sizes and outfits I guess. But on the other hand, the material feels a bit cheap and the buckle sometimes gets stuck when I try to adjust it. It's not super comfortable for long wear either \u2013 I end up shifting it around a lot. It's okay for a casual day,",
+            "language": "English"
+        }
+    ]
+}

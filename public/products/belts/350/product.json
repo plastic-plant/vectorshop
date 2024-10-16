@@ -1,0 +1,22 @@
+{
+    "nr": "350",
+    "name": "FlexiFit Belt",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 14,
+    "description": "Introducing the ultimate solution for everyday convenience: the Adjustable Comfort Belt, your new best friend in the world of wardrobe essentials. Say goodbye to the days of uncomfortable, rigid belts that pinch and dig into your waist, and embrace a design that combines flexibility with style. Crafted with innovative stretch technology, this belt moves with you, providing a custom fit that adapts to your body's every curve and activity. From morning errands to evening outings, you\u2019ll experience unmatched comfort and support, no matter the occasion.\n\nThis remarkable accessory features a sleek, modern buckle that not only makes dressing a breeze but also offers a touch of sophistication to any outfit. The streamlined design allows for quick adjustments, ensuring a perfect fit throughout the day. Available in a range of sizes and colors",
+    "images": [
+        "product_350_01.png",
+        "product_350_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this amazing belt, and I can't express how much I love it! It's so versatile and comfortable. The adjustable design means it fits perfectly whether I'm wearing jeans or leggings. I appreciate that it doesn\u2019t dig into my waist, which is a huge plus for long days. The material feels super high-quality and durable, so I know it will last a long time. \n\nI've also noticed that it looks stylish, making even my simplest outfits feel more put together. Plus, it's easy to",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this belt for a few weeks now, and I can't express how happy I am with it! From the moment I put it on, I felt an incredible difference compared to my old belts. It fits me perfectly, no more digging into my waist or slipping down throughout the day. The adjustable feature is just genius, allowing me to personalize it to my exact comfort level without any hassle.\n\nThe material is super soft yet durable, giving me peace of mind that it will last for a while",
+            "language": "English"
+        }
+    ]
+}

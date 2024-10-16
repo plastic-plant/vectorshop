@@ -1,0 +1,21 @@
+{
+    "nr": "264",
+    "name": "BlendHaven FusionPro",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 3,
+    "description": "Experience the next level of culinary convenience with the ultimate blending powerhouse. This state-of-the-art machine is not just a blender; it's your new kitchen companion designed to elevate your cooking game to unprecedented heights. With a sleek design and an array of vibrant color options, it seamlessly blends into any kitchen aesthetic while becoming the star of your countertop. \n\nEngineered for exceptional performance, this smart blending device boasts a robust motor capable of crushing ice, pureeing vegetables, and blending smoothies in seconds. Its advanced multi-speed functionality allows for precise control\u2014whether you want a silky-smooth puree or a chunky salsa, achieving the perfect consistency has never been easier. Plus, with a noise-reduction feature, you can enjoy your blending experience without waking the whole household.",
+    "images": [
+        "product_264_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with my new blender! This thing is a kitchen game-changer. It blends smoothies to a silky-smooth perfection in seconds. I\u2019ve tried other blenders before, but this one totally outshines them all. The power it packs is incredible, and I love how easy it is to clean. Just a couple of quick rinses, and it's good to go!\n\nThe settings are super user-friendly, and the various speed options make it perfect for everything from crushing ice",
+            "language": "English"
+        },
+        {
+            "review": "Na jarenlang verschillende blenders te hebben gebruikt, is deze absoluut de beste! Het blendt alles super snel en gelijkmatig. Heerlijke smoothies in een paar seconden! De optie om ijs te crushen is werkelijk fantastisch; geen hapjes meer in je drankjes. Het design is ook erg mooi en modern, past perfect in mijn keuken. De geluidsoverlast is minimaal vergeleken met andere blenders, wat echt fijn is in de ochtend als je niet al te veel lawaai wilt maken.",
+            "language": "Dutch"
+        }
+    ]
+}

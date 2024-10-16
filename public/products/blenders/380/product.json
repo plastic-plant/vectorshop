@@ -1,0 +1,25 @@
+{
+    "nr": "380",
+    "name": "BlendSphere 360",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 11,
+    "description": "Experience culinary innovation like never before with the ultimate blending powerhouse designed to elevate your kitchen game. Say goodbye to lumpy soups and uneven smoothies; this sleek appliance boasts a 3D vortex blending technology that creates a whirlwind of flavors, ensuring every ingredient is blended to absolute perfection. Its whisper-quiet motor means you\u2019ll be able to blend at any time of day, without waking the household. Whether you\u2019re a smoothie enthusiast or a soup connoisseur, you'll enjoy a texture so smooth it\u2019ll leave your taste buds dancing.\n\nEquipped with a vibrant touchscreen interface, adjusting settings is as easy as a tap or swipe. Choose from multiple pre-programmed modes tailored specifically for smoothies, soups, salsas, and ice crushing, or take complete control",
+    "images": [
+        "product_380_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely thrilled with this blender! From the moment I unboxed it, I could tell it was going to change my kitchen game. The sleek design looks fantastic on my countertop, and it\u2019s surprisingly lightweight which makes it easy to move around.\n\nThe blending power is incredible! Smoothies are done in seconds\u2014no more chunky bits, just creamy deliciousness! I've tried it with everything from frozen fruits to leafy greens, and it handles them all with such ease. Cleanup is super simple too;",
+            "language": "English"
+        },
+        {
+            "review": "I've had this blender for a few months now, and I can't believe how much it has changed my kitchen game! The 360-degree blending feature is a dream come true. It gets everything so smooth and creamy\u2014perfect for my morning smoothies. I\u2019ve tried a bunch of recipes, from soups to nut butters, and everything comes out great.\n\nThe sleek design fits perfectly on my countertop, and the controls are super easy to use. I also love how quiet it is compared to other blenders",
+            "language": "English"
+        },
+        {
+            "review": "I can't say enough good things about this blender! It's an absolute game changer in my kitchen. The 360-degree blending capability ensures that everything is mixed beautifully and consistently. I love how easy it is to switch between settings\u2014the different modes have made my morning smoothies, soups, and sauces come out better than ever.\n\nCleanup is a breeze too! With the self-cleaning function, I just add soap and water, and it does all the work for me\u2014no more struggling with a sponge for sticky",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "nr": "336",
+    "name": "DreamWave RestNest",
+    "price": "59900",
+    "ranking": 5,
+    "availability": 22,
+    "description": "Transform your nights into a serene escape with our innovative sleep solution, the RestNest. Designed with the modern sleeper in mind, this bed isn\u2019t just a piece of furniture \u2013 it\u2019s a sanctuary for your body and mind. With its sleek, contemporary silhouette and luxurious finishes, the RestNest elevates your bedroom aesthetic while providing unparalleled comfort and support.\n\nExperience the latest in sleep technology with our proprietary multi-zone support system. Each layer of the RestNest is meticulously engineered to adapt to your unique sleeping position, ensuring that you wake up refreshed and rejuvenated every morning. The memory foam top layer contours to your body\u2019s shape, providing plush cushioning while simultaneously aligning your spine for optimal posture. Whether you\u2019re a back, stomach, or side sleeper, this",
+    "images": [
+        "product_336_01.png",
+        "product_336_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently purchased this amazing virtual bed and I can\u2019t express how much it has transformed my sleep experience! The design is sleek and modern, which adds a perfect touch to my room. The virtual comfort is unmatched! It feels like I\u2019m gently cradled all night long. The customizable settings allow me to adjust the firmness just how I like it, and the built-in soundscapes are just the cherry on top! I feel so relaxed drifting off to sleep with the soothing sounds around me.",
+            "language": "English"
+        },
+        {
+            "review": "I recently switched to this incredible bed and I can honestly say it has transformed my sleep! From the moment I laid down, I felt like I was sinking into a cloud \u2013 it\u2019s so plush yet supportive! \n\nThe adjustable features are a game-changer; I can easily modify the firmness to my liking with just a touch. It really feels like it was designed just for me! I\u2019ve been sleeping through the night uninterrupted for the first time in ages. \n\nPlus, the technology behind it is",
+            "language": "English"
+        }
+    ]
+}

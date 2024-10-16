@@ -1,0 +1,35 @@
+{
+    "nr": "664",
+    "name": "\"Story Stacks\"",
+    "price": "8999",
+    "ranking": 3,
+    "availability": 11,
+    "description": "Transform your living space into a literary haven with our revolutionary bookshelf, designed not just to store books but to create a captivating narrative of your home. This stunning piece is perfect for the avid reader, the home stylist, or anyone looking to instill character in their surroundings. Crafted with a blend of sustainable materials and modern aesthetics, it seamlessly complements any d\u00e9cor, from minimalist to bohemian chic.\n\nThe unique modular design allows each shelf to be reconfigured, letting you customize your storage to suit your needs and space. Whether you prefer a traditional vertical layout or a creative, staggered approach, this bookshelf adapts effortlessly to meet your vision. Its open shelf concept invites the display of not only your favorite novels but also cherished photos, travel memorabilia, or succulent",
+    "images": [
+        "product_664_01.png",
+        "product_664_02.png",
+        "product_664_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently tried this virtual bookshelf, and while it\u2019s not terrible, it definitely has some ups and downs. The interface is kind of nice and straightforward, which makes adding new titles easy enough. However, I found the organization options pretty limited. I wish there were better ways to categorize my books because scrolling through everything can get frustrating. \n\nIt\u2019s also a bit slow sometimes, especially when opening a bigger collection, which really doesn\u2019t help when I\u2019m trying to find a book quickly. The virtual",
+            "language": "English"
+        },
+        {
+            "review": "I was excited to try this virtual bookshelf, but it\u2019s pretty average overall. The layout is nice, and it looks fine, but it could use a bit more functionality. I mean, the idea is great but sometimes it feels clunky to use. Like, I will scroll through my titles, and it's not as smooth as you'd hope. \n\nAlso, the selection of book titles could be larger. I expected to find a wider range of genres available. And when I downloaded a few, they",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this virtual bookshelf and it\u2019s okay, I guess? The idea is neat, but the actual experience is a bit underwhelming. You can stack your books up and organize them, true, but it's not as intuitive as I'd hoped. Sometimes the stacks don\u2019t line up right unless you spend a bit too much time fiddling around with them. \n\nI love the aesthetics; it has a nice look, but it feels like a bit of a hassle to set it up neatly.",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this virtual bookshelf, but it\u2019s kind of a mixed bag for me. Setting it up was pretty straightforward, and I\u2019m glad it doesn\u2019t take up physical space, which is a plus. But the interface feels a little clunky at times, making it hard to find specific books quickly. I expected a more seamless experience. The selection of virtual titles is decent, but I wish there were more options and genres to choose from. \n\nThe \"stacking\" feature is",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this virtual bookshelf for a little while now, and honestly, it's... okay? The concept is cool, and I really like the idea of organizing e-books and physical copies together, but there are some quirks that make it kinda frustrating. Sometimes it lags when I\u2019m trying to load my collection, which can get really annoying when you're looking for a specific title. \n\nThe design is simple, which I suppose is a plus, but it could use a bit more personalization options",
+            "language": "English"
+        }
+    ]
+}

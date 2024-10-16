@@ -1,0 +1,28 @@
+{
+    "nr": "34",
+    "name": "Elysian Stacks",
+    "price": "7999",
+    "ranking": 2,
+    "availability": 17,
+    "description": "Transform your living space into a sanctuary of style and organization with our exquisite shelving solution. Imagine a harmonious blend of elegance and functionality, where your cherished books, art pieces, and personal treasures take center stage. Crafted from premium materials, this shelving unit ensures durability while gracing your home with a touch of sophistication. Its sleek lines and modern design complement any decor, making it the perfect finishing touch to your living room, study, or bedroom.\n\nNot only does this remarkable unit elevate your interior aesthetic, but it also offers an incredible sense of order. With multiple adjustable shelves, you can customize your display to suit your needs, whether you\u2019re showcasing a collection of literary classics or curating a gallery of family photos. Say goodbye to clutter and hello to a",
+    "images": [
+        "product_34_01.png",
+        "product_34_02.png",
+        "product_34_03.png",
+        "product_34_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to love this bookshelf, but it\u2019s just not cutting it. The size is decent, but it feels a bit flimsy. A couple of the shelves started sagging after putting on just a few books. The assembly was a pain too, and I ended up with extra parts I couldn't figure out where they went. The color is nice, but honestly, when you have to worry about it falling apart, you lose sight of that. Overall, not worth the money.",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to get this bookshelf, but honestly it hasn\u2019t lived up to my expectations. Assembly was a bit of a nightmare, the instructions were confusing and some of the parts didn\u2019t fit quite right. Once I finally got it put together, I was surprised at how wobbly it felt. I can\u2019t put too many books on it without worrying about it tipping over. The design looks nice, but practicality is lacking. I expected better quality for the price. Not the worst thing",
+            "language": "English"
+        },
+        {
+            "review": "J'avais vraiment de grandes attentes avec cette \u00e9tag\u00e8re virtuelle, mais je suis un peu d\u00e9\u00e7u. L'interface est un peu brouillonne et ce n'est pas tr\u00e8s intuitif. J'avais du mal \u00e0 organiser mes livres, \u00e7a ne s'affiche pas comme je le souhaite. De plus, il y a souvent des bugs, ce qui est tr\u00e8s frustrant quand on veut juste lire. Les options de personnalisation sont limit\u00e9es, et l'exp\u00e9rience globale n\u2019est pas g\u00e9niale.",
+            "language": "French"
+        }
+    ]
+}

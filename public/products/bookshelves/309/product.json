@@ -1,0 +1,30 @@
+{
+    "nr": "309",
+    "name": "\"StorySpire Shelf\"",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Elevate your reading space with an innovative shelving solution designed to be as eye-catching as the stories it holds. This vibrant bookshelf combines modern design with functional utility, allowing your literary treasures to shine while enhancing the overall aesthetic of any room. With its unique spiral structure, it not only maximizes storage but also creates an enchanting focal point that invites curiosity and conversation.\n\nCrafted from high-quality, eco-friendly materials, this versatile shelf boasts durability that stands the test of time. Its smooth, curved lines and rich finish effortlessly blend in with any decor style, from contemporary to rustic. With multiple tiers designed to accommodate various book sizes\u2014from well-loved paperbacks to elegant hardcovers\u2014it transforms your collection into a curated display. Each shelf is spaced for optimal visibility,",
+    "images": [
+        "product_309_01.png",
+        "product_309_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this shelf a few weeks ago, and it\u2019s okay. It looks nice, kinda modern, but there are a few issues. The size is good for smaller spaces, but the materials feel kinda flimsy. I had some trouble putting it together, the instructions weren\u2019t super clear and I ended up with a few extra screws. \n\nIt's holding my books well enough, but I'm not sure how well it\u2019ll hold up long term. Boasted a lot about being easy to clean, but",
+            "language": "English"
+        },
+        {
+            "review": "I find this bookshelf to be just okay. It looks nice and fits well in my living room, but that's about it. The assembly was a bit tricky, and I ended up with a few scratches on the sides. I expected better quality for the price. It holds the books all right, but I feel like it could\u2019ve been a bit sturdier. Sometimes I worry about how many books I can put on it without it wobbling. It's not a total waste, but I wouldn't rave about",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this shelf system for a couple of weeks now, and honestly, it's decent but not fantastic. The setup was pretty straightforward, which was a relief! However, the material feels a bit cheap and the finish wasn't as polished as I hoped. \n\nI love how it offers a unique design, and it fits well in my room, but it could really use better stability. I have a few heavier books, and I'm a bit nervous about how it\u2019s holding up. It looks nice and",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this virtual bookshelf, and while it has some good points, it's a bit hit or miss for me. The idea of organizing books in a virtual space is neat, plus I love the colorful spines and covers; they make my library look nice. \n\nBut there are some bugs and glitches. Sometimes it crashes or takes too long to load, which is frustrating when all I want is to read. I also wish the search function was better; it can be tough finding specific titles in",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nr": "49",
+    "name": "FlexiBelt Luxe",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 15,
+    "description": "Transform your wardrobe with the ultimate accessory that combines style, comfort, and adaptability. Our innovative adjustable strap is not just a fashion statement \u2013 it\u2019s a versatile companion designed to enhance your lifestyle. Crafted with premium materials, this must-have accessory provides a seamless fit for any occasion, allowing you to feel confident whether you\u2019re at the office, hitting the town, or enjoying a casual day out.\n\nSay goodbye to the constraints of traditional designs. Our adjustable strap features a unique, self-locking mechanism that allows for quick and easy adjustments, offering you a personalized fit every time. With its elegant appearance and sleek profile, this accessory seamlessly integrates into your ensemble, whether you\u2019re pairing it with jeans, dresses, or even activewear. The luxurious texture, coupled",
+    "images": [
+        "product_49_01.png",
+        "product_49_02.png",
+        "product_49_03.png",
+        "product_49_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this belt for a couple of weeks now, and I\u2019m pretty impressed overall! It's stylish and really versatile, going well with both casual and a bit more dressed-up outfits. The material feels quality, and I love how it adjusts\u2014no more tightness or looseness. \n\nThe only reason I'm not giving it a full five stars is because I wish it had a bit more padding on the inside. Sometimes it feels a little abrasive against my skin after wearing it all day. But",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this new stylish belt and overall, it's been a solid addition to my wardrobe! The material feels high quality and the adjustable feature is super convenient. I love how it fits snugly no matter what I\u2019m wearing. \n\nThe color choices are trendy, which makes it easy to pair with different outfits, whether I'm dressing up or going casual. It does take a little to get used to the clip mechanism instead of traditional holes, but once you do, it\u2019s great!",
+            "language": "English"
+        }
+    ]
+}

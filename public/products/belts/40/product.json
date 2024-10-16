@@ -1,0 +1,28 @@
+{
+    "nr": "40",
+    "name": "Beltitude",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 17,
+    "description": "Meet the ultimate accessory that redefines how you experience comfort and style\u2014the Adjustable Comfort Strap (ACS). This isn\u2019t just any belt; it\u2019s a revolution in personal style and functional elegance. Designed with a sleek, minimalist aesthetic, the ACS effortlessly complements any outfit, making it the go-to choice for fashion-forward individuals who refuse to compromise on comfort. \n\nCrafted from premium, eco-friendly materials, the ACS delivers unmatched durability and flexibility. Its innovative design features a unique adjustable mechanism, allowing you to achieve the perfect fit every time. Whether you\u2019re dressing up for the office or keeping it casual on the weekends, this belt adapts to your needs, ensuring you look polished and poised no matter the occasion. Say goodbye to uncomfortable squeezing and hello to",
+    "images": [
+        "product_40_01.png",
+        "product_40_02.png",
+        "product_40_03.png",
+        "product_40_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently picked up this belt and I\u2019ve honestly been pretty impressed. It really does a great job of being both stylish and functional, fitting a variety of outfits from casual to semi-formal. The material feels sturdy, but it's also soft enough that it doesn't dig into your waist, which is super nice for long wear.  \n\nI appreciate the buckle design too\u2014it's easy to adjust and holds well, so I don't have to worry about it slipping. The range of colors available made it fun to",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this belt for a little while now, and overall it's been a pretty solid choice. The fit is good, and it doesn\u2019t dig into my sides, which is something I really appreciate. I love the adjustable feature; it allows for a more personalized look and keeps everything nice and secure.\n\nThe material feels durable and has held up well against daily wear. I\u2019ve accidentally scraped it a few times, but surprisingly, it still looks pretty new. The design is sleek and stylish, so",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this belt for a few weeks now and honestly, it\u2019s pretty great! The material feels nice and looks stylish, fitting in well with different outfits\u2014whether it's casual or a bit dressy. The adjustability is a big plus; I love that I can get the perfect fit without any hassle. It isn\u2019t too bulky either, so it sits nicely under clothes. \n\nMy only minor complaint would be that the buckle could be a little more sturdy; it feels a tad lightweight.",
+            "language": "English"
+        }
+    ]
+}

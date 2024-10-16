@@ -1,0 +1,28 @@
+{
+    "nr": "28",
+    "name": "BlendVibe Pro",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 24,
+    "description": "Transform your culinary adventures with the ultimate blending companion. This state-of-the-art powerhouse is designed to elevate your kitchen experience by delivering velvety smoothies, velvety soups, and finely-ground nut butters at the touch of a button. Say goodbye to lumpy textures and uneven consistencies; this sleek gadget employs advanced vortex technology that creates a whirlwind motion, ensuring that every ingredient is perfectly blended, leaving you with deliciously smooth results every time.\n\nFeaturing a robust motor capable of handling tough ingredients, including ice, frozen fruit, and leafy greens, this blender doesn't shy away from a challenge. With multiple speed settings and custom blending modes, you can easily tailor your mix to achieve your desired texture\u2014from chunky salsa to creamy pesto. The intuitive control panel",
+    "images": [
+        "product_28_01.png",
+        "product_28_02.png",
+        "product_28_03.png",
+        "product_28_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "La experiencia con esta licuadora ha sido bastante decepcionante. Al principio parec\u00eda prometedora, pero despu\u00e9s de unos d\u00edas de uso, empez\u00f3 a dejar de funcionar como deber\u00eda. Complementos a veces no encajan bien y es muy ruidosa, no puedo usarla sin molestar a los dem\u00e1s en casa. Adem\u00e1s, no lic\u00faa bien algunas frutas y quedan grumos. La limpieza tambi\u00e9n es un problema, se quedan residuos y es dif\u00edcil. As\u00ed que aunque no es totalmente in\u00fatil,",
+            "language": "Spanish"
+        },
+        {
+            "review": "I had high hopes for this blender, but it fell short in a few key areas. It does blend smoothies and juices just fine, but it struggles with harder ingredients like ice and frozen fruits. I\u2019ve noticed it can\u2019t maintain speed and tends to stall out occasionally. Clean-up is a hassle too; it\u2019s hard to reach some parts and I worry about durability because the plastic feels cheap. For the price, I expected better performance and sturdiness. It gets the job done, but there are",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love this blender, but honestly, I\u2019m pretty disappointed. It looked great when I first got it, but it doesn\u2019t do as good a job as I expected. It struggles with ice and leaves chunks in my smoothies. Also, the motor feels weak; sometimes it just stops in the middle of blending! I even tried different settings and it didn\u2019t help much. \n\nCleaning is a bit of a pain too. You have to take everything apart and the blades are hard to handle",
+            "language": "English"
+        }
+    ]
+}
