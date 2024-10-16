@@ -1,0 +1,21 @@
+{
+    "nr": "378",
+    "name": "WhistleMettle Kettle",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 10,
+    "description": "Elevate your hot beverage experience with our premium kettle, designed for those who appreciate both form and function. This standout kitchen companion boasts an eye-catching metallic finish that adds a touch of elegance to any countertop. With its 2.5-liter capacity, you can effortlessly boil enough water for a cozy gathering or your daily tea ritual. Say goodbye to mundane kitchen tools and hello to a stylish statement piece that you'll love to showcase.\n\nEngineered with precision, our kettle features a rapid-boil technology that heats water in mere minutes, perfect for those busy mornings when every second counts. The ergonomic handle ensures a comfortable grip, making pouring safe and easy, while the integrated whistle alerts you when your water is ready\u2014no more burning water or delayed tea time!",
+    "images": [
+        "product_378_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve had this kettle for a few weeks now, and I\u2019m honestly a bit disappointed. It looks nice on my counter, I\u2019ll give it that, but the functionality is just not there. The heating time is way longer than I expected, and sometimes it just doesn\u2019t get the water to the right temp. \n\nPlus, the pouring is a bit awkward. It spills more than I\u2019d like, which makes mornings pretty messy. The design is flashy, but it lacks that simple usability that",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to get this kettle, but honestly, I'm kinda disappointed. It looks nice, but it heats water pretty slowly, and a lot slower than my old one. I find myself waiting longer than I want just for a cup of tea. Plus, the whistle is not even that loud, I hardly hear it sometimes, which is frustrating when I'm in another room. The design is cool and all, but I expected it to work better for the price. Definitely wouldn\u2019t recommend if you",
+            "language": "English"
+        }
+    ]
+}

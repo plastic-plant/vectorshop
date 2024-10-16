@@ -1,0 +1,24 @@
+{
+    "nr": "4",
+    "name": "StormShield Jacket",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 23,
+    "description": "Unleash your adventurous spirit with our cutting-edge outerwear designed to stand the test of demanding weather. This remarkable jacket is engineered with advanced waterproof technology, ensuring you stay dry and comfortable, no matter the conditions. From spontaneous rain showers to gusty winds, this jacket acts as your reliable shield, allowing you to embrace the outdoors with confidence and style. \n\nCrafted with a lightweight yet durable fabric, this versatile piece effortlessly combines functionality with fashion. Its breathable lining prevents overheating during strenuous activities, while cleverly placed ventilation ensures optimal airflow. The adjustable cuffs and hem provide a custom fit, allowing you to move freely and comfortably throughout your day. And with multiple secure pockets, you can keep your essentials safely stowed and readily accessible.\n\nAvailable in an array",
+    "images": [
+        "product_4_01.png",
+        "product_4_02.png",
+        "product_4_03.png",
+        "product_4_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this jacket for a few weeks now, and it's got some good features but also some flaws. First off, it really does keep the wind out, and it\u2019s lightweight, which I appreciate. The design is nice and fits pretty well too. But the fabric feels a bit cheap, and it\u2019s not as warm as I hoped for colder days. Also, it doesn\u2019t have enough pockets for my stuff. It\u2019s okay for mild weather, but I wouldn\u2019t count on it if",
+            "language": "English"
+        },
+        {
+            "review": "I think this jacket is just okay. It looks nice at first, but honestly, it doesn't keep out the wind as much as I hoped. When it rains, I still get a little damp. The pockets are deep but not waterproof, so don't expect to keep your phone safe. It does have a cool design and fits well, but I found myself reaching for my old jacket on days when the weather was really bad. Overall, it's a decent jacket, just not the best for heavy rain or",
+            "language": "English"
+        }
+    ]
+}

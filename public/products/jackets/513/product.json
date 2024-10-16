@@ -1,0 +1,25 @@
+{
+    "nr": "513",
+    "name": "SkyShield Jacket",
+    "price": "9999",
+    "ranking": 2,
+    "availability": 24,
+    "description": "Embrace the elements with confidence in our latest innovation, the S-Jacket. Designed for the modern-day adventurer, this remarkable outerwear piece is crafted with premium waterproof fabric that ensures you stay dry no matter the weather. With its lightweight, breathable design, you\u2019ll experience ultimate comfort during your daily commute, weekend hikes, or spontaneous adventures in the great outdoors. Bid farewell to bulky layers; the S-Jacket offers a snug fit that feels as good as it looks, easily transitioning from an early morning jog to an evening out with friends.\n\nFeaturing an innovative thermal insulation layer, the S-Jacket boasts exceptional warmth without the weight. Advanced fabrication technology utilizes eco-friendly materials that efficiently trap heat while allowing moisture to escape, keeping you cozy yet comfortable.",
+    "images": [
+        "product_513_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited to try this jacket based on the hype, but honestly, it's kind of a letdown. The material feels cheap and lightweight, like it won't hold up against actual weather elements. It looks nice, but that's about it. The sizing runs small, I usually wear a medium and the medium was super tight \u2013 not comfortable at all. The pockets are practically useless, they barely fit my phone. I expected more protection from the elements, especially for the price. Overall, not impressed",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this jacket because of the features it promised, but honestly, it didn't live up to the hype. The materials feel a bit cheap, and I was expecting better quality for the price. The fit is pretty off too; it\u2019s either too tight or too baggy in all the wrong places, making it really uncomfortable to wear for any length of time. I also found it to be not as weather-resistant as advertised. It kept me warm, but a light rain left me",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to trying this jacket but honestly, I\u2019m kinda disappointed. It looks cool, I\u2019ll give it that, but the fit is off. It feels a bit tight in the shoulders and loose everywhere else. Not super comfortable for movement, which is a bummer since I wanted something I could wear out and about. \n\nAlso, I expected it to be more weatherproof. I got caught in a light rain and it soaked right through. Didn't keep me warm either, so",
+            "language": "English"
+        }
+    ]
+}

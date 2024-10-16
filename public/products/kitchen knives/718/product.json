@@ -1,0 +1,25 @@
+{
+    "nr": "718",
+    "name": "BladeCrafter Pro",
+    "price": "1999",
+    "ranking": 4,
+    "availability": 3,
+    "description": "Elevate your culinary experience with this exceptional kitchen knife that redefines precision and versatility in the kitchen. Handcrafted with the finest materials, this cutting-edge blade boasts a razor-sharp edge that effortlessly glides through everything from delicate herbs to robust proteins. Engineered for both amateur home cooks and seasoned chefs, its ergonomic design ensures a comfortable grip while providing superior control for a seamless chopping, slicing, and dicing experience.\n\nEach blade is forged from high-carbon stainless steel, combining durability with unmatched sharpness that lasts. With an elegant, balanced design, this kitchen companion reduces wrist fatigue, allowing you to tackle lengthy meal prep sessions with ease. The unique anti-slip handle offers confidence while cutting, turning the most mundane tasks into a delightful culinary adventure. Whether",
+    "images": [
+        "product_718_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using these kitchen knives for a few weeks now, and I have to say I'm quite impressed! They feel really good in hand\u2014well balanced and easy to grip, which makes chopping veggies a breeze. The blades are sharp right out of the box and have stayed that way even after regular use. Slicing through meat is effortless, and I've noticed they glide through like butter.\n\nThe fact that they come with a nice storage block is a plus, too. It keeps my countertops tidy and",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these knives for a few weeks now, and overall, I\u2019m pretty impressed! The sharpness is on point, cutting through veggies and meats like butter. They feel nice in the hand\u2014well balanced and comfortable for my wrist. The design is sleek too, which adds a bit of flair to my kitchen.\n\nOne small issue I've encountered is the handle could use a bit more grip. A few times I felt my hand slipping, especially when cutting something slippery like tomatoes. But it's not",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these kitchen knives for a few weeks now, and I really like them. They feel solid in hand and are quite sharp; cutting through veggies and meat has been a breeze. The handle is comfortable, which makes it easy to work with for extended periods without my hand getting tired. \n\nThe design is sleek and modern, so they definitely add a nice touch to my kitchen. They do need a bit more care to keep that sharpness intact, but honestly, that's pretty standard with quality",
+            "language": "English"
+        }
+    ]
+}

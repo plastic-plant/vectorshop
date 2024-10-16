@@ -1,0 +1,34 @@
+{
+    "nr": "335",
+    "name": "EdgeCraft Pro Series Knife",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 6,
+    "description": "Experience the art of culinary perfection with our revolutionary slicing tool, the ProSlice. Engineered for both the passionate home cook and the professional chef, this cutting-edge knife transforms meal preparation into a seamless and enjoyable process. With its lightweight design and perfectly balanced grip, the ProSlice allows for effortless maneuverability, giving you unparalleled control as you chop, slice, and dice your way to culinary masterpieces.\n\nCrafted from high-carbon stainless steel, the blade of the ProSlice offers a razor-sharp edge that holds its sharpness longer than traditional knives. This means less time spent honing and sharpening, and more time spent creating gourmet dishes. The precision-engineered taper grind not only enhances its sharpness but also promotes a smoother cutting motion, making tough ingredients a",
+    "images": [
+        "product_335_01.png",
+        "product_335_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "Comprei essa faca h\u00e1 algumas semanas e estou um pouco dividido. O corte \u00e9 bom na maioria das vezes, mas j\u00e1 encontrei algumas falhas. \u00c0s vezes, ela N\u00e3o parece t\u00e3o afiada como esperava, principalmente em carnes mais duras. A sensa\u00e7\u00e3o na m\u00e3o \u00e9 confort\u00e1vel e a qualidade do material parece decentemente boa, mas o pre\u00e7o deixou a desejar. Achei que trabalhando melhor para o que paguei. No geral, \u00e9 uma faca ok, mas n\u00e3o atende totalmente minhas expectativas",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I got this knife hoping it would be my new kitchen favorite, but it's just okay. The grip is nice, and it feels solid in hand, but the edge doesn't hold as well as I expected. After a few uses, I found myself having to sharpen it more often than I'd like, which is a bit annoying. \n\nIt's fine for basic chopping but if you're doing a lot of prep work, it might not stay sharp long enough. The design looks good on my countertop, but I'm unsure",
+            "language": "English"
+        },
+        {
+            "review": "I got this knife recently and have mixed feelings about it. The design looks nice and it feels solid. Cuts pretty well through meats and veggies, but sometimes it just doesn\u2019t slice as smoothly as I expected. Kind of odd for the price point.\n\nAlso, the handle is comfortable, but it gets a bit slippery when my hands are wet. I really liked how sharp it was out of the box, but after a few weeks, it doesn\u2019t hold the edge as well as I hoped.",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try these knives based on the hype, but honestly, they\u2019re just okay. The design is nice, and they look sharp (pun intended), but they don't hold an edge well at all. I found myself having to sharpen them pretty frequently, which is frustrating. \n\nThe handle is comfortable enough, but I expected a bit more ergonomic design for the price. The performance is decent for casual slicing, but if you're into serious meal prep, you might want to look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this knife for a few months now, and honestly, it's okay but not as great as I expected. The blade is sharp enough for slicing, but it doesn\u2019t hold its edge as long as I would like. The handle feels a bit flimsy, and I\u2019m worried it could break if I apply too much pressure. \n\nIt cuts well through most veggies and meats, but I found some things, like tough skins, can be a challenge. Cleaning it is simple, but",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "445",
+    "name": "Skyward Shield Jacket",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 16,
+    "description": "Elevate your outerwear collection with the ultimate in protective wear, tailored for the modern adventurer and everyday explorer. This remarkable jacket combines cutting-edge fabric technology with a sleek, urban design, ensuring you stay dry and stylish no matter what the weather throws your way. Engineered with a unique waterproof membrane, this piece guarantees that not a droplet will touch your skin, allowing you to confidently embrace the rain while maintaining your chic aesthetic.\n\nThe lightweight yet durable construction empowers effortless movement, whether you're navigating through city streets or venturing into the wild. With its thoughtful features, including adjustable cuffs for a customized fit and a zippered pocket that secures your essentials, this versatile jacket is as functional as it is fashionable. The breathable fabric ensures optimal airflow,",
+    "images": [
+        "product_445_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this jacket, but it just didn\u2019t deliver. The material feels cheap and not what I expected for the price. Also, it\u2019s not very warm at all; I honestly feel colder when I wear it. The fit is off, too \u2013 it\u2019s way too tight in the shoulders but loose everywhere else, which is super uncomfortable. I was hoping it would be a decent layer for outdoors, but I find myself reaching for my old jacket instead. The pockets are positioned weird",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this jacket, but honestly, it didn\u2019t live up to my expectations. First off, the fit is pretty weird\u2014it\u2019s tight in some places and loose in others. Not flattering at all. The material feels a bit cheap, and it doesn't breathe well, so I ended up sweating a lot. \n\nAlso, I expected it to keep me dry, but I got a little wet during a light rain. Definitely not as water-resistant as I hoped. The pockets are",
+            "language": "English"
+        },
+        {
+            "review": "I was really hopeful about this jacket based on the description, but it didn't quite meet my expectations. The material feels kind of flimsy, and I didn\u2019t feel very protected from the wind like I thought I would. The sizing is off too; it was way too tight in the shoulders but loose elsewhere, so I had to return it. I also wasn't impressed with the water resistance\u2014got caught in a light drizzle and ended up wet. For the price, I expected something better, but it",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this jacket, but it just doesn't live up to the hype. The material feels kinda cheap and not as breathable as I'd hoped. The fit is strange\u2014really tight in some areas and loose in others. I thought it'd be good for both weather and style, but it ends up feeling clunky. The pockets are basically useless; too shallow. I expected more, especially after the reviews I saw. Not worth the price in my opinion. Disappointed.",
+            "language": "English"
+        },
+        {
+            "review": "Recebi este casaco esperando algo incr\u00edvel, mas ele ficou abaixo das minhas expectativas. A qualidade do material parece um pouco barata e n\u00e3o senti que protege bem do vento ou da chuva. O ajuste tamb\u00e9m n\u00e3o \u00e9 dos melhores, parece meio solto em algumas partes e desconfort\u00e1vel em outras. A cor \u00e9 bonita, mas isso n\u00e3o \u00e9 o suficiente para compensar os outros problemas. Comprei pensando que seria uma boa escolha para o dia a dia, mas acabei decepcionado. N\u00e3o",
+            "language": "Portuguese"
+        }
+    ]
+}

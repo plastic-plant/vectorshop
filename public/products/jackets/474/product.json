@@ -1,0 +1,21 @@
+{
+    "nr": "474",
+    "name": "Velocity Veil Jacket",
+    "price": "9999",
+    "ranking": 1,
+    "availability": 20,
+    "description": "Experience the ultimate fusion of style and practicality with our latest lightweight outerwear marvel. Designed for dynamic individuals who refuse to compromise on fashion or function, this jacket combines cutting-edge technology with sleek aesthetics. Crafted from water-resistant fabric, it offers a protective shield against unexpected rain showers while remaining breathable, keeping you comfortable even during the most active of days.\n\nThe standout feature of this versatile jacket is its ultra-packable design. Easily fold it into its own pocket and toss it into your tote or backpack, making it the ideal travel companion for spontaneous adventures. Don\u2019t let unpredictable weather hold you back\u2014this jacket is always ready to go, seamlessly transitioning from a day at the office to a weekend hike. The stylish silhouette flatters every figure, ensuring you not",
+    "images": [
+        "product_474_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This jacket is super disappointing. I thought it would keep me warm, but it don't. It's super thin and doesn't block the wind at all. After wearing it once in kind of chilly weather, I regretted my choice. It's also way too big! I ordered my size, but it feels like it\u2019s meant for someone else. The pockets are basically useless, they\u2019re so small. I've been let down by this purchase. Save your money and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "Ich habe mir diese Jacke gekauft und bin total entt\u00e4uscht. Sie sieht zwar gut aus, aber das Material ist einfach schlecht. Nach ein paar Mal Tragen schon abgerockt und die N\u00e4hte l\u00f6sen sich. Kein Wasserschutz, ich wurde total durchn\u00e4sst bei leichtem Regen. Die Gr\u00f6\u00dfen stimmen auch nicht, viel zu klein. Ich kann das Teil einfach nicht empfehlen! Schade um mein Geld.",
+            "language": "German"
+        }
+    ]
+}

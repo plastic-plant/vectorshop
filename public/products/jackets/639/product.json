@@ -1,0 +1,35 @@
+{
+    "nr": "639",
+    "name": "StormGuard Infinity Jacket",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 5,
+    "description": "Introducing your new go-to outerwear for every season, the Ultimate Shield. Crafted for the modern adventurer, this jacket seamlessly combines cutting-edge technology with everyday functionality. Picture yourself braving the elements, whether it's a torrential downpour or a brisk winter breeze, and doing so with unrivaled comfort and style. With its innovative weatherproof coating, this jacket repels water and wind, ensuring you stay dry and cozy no matter what Mother Nature throws your way.\n\nEngineered with lightweight yet durable materials, the Ultimate Shield boasts exceptional breathability, making it perfect for both outdoor excursions and urban explorations. Its meticulously designed ventilation system allows for optimal airflow, preventing overheating during those unexpected bursts of activity. Plus, with strategically placed pockets, you'll have all",
+    "images": [
+        "product_639_01.png",
+        "product_639_02.png",
+        "product_639_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this jacket for a little while now, and I have to say it\u2019s pretty average. The design is nice, but I expected better materials for the price I paid. It keeps me somewhat dry in light rain, but when it pours or if it\u2019s really windy, I still end up feeling damp. The fit is decent, though I found it\u2019s a bit snug around the shoulders when I reach for things. The pockets are good, but they could be deeper; stuff tends",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, I was pretty excited when I got this jacket\u2014looked really sleek and promised to be super versatile. However, after a few months of use, I\u2019m a bit let down. While it does keep me somewhat dry on light rainy days, it just doesn't hold up in heavier downpours. The material feels nice and looks good, but it doesn\u2019t offer the warmth I expected, especially when the wind kicks in. \n\nThe fit is okay, but I found it to be slightly",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been testing this jacket for a few weeks now, and I gotta say, it\u2019s kinda hit or miss for me. On one hand, it looks trendy and serves its purpose of keeping me somewhat warm. The fabric feels decent and it\u2019s got some cool features like zipped pockets and adjustable cuffs. \n\nHowever, I was expecting it to handle the rain a lot better. I got caught in a light shower and was left feeling damp, which was disappointing. Also, the fit is a bit",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this jacket and, honestly, it's just okay. The material feels decent, but it doesn\u2019t seem as waterproof as I hoped. I was caught in a light rain, and I still ended up damp. The fit is nice, though. It's comfy enough and looks stylish when I\u2019m just running errands. But I wish the pockets were roomier; they\u2019re a bit tight for my phone and keys. Overall, it works, but I\u2019ve had better. Not exactly what I expected",
+            "language": "English"
+        },
+        {
+            "review": "I've had this jacket for a couple of weeks now, and it\u2019s kind of mixed feelings. The design is nice and it looks good on, but I expected more from it based on the hype. It\u2019s lightweight, which is great, but I found it doesn\u2019t hold up too well against heavy rain. I stayed dry for light showers, but when the weather got really bad, I felt damp after a while. \n\nThe fit is okay, but it could be a bit roomier in the",
+            "language": "English"
+        }
+    ]
+}

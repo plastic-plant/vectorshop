@@ -1,0 +1,25 @@
+{
+    "nr": "241",
+    "name": "UrbanVoyage Jacket",
+    "price": "5999",
+    "ranking": 1,
+    "availability": 8,
+    "description": "Embrace the elements with a jacket that redefines urban adventuring. This cutting-edge outerwear piece is designed for those who thrive in the hustle and bustle, offering a perfect blend of style, comfort, and functionality. Crafted from water-repellent fabric, it keeps you dry during unexpected showers while maintaining breathability, ensuring you feel fresh and free as you tackle your day. With its lightweight construction, this jacket effortlessly transitions from the office to outdoor excursions, making it an indispensable companion for every city explorer.\n\nStylish and smart, the jacket features an array of cleverly designed pockets, providing ample space for your essentials like smartphones, wallets, and keys, so you can travel light without sacrificing practicality. The adjustable cuffs and hem allow for a customized fit",
+    "images": [
+        "product_241_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "awful jacket. it looks nice but that's where the good stuff ends. first of all, it didn't fit right, way too tight in the shoulders. then it started falling apart after only a few wears, seams coming loose and the fabric pilling like crazy. Oh and don\u2019t get me started on how it did NOT keep me warm at all!! just a big letdown, wasted my money. save yourself the trouble and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "Awful. This jacket was a complete waste of money. The fit is totally off - too tight around the shoulders and way too loose everywhere else. I'm freezing in this thing! Not to mention it's not waterproof at all, got soaked in light rain. Pockets don\u2019t zip, everything just falls out. Material feels cheap, like a trash bag! Can't believe I bought this. Seriously don't waste your money like I did.",
+            "language": "English"
+        },
+        {
+            "review": "this jacket is a total letdown. i expected it to be good for urban use, but it feels cheap and doesn\u2019t fit right. within a week the zipper broke - just awful. pockets are useless, barely fit my phone. i tried to wear it twice and just gave up. sizing is all wrong too, its way too tight even tho i ordered my size. def not worth the money, save yourself the trouble and look elsewhere.",
+            "language": "English"
+        }
+    ]
+}

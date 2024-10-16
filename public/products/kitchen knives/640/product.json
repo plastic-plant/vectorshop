@@ -1,0 +1,23 @@
+{
+    "nr": "640",
+    "name": "EdgeCraft Precision Knife Set",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 19,
+    "description": "Unleash your culinary creativity with our premier knife collection, designed for the discerning home chef who demands precision and performance. Each blade in this stunning ensemble is expertly forged from high-carbon stainless steel, ensuring unparalleled sharpness and longevity. From slicing through ripe tomatoes to effortlessly dicing onions, you\u2019ll experience new levels of ease and efficiency in your kitchen. Elevate every meal with knives that don't just cut\u2014they inspire.\n\nThe ergonomic handles, crafted from triple-riveted and slip-resistant materials, provide a comfortable and secure grip, even during the most intricate food preparations. With a perfect balance and weight distribution, you\u2019ll feel empowered as you navigate through complex recipes with confidence. Each knife is tailored for specific tasks, so whether you\u2019re chopping, mincing",
+    "images": [
+        "product_640_01.png",
+        "product_640_02.png",
+        "product_640_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really looking forward to using this knife set, but honestly, it just didn\u2019t wow me. The blades are sharp enough but not consistent, some slices through like a dream while others feel dull. The handles also aren\u2019t very comfortable; they\u2019re slippery when wet, which is pretty annoying when cooking. The design looks nice but feels cheap. I can find better quality knives for less. Overall, not what I expected and I wouldn\u2019t recommend them if you're cooking regularly, just can't trust them",
+            "language": "English"
+        },
+        {
+            "review": "I've had high hopes for these knives given the hype, but I'm pretty disappointed. They look nice on the counter, but the blades don't stay sharp for long at all. I expected to slice through veggies and meats with ease, yet I find myself struggling more often than not. The handle is kinda uncomfortable too, not the best grip. I've had to pull out my old set a few times now because these just weren't cutting it\u2026 literally. Can't say I'd recommend based on my experience.",
+            "language": "English"
+        }
+    ]
+}

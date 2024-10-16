@@ -1,0 +1,31 @@
+{
+    "nr": "666",
+    "name": "\"WhisperKettle\"",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 14,
+    "description": "Imagine a serene morning, where the gentle sound of boiling water complements your peaceful routine\u2014no jarring whistles, no clattering pots, just the calming presence of tranquility in your kitchen. This exceptional kettle transforms the ordinary task of boiling water into a soothing experience. Crafted with state-of-the-art technology, it features a whisper-quiet operation, allowing you to enjoy your peaceful moments while preparing your favorite warm beverages.\n\nDesigned with your lifestyle in mind, this remarkable kettle boasts an intelligent temperature control system. Whether you're brewing delicate green tea that requires precise heat or steeping robust black tea, you can select the perfect temperature at the touch of a button. The sleek digital display not only enhances its modern aesthetic but also allows you to monitor your water's progress effortlessly",
+    "images": [
+        "product_666_01.png",
+        "product_666_02.png",
+        "product_666_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this kettle for a few weeks now and it's okay, but honestly, it doesn\u2019t live up to the hype. The temperature settings are a nice feature, but I've found them a bit inconsistent. Sometimes it takes longer than expected to boil water, and it can be really loud when it does. The design looks nice on my counter, but the spout can be a bit messy when pouring. I wish it was easier to clean the inside too. Overall, it's not bad, but",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this kettle for a few weeks now, and it's... decent? Heating up water is quick enough, but it's not as quiet as I hoped it would be. The design is okay, looks a bit cheap honestly. The connected app works fine for setting up notifications, but honestly, I find myself just going to the kettle instead of waiting for an alert. It does its job, but I feel like there might be better options out there. It's not a bad buy for the price,",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this kettle for a few weeks now and I have mixed feelings. The design is really nice, sleek even, fits into my kitchen well. But the boiling time is kinda slow compared to my old one. And let's be real, it's a kettle so you expect it to heat up quickly, right? Sometimes it also makes this weird noise when it\u2019s boiling, kinda distracting. The temperature settings are a nice feature, though, and it does what it\u2019s supposed to. Overall, not",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this kettle for a few weeks now and it's pretty decent but not amazing. It boils water quickly, which is great, but it tends to get a bit noisy when heating up. The design looks nice and fits my kitchen, but sometimes the handle feels a bit flimsy. I\u2019ve also noticed it doesn\u2019t hold heat for very long, so if I get distracted, I have to heat it up again.\n\nThe smart features are a nice touch, but setting the temperature can be a",
+            "language": "English"
+        }
+    ]
+}

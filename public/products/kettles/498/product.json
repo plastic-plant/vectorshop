@@ -1,0 +1,29 @@
+{
+    "nr": "498",
+    "name": "WhisperBubble Kettle",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 8,
+    "description": "Transform your tea and coffee rituals with the enchanting elegance of the whisper-quiet kettle that marries form and function like no other. Engineered with advanced acoustic dampening technology, this remarkable kettle ensures that your water heats in serene silence, allowing you to enjoy your moments of relaxation without the jarring sounds of boiling. Its sleek design is not only a visual centerpiece for your countertop but also offers optimal ergonomic handling, making pouring a breeze.\n\nCrafted from high-quality stainless steel, this indispensable kitchen companion boasts a double-wall construction that keeps your water piping hot longer while ensuring the outer surface remains safely cool to the touch. The state-of-the-art rapid boiling system means your water reaches the perfect temperature within minutes, allowing you to indulge in your favorite warm beverages",
+    "images": [
+        "product_498_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this kettle for a couple of weeks now, and I can't say enough good things about it! The whisper-quiet operation is a game changer\u2014I can make my morning tea without waking anyone up. The sleek design looks great on my countertop, and the touch controls are incredibly easy to use. I especially love the temperature settings; it heats up water quickly and gives me the perfect brew for every type of tea. \n\nPlus, the safety features are on point. I never worry about it",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love my new kettle! It's a game changer in my kitchen. The sleek design looks great on my counter, and it heats up water super fast. I can have my tea or instant noodles ready in minutes. The quiet operation is a huge plus \u2013 no more loud boiling that disrupts my mornings. I also really appreciate how easy it is to clean; the pouring spout lets me get every drop without any spills. It's so convenient to make that perfect cup of coffee or steep my favorite",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love this kettle! It heats up water super quickly, and the bubble feature is delightful. It's so quiet that sometimes I forget it's even on\u2014perfect for my early morning tea rituals. The sleek design fits perfectly on my kitchen counter, and it feels really sturdy and well-made. The temperature control is a game changer; I can brew different types of teas at the perfect temperature. I've had it for a few months now, and not a single issue. Highly recommend to anyone looking for a",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this kettle! It has completely transformed my tea brewing experience. The first thing I noticed was how quick it heats up\u2014no more waiting around for ages to enjoy my favorite cup of tea. The design is sleek and modern, which adds a nice touch to my kitchen. \n\nI also appreciate the whisper-quiet operation; it\u2019s fantastic for those early mornings or late nights when I don\u2019t want to wake anyone up. The temperature control is spot-on, allowing me to",
+            "language": "English"
+        }
+    ]
+}

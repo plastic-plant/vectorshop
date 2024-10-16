@@ -1,0 +1,21 @@
+{
+    "nr": "174",
+    "name": "NimbusShield Jacket",
+    "price": "7999",
+    "ranking": 5,
+    "availability": 5,
+    "description": "Elevate your outerwear game with this revolutionary jacket designed to withstand the elements while keeping you effortlessly chic. Imagine stepping out into unpredictable weather, confident in your protection from rain and wind without sacrificing style. With its advanced moisture-wicking technology and a sleek silhouette, this jacket promises both functionality and flair. The lightweight fabric allows for easy movement, making it the perfect companion for everything from brisk walks in the park to urban adventures.\n\nCrafted with a blend of innovative materials, it features a durable, water-resistant shell that repels moisture while allowing your skin to breathe. The thoughtfully designed hood provides additional coverage, transforming it into a stylish statement piece that can be adjusted to suit your needs. Hidden pockets offer convenient storage for your essentials, ensuring you stay organized",
+    "images": [
+        "product_174_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019m absolutely thrilled with my new jacket! From the moment I put it on, I felt like I was wrapped in a soft, protective cloud. The material is so lightweight yet incredibly warm, which is perfect for the unpredictable weather we have been having lately. I love how it keeps me dry even in the heaviest rain. \n\nThe design is sleek and stylish enough for both casual wear and outdoor adventures. The pockets are spacious and secure, ideal for my phone and keys. I also appreciate the",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely love this jacket! It's super lightweight but still keeps me warm and dry in the unpredictable weather. The fit is perfect\u2014not too tight, not too loose, just right! I can easily move around in it, which is great for my active lifestyle. The pocket sizes are ideal too, I never have to worry about my phone slipping out while I\u2019m on the go. The design is sleek and stylish, matching well with everything I own. Plus, I\u2019ve gotten so many compliments on it!",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "nr": "325",
+    "name": "EmberShield Jacket",
+    "price": "7999",
+    "ranking": 2,
+    "availability": 3,
+    "description": "Introducing the ultimate solution for unpredictable weather and outdoor adventures \u2013 your new go-to companion for all seasons! Featuring a lightweight yet durable construction, this innovative jacket seamlessly combines style and functionality, making it perfect for both urban excursions and rugged hikes. The smart design not only keeps you warm and protected, but also offers remarkable breathability, ensuring that you stay comfortable no matter where your day takes you.\n\nCrafted from eco-friendly, water-repellent fabric, this jacket is engineered to withstand the elements while providing you with maximum mobility. Whether you\u2019re caught in an unexpected rain shower or navigating through brisk autumn breezes, the specially designed outer layer expertly wicks away moisture, leaving you dry and cozy. The thoughtful addition of a detachable hood and adjustable cuffs gives",
+    "images": [
+        "product_325_01.png",
+        "product_325_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this jacket, but it just didn\u2019t live up to my expectations. The material feels a bit cheap, almost like it might tear easily. It doesn\u2019t keep me as warm as I had hoped, especially when it's windy outside. The fit is off too, it's either too loose or too tight in strange areas. The pockets are super shallow; my phone keeps falling out! I mean, for the price, I expected a lot better. I guess you get what you pay",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this jacket, but it's just not living up to my expectations. First off, it's not as warm as I thought it would be. On a chilly day, I still felt the cold creeping in. The fabric is kind of flimsy too; I was expecting something a bit sturdier for the price. \n\nOne other big issue is that the pockets are small and not very practical. I can't fit my phone or keys in there without them falling out. The fit is off",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this jacket, but honestly, it didn\u2019t meet my expectations. The material feels kinda flimsy, and it doesn't keep me warm at all, which is surprising for a jacket. The fit is also a bit off; it's tight in some places and loose in others. I thought the design was cool, but practicality is more important. The pockets are too small for anything useful, and they aren\u2019t placed well. It\u2019s such a shame because it looks great, but it",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this jacket, but it just doesn\u2019t live up to the hype. The design looks cool, but that's where the positives end. It claims to be lightweight and protective, but honestly, I felt kinda uncomfortable wearing it. The material feels cheap and scratchy against the skin, not soft like I expected. \n\nAlso, the pockets are pretty useless. They\u2019re too shallow, and stuff keeps falling out. I thought I was getting a good deal, but it just hasn\u2019t",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to using this jacket, but it\u2019s been pretty disappointing. It looks good, but the material feels cheap and not at all warm like I expected. I've tested it outdoors a few times, and the wind cuts right through it. It also doesn\u2019t fit quite right \u2013 kind of tight in the shoulders but loose around the waist. I guess I was hoping it would work for both casual and outdoor wear, but I don\u2019t think it\u2019s suitable for anything beyond running to the",
+            "language": "English"
+        }
+    ]
+}

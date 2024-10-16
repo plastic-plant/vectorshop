@@ -1,0 +1,21 @@
+{
+    "nr": "179",
+    "name": "TrailBlaze Jacket",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 2,
+    "description": "Unleash your adventurous spirit with our latest creation, the Ultimate Adventure Coat! Designed for those who crave exploration and value comfort, this remarkable jacket is your ticket to conquering any climate or terrain, from brisk morning hikes to urban explorations under drizzling skies. With a sleek silhouette and an array of vibrant colors, it's not just a protective layer; it\u2019s a statement piece that amplifies your outdoor style.\n\nCrafted with cutting-edge, weather-resistant technology, this jacket boasts breathable fabric that regulates your body temperature, ensuring you remain comfortable in all conditions. Its lightweight but durable design includes an adjustable hood that can be easily stowed away, waterproof zippers, and reinforced seams, making it perfect for those unexpected rain showers. Powered by versatility,",
+    "images": [
+        "product_179_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this jacket with high hopes, but it\u2019s just okay. The material feels nice and it looks good, but it doesn\u2019t keep me warm when it's really cold. The fit is a bit weird too; it's snug around the shoulders but lots of room in the waist. I thought it would be more versatile for outdoors, but honestly, it doesn\u2019t perform that well. On the plus side, it\u2019s lightweight and easy to pack away! I\u2019ve worn it a few times, but I",
+            "language": "English"
+        },
+        {
+            "review": "I was excited to try this jacket out, but it ended up being just okay. The fit is decent, but it feels a bit bulkier than I expected. The material is kind of nice, but I thought it would be warmer for colder days. Sometimes it\u2019s a bit restrictive when I move my arms, which is frustrating. On rainy days, it kept me dry, but I wish the fabric was more breathable. The pockets are a good size, but they're not very easy to access when",
+            "language": "English"
+        }
+    ]
+}

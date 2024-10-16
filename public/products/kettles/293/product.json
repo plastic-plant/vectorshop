@@ -1,0 +1,22 @@
+{
+    "nr": "293",
+    "name": "WhirlWave Kettle",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 21,
+    "description": "Experience the perfect blend of style, efficiency, and innovation with our premium kettle, designed for the discerning home chef and tea lover alike. This masterpiece redefines your kettle experience, transforming the simple act of boiling water into a delightful routine. Say goodbye to tedious waits and hello to a rapid-heat feature that brings your water to a rolling boil in just minutes, allowing you to savor your favorite beverages without delay.\n\nIncorporating state-of-the-art temperature control technology, this kettle allows you to select the precise temperature for your chosen infusion. Whether you're brewing delicate green tea or steeping robust black tea, you\u2019ll achieve the ideal heat every time, enhancing the natural flavors and aromas. The intuitive LCD display with touch controls gives you an elegant yet straightforward user",
+    "images": [
+        "product_293_01.png",
+        "product_293_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this kettle a month ago and it's a total letdown. It takes forever to boil water, kinda like watching paint dry. The electrical cord is way too short, so I have to juggle it on the edge of my counter, which feels super unsafe. And the lid doesn't close properly, it's annoying. Sometimes it leaks water. I've had cheaper ones that work way better! Gonna return it for sure. Save your money, don\u2019t bother with this one.",
+            "language": "English"
+        },
+        {
+            "review": "got this kettle and it is just terrible. the build quality feels cheap and flimsy. it started leaking after a week and now i have to use a towel under it just to keep the counter dry. it takes forever to boil water too, like way longer than my old kettle. the automatic shut-off feature is totally unreliable\u2014it just stops when it feels like it. really wish i had spent my money on something better. save your time and look elsewhere!",
+            "language": "English"
+        }
+    ]
+}

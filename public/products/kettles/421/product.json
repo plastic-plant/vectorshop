@@ -1,0 +1,21 @@
+{
+    "nr": "421",
+    "name": "BrewSphere Kettle",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 7,
+    "description": "Discover the ultimate experience in tea and coffee preparation with our innovative kettle\u2014an appliance that redefines convenience and style in your kitchen. Designed with precision in every detail, this remarkable gadget offers a perfect fusion of modern technology and timeless elegance. Imagine boiling water faster than ever, thanks to the powerful rapid-heating element, while the sleek stainless-steel finish adds a touch of sophistication to your countertop. With its spacious capacity, you can prepare plenty of your favorite beverages for family gatherings, ensuring nobody is left waiting for that essential cup of warmth.\n\nFeatures such as a customizable temperature control system allow you to brew everything from delicate green tea to robust French press coffee at the ideal heat level\u2014promoting the best flavor extraction. The intuitive LED display puts the magic",
+    "images": [
+        "product_421_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "First off, the kettle looks great on my countertop \u2013 very sleek and modern. The design really matches my kitchen aesthetic. But that's where my excitement ends. It heats up water pretty fast, which is good, but that\u2019s pretty standard for kettles nowadays. I\u2019ve noticed it has some quirks; sometimes it doesn't switch off when the water is boiling. A bit nerve-wracking honestly. \n\nThe cord is a bit short, so I have to position it carefully on my counter to make",
+            "language": "English"
+        },
+        {
+            "review": "I recently bought this kettle and I have to say it\u2019s just okay. It heats water pretty fast, which is a plus, but the design feels a bit cheap for the price. My main issue is the spout; it dribbles water a lot and makes pouring a bit messy. I was also expecting it to be a bit quieter when it\u2019s boiling, but it can get pretty loud at times. It looks nice sitting on the counter, but functionality could use some improvement. Overall,",
+            "language": "English"
+        }
+    ]
+}

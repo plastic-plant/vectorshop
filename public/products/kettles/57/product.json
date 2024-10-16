@@ -1,0 +1,32 @@
+{
+    "nr": "57",
+    "name": "Elysian BrewKettle",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 15,
+    "description": "Elevate your daily ritual with the exquisite craftsmanship of our premium brewing companion, affectionately known as the \"BrewMate.\" Designed for those who appreciate both form and function, this kettle combines timeless aesthetics with cutting-edge technology that enhances every cup you brew. Enjoy the serenity of a soothing pour, coupled with the convenience of rapid boiling\u2014it's not just a kettle; it's a gateway to an exceptional tea or coffee experience.\n\nThe BrewMate boasts a sleek, stainless steel construction that not only ensures durability but also adds a touch of elegance to any kitchen countertop. Equipped with a precise temperature control system, you can effortlessly adjust the heat to suit your favorite beverages, whether you're brewing delicate green tea or revitalizing black coffee. With an intuitive digital interface, the",
+    "images": [
+        "product_57_01.png",
+        "product_57_02.png",
+        "product_57_03.png",
+        "product_57_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this kettle, but it just hasn\u2019t been great. It doesn\u2019t heat the water as fast as my old one did, and the temperature settings are kinda confusing to use. I\u2019ve accidentally boiled water when I only wanted to steep my tea. The lid doesn\u2019t close well, so it sometimes splatters, which is not fun. Plus, the app connection is spotty; it drops out a lot and I end up having to reset it. I was hoping for",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this kettle for a few months now, and honestly, it\u2019s not great. The design looks nice, but it doesn't heat water evenly. Sometimes I\u2019ll make tea and it will be lukewarm, then other times it burns the water. The controls are confusing and not intuitive at all. I actually find myself hoping I don't have to use it. Can't even make a decent cup of coffee because of it. It looks good on the counter but underwhelming in performance.",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had a pretty frustrating experience with this kettle. The design looked nice at first, but it heats up unevenly. Some water boils quicker than others, and I often end up with cold spots. Also, the lid is tricky to close properly, which means it sometimes spills. It\u2019s not super easy to clean either, as the handle doesn\u2019t stay cool, so I have to be careful. I'm just not impressed. Thought it would be better with all the hype but honestly just disappointed.",
+            "language": "English"
+        },
+        {
+            "review": "I've had high hopes for this kettle, but honestly, it just can't compare to others I've used. Filled it up for a few cups of tea, but it takes forever to boil, and when it does, the whistle is so weak you can barely hear it! The design looks nice, but it feels cheap. Also, good luck pouring without spilling everywhere\u2014it just doesn't have a good spout for it. Not impressed overall. I expected much more for the price, especially with so many gadgets at",
+            "language": "English"
+        }
+    ]
+}

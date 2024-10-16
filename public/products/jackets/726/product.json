@@ -1,0 +1,21 @@
+{
+    "nr": "726",
+    "name": "\"UrbanShield Jacket\"",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 14,
+    "description": "Meet your new favorite companion for every urban adventure, the ultimate weather-resistant outerwear designed to keep you stylish and comfortable, no matter the conditions. Crafted with advanced technology, this jacket offers unparalleled protection against rain, wind, and cold without compromising on breathability. The lightweight fabric adapts flawlessly to your body, ensuring you stay agile on the go, whether you're navigating bustling city streets or retreating to nature's tranquility.\n\nFeaturing an innovative waterproof yet breathable membrane, it effortlessly repels moisture while allowing excess heat to escape, keeping you dry and fresh throughout the day. Its sleek, modern design is complemented by a collection of functional pockets, perfect for stashing your essentials like your phone, wallet, or keys securely. The adjustable cuffs and hem ensure a",
+    "images": [
+        "product_726_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Comprei essa jaqueta achando que seria a resposta para minhas necessidades, mas me decepcionei. O material parece barato e n\u00e3o esquenta tanto quanto eu esperava. J\u00e1 usei algumas vezes e beem, em dias frios n\u00e3o \u00e9 nada boa. Os bolsos s\u00e3o muito pequenos e quase n\u00e3o cabem minhas m\u00e3os. E a cor desbotou r\u00e1pido depois da primeira lavada. \u00c9 um produto que n\u00e3o cumpre o que promete. Fiquei frustrado com minha compra",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I wanted to love this jacket, but honestly, it just didn\u2019t live up to the hype. The style looks nice, but it feels flimsy and not very warm at all. I wore it out on a chilly day, and I was freezing within half an hour. Also, the pockets are pretty useless\u2014way too small and shallow to hold anything. I expected more durability too, but it snagged on something light and now has a noticeable pull. The fit was okay, but there was",
+            "language": "English"
+        }
+    ]
+}

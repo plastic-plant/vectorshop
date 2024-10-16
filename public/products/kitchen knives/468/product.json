@@ -1,0 +1,25 @@
+{
+    "nr": "468",
+    "name": "Chef's Whisper Blade",
+    "price": "3499",
+    "ranking": 5,
+    "availability": 11,
+    "description": "Elevate your culinary experience with our latest innovation in precision cutting\u2014the perfect companion designed for both aspiring home chefs and seasoned culinary artists. This knife boasts an ultra-Sleek design, forged from high-carbon stainless steel, ensuring unmatched sharpness and durability that will transform everyday cooking into a gourmet experience. Its razor-thin edge glides effortlessly through any ingredient, whether you\u2019re slicing delicate herbs or chopping robust vegetables, making food prep not just quick, but also a true delight.\n\nEngineered with a seamless ergonomic handle, this masterpiece feels like an extension of your hand, allowing for unparalleled control and balance during use. The soft grip minimizes fatigue, inviting you to slice, chop, and dice for as long as your culinary inspiration lasts. Plus, with its",
+    "images": [
+        "product_468_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with this kitchen knife! Right from the first slice, I knew I had found my new best friend in the kitchen. The blade is incredibly sharp and glides through vegetables like a dream. Chopping onions is no longer a tearful ordeal; it's a smooth, pleasant experience.\n\nThe ergonomic handle fits perfectly in my hand, making it super comfortable to use. I've used it for everything from mincing garlic to carving meats, and each time I am impressed by how effortlessly it",
+            "language": "English"
+        },
+        {
+            "review": "I've recently upgraded my kitchen knives, and I couldn't be happier with these! The precision is amazing; every slice is effortless, whether I'm dicing veggies or carving meat. The grip feels comfortable and secure, which makes handling it super easy, even during long prep sessions. The balance is spot on\u2014feels just right in my hand. \n\nThe blade stays sharp after multiple uses, and the ease of sharpening it when needed is a real bonus! I've noticed my prep time has decreased, which gives",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely thrilled with my new kitchen knife! From the moment I took it out of the box, I could tell that it's a game changer. The balance is perfect, making it feel really comfortable in my hand, and it glides through everything like butter. \n\nChopping vegetables has never been this effortless. I made a stir-fry the other night, and the precision of the knife allowed me to create uniform cuts for even cooking. Even my tough butternut squash was no match for",
+            "language": "English"
+        }
+    ]
+}

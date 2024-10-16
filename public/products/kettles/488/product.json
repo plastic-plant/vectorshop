@@ -1,0 +1,33 @@
+{
+    "nr": "488",
+    "name": "FusionBoil Kettle",
+    "price": "3499",
+    "ranking": 3,
+    "availability": 1,
+    "description": "Experience the ultimate infusion of style and functionality with our cutting-edge kettle, designed to transform your daily boiling experience. With a sleek, modern silhouette and a vibrant array of color options, this remarkable appliance not only elevates your kitchen aesthetic but also delivers unparalleled performance for all your tea, coffee, and culinary adventures. The user-friendly controls let you easily adjust the temperature to perfection, ensuring that your beverages are brewed precisely to your taste.\n\nEngineered with innovative rapid-boil technology, our kettle heats water faster than ever\u2014saving you precious time in your busy day. Imagine having steaming cups of tea or coffee ready in mere minutes, allowing you to savor every moment. Its durable stainless-steel construction ensures longevity while also providing a clean, hygienic surface that",
+    "images": [
+        "product_488_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this kettle for a couple of weeks now and it\u2019s... okay? It boils water fast, which is good. But the design is kinda awkward, like the handle feels off and sometimes the spout doesn't pour right. A couple of times I've spilled water trying to fill my cup. Also, I expected the light feature to be cooler than it is, it\u2019s just kinda basic. Overall, not the worst kettle, but definitely not the best. Just average.",
+            "language": "English"
+        },
+        {
+            "review": "I got this kettle a couple of weeks ago and it\u2019s okay, but not as great as I expected. It boils water fast, which is nice, but there are a few things that bug me. The lid design is kinda awkward; it doesn\u2019t open smoothly, and sometimes it feels like it might break if I pull too hard. Also, the buttons take a bit to get used to\u2014it\u2019s not super intuitive. I like the compact size for my kitchen, but it could use a better",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this kettle for a few weeks now and I have mixed feelings about it. The design is sleek and looks nice on my countertop, but I've found it doesn't boil water as quickly as I'd expected. It takes a little longer than my old kettle, which is somewhat frustrating if I'm in a hurry. Also, sometimes it just shuts off without me realizing, and I have to start over, which can be annoying.\n\nThe features are pretty cool like the temperature control, and the LED lights are",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this kettle for a few months now, and I have mixed feelings about it. On one hand, it heats up water really quickly which is great; I love being able to make tea or coffee without waiting too long. But, on the other hand, the spout isn't great \u2013 it tends to drip a bit when pouring, so I've had to deal with more spills than I\u2019d like. The design is sleek and modern, but the plastic handle feels a bit cheap and I'm worried",
+            "language": "English"
+        },
+        {
+            "review": "I got this kettle a few weeks ago, and I have mixed feelings about it. It boils water pretty fast which is nice, but I noticed it can be a little loud. The design looks modern, but honestly, it feels kind of plastic-y and cheap. The spout is okay, but sometimes I struggle pouring without splashing. The keep warm feature is convenient, but it doesn't seem to hold the heat for long. All in all, it\u2019s decent for the price, but I was",
+            "language": "English"
+        }
+    ]
+}

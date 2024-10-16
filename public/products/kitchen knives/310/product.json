@@ -1,0 +1,34 @@
+{
+    "nr": "310",
+    "name": "Culinary EdgeMaster",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 25,
+    "description": "Elevate your culinary experience with our premium kitchen companion, the perfectly crafted knife designed for both home cooks and professional chefs alike. With its precision-engineered blade, this knife effortlessly glides through meats, vegetables, and herbs, transforming your meal prep into a joyful symphony of culinary creativity. The razor-sharp edge remains resilient through countless uses, ensuring consistent performance that you can depend on meal after meal. Say goodbye to dull blades and frustrating cuts; this tool redefines efficiency in the kitchen.\n\nFeaturing a beautifully balanced handle made from high-quality Pakkawood, the knife offers unparalleled control and comfort, allowing you to chop, slice, and dice with ease and confidence. Ergonomically designed, it reduces strain on your hands, making it ideal",
+    "images": [
+        "product_310_01.png",
+        "product_310_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "Hatte mich echt gefreut dauf die Messer, aber die sind total Mist. Sie schneiden nicht richtig und sind mega schnell stumpf. nach paar Mal benutzen muss ich sie schon sch\u00e4rfen, was ein Scherz ist. Der Griff ist unbequem und rutscht die ganze Zeit. Hab mehr erwartet f\u00fcr den Preis. W\u00fcrde ich nie nochmal kaufen und kann sie echt nicht empfehlen. Nicht mal als Ersatz. Echt entt\u00e4uschend.",
+            "language": "German"
+        },
+        {
+            "review": "I\u2019m really disappointed with these knives. They don\u2019t cut right at all \u2013 I basically have to saw through everything. I tried chopping veggies and ended up squishing them instead. Such a waste of money! Also, they got dull super fast. I thought I was buying something decent but they feel cheap and flimsy. Worst kitchen knives ever! Save your time and cash and go for something more reliable.",
+            "language": "English"
+        },
+        {
+            "review": "got this knife hoping it would be great but honestly it is so dull i can't even cut a tomato. the handle is awkward and slips in my hand. tried to chop some veggies and ended up with a huge mess. blade feels flimsy too like itll break if i push too hard. really disappointed, i would not recommend this to anyone. waste of money!",
+            "language": "English"
+        },
+        {
+            "review": "Wow, what a disappointment. I heard all the hype and thought I\u2019d try it out. These knives are more like butter knives! They don\u2019t slice through anything, I ending up tearing my veggies instead of chopping them. The quality is cheap, and the grip feels slippery. Tried to use them on meat and it was a no-go. After a week they already look dull. I honestly wouldn\u2019t recommend this to anyone. Save your money!",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these knives but they are just terrible. Got them last month and the first time I tried cutting veggies, they were dull as a spoon. Yeah, not even sharp! I ended up using more force than I wanted and nearly sliced my hand. Also, the handle feels weird and cheap. It slips when your hands are wet, which is dangerous. \n\nAfter washing, the blades look all scratched and they rusted too! What\u2019s the point of having knives that you can",
+            "language": "English"
+        }
+    ]
+}

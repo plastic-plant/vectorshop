@@ -1,0 +1,32 @@
+{
+    "nr": "26",
+    "name": "EdgeMaster ForgeKnife",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 25,
+    "description": "Introducing the ultimate culinary companion that will transform your cooking experience! Our state-of-the-art kitchen knife boasts an exceptional blend of precision and durability, making every slice a work of art. Crafted with a high-carbon stainless steel blade, this knife elevates your kitchen game by providing razor-sharp cutting performance that lasts. Say goodbye to the frustration of dull blades \u2013 with this remarkable tool, you can easily tackle everything from delicate herbs to the toughest meats with confidence and ease.\n\nIts ergonomic grip, designed with the home chef in mind, offers maximum comfort and control while you work. The handle features a seamless fusion of modern design and traditional craftsmanship, ensuring a secure hold that reduces wrist fatigue, even during prolonged use. Experience the joy of effortless chopping, slicing,",
+    "images": [
+        "product_26_01.png",
+        "product_26_02.png",
+        "product_26_03.png",
+        "product_26_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really let down by this knife. The edge dulls way too fast, and I barely got through a few veggies before I had to sharpen it again. The handle feels cheap and kinda slippery, makes it hard to get a good grip. It looks nice on the counter, but it just doesn\u2019t perform like it should. Not worth the money in my opinion. Can\u2019t recommend it, better options out there.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this knife, but it just hasn\u2019t lived up to my expectations. At first glance, it looks cool and all, but when I tried to chop some veggies, I found it pretty dull out of the box. Had to press way too hard and after a few slices, it just kinda struggles. \n\nThe grip isn\u2019t the best either, feels cheap and a bit slippery when hands are wet. I thought it would be easier to handle after some use, but it just",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this knife, but I've gotta say it's pretty disappointing. The design looks cool and all, but it just doesn't cut well. I tried slicing some tomatoes and it crushed them instead of cutting cleanly. The edge dulls way too fast and it's hard to sharpen, which is frustrating. \n\nFor the price, I expected a lot more. The handle feels a bit cheap too like something from a budget store. I keep reaching for my old knife instead of this one. I've",
+            "language": "English"
+        },
+        {
+            "review": "Ik had hoge verwachtingen van deze keukenmes, maar het viel echt tegen. De snijkant is niet scherp genoeg en het lijkt wel alsof het maar zo mee hangt. Ik had gehoopt op precisie, maar het moeilijk om zelfs door zachte groenten te snijden. Het heft voelt ook niet fijn aan; het glijdt soms uit je hand tijdens gebruik. Voor deze prijs had ik gewoon wat meer verwacht. Duo dan tegengevallen, echt jammer!\u2702\ufe0f",
+            "language": "Dutch"
+        }
+    ]
+}

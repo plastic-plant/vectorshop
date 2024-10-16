@@ -1,0 +1,21 @@
+{
+    "nr": "723",
+    "name": "BladeCraft Precision Knife",
+    "price": "4599",
+    "ranking": 1,
+    "availability": 15,
+    "description": "Experience the art of culinary craftsmanship like never before with our innovation in kitchen technology. This remarkable cutting tool promises to transform your meal prep into a masterclass of precision and efficiency. Designed for both amateur home cooks and seasoned chefs, it effortlessly glides through ingredients, providing a seamless and enjoyable cooking experience. Its razor-sharp edge is engineered for longevity, ensuring that every chop, slice, and dice is met with impeccable accuracy.\n\nCrafted from premium stainless steel, this knife features an ergonomic handle that offers superior grip and comfort during extended use. The lightweight design combined with a perfectly balanced weight allows for fluid movements and reduces strain on your wrist, making it ideal for those long sessions in the kitchen. Whether you\u2019re mincing herbs or filleting fish,",
+    "images": [
+        "product_723_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "P\u00e9ssima faca. Comprei achando que ia ser boa, mas mal consegui cortar nada direito. A l\u00e2mina n\u00e3o \u00e9 afiada e eu precisei for\u00e7ar pra tudo. Depois de umas semanas, tava at\u00e9 meio oxidada. A pega tamb\u00e9m n\u00e3o \u00e9 confort\u00e1vel, escorrega f\u00e1cil. Senti que joguei dinheiro fora. N\u00e3o recomendo!",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I really regret buying this knife. It doesn't cut well at all, feels cheap and flimsy. I tried chopping some veggies and it wouldn\u2019t go through. Blade dulled after a few uses. I ended up grabbing my old knife instead. Plus, the handle is uncomfortable, slips when wet. I don\u2019t get the hype. Just a total waste of money. Disappointing. Save your cash and get something else.",
+            "language": "English"
+        }
+    ]
+}

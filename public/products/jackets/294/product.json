@@ -1,0 +1,34 @@
+{
+    "nr": "294",
+    "name": "\"Elemental Drift Jacket\"",
+    "price": "7999",
+    "ranking": 5,
+    "availability": 8,
+    "description": "Embrace the elements with a jacket designed for the adventurous spirit in you. This innovative outerwear piece boasts a sleek, modern silhouette that effortlessly transitions from urban streets to rugged trails. Crafted from a lightweight, weather-resistant fabric, it shields you from unpredictable rain and wind without compromising on breathability. Whether you're commuting to work or exploring the great outdoors, this jacket ensures you stay comfortable and stylish no matter where your journey takes you.\n\nEquipped with advanced thermal technology, it maintains your ideal body temperature, keeping you warm without overheating. The adjustable hood and hem provide a customizable fit, allowing you to contour your jacket to suit your personal style or weather conditions. Thoughtfully designed pockets are seamlessly integrated, offering ample storage for essentials like your phone, wallet,",
+    "images": [
+        "product_294_01.png",
+        "product_294_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "Desde que compr\u00e9 esta chaqueta, ha sido una maravilla. La calidad es incre\u00edble, los materiales se sienten muy agradables al tacto y te mantienen c\u00e1lido sin abrumarte. La tecnolog\u00eda de regulaci\u00f3n de temperatura funciona de maravilla. Puedo llevarla durante horas y nunca me siento inc\u00f3modo. Adem\u00e1s, el dise\u00f1o es moderno y se ajusta perfectamente a mi figura, lo que me hace lucir bien en cualquier ocasi\u00f3n.\n\nMe encanta c\u00f3mo es tan ligera pero a la vez me",
+            "language": "Spanish"
+        },
+        {
+            "review": "Estou encantado com esse novo jaqueta! A qualidade \u00e9 simplesmente incr\u00edvel! O tecido \u00e9 super leve, mas ainda assim mant\u00e9m me aquecido nos dias mais frios. Al\u00e9m disso, o design \u00e9 muito estiloso e combina com qualquer look. \n\nAs funcionalidades s\u00e3o fant\u00e1sticas! Tem v\u00e1rios bolsos que ajudam bastante para guardar minhas coisas. A tecnologia de climatiza\u00e7\u00e3o faz uma grande diferen\u00e7a, afinal, eu n\u00e3o sinto calor excessivo enquanto me movo! \n\n\u00c9 confort\u00e1vel e se ajusta muito bem",
+            "language": "Portuguese"
+        },
+        {
+            "review": "J'adore cette veste ! Elle est vraiment incroyable. Le tissu est super l\u00e9ger, mais en m\u00eame temps, elle vous garde bien au chaud! J'aime aussi la fa\u00e7on dont elle s'adapte \u00e0 mon corps, ni trop serr\u00e9e ni trop large. Les poches sont parfaites pour ranger mes cl\u00e9s et mon t\u00e9l\u00e9phone sans probl\u00e8me. Je peux m\u00eame la porter pendant mes sorties en plein air sans craindre qu'elle s'ab\u00eeme. C'est tellement agr\u00e9able de l'avoir avec moi lors de mes rand",
+            "language": "French"
+        },
+        {
+            "review": "I recently got my hands on this amazing jacket and I can't stop raving about it! From the moment I slipped it on, I knew it was special. The fit is absolutely perfect\u2014snug but not restrictive, allowing for easy movement. The material feels high-quality and isn't too heavy, which is great for layering. \n\nWhat really sets it apart are the features. The pockets are easily accessible and spacious enough to hold my phone and wallet without feeling bulky. Plus, it's super easy to clean",
+            "language": "English"
+        },
+        {
+            "review": "I've been absolutely blown away by this jacket! It's like wearing a cloud\u2014super lightweight yet somehow manages to keep you warm in chilly weather. The material has a unique feel to it; it\u2019s soft and flexible, perfect for both outdoor adventures and casual outings.\n\nI love how easy it is to pack, too. Toss it in my bag, and it doesn\u2019t take up any space at all. And let\u2019s talk about style! With its sleek design, I\u2019ve gotten so many compliments. It",
+            "language": "English"
+        }
+    ]
+}

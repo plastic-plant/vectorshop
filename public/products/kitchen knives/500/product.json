@@ -1,0 +1,29 @@
+{
+    "nr": "500",
+    "name": "EdgeCraft Fusion Knife",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 7,
+    "description": "Introducing the ultimate culinary tool that combines precision, versatility, and style into one sleek package\u2014your new kitchen companion, affectionately known as the \u201cFusion Blade.\u201d This remarkable knife boasts a state-of-the-art forged design that effortlessly merges high-carbon stainless steel with a striking ergonomic handle, providing a seamless balance that feels like an extension of your own hand. Whether you\u2019re dicing vegetables, filleting fish, or carving meat, the Fusion Blade delivers razor-sharp performance for every task, ensuring your kitchen endeavors are not only efficient but also enjoyable.\n\nWhat sets this remarkable knife apart is its unique hybrid edge technology, which features a blend of traditional grind and contemporary serration. This innovative design ensures you experience the best of both worlds\u2014precision slicing that retains",
+    "images": [
+        "product_500_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really regret buying this knife. It\u2019s so dull, I struggle to cut through basic things like tomatoes and bread. And the handle feels cheap, like it\u2019s gonna snap any minute. I've tried sharpening it but nothing works. It just doesn\u2019t feel right in my hand, kinda clunky. I expected way more for the price and I wouldn't recommend it to anyone. Total waste of money.",
+            "language": "English"
+        },
+        {
+            "review": "I don't get the hype around this knife. It's not sharp enough, keeps feeling like I'm just squishing my food instead of cutting it. The handle is uncomfortable too and feels cheap. I tried to slice tomatoes, and it was a total disaster. A pretty knife that doesn't do its job. Waste of money. Totally regret buying this. Don't bother unless you want to be frustrated in the kitchen.",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this knife after all the hype, but man, what a letdown. It didn\u2019t cut like I expected. I had to saw through veggies instead of slicing. Super disappointing! The handle felt cheap and slippery, can\u2019t get a good grip. Also, it rusted after a few washes! I swear it\u2019s just a fancy box with a bad blade. I won't be using this again. Save your money.",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this knife since it looked great online, but wow, am I disappointed. First off, the edge went dull after just a few uses. I mean, come on! It struggles to slice through even soft veggies. Then there's the grip \u2013 super uncomfortable and slippery, not what you want when you're chopping. \n\nAlso, it feels cheaper than it looks, like it might break any minute. I've used better knives that cost way less. Honestly, I can't recommend this.",
+            "language": "English"
+        }
+    ]
+}

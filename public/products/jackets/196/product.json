@@ -1,0 +1,25 @@
+{
+    "nr": "196",
+    "name": "StormGuard Voyager Jacket",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 9,
+    "description": "Embrace the elements and elevate your outdoor experience with our latest innovation in outerwear. Designed for the modern adventurer, this jacket offers a unique blend of style, functionality, and unmatched protection. With its cutting-edge weatherproof technology, it shields you from rain, wind, and snow, ensuring that unpredictable weather never holds you back. Whether you\u2019re hiking a rugged trail, commuting through city streets, or simply enjoying a brisk walk in the park, this versatile champion is your ultimate companion.\n\nThe lightweight yet durable fabric breathes effortlessly, keeping you comfortable and dry even during an intense workout. Integrated cooling vents offer enhanced airflow, while the sleek, ergonomic design contours to your body for a flattering fit. Featuring an adjustable hood and cuffs, you can customize",
+    "images": [
+        "product_196_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was excited to try this jacket out since I needed something for unpredictable weather. It definitely has some great features, like being lightweight and the pocket space is decent. The water resistance works well, and I stayed dry during a light rain. However, I found it lacking in warmth. I just expected it to keep me a bit cozier when the temperature drops. The fit is also a little off; it feels tight around the shoulders when I move my arms, so that\u2019s annoying.\n\nOverall,",
+            "language": "English"
+        },
+        {
+            "review": "I recently bought this jacket and while it\u2019s not terrible, it's definitely not what I expected. It feels a bit lighter than I wanted, making it hard to trust it during really tough weather. The pockets are useful, but they could be deeper. On the plus side, it kind of looks nice, and I like the color options. It fits okay, not too big or too tight, which is nice. I just wish it was a bit warmer for chillier days. Overall, it\u2019s",
+            "language": "English"
+        },
+        {
+            "review": "I got this jacket a few weeks ago, and it\u2019s been a mixed bag. On one hand, it\u2019s pretty lightweight and comfortable to wear. The fit is decent, not too tight or loose, but it doesn\u2019t do a fantastic job in the rain. I was caught in a light shower, and I could feel some moisture seeping through after a while. Honestly, I expected better waterproofing for the price. The pockets are a bit small too\u2014could use more room for my phone",
+            "language": "English"
+        }
+    ]
+}
