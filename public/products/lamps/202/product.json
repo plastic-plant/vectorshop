@@ -1,0 +1,21 @@
+{
+    "nr": "202",
+    "name": "Luminara Cascade Lamp",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 10,
+    "description": "Transform your living space into a sanctuary of style and serenity with our enchanting lamp, affectionately known as the \"Glow Cascader.\" This exquisite lighting piece artfully combines modern elegance with a touch of natural beauty, making it the perfect addition to any room. With its graceful cascade of soft, diffused light, this lamp creates an inviting ambiance that soothes the senses and enhances relaxation.\n\nCrafted with premium materials, the Glow Cascader features an innovative design that mimics the gentle flow of a cascading waterfall. The sophisticated finish is available in brushed brass, matte black, or soft white, allowing you to seamlessly match it with your existing decor. The built-in dimmer switch offers customizable brightness levels, making it easy to set the perfect mood whether you",
+    "images": [
+        "product_202_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got the chance to try out this beautiful lamp, and I\u2019m really happy with it for the most part! It adds a lovely touch to my living room. The design is sleek and fits perfectly with my decor. I love that it has multiple brightness settings, which makes it really versatile depending on the mood. The warm light it gives off is so cozy and inviting.\n\nOne minor issue I noticed is that it takes a little time to connect with the app for smart functions, but once it's",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had this lamp for a few months now, and overall, I really like it! The warm glow it gives is so calming, perfect for cozy evenings at home. The design is sleek and fits well with my decor. I appreciate how easy it is to adjust the brightness; sometimes I want it dimmer for a movie night or brighter when I'm reading. \n\nOne small downside is that the charging could be a bit quicker. It takes a while to fully charge, but once it\u2019s charged",
+            "language": "English"
+        }
+    ]
+}

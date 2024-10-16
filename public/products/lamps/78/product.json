@@ -1,0 +1,24 @@
+{
+    "nr": "78",
+    "name": "LumiNova GlowSphere",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 21,
+    "description": "Transform your living space into a tranquil oasis with our revolutionary ambient light solution, the LGS. Designed to illuminate not just your room but your entire mood, this innovative lamp features a mesmerizing 360-degree glow that softly radiates warm hues, creating a serene atmosphere perfect for relaxation or intimate gatherings. With its minimalist design and sleek, modern aesthetic, the LGS seamlessly blends into any decor, turning an ordinary room into an extraordinary sanctuary.\n\nEquipped with smart technology, this lamp allows you to tailor your lighting experience to your unique preferences. The LGS comes with customizable brightness settings and a variety of enchanting color options, from calming blues and greens to invigorating yellows and reds. Effortlessly control your ambiance through a user-friendly app or with a",
+    "images": [
+        "product_78_01.png",
+        "product_78_02.png",
+        "product_78_03.png",
+        "product_78_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this glow lamp for a few weeks now, and it definitely has its ups and downs. The design is quite sleek, and it looks nice in my living room\u2014but that's where the high points sort of end. The light itself is softer than I expected, which can be cozy, but sometimes it's just too dim for reading or doing tasks. \n\nAlso, the color options are cool, but the app is a bit glitchy. Sometimes it connects, sometimes it doesn\u2019t. I hope",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this glow lamp for a few weeks, and while it has its charms, I can't say I'm completely sold. The design is really pretty, and it casts a nice ambient light, perfect for relaxing evenings. However, it doesn't get as bright as I hoped. Sometimes it feels like it just emphasizes shadows instead of lighting up the whole room. I've also had a couple of issues with the app connectivity, which can be a bit frustrating. It's nice, but it definitely has room for improvement",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nr": "21",
+    "name": "LumiSphere",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 22,
+    "description": "Transform your living space into a sanctuary of light and mood with our latest innovation in ambient illumination. Picture a lamp that not only brightens a room but also adapts seamlessly to your lifestyle. The SpheroLight, with its sleek design and customizable settings, is more than just a source of light\u2014it's your personal atmospheric assistant. \n\nThe SpheroLight features cutting-edge color-changing technology, allowing you to choose from a spectrum of hues to match your mood or occasion. Whether you\u2019re hosting a dinner party and want a warm, inviting glow or enjoying a cozy night in with a soft, calming blue light, this lamp delivers exactly the ambience you crave. Its intuitive app connectivity makes it simple to adjust brightness and color from across the room or",
+    "images": [
+        "product_21_01.png",
+        "product_21_02.png",
+        "product_21_03.png",
+        "product_21_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I wanted to love this lamp, but honestly, it just didn't meet my expectations. The design is nice and all, but the light it gives off is way too dim for my liking. I thought it would create a lovely ambiance, but it just feels lackluster. Plus, the touch controls are super finicky and sometimes don\u2019t respond at all. So frustrating! It\u2019s also pricier than similar options, and honestly, I expected better quality for the price. I might keep it as",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this lamp, but it just didn\u2019t live up to my expectations. The design is cool and all, but the light output is super dim. I thought it would brighten up my living room, but honestly, I can barely see at night. Set up was pretty simple, but then the app is kind of glitchy\u2014it just doesn\u2019t connect sometimes. Also, the touch controls are annoying; they often don\u2019t respond. Seriously thought about returning it. Thought it would be",
+            "language": "English"
+        }
+    ]
+}

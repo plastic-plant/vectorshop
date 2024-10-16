@@ -1,0 +1,21 @@
+{
+    "nr": "567",
+    "name": "LumeAura Lamp",
+    "price": "2999",
+    "ranking": 5,
+    "availability": 2,
+    "description": "Transform your living space into a haven of tranquility and elegance with our stunning lighting solution. This innovative lamp features dynamic color-changing technology, allowing you to effortlessly switch between a relaxing warm glow and vibrant hues that match your mood or occasion. Whether you\u2019re creating a cozy atmosphere for an intimate dinner or setting the stage for a lively gathering with friends, this versatile piece adapts to any setting with ease.\n\nCrafted with premium materials, the design of this lamp balances sleek aesthetics with functional brilliance. Its modern silhouette pairs seamlessly with any decor style, while the gentle curves and matte finish exude sophistication. Integrated touch controls offer an intuitive user experience, enabling you to adjust brightness and colors with a simple swipe. Say goodbye to clunky switches and hello to effortless elegance",
+    "images": [
+        "product_567_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love my new lamp! It's been such an amazing addition to my living space. The design is simply stunning\u2014sleek and modern, it fits perfectly with my decor. The soft colors and ambient lighting create such a cozy atmosphere, making my evenings feel extra special.\n\nI also appreciate how adjustable the brightness is; I can go from a bright reading light to a soft glow for relaxation in seconds. It's so easy to use, and I find myself turning it on even during the day just because",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love this lamp! It\u2019s such a beautiful addition to my living room. The design is sleek and modern, blending perfectly with my decor. The adjustable brightness is a game changer; I can set a cozy glow for movie nights or a brighter light for reading. \n\nThe colors it can change to are stunning! I love having the option for different moods, and it\u2019s like having a little piece of art that doubles as lighting. The remote control is super handy, and it even has a",
+            "language": "English"
+        }
+    ]
+}

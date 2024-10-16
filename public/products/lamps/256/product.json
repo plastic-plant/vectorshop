@@ -1,0 +1,33 @@
+{
+    "nr": "256",
+    "name": "Luminara Dreamscape",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 21,
+    "description": "Illuminate your space with the enchanting charm of our latest lamp, the Dream Weaver. This exquisite piece is not just a lighting solution; it\u2019s a transformative experience that casts a serene glow upon your surroundings. The Dream Weaver features a unique fabric shade that diffuses soft light, creating an inviting atmosphere perfect for relaxation after a long day. Whether you're unwinding with a book, enjoying an intimate dinner, or setting the mood for a cozy movie night, this lamp will elevate every moment with its warm embrace.\n\nCrafted with meticulous attention to detail, the Dream Weaver boasts a sleek, contemporary design that harmonizes with any decor style. Choose from a variety of stunning colors to find the perfect match for your living room, bedroom, or home office. Its durable",
+    "images": [
+        "product_256_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this lamp based on the description, but it\u2019s just...okay. The design is really nice and fits well in my living room, but the actual light it gives off is a bit underwhelming. It doesn\u2019t brighten the space like I thought it would, and sometimes it flickers which can be distracting. \n\nI like that it's supposed to mimic a natural ambiance, but honestly, it doesn\u2019t quite hit the mark for me. The materials feel a little cheap,",
+            "language": "English"
+        },
+        {
+            "review": "I have to say, this lamp has its good and bad points. On one hand, it gives off a really nice glow that helps set a calming mood in the evening. A soft light that makes you feel relaxed for sure. But on the other hand, I found it kinda finicky. Sometimes it doesn\u2019t turn on when you want it to, which is frustrating when you really need that cozy vibe. The design is cool, modern-ish, but it\u2019s a little awkward to find the right",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, I expected a little more from this lamp. It looks nice and has a cool design, but functionality isn\u2019t quite there. The light is okay but could be brighter, especially for larger rooms. It\u2019s nice on a nightstand for dim lighting but don\u2019t count on it to be your main light source. I also had some trouble getting it to sync with my smart home preferences\u2014 it took a lot of trial and error. Overall, it's not bad; it's just not great. If",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this lamp, and I have some mixed feelings about it. On one hand, the design is really sleek and modern; it fits well with my decor. But on the other hand, the brightness levels aren\u2019t quite what I expected. It goes from too dim to way too bright pretty quickly, which isn\u2019t ideal for me when I'm trying to read at night. Also, I wish the battery life was better - it seems like I\u2019m changing batteries too often. The touch controls can",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this lamp for a couple of weeks now and it's alright, but not as great as I hoped. The design is pretty sleek and blends nicely with my decor, but the light it gives off is dimmer than I expected. I was looking for something more bright for reading or working, and this just doesn't cut it.\n\nThe remote feature is nice, but sometimes it doesn't sync well. I find myself hitting the button multiple times to get it to respond. Not the most reliable, which",
+            "language": "English"
+        }
+    ]
+}

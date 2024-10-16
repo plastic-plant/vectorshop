@@ -1,0 +1,21 @@
+{
+    "nr": "732",
+    "name": "LumiNest GlowSphere",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 5,
+    "description": "Transform your living space into a radiant haven with this innovative lighting marvel. Combining cutting-edge technology with a chic, modern design, this enchanting orb illuminates your home in a soothing array of colors, setting the perfect ambiance for any occasion. Whether you are cozying up with a book, hosting an intimate dinner, or enjoying a quiet night in, this versatile lamp adapts to your mood and enhances your surroundings effortlessly.\n\nOne of the standout features of this illuminating orb is its dynamic color-selecting capability. With a simple tap or a swift swipe on your smartphone, you can easily cycle through an expansive palette of hues, ranging from calming blues to invigorating yellows. The integrated smart technology allows you to schedule light patterns, making it easier than ever to",
+    "images": [
+        "product_732_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Die Lampe ist ganz okay, aber nicht so toll wie ich gehofft hatte. Die Lichter sind sch\u00f6n und man kann die Farbe \u00e4ndern, das ist cool. Aber die App funktioniert manchmal nicht richtig, und zwischendurch geht das Licht einfach aus. Die Helligkeit k\u00f6nnte auch besser sein. Es sieht gut aus im Wohnzimmer, aber ich erwarte einfach mehr f\u00fcr den Preis. Es ist eine nette Idee, aber einige Verbesserungen w\u00e4ren echt hilfreich. Starte nicht immer wenn ich will.",
+            "language": "German"
+        },
+        {
+            "review": "I thought this lamp would be a game changer, but it\u2019s just okay. The design is modern and stylish, but I found the brightness to be a bit lacking for my needs. It has some cool features like color changes, which is fun, but honestly, I just want a lamp that provides good light. Sometimes it connects to my app easily, but other times it just won\u2019t cooperate. I've also noticed a weird flickering occasionally that\u2019s kind of annoying. Overall, it does the job",
+            "language": "English"
+        }
+    ]
+}

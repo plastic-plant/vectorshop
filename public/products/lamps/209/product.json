@@ -1,0 +1,21 @@
+{
+    "nr": "209",
+    "name": "Luminara Mirage",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 8,
+    "description": "Illuminate your living space with our innovative, cutting-edge lamp that not only brightens your room but also transforms it into a haven of relaxation and style. Designed for the discerning homeowner, this exceptional lighting solution boasts a seamless blend of modern design and advanced functionality. Featuring a sleek silhouette and a soft, ambient glow, it sets the perfect mood for any occasion \u2013 from cozy family gatherings to elegant dinner parties.\n\nEquipped with smart technology, this lamp adjusts its brightness effortlessly with a simple tap or voice command, allowing you to set the ambiance just right for your activities. Whether you need bright, invigorating light for your morning routine or warm, soothing tones for winding down in the evening, our innovative device delivers exactly what you desire. Not only does it provide",
+    "images": [
+        "product_209_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this lamp, but honestly, it just didn\u2019t live up to my expectations. The design is nice and everything, but that\u2019s about where the good parts end. The light isn\u2019t as bright as I'd like, and the settings are kinda confusing. I was expecting a more relaxing ambience, but it just feels dull most of the time. The build quality seems okay but seems a bit flimsy too. Tried using it for movie nights, but it just didn't create the right",
+            "language": "English"
+        },
+        {
+            "review": "No estoy del todo satisfecho con esta l\u00e1mpara. La apariencia es bonita, pero tiene varios problemas. La luz no es tan c\u00e1lida como esperaba, se siente un poco fr\u00eda. Adem\u00e1s, la duraci\u00f3n de la bater\u00eda es decepcionante; no dura ni una noche completa. A veces, se apaga sola. Tambi\u00e9n le falta un interruptor, as\u00ed que tengo que desenchufarla para apagarla, lo cual es muy inc\u00f3modo. La verdad no la recomiendo porque no cumple con lo",
+            "language": "Spanish"
+        }
+    ]
+}

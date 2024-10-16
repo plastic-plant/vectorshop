@@ -1,0 +1,25 @@
+{
+    "nr": "403",
+    "name": "Luminara Aura",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 19,
+    "description": "Illuminate your living space with elegance and sophistication with this stunning lamp, affectionately known as \"The Glow.\" Designed for modern lifestyles, The Glow seamlessly blends functionality with aesthetic appeal, making it a standout centerpiece in any room. Its sleek silhouette and customizable brightness settings allow you to effortlessly transition from bright task lighting to a soft, ambient glow perfect for winding down after a long day.\n\nCrafted with premium materials, The Glow features a unique smart touch control system that lets you adjust the light intensity with a simple tap. Choose from a spectrum of warm and cool tones, changing the atmosphere to suit any occasion \u2014 whether you're hosting a dinner party, enjoying a cozy evening with a book, or enhancing your home office productivity. Its energy-efficient LED technology not only reduces",
+    "images": [
+        "product_403_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently bought this lamp, and overall, I\u2019m quite happy with it! The design is really sleek and fits perfectly in my living room. The light it gives is super soft and warm, creating such a cozy atmosphere. It\u2019s also nice that you can adjust the brightness settings\u2014perfect for movie nights or entertaining guests.\n\nThe only thing I wish for is a longer cord; it\u2019s a bit tricky to place it just where I want without using an extension. Also, the touch controls can be",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this lamp, and while it has some great features, there are few things holding it back from being perfect. The design is sleek and modern, fitting really well in my living room. The light it emits is warm and soft, which creates such a cozy atmosphere. I love that it has different brightness settings, which is a nice touch for reading or just relaxing.\n\nOn the downside, I've noticed the charging doesn\u2019t last as long as I expected. And sometimes it takes a bit longer",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased this lamp, and it's really made a difference in my space! The design is sleek and modern, fitting right in with my decor. I love how it can change colors \u2013 it sets the perfect mood for any occasion. The light is surprisingly bright for its size, and the dimming feature is a great touch. \n\nI had a little trouble setting it up at first, the instructions weren't super clear, but once I figured it out, it's been smooth sailing. Also, the price",
+            "language": "English"
+        }
+    ]
+}

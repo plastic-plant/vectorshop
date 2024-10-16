@@ -1,0 +1,21 @@
+{
+    "nr": "581",
+    "name": "ChicSort Laundry Caddy",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 13,
+    "description": "Introducing the ultimate solution for your laundry collection needs\u2014meet the perfect blend of style and practicality that will revolutionize your laundry routine. This innovative caddy boasts a sleek, modern design that seamlessly fits into any home decor while providing unmatched functionality. With multiple compartments allowing for effortless color separation, you can easily sort whites, darks, and delicates in one convenient place, saving you both time and effort.\n\nDesigned with user-friendliness in mind, this caddy features durable, lightweight materials that make transporting laundry to and from the washing machine a breeze. Its ergonomic handles provide a comfortable grip, even when it's full, reducing strain and enhancing your laundry experience. Plus, its sturdy construction ensures it can withstand the demands of daily use, keeping everything neatly",
+    "images": [
+        "product_581_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This laundry caddy is a total miss. I bought it hoping it would make sorting easier but it\u2019s just a pain. The material feels cheap, like it might fall apart any second. Plus, it doesn\u2019t hold much at all. I can barely fit a week\u2019s worth of clothes in there. The compartments are really small too, so I can't sort properly. Perhaps worst of all, it tips over all the time if you don\u2019t watch it closely. I kept tripping over it.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this, but it\u2019s just. not good. The straps broke after one use, now it\u2019s useless. It\u2019s way too small for my laundry, I can't fit even half of it. The wheels don\u2019t match up right, it always tips over. Seriously, I just wasted my money on this thing. Just go get a normal basket, this one\u2019s not worth it at all.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "nr": "10",
+    "name": "LuxeLoom Laundry Caddy",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 3,
+    "description": "Transform your laundry routine with our sophisticated storage solution, designed for the dapper homemaker in mind. Made from premium, durable materials, this stylish caddy boasts a modern, minimalist aesthetic that seamlessly integrates into any d\u00e9cor. Its sleek lines and texture are not just visually appealing but also practical, ensuring that every chore feels less like a task and more like an indulgence in home organization.\n\nWith a generous capacity that makes it perfect for family-sized loads or weekly laundry essentials, this caddy features compartmentalized sections to keep darks, lights, and delicates separate\u2014eliminating the hassle of sorting before washing. Built-in handles provide ergonomic ease of transport, whether you're moving it from your bedroom to the laundry room or taking it to the local",
+    "images": [
+        "product_10_01.png",
+        "product_10_02.png",
+        "product_10_03.png",
+        "product_10_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited about this laundry caddy, but it's been pretty disappointing, to be honest. The design looks nice, but it\u2019s not practical. The handles are awkward and it\u2019s hard to carry even when it\u2019s not full. I expected it to hold a decent amount, but it barely fits a few days\u2019 worth of clothes. Also, the material feels kinda cheap, like it might tear apart anytime. I can see why others gave it low stars. Not sure if I would recommend",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this laundry caddy, but it's just not working for me. The design seemed cute and all, but it's super flimsy. After just a couple weeks, one of the handles started to fray, and now I have to be careful when I lift it. It holds a decent amount of clothes, but I\u2019ve had issues with it tipping over when I pull it to the washer. Plus, the color choices are kinda dull - I expected something a bit nicer. Honestly",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love this laundry caddy, but honestly, it's just not that great. The design looked pretty nice online, but in person, it feels kinda flimsy. The fabric started to fray after just a few uses, and I\u2019m worried it won't hold up for long. I thought the compartments were a good idea, but they don\u2019t really fit much at all. I found myself constantly rearranging clothes just to make it work. Plus, it\u2019s heavier than I expected. Carry",
+            "language": "English"
+        }
+    ]
+}

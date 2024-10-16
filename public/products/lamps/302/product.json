@@ -1,0 +1,26 @@
+{
+    "nr": "302",
+    "name": "LumiNest Aura Lamp",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 8,
+    "description": "Transform your living space into a serene sanctuary with our enchanting light source, designed to elevate your ambiance with a touch of magic. The Aura Lamp combines sleek modern aesthetics with intuitive functionality, making it the perfect addition to any room\u2014be it a cozy nook for reading or a vibrant space for gatherings. Its elegantly curved silhouette and soft-glow illumination invite both style and comfort, ensuring your home reflects warmth and creativity.\n\nEquipped with advanced smart lighting technology, this versatile lamp allows you to customize your experience entirely. Choose from a spectrum of colors to match your mood or activity. Whether you crave the calming effect of soothing blues during a yoga session or the invigorating brightness of daylight for focused work, you can achieve the perfect vibe with just a tap or voice",
+    "images": [
+        "product_302_01.png",
+        "product_302_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love this lamp! It's a perfect addition to my living room. The light it emits is really soft and cozy, creating a warm atmosphere that's ideal for relaxing evenings with a book or hosting friends. I especially appreciate how I can adjust the brightness and change the colors to fit my mood. The design is sleek and modern, too\u2014so it fits right in with my decor. Plus, the app sync feature is such a fun touch, allowing me to sync it with music for some unique parties",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this lamp for a few weeks now, and I can't express how much I love it! The warm glow it gives off instantly transforms my living room into a cozy retreat. The different setting options are amazing\u2014I\u2019ve used it for reading, relaxing, and even for dinner parties. \n\nThe touch controls are super intuitive, making it easy to switch between brightness levels or colors. I particularly appreciate the way it gently dims down at night, helping to create a calm atmosphere for unwinding.",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this lamp! It's not just a light source; it's an experience. The warm glow it provides creates such a cozy and inviting atmosphere in my living room. I have it set to change colors softly, and it's mesmerizing to watch\u2014perfect for relaxation or when I'm entertaining guests. The smart home integration is seamless, and I can easily control it with my phone, which is super convenient. Its design is sleek and modern, making it a beautiful piece of decor on its own",
+            "language": "English"
+        }
+    ]
+}

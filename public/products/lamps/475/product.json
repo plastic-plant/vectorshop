@@ -1,0 +1,33 @@
+{
+    "nr": "475",
+    "name": "Luminara Dreamscape",
+    "price": "2999",
+    "ranking": 2,
+    "availability": 18,
+    "description": "Illuminate your space with the enchanting elegance of the Luminara Dreamscape, or simply \"LD.\" This exquisite lamp transcends mere functionality to weave a tapestry of light and ambiance, transforming ordinary rooms into extraordinary sanctuaries. Crafted with a sleek, modern design and gentle curves, LD seamlessly integrates into any decor, from minimalist to bohemian, instantly becoming a statement piece that captures attention.\n\nExperience the magic of customizable mood lighting with LD's advanced color-shifting technology. Choose from a spectrum of soft, warm hues to create the perfect atmosphere, whether you're hosting an intimate dinner, enjoying a cozy night in, or winding down after a long day. With intuitive touch controls, adjusting the brightness and color is effortless, allowing you to tailor the environment to",
+    "images": [
+        "product_475_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I wanted to love this lamp, but it didn\u2019t live up to the hype. First off, the design is sleek and modern, but that\u2019s about where the good stuff ends. The brightness isn\u2019t adjustable enough, making it either too dim or way too bright for my liking. I tried using it in different rooms, but it failed to create the cozy vibe I was hoping for. Also, the remote is a real pain. Half the time it doesn\u2019t work unless you\u2019re standing right next",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this lamp, but it just doesn't deliver. The design looked nice online, but in person, it feels a bit cheap. I expected a warm, ambient glow, but the light is either too dim or way too bright. Not really what I was looking for. I thought the features were cool, like the timer and the color change option, but they don\u2019t work very well. Sometimes it just won\u2019t turn on or off when it\u2019s supposed to, and that gets",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love this lamp, but honestly, it doesn\u2019t live up to the hype. The design is nice and modern, but that\u2019s about it. the brightness isn\u2019t adjustable, which is kinda frustrating. It\u2019s too dim for reading, and when you really want some light in a cozy corner, it just doesn\u2019t deliver. Also had some issues with the battery life\u2014not a great experience.\n\nIt connects to your app, but it can be annoying to get it to communicate. I thought",
+            "language": "English"
+        },
+        {
+            "review": "Ik was echt enthousiast over deze lamp, maar het viel gewoon tegen. Het design lijkt leuk, maar de warmte en helderheid zijn niet wat ik had gehoopt. Soms flikkert het licht alsof er een probleem is. Ik heb hem een paar keer opgezet, en dan weer uit. Het lijkt alsof de batterij niet lang meegaat, wat erg frustrerend is. Misschien is het alleen mijn exemplaar, maar ik vind het gewoon niet de moeite waard. Jammer, want het idee was leuk",
+            "language": "Dutch"
+        },
+        {
+            "review": "I had high hopes for this lamp, but it just didn't deliver. The design is nice and all, but when I got it, I found the light to be too dim. I was expecting something more bright, you know? Also, the remote was buggy and barely worked half the time, which is frustrating when you're trying to find the right mood lighting. The colors aren't as vivid as they advertised either. All in all, I was kinda let down\u2014better options out there for my needs.",
+            "language": "English"
+        }
+    ]
+}

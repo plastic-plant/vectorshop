@@ -1,0 +1,28 @@
+{
+    "nr": "88",
+    "name": "Lumosphere Elegance Lamp",
+    "price": "3499",
+    "ranking": 4,
+    "availability": 18,
+    "description": "Transform your space into a serene oasis with the Sfera Glow, a beacon of style and tranquility. This exquisite lamp combines modern design with practical functionality, making it the perfect centerpiece for any room. The sleek, sculptural silhouette is crafted from high-quality materials that radiate elegance while seamlessly blending into your contemporary decor. Imagine basking in a warm, inviting glow that instantly enhances your mood and creates a cozy atmosphere for relaxing evenings or lively gatherings.\n\nExperience the freedom of customization with the Sfera Glow\u2019s innovative LED technology. With adjustable brightness levels and a spectrum of color temperatures at your fingertips, you can set the perfect ambiance for any occasion\u2014be it a romantic dinner, a lively party, or a peaceful night of reading. The touch-sensitive controls make",
+    "images": [
+        "product_88_01.png",
+        "product_88_02.png",
+        "product_88_03.png",
+        "product_88_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this lamp, and it has truly brightened up my space in more ways than one. I love how it combines sleek design with functionality. The light it gives is adjustable, which is fantastic for setting the mood. Whether I'm working, relaxing, or entertaining, I've found the perfect brightness for all occasions. \n\nThe soft glow is gentle on the eyes and doesn\u2019t create those harsh shadows that some lamps do. The build quality feels solid, and I can see it lasting for a long",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased this stylish lamp and I am really impressed with its performance and aesthetics. The design is super sleek and adds a modern touch to my living room. The light it gives off is warm and inviting, perfect for creating a cozy ambiance in the evenings. \n\nI appreciate the multiple settings, allowing me to adjust the brightness depending on the mood. The touch controls are really easy to use, though it took me a moment to get used to. The lamp is also energy-efficient, which makes me",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this lamp for a few weeks now, and I\u2019m pretty impressed! It has a sleek and modern design that really elevates my living room. The soft glow it produces is perfect for creating a cozy atmosphere, especially during evenings. I love that it has adjustable brightness levels, so I can set just the right mood for different occasions.\n\nSetting it up was easy, and it fits well in my space without looking bulky. My only minor complaint is that the touch controls can be a",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nr": "50",
+    "name": "Lumosphere Luxe",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 1,
+    "description": "Transform your living space into a sanctuary of light with the innovative glow of the L.L. lamp. This exquisite piece harmonizes cutting-edge technology with elegant design, creating an ambiance that is both soothing and captivating. Whether you\u2019re hosting a dinner party, settling in with a good book, or just winding down after a long day, this lamp effortlessly adapts to each moment, illuminating your environment with a warm, inviting aura.\n\nCrafted with a stunning geometric frame and a sleek, minimalist finish, the L.L. lamp not only serves as a light source but also as a statement piece that complements any d\u00e9cor. The customizable brightness settings allow you to dial in the perfect level of illumination, while the adjustable color temperature lets you choose between cozy warm tones or",
+    "images": [
+        "product_50_01.png",
+        "product_50_02.png",
+        "product_50_03.png",
+        "product_50_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this lamp a couple of weeks ago, and overall, I\u2019m pretty happy with it. The design is sleek and modern, making it a great addition to my living room. It provides a warm, inviting light that really sets the mood, especially in the evenings. \n\nI love the dimming feature; it makes it easy to adjust the brightness depending on the time of day. Setting it up was straightforward, but the instruction manual could have been a bit clearer. It took me some time",
+            "language": "English"
+        },
+        {
+            "review": "I recently picked up this stylish lamp, and I have to say, it's been a pretty solid addition to my space. The design is sleek and modern, which really spruces up the room. I love that it has different brightness settings, so I can dial down the light for chill evenings or turn it up when I need to focus on reading. \n\nOnly downside is maybe the touch controls can be a bit finicky. Sometimes I have to tap it a few times to get it going. Other",
+            "language": "English"
+        }
+    ]
+}

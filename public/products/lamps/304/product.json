@@ -1,0 +1,26 @@
+{
+    "nr": "304",
+    "name": "LumiAura GlowLamp",
+    "price": "3499",
+    "ranking": 5,
+    "availability": 5,
+    "description": "Transform your living space into a sanctuary of light and tranquility with our innovative lamp, designed not just to illuminate, but to elevate. Imagine a versatile lighting solution that seamlessly blends style and functionality, offering you a palette of mood-setting colors and adjustable brightness levels to fit any occasion. Whether you're curling up with a good book, hosting a dinner party, or winding down after a long day, this lamp adapts to your needs, creating the perfect ambiance every time.\n\nCrafted with a sleek, modern aesthetic, this illuminating marvel features a minimalist design that complements any d\u00e9cor. Its durable construction ensures longevity, while the energy-efficient LED technology guarantees that you can enjoy warm, inviting light without fear of skyrocketing electricity bills. Plus, with its intuitive touch controls,",
+    "images": [
+        "product_304_01.png",
+        "product_304_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love this lamp! It\u2019s a fantastic addition to my living room. The warm glow it gives off is just perfect for setting a cozy mood. I\u2019ve used it for everything from reading to movie nights, and it never disappoints. The color options are amazing too! I can switch from a soft white for relaxing to vibrant colors for parties\u2014it really sets the vibe.\n\nWhat I really appreciate is the gentle dimming feature. I can control the brightness easily and create the perfect atmosphere for any",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love this lamp! It has completely transformed my space into a cozy haven. The soft glow creates such a warm and inviting atmosphere, perfect for movie nights or just relaxing with a book. I appreciate the adjustable brightness settings; whether I'm working or winding down, it's always just right. The design is sleek and modern, fitting seamlessly with my decor. Plus, I love the little features like the touch-sensitive controls\u2014all so easy to use! It's become a true staple in my home. Highly recommend",
+            "language": "English"
+        },
+        {
+            "review": "Je suis absolument ravi de mon nouvel achat ! La lampe cr\u00e9e une ambiance si apaisante et chaleureuse dans mon salon. Son design est vraiment \u00e9l\u00e9gant et moderne, j'adore les couleurs qui changent d\u00e9licatement. C'est un vrai coup de c\u0153ur pour mes soir\u00e9es cocooning. La lumi\u00e8re diffuse est juste parfaite, ni trop faible ni trop intense. J'ai re\u00e7u plein de compliments de mes amis ! En plus, la facilit\u00e9 d'utilisation est irr\u00e9prochable, c'est si simple de changer",
+            "language": "French"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "127",
+    "name": "LuxeLoon Laundry Haven",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 9,
+    "description": "Transform your laundry routine from mundane to magical with the ultimate laundry companion. This elegantly designed haven merges aesthetic appeal with exceptional functionality, redefining what a laundry basket can be. Crafted from high-quality, eco-friendly materials, it boasts a chic finish that complements any home decor while maintaining the durability needed for daily use. Say goodbye to clutter and chaos as you enjoy the spacious interior, specially tailored to accommodate all your laundry needs\u2014from bulky towels to delicate garments.\n\nWith its breathable fabric and smart ventilation system, your clothes will stay fresh and odor-free no matter how long it takes you to conquer that overflowing pile. The ergonomic handles provide a comfortable grip, making it easy to transport your laundry from room to room, while the lightweight yet sturdy design ensures it stands up",
+    "images": [
+        "product_127_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Comprei esse cesto de roupas esperando que fosse bom, mas t\u00f4 meio decepcionado. Primeiro, o material parece fr\u00e1gil, medo de quebrar a qualquer momento. As al\u00e7as s\u00e3o bem desconfort\u00e1veis, da at\u00e9 dor se carregar muito peso. E a parte de baixo nem tem prote\u00e7\u00e3o, parece que vai rasgar f\u00e1cil. Achava que o espa\u00e7o interno era maior, mas pra mim n\u00e3o \u00e9 suficiente; acaba ficando tudo amontoado. O design at\u00e9 \u00e9 bonito, mas",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I had higher hopes for this laundry basket, honestly. At first glance, it looks fancy and offers a bit of style, but once you start using it, it disappoints. The handles are flimsy and the bottom is not very sturdy. I\u2019m always scared my clothes will fall out when I carry it to the washer. The size is okay, but I thought it would hold more\u2014guess I should\u2019ve checked the dimensions better. It\u2019s not very easy to clean, either; dirt gets",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this laundry basket, but it's just okay. While it looks nice, it\u2019s not very practical. The size is decent, but it's not sturdy at all. It feels flimsy and I worry it won't hold up under all my laundry. The handle is awkward to grip and kind of digs into your hand when it\u2019s full. I also noticed a weird smell when I got it out of the box, which took a while to go away.\n\nOn top of that, the",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this laundry basket, but it's just okay. The design is nice, but after a few weeks of use, the material feels cheap and flimsy. The handles are not sturdy enough, and it tips over way too easily when you\u2019re carrying it anywhere. It looks pretty in the corner of my room, but functionally it doesn't hold up. I expected an upgrade for the price, but it feels more like a cute decoration than a practical basket. I've struggled to make it",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this laundry basket, but it's just okay at best. The design seemed so nice but after a few uses, it's kinda awkward to carry. The handles are not as sturdy as I expected and they hurt my hand. Also, the material feels cheap like it won't last long at all. I thought it would fit more clothes, too, but it fills up faster than I thought. It looks stylish, but I guess looks don\u2019t matter if it\u2019s not practical. Maybe I",
+            "language": "English"
+        }
+    ]
+}

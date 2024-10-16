@@ -1,0 +1,21 @@
+{
+    "nr": "154",
+    "name": "Nest & Rest Laundry Haven",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 24,
+    "description": "Transform your laundry routine with the ultimate solution that combines style, functionality, and convenience. Imagine a sleek, contemporary design that reflects modern aesthetics while offering enough room to accommodate all your laundry needs. Crafted from durable, eco-friendly materials, this basket not only keeps your delicate clothes protected, but also adds a touch of elegance to your home.\n\nSay goodbye to the chaos of messy laundry piles cluttering your living space. With its thoughtfully designed compartments, this basket simplifies the sorting process, making it easy to categorize darks, lights, and delicates. Effortlessly transport your laundry from room to room with comfortable, ergonomically designed handles that feel secure in your grasp. Plus, the detachable lining makes cleaning a breeze, ensuring that your laundry haven remains fresh",
+    "images": [
+        "product_154_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this laundry basket but it\u2019s just awful. It\u2019s small, and I thought it would hold more but nope, one load barely fits. The materials feel cheap and flimsy, like it could break any second. I tried carrying it up the stairs and the handles started tearing right away. It\u2019s a struggle to even get things in and out without spilling everywhere. Honestly, don\u2019t waste your money on this. There are way better options out there! Instead of being helpful",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, this laundry basket is a total letdown. It\u2019s way too flimsy\u2014I thought the whole point was to hold clothes, but it feels like I might break it every time I pick it up. Handles are super weak and started to tear after just a couple of uses. Would NOT recommend if you have more than a few pieces of laundry. Just a waste of money. Can't even hold my regular weekly load without feeling like it's gonna fall apart. Super disappointed!",
+            "language": "English"
+        }
+    ]
+}

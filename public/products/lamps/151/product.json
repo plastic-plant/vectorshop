@@ -1,0 +1,29 @@
+{
+    "nr": "151",
+    "name": "LumiNest Radiance",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 24,
+    "description": "Illuminate your living space with a touch of elegance and innovation. This stunning lamp effortlessly merges chic design with cutting-edge technology, allowing you to set the perfect ambiance for any occasion. Boasting a sleek silhouette and a range of customizable lighting options, it transforms your environment from cozy to vibrant in mere seconds. Whether you're hosting a dinner party or winding down with a good book, this masterpiece caters to your every mood.\n\nExperience the versatility of adjustable brightness settings, designed to adapt to your lifestyle. With its integrated smart features, you can easily control the lamp from your smartphone or tablet. Set timers, change colors, or dim the light with just a tap\u2014convenience has never looked so good. The energy-efficient LED bulb ensures long-lasting use while reducing",
+    "images": [
+        "product_151_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this lamp, and it has its ups and downs. The design is pretty nice and it looks good in my living room. But honestly, the brightness levels could be better. Sometimes it feels either too dim or way too bright for the space. There are some neat features, like the color settings, but I find them a bit tricky to figure out. The app connecting to it was a hassle, kept crashing on my phone. Overall, it\u2019s an okay lamp, not bad,",
+            "language": "English"
+        },
+        {
+            "review": "I've had this lamp for a couple of weeks now, and it\u2019s been pretty alright. The design is nice and it fits well with my decor, but honestly, I expected a little more light output. It\u2019s just not bright enough for my living room when I want to read. The color settings are cool, but switching between them can be a hassle since the button is a bit unresponsive at times. I love how it looks, but it's not as functional as I hoped. Overall, it",
+            "language": "English"
+        },
+        {
+            "review": "I've had this lamp for a couple of weeks, and I guess it's okay? The design is sleek and looks nice in my living room, but it feals kinda fragile. The light is decent but it's not as bright as I expected. It does have different settings, which is a nice feature, but sometimes it takes a bit longer to switch between them. I can see why some folks like it, but for the price, I really thought it'd be a bit more powerful. Overall, it's fine",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this lamp for a couple of weeks now, and honestly, it\u2019s just okay. The design looks nice, and it does fit well with my decor. However, the brightness isn\u2019t as adjustable as I hoped. The light is either too dim or too bright, no in between. Sometimes it flickers, which can be annoying when I\u2019m trying to relax or read. \n\nI guess I expected more since I've seen some great reviews, but for me, it doesn\u2019t live",
+            "language": "English"
+        }
+    ]
+}

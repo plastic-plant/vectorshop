@@ -1,0 +1,36 @@
+{
+    "nr": "33",
+    "name": "Luminara Drift",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 7,
+    "description": "Transform your living space into a serene sanctuary with our enchanting lamp, affectionately known as \"The Drift.\" This stunning piece combines elegance with versatility, casting a warm, inviting glow that adapts beautifully to any room in your home. Whether you seek cozy ambiance for a comfortable evening in or a stylish accent for your latest social gathering, The Drift effortlessly elevates your interior decor, making it an essential addition to your home.\n\nEquipped with advanced LED technology, The Drift not only illuminates your space but does so with energy efficiency in mind. Say goodbye to the high energy bills of traditional lighting! With adjustable brightness settings at your fingertips, you can create the perfect atmosphere to match your mood\u2014from a soft, calming light perfect for relaxation to a vibrant glow",
+    "images": [
+        "product_33_01.png",
+        "product_33_02.png",
+        "product_33_03.png",
+        "product_33_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Comprei essa lampada na expectativa de ter uma ilumina\u00e7\u00e3o aconchegante, mas to meio decepcionado. O design \u00e9 legal e tal, mas a luz n\u00e3o \u00e9 t\u00e3o forte quanto eu pensei. Tipo, fica muito fraca pra iluminar o ambiente mesmo. Al\u00e9m disso, a bateria acaba f\u00e1cil, tinha que recarregar sempre. \u00c0s vezes teve at\u00e9 que apaga sozinha, bem chato. N\u00e3o sei se recomendaria pra quem realmente quer uma luz boa em casa.",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I really wanted to like this lamp, but honestly, it's pretty underwhelming. I mean, yeah, it looks nice on the shelf, but the light is way too dim for any real use. It's like they forgot that people need actual brightness. Also, the timer thing is frustrating. Sometimes it turns off when it shouldn't, which is annoying. I don't know why it has to be so complicated when it could just be a simple lamp. Overall, kind of disappointed and wouldn\u2019t really recommend",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to this lamp, but honestly, it's a bit disappointing. The design is nice, and I like the idea of the remote control, but the performance just doesn't match up. The light isn\u2019t as bright as I had hoped, and sometimes it flickers, which is annoying. I expected the ambiance to be cozy, but it feels more dim and blah. It also doesn\u2019t last as long as I thought it would on battery - I find myself replacing them too often.",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this lamp, but honestly it didn\u2019t live up to my expectations. The design is nice and all, but it\u2019s super dim \u2013 like I had to squint to see anything. I thought it would create a cozy vibe, but it just felt half-lit most of the time. Often it flickers, like it's trying to be romantic or something, but it didn't work for me. The controls are pretty confusing, too. I end up pressing the buttons a bunch",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this lamp after reading the hype, but honestly, it hasn't lived up to my expectations. The design is nice and all, but the light it gives off feels so dim and not very warm. I was hoping for an ambient glow, but instead, it just kind of flickers sometimes which is annoying. \n\nThe battery life is a huge bummer too; I expected it to last a decent time, but I'm constantly having to recharge it. Plus, the controls are",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "580",
+    "name": "LustreAura Lamp",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 8,
+    "description": "Illuminate your space with a touch of elegance and innovation that transcends ordinary lighting. This stunning lamp redefines the concept of home decor with its sleek, modern design and captivating color options. Crafted with premium materials, it effortlessly blends into any style, whether your space is contemporary, vintage, or minimalistic. The soft, ambient glow this lamp provides creates the perfect atmosphere for cozy evenings, romantic dinners, or inspiring moments of creativity.\n\nExperience the power of smart technology with intuitive touch controls that put you in charge of your lighting experience. Effortlessly adjust brightness levels or switch between warm and cool color temperatures to suit your mood or activity. Imagine hosting a gathering where you can set the perfect ambiance at a simple touch, or winding down after a long day",
+    "images": [
+        "product_580_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited to try this lamp out because the design looked awesome online. When I got it, it was pretty but not as bright as I hoped. The color options are cool, but some don\u2019t really match what I expected. It\u2019s nice for a soft glow in the room, but if you need good light for reading or working, it\u2019s not really enough. Setup was easy, not much to it, so that\u2019s a plus. Overall, it\u2019s decent, but I wish",
+            "language": "English"
+        },
+        {
+            "review": "I got this lamp a few weeks ago after hearing some good things about it. Overall, it's just ok. The design is nice and fits well with my decor, but the light is a bit too dim for my liking. It looks great on a shelf, but when it comes to brightness, it leaves a bit to be desired. The color options are fun, but switching between them isn\u2019t super intuitive. Sometimes it works, sometimes it doesn't. The price felt a bit high for what it offers",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this lamp for a few weeks now, and I have to say it's just okay. The design is pretty, and it lights up my room nicely. But adjusting the brightness is a little finicky; sometimes it doesn't respond right away. I wish the light temp was warmer too, it feels a bit too bright sometimes. It\u2019s nice to have it on while I relax, but I expected more for the price. Overall, it's decent but not great. If you're looking just for ambiance",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this lamp, but it's kind of just okay. The design is sleek and I appreciate the added touch to my space, but the lighting isn\u2019t exactly what I expected. It's dimmer than I thought it would be, even on the brightest setting. While it looks nice on the table, I feel like it should do more in terms of lighting up the room. \n\nThe features are interesting, but a bit complicated. Sometimes I struggle to get the settings right. I\u2019ve",
+            "language": "English"
+        }
+    ]
+}
