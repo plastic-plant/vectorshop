@@ -1,0 +1,21 @@
+{
+    "nr": "487",
+    "name": "Wanderlust Weave",
+    "price": "5999",
+    "ranking": 4,
+    "availability": 7,
+    "description": "Step into a world of effortless elegance with our latest masterpiece, your new favorite travel companion. Designed for the modern adventurer, this stylish handbag seamlessly blends functionality with a chic aesthetic, making it the ultimate accessory for any occasion. With a spacious interior and meticulously crafted compartments, it allows you to keep your essentials organized, from sunglasses to travel documents, all while exuding an air of sophistication.\n\nCrafted from high-quality, sustainable materials, this handbag is not just a fashion statement\u2014it's a commitment to ethical living. Its durable construction ensures it can withstand the rigors of your daily adventures while retaining its stunning appearance. With its soft yet robust woven texture, it feels luxurious against your skin, rendering it a comfortable carry for day trips or spontaneous weekend get",
+    "images": [
+        "product_487_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this handbag for a few months now, and overall, I'm quite pleased. The design is super stylish and unique, which always gets me compliments when I wear it out. The colors are vibrant, and it really adds a pop to any outfit. \n\nThe material feels durable, and I've had no issues with it falling apart (which I've experienced with other bags). It also has plenty of space for my essentials like my wallet, phone, and the little extras I tend to carry, which",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this handbag, and it's been a solid addition to my collection. The design is really eye-catching, with those pretty woven details. What I love the most is how lightweight it is; I carry it around all day, and it doesn't weigh me down. The interior has a lot of pockets, which is super convenient for keeping my things organized. \n\nThe only thing that could be better is the strap, it\u2019s a bit narrow, so sometimes it digs into my shoulder if I load",
+            "language": "English"
+        }
+    ]
+}

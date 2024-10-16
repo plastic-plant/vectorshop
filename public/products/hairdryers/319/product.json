@@ -1,0 +1,22 @@
+{
+    "nr": "319",
+    "name": "BreezeBliss Hair Dryer",
+    "price": "4999",
+    "ranking": 1,
+    "availability": 8,
+    "description": "Meet your new best friend for effortless styling: the BB Hair Flare. Designed to transform your everyday hair routine, this sleek and powerful hairdryer combines cutting-edge technology with an elegant, ergonomic design that feels as good in your hand as it looks in your bathroom. With an impressive 1800 watts of drying power, your locks will go from damp to dazzling in mere minutes, cutting down on styling time without sacrificing the health of your hair.\n\nEquipped with advanced ionic technology, the BB Hair Flare promotes healthier hair by reducing frizz and enhancing shine. The negative ions emitted during the drying process work to lock in moisture, ensuring your hair feels soft, smooth, and vibrant after every use. Pair this with multiple heat and speed settings, and",
+    "images": [
+        "product_319_01.png",
+        "product_319_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "This hair dryer is terrible. I thought it would be quick and easy, but it takes forever to dry my hair. It felt like it was blowing cold air most of the time! Even when I set it on high, my hair was still damp. Super annoying. It's heavy too, way too much effort to hold for long. Also, the cord is so short. I have to stand right next to the outlet. Not worth the money at all. Save your cash and find a better one",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this hair dryer, but it\u2019s just awful. The thing barely dries my hair and takes forever. On the highest setting, it\u2019s like a weak breeze. I thought maybe it would get better, but nope. Also, it\u2019s super heavy and hurts my arm. Don\u2019t even get me started on the weird noises it makes, really annoying! I wouldn\u2019t recommend it to anyone. Save your money, seriously.",
+            "language": "English"
+        }
+    ]
+}

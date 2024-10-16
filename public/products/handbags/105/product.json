@@ -1,0 +1,21 @@
+{
+    "nr": "105",
+    "name": "LuxeVoyage Tote",
+    "price": "9999",
+    "ranking": 1,
+    "availability": 16,
+    "description": "Elevate your everyday adventures with the ultimate travel companion designed for style and functionality. This sophisticated tote is crafted from premium, eco-friendly materials, ensuring you not only look good but also feel good about your choices. With its chic silhouette and vibrant color options, it's a statement piece that seamlessly transitions from busy city streets to serene beach escapes.\n\nImagine having a spacious interior that keeps your essentials organized and easily accessible. With multiple pockets and compartments, you'll find a dedicated space for your phone, wallet, and even a cozy sweater for those unpredictable weather changes. The tote's sturdy yet lightweight design makes an ideal companion for weekend getaways, shopping sprees, or a casual day at the park. Plus, the durable, water-resistant fabric ensures that rain delays won't",
+    "images": [
+        "product_105_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "J'ai vraiment \u00e9t\u00e9 d\u00e9\u00e7u par ce sac. La qualit\u00e9 est m\u00e9diocre, il se d\u00e9chire d\u00e9j\u00e0 apr\u00e8s quelques utilisations. Les coutures sont mal faites et le design est loin d'\u00eatre pratique. Les poches sont trop petites et le tissu n'est pas agr\u00e9able au toucher. Franchement, je regrette cet achat, c'\u00e9tait de l'argent jet\u00e9 par la fen\u00eatre ! Je ne recommande pas du tout et je suis m\u00eame en train de le retourner. Pas d'avis positif ici.",
+            "language": "French"
+        },
+        {
+            "review": "I really had high hopes for this tote, but wow, it\u2019s just a letdown. The material feels super cheap, like it'll fall apart any minute. The straps dig into my shoulders and are uncomfortable to carry. I tried to fit my laptop and it barely fits, not even my water bottle too. The color is nice but it\u2019s not worth it when everything else is so bad. Definitely not worth the money, save your cash and find something else. Wouldn't recommend it to anyone.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "388",
+    "name": "AeroGlide FlairDryer",
+    "price": "3999",
+    "ranking": 1,
+    "availability": 10,
+    "description": "Transform your hair care routine with our innovative drying marvel, the AG FlairDryer. This advanced hairdryer combines cutting-edge technology with sleek design, ensuring that every blow-dry session is a luxurious experience. Equipped with a powerful, yet whisper-quiet motor, it delivers salon-quality results right in the comfort of your home, allowing you to step out with confidence and style.\n\nEngineered for efficiency, the AG FlairDryer features a unique aerodynamic airflow system that drastically reduces drying time while minimizing heat damage. With three customizable heat settings and two speed options, you can effortlessly adjust the airflow to perfectly suit your hair type and styling preference. Whether you have fine, wavy, or thick hair, this dryer helps lock in moisture and enhance shine, so",
+    "images": [
+        "product_388_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this hair dryer but wow, what a disappointment. First off, it barely blows any hot air, feels more like a breeze. My hair takes forever to dry! The buttons are so flimsy and I keep turning it off by mistake. Also, it made this weird noise like it\u2019s about to break. No way I\u2019m recommending this to anyone. Total waste of money!",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping this would be great, but wow, I\u2019m so disappointed. It took forever to dry my hair, like it\u2019s set on low even when I put it on high. The heat is not good at all. My hair feel damp forever and I ended up finishing it with a towel. Also, it makes this weird noise that sounds like it's gonna break any second. I've used better ones that are way cheaper. Wish I could get my money back! Don\u2019t waste your money",
+            "language": "English"
+        },
+        {
+            "review": "I am so disappointed with this hairdryer. Barely dries my hair and the heating is super weak, takes forever. Hasn\u2019t even lasted 1 month before it started making weird noises so now I\u2019m stuck with this useless thing. I hoped it would be good but honestly it\u2019s trash. I wouldn't recommend it to anyone, save your money for something better! The design is nice but doesn\u2019t matter if it doesn\u2019t work. Just a complete waste!",
+            "language": "English"
+        },
+        {
+            "review": "I bought this hairdryer thinking it would be great, but man, was I wrong. It just does not work like it should. Takes forever to dry my hair and it\u2019s supposed to have multiple settings but they all seem the same. It gets hot but not in a good way, I feel like I'm frying my hair. Plus, it\u2019s super loud, like a jet engine or something. Seriously, I regret this purchase. Total waste of money. Just get something else, anything else.",
+            "language": "English"
+        },
+        {
+            "review": "This hairdryer is the worst. I thought it would be good because of all the hype, but it just dried my hair poorly and took forever. It overheats super fast and even started to smell weird. The buttons are confusing and I got shocked when I touched it one time. Feels really cheap like a toy. Not worth any money! I regret buying it. Save your cash and find a real hairdryer.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nr": "30",
+    "name": "RadiantAir Pro Dryer",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 19,
+    "description": "Meet your new styling essential, engineered to transform your daily routine into a salon-worthy experience. The sleek design fits perfectly in your hand, making it a breeze to achieve beautiful results with minimal effort. Featuring advanced technology that dries your hair faster while reducing heat damage, this powerhouse ensures every strand gets the care it deserves, leaving you with soft, shiny, and healthy-looking hair.\n\nEquipped with a state-of-the-art ionic generator, this dynamic hair dryer eliminates frizz and locks in moisture, allowing you to enjoy smooth, lustrous locks that turn heads. Additionally, the multiple heat and speed settings give you full control, so you can customize your drying experience, whether you\u2019re going for a sleek straight look or bouncy curls. Quick-dry nozzle",
+    "images": [
+        "product_30_01.png",
+        "product_30_02.png",
+        "product_30_03.png",
+        "product_30_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this hairdryer for a few weeks now, and I have to say, it\u2019s really impressive! The drying time is definitely quicker than my last one, and I love the multiple heat settings. It's super easy to switch between them depending on my hair's needs. My hair feels smoother and looks shinier when I\u2019m done, which is a huge plus.\n\nThe lightweight design is also a game changer; I can dry my hair without my arm getting tired. The attachments are super helpful",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this hair dryer for a couple of weeks now, and overall, I\u2019m really happy with it! It has a sleek design that actually looks good on my counter, plus it\u2019s super lightweight, which makes styling so much easier. It dries my hair quite quickly compared to my old one, which is a major plus for my busy mornings. \n\nThe heat settings are really adjustable, and I appreciate the cool shot button for setting my style. However, I wish the cord was a bit",
+            "language": "English"
+        }
+    ]
+}

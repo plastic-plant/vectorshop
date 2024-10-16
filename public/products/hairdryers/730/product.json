@@ -1,0 +1,21 @@
+{
+    "nr": "730",
+    "name": "AeroBliss Pro Dryer",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 19,
+    "description": "Unleash the power of professional hair care with the ultimate styling companion, the AB Pro Dryer. Designed to elevate your daily routine, this cutting-edge hairdryer combines sleek aesthetics with innovative technology to deliver salon-quality results from the comfort of your home. With a lightweight design and ergonomic grip, achieving that perfect blowout has never felt so effortless.\n\nExperience the transformation as the advanced ionic technology reduces frizz and enhances shine, leaving your hair smooth and radiant in a fraction of the time. Equipped with multiple heat and speed settings, the AB Pro Dryer caters to all hair types, ensuring personalized styling that protects your delicate strands. The quick-dry nozzle focuses airflow precisely where you need it, cutting down drying time by up to 50% and allowing you",
+    "images": [
+        "product_730_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this hair dryer a couple of weeks ago, and honestly, it's been okay but not great. It dries my hair decently, but it takes longer than I expected. The heat settings are nice, but sometimes it gets too hot and I have to be careful not to damage my hair. Also, it\u2019s a bit heavier than I thought, which makes holding it for a while kind of tiring. \n\nThe design is sleek and modern, I\u2019ll give it that, but it doesn\u2019t",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this hair dryer for a few weeks now, and I gotta say, it's kinda \"meh.\" It dries my hair okay, but it takes longer than I expected. The settings are pretty basic, and I often wish it had more power for quick styling. It's lightweight, which is nice, but it can feel a bit hot in my hands after a while. \n\nI\u2019ve also noticed some frizz afterwards, and I thought this would help control that better. Maybe it\u2019s fine for",
+            "language": "English"
+        }
+    ]
+}

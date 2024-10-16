@@ -1,0 +1,30 @@
+{
+    "nr": "333",
+    "name": "Crested Haven Hat",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 18,
+    "description": "Elevate your outdoor experience with the ultimate fusion of style and functionality. This exceptional headwear masterpiece is designed not just to shield you from the sun, but also to make a bold statement. Crafted with a lightweight, breathable fabric, this hat ensures you stay cool and comfortable during those sunny afternoons spent in the garden or at the beach. Its UV-blocking technology offers essential protection from harmful rays, letting you focus on enjoying every moment without a worry.\n\nWhat sets this hat apart is its meticulously designed inner sweatband that wicks away moisture, keeping your brow dry even during the most active adventures. The adjustable chin strap guarantees that your new favorite companion won\u2019t fly away with the slightest breeze, ideal for hiking, fishing, or leisurely strolls. With",
+    "images": [
+        "product_333_01.png",
+        "product_333_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this amazing hat, and I can't say enough good things about it! From the moment I put it on, I felt a sense of style and comfort that I didn't know I was missing. The material is super soft and breathable, making it perfect for all-day wear, whether I'm out running errands or lounging at home.\n\nThe fit is absolutely spot on! It sits snug on my head without feeling tight, plus the adjustable strap means I can customize it to my liking.",
+            "language": "English"
+        },
+        {
+            "review": "I can\u2019t say enough good things about this hat! \ud83c\udf1f It\u2019s become my new go-to accessory for every outing. The fit is just perfect \u2013 snug but not too tight, and it never slips off, no matter how busy my day gets. The material is super soft, yet it feels durable. I\u2019m in love with the design too; it manages to be stylish and classic at the same time.\n\nWearing it, I get compliments everywhere I go! It\u2019s versatile, working with",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely love this hat! The fit is perfection\u2014it feels like it was custom-made just for me. The material is super soft yet durable, perfect for everyday wear. I was surprised at how well it keeps the sun out of my eyes, making it a must-have for outdoor activities. The design is stylish and versatile; I can easily pair it with any outfit, whether I'm running errands or going out for brunch with friends. \n\nI've received countless compliments, too! It's become my go-to accessory,",
+            "language": "English"
+        },
+        {
+            "review": "Ich bin absolut begeistert von diesem Hut! Er sieht nicht nur fantastisch aus, sondern ist auch super komfortabel. Der Stoff ist weich und angenehm auf der Haut, perfekt f\u00fcr warme Sommertage. Die Passform ist einfach perfekt, nicht zu eng und nicht zu locker. Ich habe ihn bei verschiedenen Anl\u00e4ssen getragen, und ich bekomme immer wieder Komplimente daf\u00fcr! Es ist mein neuer Favorit und ich kann ihn nur w\u00e4rmstens empfehlen. Einfach ein klasse Accessoire, das jedem Outfit den",
+            "language": "German"
+        }
+    ]
+}

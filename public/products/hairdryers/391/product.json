@@ -1,0 +1,33 @@
+{
+    "nr": "391",
+    "name": "BreezeBliss Pro Dryer",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 24,
+    "description": "Imagine transforming your daily hair routine into a luxurious experience with a drying tool designed to refresh your hair and elevate your confidence. Equipped with state-of-the-art technology, this powerhouse ensures rapid drying and styling, reducing your time in front of the mirror while delivering salon-worthy results right in the comfort of your home. Featuring an ultra-lightweight design and ergonomic grip, you can say goodbye to wrist fatigue and hello to a new standard of convenience during your beauty ritual.\n\nHarnessing the power of advanced ion technology, this dryer not only dries but also combats frizz by releasing negative ions, locking in moisture while enhancing shine. Each strand of hair is treated to a gentle flow of heat that prevents damage, leaving your locks irresistibly soft, shiny, and healthy.",
+    "images": [
+        "product_391_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Estou usando este secador h\u00e1 algumas semanas e, no geral, estou bastante satisfeito. O design \u00e9 muito moderno e leve, o que facilita manusear. O bot\u00e3o de temperatura tem v\u00e1rias configura\u00e7\u00f5es e \u00e9 \u00f3timo para otimizar o uso, dependendo do meu estilo de cabelo do dia. \n\nOs cabelos secam rapidamente, e a fun\u00e7\u00e3o de ar frio ajuda a fixar o penteado. Entretanto, \u00e0s vezes, acho que poderia ser um pouco mais silencioso, j\u00e1 que em pot\u00eancia m\u00e1xima",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I recently tried out this new hair dryer and overall I'm pretty pleased with its performance. It has a sleek design that looks great on my bathroom counter, and it feels well made. The lightweight feel makes it easy to handle, which is a huge plus when I\u2019m in a hurry!\n\nWhat impressed me the most is the power. It dries my hair quickly without leaving it feeling fried or crunchy like some others I\u2019ve used in the past. Plus, I appreciate the various heat settings; I can adjust",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this hairdryer, and I have to say, I\u2019m mostly impressed! It dries my hair super fast \u2014 like, way quicker than my old one. The heat settings are versatile too; I can go from a gentle warm breeze to hot when I need to really speed things up. \n\nThe design feels really nice and looks sleek, definitely a bonus for my bathroom counter. It's lightweight, making it easy to use without getting tired. \n\nOne thing I noticed, though",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this dryer for a few weeks now, and I have to say, it does a pretty good job overall. It heats up quickly, which I really like when I'm in a rush in the mornings. The design is sleek and not too bulky, so it's easy to handle. \n\nThe different heat settings are a nice touch, allowing me to adjust based on how I want my hair to look; I usually go for the lower setting to avoid damage. I\u2019ve noticed that my hair feels",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this hairdryer for a few weeks now, and I'm pretty happy with it overall. It has a nice sleek design that fits well in my hand, and the weight is just right\u2014not too heavy but still feels solid. The different heat settings are a great feature; I love being able to switch between hot and cool without having to wait for it to cooldown first. \n\nDrying time has definitely improved for me, cutting down on the time I usually spend getting ready in the morning.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "nr": "7",
+    "name": "SkyDome Cap",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 5,
+    "description": "Elevate your everyday style with the ultimate headwear accessory, crafted for adventure-seekers and casual wanderers alike. This revolutionary cap combines modern aesthetics with unmatched functionality, making it a must-have for anyone who craves both fashion and practicality. Featuring a lightweight, breathable design, it ensures maximum comfort while shielding you from the sun's harsh rays. Whether you're hitting the trails, lounging at the beach, or navigating city streets, this cap effortlessly complements every outfit while keeping you cool and protected.\n\nEngineered with a unique moisture-wicking fabric, it draws sweat away from your skin, allowing you to stay fresh and dry during your most active moments. The adjustable strap guarantees a perfect fit for every head size, while the stylish curved brim provides exceptional sun",
+    "images": [
+        "product_7_01.png",
+        "product_7_02.png",
+        "product_7_03.png",
+        "product_7_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited to try this hat, but I'm kind of disappointed. The design looked cool online, but it feels cheap in person. The material isn't great\u2014it doesn't breathe at all and just gets sweaty. The sizing is off too; it\u2019s way too tight for me, even though I ordered the size I usually wear.\n\nThe color options are nice, but that's about the only thing I liked. I hoped it would look really stylish, but it just doesn\u2019t sit right. I tried adjusting",
+            "language": "English"
+        },
+        {
+            "review": "Comprei esse bon\u00e9 e, sinceramente, n\u00e3o atendeu minhas expectativas. O material parece barato e a compara\u00e7\u00e3o com outros bon\u00e9s que tenho \u00e9 bem frustrante. Fica meio frouxo na cabe\u00e7a e n\u00e3o segura bem. Al\u00e9m disso, depois de algumas lavagens, a cor come\u00e7ou a desbotar. Achei que seria mais confort\u00e1vel, mas me deixou suando um pouco. Para o pre\u00e7o, esperava mais qualidade. N\u00e3o sei se recomendo.",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I really wanted to like this cap, but it just doesn\u2019t hit the mark. The design is kinda cool, but the fit is all off. It feels tight in some spots and lose in others, which is super uncomfortable for long wear. Also, the material is not what I expected, kinda cheap feeling. The color options are nice, but honestly, I\u2019d rather have something basic that fits right. For the price, I expected better quality. I\u2019d say only consider this if you really",
+            "language": "English"
+        }
+    ]
+}

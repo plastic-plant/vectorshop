@@ -1,0 +1,25 @@
+{
+    "nr": "451",
+    "name": "ZephyrBlow Luxe",
+    "price": "4999",
+    "ranking": 1,
+    "availability": 9,
+    "description": "Experience the future of hair care with the ultimate in luxury drying technology. Say goodbye to ordinary hairdryers and hello to the sleek, whisper-quiet companion designed for the modern individual who demands both style and performance. Featuring an elegant design that complements any bathroom decor, this innovative device not only elevates your hair-drying routine but transforms it into a pampering experience.\n\nEquipped with advanced ionic technology, this hairdryer works to combat frizz and enhance shine, leaving your locks smooth and manageable every time. The lightweight ergonomic design minimizes discomfort, making it easy to style without arm fatigue. With multiple heat and speed settings, you can effortlessly transition from a gentle, low-warmth dry to a powerful blast that locks in your perfect look in minutes",
+    "images": [
+        "product_451_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I can't believe how bad this hairdryer is! It takes forever to dry my hair and it's super heavy. The cord got tangled up right away, and I feel like I'm gonna drop it any moment. The high setting actually seems weaker than the low one. My hair feels like it\u2019s getting fried even though I\u2019ve got it on the cool setting! I thought it would be fancy and quick, but total fail. Def not worth the money. Never buying again. What a waste!",
+            "language": "English"
+        },
+        {
+            "review": "El secador es un desastre. No seca bien y se apaga en medio de uso. No tiene suficiente potencia y me deja el pelo mojado. El dise\u00f1o parece bonito, pero eso no sirve si no hace lo que debe. Se calienta muy r\u00e1pido y huele raro, como si se iba a quemar. No lo recomiendo para nada. Es mejor gastar el dinero en otra cosa.",
+            "language": "Spanish"
+        },
+        {
+            "review": "I really dont get all the hype. This hairdryer is super weak, barely dries my hair. I\u2019ve tried using it for weeks, and every time it just takes forever. and it gets hot too fast. I feel like I'm damaging my hair instead of drying it. Buttons are awkward to use, always turning off when I don't want them to. Total waste of money. I wish I could return it but it\u2019s too late. If you want a good blow dryer, keep looking!",
+            "language": "English"
+        }
+    ]
+}

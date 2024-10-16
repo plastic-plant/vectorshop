@@ -1,0 +1,25 @@
+{
+    "nr": "213",
+    "name": "LuxeNest Tote",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 7,
+    "description": "Elevate your everyday style with the ultimate companion for all your adventures. This exquisite tote redefines versatility, combining elegant design with practical functionality. Crafted from premium materials, it boasts a soft yet durable exterior that gracefully withstands the hustle and bustle of daily life. With its spacious interior, you'll find more than enough room for your essentials\u2014think laptop, books, gym gear, or even a spontaneous shopping haul. Every detail has been meticulously thought out, ensuring you look chic while staying organized.\n\nFeel the luxury in your hands with this fashion-forward bag that features plush, padded handles designed for maximum comfort. The clever compartmentalization lends itself to seamless access to your belongings, equipped with specialized pockets for your phone, tablet, and keys. Whether you\u2019re",
+    "images": [
+        "product_213_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Honestly, I was really excited to get this bag, but it just didn't live up to the hype. The style is nice, and I like the color options, but the material feels kinda cheap, like it won't last long. I thought it would be roomy enough for my daily stuff, but it's tighter than I expected. The straps also give me a bit of discomfort after a while, which is disappointing. It\u2019s not a totally bad bag, but for the price, I just feel like it",
+            "language": "English"
+        },
+        {
+            "review": "Ich hatte mir viel von diesem Handtasche erhofft, aber irgendwie entt\u00e4uscht. Das Design sieht zwar schick aus, aber die Taschen sind einfach viel kleiner als ich gedacht habe. Platz f\u00fcr ein paar Dinge, aber nicht genug f\u00fcr allt\u00e4gliche Sachen. Die Qualit\u00e4t ist auch nicht das Beste, der Stoff hat schon F\u00e4den gezogen nach ein paar Mal benutzen. Au\u00dferdem gefallen mir die Farbe und die Auswahl nicht wirklich. Ich hatte gedacht, es w\u00e4re praktischer, aber irgendwie ist es nicht mein",
+            "language": "German"
+        },
+        {
+            "review": "Ik heb deze tas nu een paar weken en eerlijk gezegd viel het me tegen. De kwaliteit is niet zo goed als ik had gehoopt. De naden beginnen al los te laten en de stof voelt goedkoop aan. Bovendien is de ruimte binnenin niet zo praktisch, echte rommel. Ik moet altijd in mijn tas graaien omdat er niet genoeg vakken zijn. Het ontwerp is wel mooi, maar dat maakt het voor mij niet goed. Jammer, maar ik had meer verwacht voor de prijs.",
+            "language": "Dutch"
+        }
+    ]
+}

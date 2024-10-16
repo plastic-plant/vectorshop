@@ -1,0 +1,29 @@
+{
+    "nr": "192",
+    "name": "SkyCrest Caps",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 13,
+    "description": "Elevate your headwear game with the latest innovation in cap design: the Ultimate Headwear. Crafted for those who embrace both style and function, these caps are engineered with the modern lifestyle in mind. Whether you're commuting, enjoying a day out, or simply lounging in your backyard, this cap is an essential accessory that complements any outfit while providing unparalleled comfort.\n\nEngineered with a lightweight, breathable fabric, the Ultimate Headwear keeps you cool even in the warmest weather. Its moisture-wicking technology draws sweat away from your skin, ensuring that you remain fresh and focused no matter what the day throws your way. The adjustable fit allows for a snug yet comfortable hold, accommodating virtually any head size while minimizing the risk of slipping during your most active moments.",
+    "images": [
+        "product_192_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this hat, and honestly, it didn\u2019t live up to my expectations. The material feels kind of cheap and not very soft on my head. It fit a bit weird, too, like it kept slipping off. Also, the color I wanted was way more vibrant in the pictures but ended up being dull in person. I've had it for a few weeks and it\u2019s already starting to lose its shape, which is disappointing. It\u2019s not terrible, but I wouldn't really recommend it if",
+            "language": "English"
+        },
+        {
+            "review": "Die M\u00fctze sieht auf dem Bild echt gut aus, aber leider ist sie nicht das, was ich mir erhofft habe. Sie sitzt nicht richtig und das Material f\u00fchlt sich eher billig an. Ich hatte auf eine bessere Passform gehofft, aber sie ist entweder zu eng oder zu locker. Ich wollte sie jeden Tag tragen, aber irgendwie habe ich das Gef\u00fchl, dass sie nicht lange halten wird. Schade, da ich echt viele Komplimente \u00fcber die Farbe bekommen habe, aber das hilft",
+            "language": "German"
+        },
+        {
+            "review": "I was excited to try this hat, but unfortunately, it didn\u2019t live up to my expectations. The material feels cheap and scratchy on my head. It doesn\u2019t sit well and keeps slipping off, especially if there's wind. The design looks great online, but in person, it feels a bit stiff and uncomfortable. I really wanted to love it, but I just can\u2019t see myself wearing it regularly. Maybe it\u2019s a hit for others, but for me, it's more of a miss.",
+            "language": "English"
+        },
+        {
+            "review": "Ik had er meer van verwacht. De pasvorm is niet echt goed en hij voelt een beetje cheap aan. Ik kan hem soms niet goed de juiste richting op krijgen. Daarnaast is het materiaal niet zo comfy, ik krijg er snel zweetdruppels onder. Ik heb beter gehad voor deze prijs. Jammer! Had er echt meer verkeer van verwacht. Bleef teleurgesteld achter.",
+            "language": "Dutch"
+        }
+    ]
+}

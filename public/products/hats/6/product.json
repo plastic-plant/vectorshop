@@ -1,0 +1,36 @@
+{
+    "nr": "6",
+    "name": "Skyshade Brims",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 23,
+    "description": "Elevate your style and shield yourself from the sun's harsh rays with the ultimate accessory designed for adventurers, trendsetters, and anyone who loves to explore the great outdoors. Our premium headgear boasts a lightweight yet durable construction, ensuring you stay comfortable while turning heads. Whether you're lounging by the pool, hiking in the hills, or enjoying a picnic in the park, this innovative hat is your perfect companion.\n\nFeaturing an adjustable fit to accommodate all head sizes, this chic hat combines practicality with fashion. The wide, flexible brim provides exceptional sun protection while maintaining a sleek silhouette that complements any outfit. Made from breathable materials, it ensures you stay cool and refreshed, even on the hottest summer days. And with a range of versatile colors to choose from",
+    "images": [
+        "product_6_01.png",
+        "product_6_02.png",
+        "product_6_03.png",
+        "product_6_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently bought this hat and I\u2019m really happy with my choice. The brim is just the right size, providing plenty of shade without feeling bulky. I\u2019ve worn it on a few sunny days, and it\u2019s super lightweight and comfortable. The material is breathable, which is a big plus. \n\nAdjusting the strap was easy too, perfect fit for my head. I\u2019ve gotten some compliments on it, which is always nice! The only reason I didn\u2019t give it 5 stars is that",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this hat for a few weeks now, and overall, I\u2019m quite happy with it. The design is stylish and fits well. I love how it provides such great sun protection without feeling heavy on my head. The fabric is breathable, which makes it comfortable during those hot days. I\u2019ve gotten several compliments while wearing it, which is a nice bonus!\n\nOne minor downside is that the strap isn't adjustable as much as I\u2019d like, so it can feel a bit tight when the wind",
+            "language": "English"
+        },
+        {
+            "review": "I've had this hat for a little while now, and I have to say, it's pretty solid. The material feels nice and it's really lightweight, which is great for sunny days. I really like how it fits, snug but comfortable. The brim is just the right length \u2013 not too big or small, which makes it perfect for blocking out the sun without looking silly.\n\nThe adjustable band inside is a nice touch, so I can make it fit just how I like. I've worn it on walks,",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these brims for a few weeks now and I have to say, they\u2019re pretty great! The material feels nice and it does a really good job at keeping the sun off my face during my walks. The adjustable strap is a nice touch too, so I can get the perfect fit without worrying about it blowing away on a windy day. \n\nI do wish there were more colors available. As for the style, it\u2019s casual yet chic enough to wear to casual outings or just around",
+            "language": "English"
+        },
+        {
+            "review": "I recently picked up this hat and I have to say, it's pretty great! The brim is just the right size to keep the sun out of my eyes while I'm gardening or lounging at the beach. The material is lightweight and breathable, so I don't feel too hot wearing it even on warmer days. \n\nThe design is stylish and goes well with almost any outfit, which is a huge plus. I\u2019ve had quite a few compliments already! Adjustable sizing is a bonus too; it fits comfortably without being",
+            "language": "English"
+        }
+    ]
+}

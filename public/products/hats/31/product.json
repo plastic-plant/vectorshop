@@ -1,0 +1,24 @@
+{
+    "nr": "31",
+    "name": "Skyward Crown",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 21,
+    "description": "Introducing the ultimate statement piece for fashion-forward individuals: the Elevate Cap. Crafted with the modern trendsetter in mind, this exquisite hat redefines sophistication and comfort. Made from a luxurious blend of breathable cotton and innovative moisture-wicking fabric, the Elevate Cap keeps you cool and collected, whether you're conquering the city streets or enjoying an afternoon picnic in the park. With its unique design that incorporates a snug fit and a stylish curved brim, it ensures you not only look good but feel great too.\n\nWhat sets the Elevate Cap apart is its customizable flair. Available in a stunning array of colors and patterns, you can easily mix and match to suit your personality or fit any occasion. The adjustable strap at the back provides the perfect fit for all",
+    "images": [
+        "product_31_01.png",
+        "product_31_02.png",
+        "product_31_03.png",
+        "product_31_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I don\u2019t get the hype. This hat is a total letdown. First off, it doesn\u2019t fit right\u2014it's way too tight or too loose. The material feels cheap and itchy, really uncomfortable to wear for more than a few minutes. Got bad vibes just wearing it! The color wasn\u2019t even what it looked like online, so that\u2019s just false advertising. Also, the shape? Just weird. I liked the style but too many flaws. Overall I wouldn\u2019t recommend it at all",
+            "language": "English"
+        },
+        {
+            "review": "This hat is just plain awful. It was super pricey and doesn't even fit right! It feels like cheap plastic on my head. Also, the \"design\" was totally off. Looked way better online. There\u2019s no way I'm wearing this out. I tried to adjust it but no luck. Seriously regretting this purchase. What a waste of money! Don\u2019t buy it!",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "nr": "64",
+    "name": "Echo Chic Satchel",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 23,
+    "description": "Elevate your style with the must-have accessory that blends luxury with practicality. This exquisite satchel redefines versatility, making it the perfect companion for your busy lifestyle. Crafted from premium vegan leather, it exudes a chic elegance while remaining kind to the environment. The soft, textured finish catches the eye, while the thoughtfully designed compartments ensure all your essentials are within easy reach. Say goodbye to fumbling through your bag\u2014stay organized effortlessly!\n\nDesigned for both the urban explorer and the modern professional, this bag transitions beautifully from day to night. Its spacious interior accommodates everything from your laptop to your favorite novel, while the sleek exterior adds a touch of sophistication to any outfit. With a comfortable shoulder strap and sturdy top handles, you can carry your style with",
+    "images": [
+        "product_64_01.png",
+        "product_64_02.png",
+        "product_64_03.png",
+        "product_64_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited to try this bag because it looks cute, but I can't say I'm very happy with it. The material feels kinda cheap and I was hoping for something more durable. The straps started to fray after just a few uses, which is a bummer. I mean, it\u2019s nice and light, but it doesn\u2019t hold much. If you\u2019re someone who likes to carry more than just your phone and wallet, this might not work for you. I guess I expected more for",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping this bag would work out, but honestly it\u2019s been a bit disappointin. The design is cute, but the quality isn\u2019t what I expected for the price. The straps feel flimsy and it lacks a little structure, so my things kind of flop around in there.\n\nAlso, the color I received was not at all like what I saw online, more dull than fab. It's just hard to keep it clean, too. I don\u2019t know if it\u2019s made of a",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping for something great, but this bag just missed the mark. The design looks nice at first glance, but the quality isn't what I expected. The material feels cheap, and I've already found a couple of loose threads after just a few uses. Also, the straps are uncomfortable\u2014they dig into my shoulders. I've had better luck with cheaper bags. I wouldn't recommend it, to be honest. It\u2019s just not worth the money. Disappointed.",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to using this bag, but it just didn\u2019t live up to my expectations. It looks nice at first, but I\u2019ve noticed the materials feel kinda cheap. After only a few weeks, the stitching is starting to come undone in a few places. I also thought there\u2019d be more room inside, but it feels cramped and with a laptop, it\u2019s a struggle to zip it up. Maybe it works for lighter stuff, but I don\u2019t feel it\u2019s practical if you",
+            "language": "English"
+        }
+    ]
+}

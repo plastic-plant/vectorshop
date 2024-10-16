@@ -1,0 +1,28 @@
+{
+    "nr": "66",
+    "name": "Skyward Chapeaux",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 10,
+    "description": "Elevate your everyday style with the ultimate head-turner designed for the modern trendsetter. Imagine a hat that combines classic elegance with contemporary flair\u2014this is your go-to companion for every outdoor adventure or cozy Sunday brunch. With its versatile silhouette, this chic accessory features a lightweight, breathable fabric that keeps you comfortable in any season, while ensuring you look effortlessly sophisticated.\n\nWhat sets it apart is the innovative blend of sustainability and fashion. Crafted from recycled materials, this hat not only makes a statement on your head but also for the planet. Choose from a palette of rich colors and patterns, ensuring that there\u2019s a perfect match for every outfit in your wardrobe. The adjustable strap ensures a flawless fit, providing you with that perfect comfort without compromising on style.",
+    "images": [
+        "product_66_01.png",
+        "product_66_02.png",
+        "product_66_03.png",
+        "product_66_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I can\u2019t believe I wasted my money on this hat. It looks nothing like the pic. It\u2019s sooo flimsy and doesn\u2019t fit right at all. Felt like it could just blow away in the wind. Plus, the colors are all wrong \u2013 totally dull and cheap. Tried to wear it out but felt ridiculous. Seriously should\u2019ve read the other reviews before buying. Do not recommend! \ud83d\udca9",
+            "language": "English"
+        },
+        {
+            "review": "I was really disappointed with this hat. It looks great in the pics but in real life? Just no. The fit is awful, it's super uncomfortable\u2014feels like it\u2019s digging into my head! The material is cheap and flimsy, not worth the price at all. Tried to return it but the process is such a hassle. Avoid this if you can! 1 star for sure.",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this hat but wow, it\u2019s a total flop. First, it doesn\u2019t fit right. It feels way too tight and I have a normal head size! The material is super cheap too, started to fray after just one wear. The design looks cute in pics, but in real life it just looks silly on me. I tried to adjust it, but it wouldn\u2019t budge.\n\nIt\u2019s not worth the money at all. Would not recommend. Save your cash",
+            "language": "English"
+        }
+    ]
+}

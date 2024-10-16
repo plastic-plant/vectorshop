@@ -1,0 +1,29 @@
+{
+    "nr": "680",
+    "name": "AirVortex ProDryer",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 11,
+    "description": "Introducing your new secret weapon for effortlessly gorgeous hair: the revolutionary hair dryer that redefines the styling experience. This powerhouse combines cutting-edge technology with sleek design, making it an essential addition to your beauty routine. Say goodbye to frizz and hello to salon-quality results in the comfort of your own home!\n\nEquipped with advanced ionic technology, this dryer reduces drying time by up to 50%, allowing you to achieve that fresh-from-the-salon look in record time. The ultra-lightweight design ensures comfort during use, while the ergonomic grip lays the groundwork for a seamless styling experience. With multiple heat and speed settings at your fingertips, you can easily customize the drying process to suit your hair type, ensuring that no strand is left behind.\n\nBut that\u2019s",
+    "images": [
+        "product_680_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Also, ehrlich gesagt, der F\u00f6n ist ganz okay. Er macht seinen Job, aber ich hatte mir mehr erwartet. Die Trockenzeit ist nicht so schnell, werd immer noch nasse Spitzen haben, selbst nach l\u00e4ngerer Benutzung. Und das Ger\u00e4usch \u2013 naja, der ist recht laut, aber ich sch\u00e4tze, das ist normal bei Haarf\u00f6hnen. Gut ist, dass er nicht so schwer ist und ich ihn gut halten kann. Ich h\u00e4tte mir noch ein paar Einstellungen gew\u00fcnscht,",
+            "language": "German"
+        },
+        {
+            "review": "I\u2019ve been using this hairdryer for a couple of weeks now, and I have mixed feelings. It's decent but not amazing. The design is nice, and it feels pretty lightweight, which is a plus. When I first tried it, I thought it would dry my hair faster because of the power rating, but honestly, it took the same amount of time as my old one.\n\nThe heat settings are okay, but I\u2019d love to have more control. Sometimes my hair feels a bit friz",
+            "language": "English"
+        },
+        {
+            "review": "I've had this hairdryer for a few weeks now, and I gotta say, it\u2019s okay, but not great. It dries my hair reasonably fast, but not as quick as I was hoping for. The design is kinda sleek, and it\u2019s not too heavy, which is nice. However, the heat settings are pretty much hit or miss. Sometimes it feels too hot, and other times it's lukewarm, so that\u2019s kinda annoying when you\u2019re trying to style. \n\nNoise level is",
+            "language": "English"
+        },
+        {
+            "review": "Estava ansiosa para experimentar este secador, mas n\u00e3o \u00e9 tudo o que eu esperava. Ele seca o cabelo razoavelmente r\u00e1pido, mas n\u00e3o tem tanta pot\u00eancia quanto eu imaginava. A temperatura tamb\u00e9m n\u00e3o \u00e9 t\u00e3o boa, \u00e0s vezes fica muito quente, outras muito frio. O design \u00e9 bonito e leve, mas a ergonomia n\u00e3o \u00e9 t\u00e3o confort\u00e1vel para quem tem cabelo lido. Acaba ajudando, mas poderia ser Muito melhor. Para o pre\u00e7o, achei que era mais, prometia",
+            "language": "Portuguese"
+        }
+    ]
+}

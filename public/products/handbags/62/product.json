@@ -1,0 +1,36 @@
+{
+    "nr": "62",
+    "name": "LuxeVoyage Satchel",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 3,
+    "description": "Elevate your everyday style with our exquisite handbag, a perfect blend of elegance and functionality that will accompany you on all your adventures. Crafted from premium, ethically sourced leather, this sophisticated satchel exudes a timeless charm while ensuring durability for years to come. The smooth, supple surface is complemented by meticulously stitched details and gold-tone hardware, adding a touch of luxury that is sure to catch the eyes of discerning fashionistas.\n\nDesigned with busy lifestyles in mind, this bag boasts a spacious interior that seamlessly accommodates your essentials\u2014from your laptop to your favorite novel, and everything in between. It features multiple interior pockets for organized storage, allowing you to easily access your phone, wallet, and keys without the usual hassle. The detachable crossbody strap provides versatility, enabling",
+    "images": [
+        "product_62_01.png",
+        "product_62_02.png",
+        "product_62_03.png",
+        "product_62_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to love this bag, but it just fell short for me. The design is pretty, and I was excited when I first saw it. However, the quality feels a bit cheap, the material seems flimsy and I doubt it will hold up over time. Also, the pockets are kinda useless; they\u2019re not deep enough and things just slip out. Not to mention, the strap is way too thin and digs into my shoulder. I was hoping it would be my go-to bag",
+            "language": "English"
+        },
+        {
+            "review": "Le design est vraiment bien, je dois l'admettre. Mais apr\u00e8s quelques jours d'utilisation, je suis d\u00e9\u00e7u. La qualit\u00e9 du mat\u00e9riel n'est pas \u00e0 la hauteur et j'ai l'impression que la poign\u00e9e va se casser \u00e0 tout moment. J'ai aussi trouv\u00e9 que l'espace de rangement est un peu trop limit\u00e9 pour tous mes essentiels. La couleur est jolie mais ce n'est pas suffisant pour compenser les probl\u00e8mes. Je pensais vraiment que c'\u00e9tait un bon achat mais \u00e7a ne vaut pas vraiment",
+            "language": "French"
+        },
+        {
+            "review": "I had high hopes for this handbag, but I have to say it was underwhelming. The design looks nice at first, but the quality just isn't there. The material feels cheap and flimsy, not at all what I expected. After a few weeks of use, I noticed some stitching coming undone. Not the durability I was looking for. \n\nThe space is decent but not as functional as I hoped. The pockets are placed weirdly, making it hard to grab what I need quickly.",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love this bag, but I just can\u2019t. The design looks nice at first but feels impractical. The straps are too long and it doesn\u2019t stay put on my shoulder. There\u2019s not enough room inside for my everyday stuff without things getting crammed and hard to find. Also, the material feels a bit cheap for the price. I was expecting something more luxe, but this feels more like a regular bag. Maybe it's okay if you don\u2019t need to carry much but seriously",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this bag, but it just didn\u2019t live up to my expectations. The design is cute, but the quality feels cheap. After just a few weeks of use, the stitching started coming undone, and I had to be super careful with how much I put in it. The straps are kind of flimsy too, which is frustrating because they dig into my shoulder when it's heavier. It's a nice size, but I doubt it will hold up with regular use. So yeah,",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "nr": "2",
+    "name": "LuxeCarry Mystique Bag",
+    "price": "4999",
+    "ranking": 1,
+    "availability": 11,
+    "description": "Introducing your new must-have accessory: a chic and sophisticated handbag that effortlessly combines style and functionality. This stunning bag, crafted from premium artisanal leather, features a soft yet durable exterior that promises to withstand everyday wear while exuding elegance. Its unique design incorporates subtle, eye-catching details such as a geometric embossed pattern and hand-stitched edges, making it not just an accessory, but a statement piece.\n\nWith multiple compartments and a spacious interior, this beauty is designed for the modern woman on the go. Say goodbye to rummaging through a cluttered bag to find your essentials; our handbag boasts a smart, organized layout that effortlessly accommodates your smartphone, wallet, keys, and even a small tablet. The adjustable strap allows you to wear it as a",
+    "images": [
+        "product_2_01.png",
+        "product_2_02.png",
+        "product_2_03.png",
+        "product_2_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "La verdad, muy decepcionado con esta bolsa. El material se siente barato y se rompio en una semana. No hay espacio suficiente para mis cosas y los cierres son un desastre, se atoran todo el tiempo. Pense que ser\u00eda mas bonita, pero no es nada del otro mundo. Solo un gasto innecesario. Adem\u00e1s, el color se descolora r\u00e1pido. No la recomiendo a nadie.",
+            "language": "Spanish"
+        },
+        {
+            "review": "I was super excited to get this bag, but wow, what a letdown. The material feels cheap. It\u2019s not at all like what I've seen in pictures. I thought I\u2019d use it daily, but I can\u2019t even stand to look at it. The straps are way too long, so it kinda just hangs weird. And let\u2019s talk about the space, not much at all. I don\u2019t know where they expect me to fit my stuff. I\u2019ve gotten better bags from the",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this bag but wow, I\u2019m so disappointed. First off, the material feels cheap, definitely not what I expected. The color looked different online and doesn\u2019t match anything in my closet. Tried to use it for my daily stuff, and it\u2019s TOO small! like, seriously? I can\u2019t fit my phone and wallet in at the same time. The straps hurt my shoulders after just a few minutes. I thought I was getting a good deal but instead it feels like",
+            "language": "English"
+        }
+    ]
+}

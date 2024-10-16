@@ -1,0 +1,32 @@
+{
+    "nr": "75",
+    "name": "Urban Nomad Satchel",
+    "price": "4999",
+    "ranking": 1,
+    "availability": 16,
+    "description": "Elevate your everyday adventures with our stylish yet functional companion, the UN Satchel. Designed for the modern trailblazer, this bag effortlessly marries chic aesthetics with practical features to cater to your dynamic lifestyle. Whether you\u2019re darting from work to weekend brunch or exploring new urban landscapes, this satchel guarantees you won\u2019t just carry your essentials \u2014 you\u2019ll flaunt them.\n\nCrafted from premium, water-resistant materials, the UN Satchel is built to withstand daily wear and tear while keeping your belongings safe and dry. The spacious interior boasts multiple compartments, allowing you to keep your laptop, tablet, and personal items organized and easily accessible. Say goodbye to digging through your bag to find that elusive lipstick; everything has its perfect place in this thoughtfully",
+    "images": [
+        "product_75_01.png",
+        "product_75_02.png",
+        "product_75_03.png",
+        "product_75_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really disappointed with this bag. looked cool online but when I got it I realized it\u2019s just not worth the money. The material feels cheap and flimsy. Straps are way too long and it just doesn\u2019t sit right no matter how I adjust it. I thought it would be great for traveling but I can barely fit my stuff in. Not even close to what I expected smh. Definitely not recommend this to anyone!",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this bag but it\u2019s been a total letdown. The material feels cheap and even the zippers get stuck all the time. It doesn\u2019t hold its shape, so things get all messy inside. Comfort? Forget it. The strap digs into my shoulder. I can\u2019t even fit my laptop in without it looking super bulky. So disappointed, wish I hadn\u2019t bought it. It\u2019s just not worth the money at all. Don\u2019t recommend!",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this bag but it's just a huge let down. The material feels super cheap and it doesn't hold its shape at all. I tried to stuff in my essentials but it just looks floppy and doesn't zip right. Plus, the strap digs into my shoulder, so carrying it for long isn't even possible. The pockets are way too small too, can't fit my phone in them! Save your money, this one's not worth it. I regret buying it. \ud83d\ude12",
+            "language": "English"
+        },
+        {
+            "review": "J'ai vraiment \u00e9t\u00e9 d\u00e9\u00e7u par ce sac. La qualit\u00e9 est moche, les coutures se d\u00e9fassent d\u00e9j\u00e0. Pas assez de place \u00e0 l'int\u00e9rieur, impossible de mettre mes affaires correctement. Mang\u00e9, c'est presque impraticable ! Le poids est lourd pour un si petit sac. Et le style, franchement, on dirait un sac en plastique. Au top en pub, mais en vrai, pas du tout ! Une \u00e9toile c\u2019est trop.",
+            "language": "French"
+        }
+    ]
+}

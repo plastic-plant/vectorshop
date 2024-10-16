@@ -1,0 +1,25 @@
+{
+    "nr": "199",
+    "name": "SkyCrest Caps",
+    "price": "2599",
+    "ranking": 3,
+    "availability": 6,
+    "description": "Elevate your outdoor adventures with the ultimate companion designed to shield you from the sun while adding a touch of style to any outfit. These exceptional headwear essentials boast a lightweight, breathable fabric that keeps you cool and comfortable, no matter the heat. Crafted for those who embrace an active lifestyle, this versatile hat excels in everything from beach outings to hiking trails, effortlessly transitioning from casual to sporty with ease.\n\nWith a chic design and an adjustable strap at the back, it promises a snug fit for everyone\u2014whether you\u2019re enjoying a morning run or attending a sunny picnic with friends. The innovative moisture-wicking technology ensures that sweat is no longer a concern, allowing you to focus solely on your adventures. Plus, the stylish visor offers ample protection against harmful UV",
+    "images": [
+        "product_199_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "The hat I got is okay but has some ups and downs. The fit is decent, and I like the way it looks at first glance. However, after wearing it for a few hours, it gets a bit uncomfortable, and I wish the fabric was softer. Plus, the color options feel kinda limited; I was hoping for more variety. It's nice for casual outings, but I wouldn't say it's my favorite accessory. I guess it works for the price, but I expected a bit more. Overall",
+            "language": "English"
+        },
+        {
+            "review": "I recently bought this hat and honestly, it's just okay. It looks nice and the colors are pretty, but it's not as comfortable as I hoped. The fit is a bit off \u2013 kind of tight around the sides but loose in the front. I've worn it a few times but I find myself adjusting it quite a lot. Quality is decent, but I've seen better at this price point. If you're looking for something stylish, it sort of does the job, but don't expect it to be your go",
+            "language": "English"
+        },
+        {
+            "review": "J'ai r\u00e9cemment achet\u00e9 un chapeau et je dois dire que c'est un produit correct, mais pas exceptionnel. La taille est un peu off, il ne s'adapte pas tr\u00e8s bien. Les mat\u00e9riaux sont assez moyens, je m'attendais \u00e0 quelque chose de plus qualitatif \u00e0 vrai dire. Les couleurs sont sympas, mais la finition laisse \u00e0 d\u00e9sirer. Il fait le job, mais je ne suis pas s\u00fbr si je le recommanderais \u00e0 des amis. Peut-\u00eatre que j'aur",
+            "language": "French"
+        }
+    ]
+}

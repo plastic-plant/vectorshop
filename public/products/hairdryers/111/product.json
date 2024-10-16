@@ -1,0 +1,33 @@
+{
+    "nr": "111",
+    "name": "BreezeBliss Hair Dryer",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 10,
+    "description": "Experience the joy of effortless styling with the ultimate hair drying companion! This innovative tool, affectionately known as the \"BB Dryer,\" combines advanced technology and sleek design to give you the salon-quality results you deserve, right in the comfort of your home. Say goodbye to frizz and hello to silky, manageable locks as the BB Dryer harnesses the power of ion technology to dry your hair quickly while sealing in moisture for a stunning finish.\n\nImagine being able to personalize your drying experience with ease. The BB Dryer features multiple heat and speed settings, allowing you to tailor the airflow to your hair type\u2014whether it\u2019s thick, curly, or delicate. Its lightweight and ergonomic design make it easy to maneuver, providing comfort during use, while its ultra-quiet",
+    "images": [
+        "product_111_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this hair dryer for a couple of weeks now and honestly, I think it\u2019s just okay. It dries my hair, but it takes a bit longer than I expected. The heat settings are nice, but you can definitely feel a difference between the low and high options\u2014like, high is really hot and low barely does anything. Sometimes it makes this weird noise which is kinda annoying.\n\nI appreciate that it\u2019s lightweight and easy to handle, so my arm doesn\u2019t get too tired",
+            "language": "English"
+        },
+        {
+            "review": "Comprei o secador recentemente e posso dizer que \u00e9 um produto bom, mas n\u00e3o sem suas falhas. A pot\u00eancia \u00e9 razo\u00e1vel e ele seca o cabelo em um tempo aceit\u00e1vel, mas n\u00e3o \u00e9 nada espetacular. O design \u00e9 bonito e moderno, contudo, a ergonomia poderia ser melhor porque ele fica escorregando da m\u00e3o \u00e0s vezes. Eu esperava mais e ele faz barulho q \u00e9 maior do que eu gostaria. Enfim, vale a pena, mas acho que",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I recently tried this hair dryer, and honestly, I'm a bit mixed about it. On one hand, it does the job of drying my hair pretty well. I like that it's lightweight and easy to handle, which helps during my morning rush. The heat settings are decent, but I wish there was a cool setting that actually worked better. Sometimes it feels a bit too hot, and I'm worried about damage.\n\nAnother thing that bothered me is the cord - it feels a bit short, limiting where I",
+            "language": "English"
+        },
+        {
+            "review": "I bought this hair dryer thinking it would be life-changing, but honestly, it\u2019s just okay. It does dry my hair, but not as fast as I hoped. The design looks nice, but it feels kind of bulky and heavy after using it for a while. The noise level is a bit loud too, which isn't enjoyable if you're trying to chill in the morning. \n\nThe settings are decent, with multiple heat levels, but I wish it had a cooler shot button to help with styling.",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this hair dryer, but I\u2019m a bit on the fence. It does dry my hair pretty quickly, which is great, but the sound it makes is a little loud and kinda annoying. It's lightweight, which is a plus, but sometimes it feels like it has less power than other dryers I've used. \n\nI'm not completely unhappy with the performance, but I didn't find it to be anything super special. The attachments make it somewhat versatile, but I was expecting more for the",
+            "language": "English"
+        }
+    ]
+}
