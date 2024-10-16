@@ -1,0 +1,28 @@
+{
+    "nr": "99",
+    "name": "GripGuard Elite Gloves",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 13,
+    "description": "Introducing the ultimate solution for all your gripping needs\u2014our premium touch of innovation that merges durability with dexterity. These advanced hand protectors are meticulously engineered with a state-of-the-art latex blend, ensuring an unparalleled grip on both wet and dry surfaces. No more fumbling with slippery objects or enduring the frustration of unyielding materials; these gloves empower you to tackle tasks with confidence and ease, making them a must-have for any household.\n\nExperience the perfect balance of comfort and control. Each pair features a second-skin fit that molds to the contours of your hands, providing exceptional flexibility while reducing hand fatigue during prolonged use. The breathable material keeps your hands dry and comfortable, ensuring that whether you are gardening, washing dishes, or undertaking your next DIY",
+    "images": [
+        "product_99_01.png",
+        "product_99_02.png",
+        "product_99_03.png",
+        "product_99_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like these gloves, I mean they look great and all, but honestly, they just fell short for me. The grip is not nearly as good as expected; I've had better with cheaper alternatives. They fit okay, but they are a bit loose in some areas, which makes it tricky for really detailed work. I also noticed that they started to wear down after only a few uses. Disappointed, given all the hype around them. They're not a total fail, but I can't",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping these gloves would be great, but they just didn't live up to the hype. The grip is okay, but I've had better ones that are way more comfortable. After a few uses, they started to feel too tight and itchy. I swear they sometimes slip when I really need them to hold onto things. Plus, they\u2019re kind of bulky for everyday tasks. I need something more reliable, honestly. It\u2019s a letdown considering the price. If you're looking for solid gloves,",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these gloves, but they just didn\u2019t live up to my expectations. They seemed fine at first, but after a few uses, the grip was pretty disappointing. I was worried about dropping things, which kinda defeats the purpose. Plus, they felt a bit tight after a while, like they weren\u2019t really made for long use. They look nice, but I guess looks aren't everything. I think I\u2019ll look for something a bit sturdier next time. Sorry, but not",
+            "language": "English"
+        }
+    ]
+}

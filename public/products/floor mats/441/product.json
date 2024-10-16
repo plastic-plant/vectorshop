@@ -1,0 +1,25 @@
+{
+    "nr": "441",
+    "name": "EcoGuard StepMat",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 25,
+    "description": "Transform your entryway into a sanctuary of style and sustainability with our innovative floor mat, specially crafted for the eco-conscious homeowner. Designed to welcome your guests and keep dirt where it belongs, this mat features a clever blend of recycled materials, ensuring that you\u2019re making a positive impact on the planet with every step taken. No more worrying about your beautiful floors being marred by mud and debris; this mat captures it all while enhancing the aesthetics of your home. \n\nWhat sets our mat apart is its advanced grip technology, providing stability and safety for every visitor. The non-slip surface ensures that even during rainy or snowy weather, your home remains a hazard-free zone. Plus, the unique texture not only adds a touch of sophistication but also makes cleaning a breeze",
+    "images": [
+        "product_441_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this floor mat for a few weeks now, and I couldn\u2019t be happier! The quality is outstanding; it's super thick and plush, making my entryway feel so welcoming. I love that it\u2019s eco-friendly, too! \n\nIt stays in place perfectly without sliding around, which has always been a problem with other mats I've tried. The surface material does a great job at keeping dirt and moisture contained, and it\u2019s really easy to clean! Just a quick shake or a fast vacuum",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely in love with this floor mat! \ud83c\udf1f It\u2019s everything I hoped for and more. The eco-friendly materials are a major plus, giving me peace of mind knowing I\u2019m doing my part for the planet. The texture is super soft yet durable, which makes it perfect for handling all the foot traffic of my busy household.\n\nInstallation was a breeze! It lays flat without any curling at the edges, and the grippy bottom ensures it stays securely in place. I\u2019ve noticed a significant reduction in",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased this eco-friendly floor mat, and I couldn\u2019t be happier! From the moment I unrolled it, I could tell it was a high-quality product. The material feels sturdy yet comfortable underfoot, and I love how it compliments my home decor with its sleek design. \n\nWhat really impressed me is how effectively it traps dirt and moisture. I was tired of constantly sweeping and mopping before, but now it keeps my floors clean effortlessly. Plus, I appreciate that it's made from sustainable",
+            "language": "English"
+        }
+    ]
+}

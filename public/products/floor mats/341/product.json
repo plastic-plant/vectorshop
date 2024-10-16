@@ -1,0 +1,26 @@
+{
+    "nr": "341",
+    "name": "EcoStep Harmony Mat",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 24,
+    "description": "Transform your space with a fusion of style and sustainability that redefines comfort beneath your feet. Our innovative floor mat seamlessly blends chic design and eco-conscious materials, making every step a reminder of your commitment to a greener planet. Crafted with premium recycled fibers, this mat not only elevates your home aesthetics but also provides a durable solution for high-traffic areas, ensuring it withstands the test of time while protecting your floors.\n\nFeaturing an ultra-soft texture, this mat invites you to linger a little longer, whether you\u2019re greeting guests in your entryway or enjoying a moment of peace in your living room. Its lightweight yet resilient construction delivers a non-slip surface that offers a reassuring grip, ideal for kitchens, bathrooms, or playrooms. Plus, the moisture",
+    "images": [
+        "product_341_01.png",
+        "product_341_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this mat thinking it would help with my floors but wow, what a let down! It slips all over the place, can\u2019t even walk on it without worrying about falling. It's super thin too, doesn\u2019t feel comfy at all. I've had it for a few weeks and already see wear and tear, not worth the price. I thought it would be eco-friendly or something, but it just feels cheap. Seriously don\u2019t waste your money.",
+            "language": "English"
+        },
+        {
+            "review": "This mat is terrible. Wrapped in plastic when it arrived, and it stinks! The smell didn't go away even after days, just awful. It slips all over the place on my floor, really unsafe. I expected something good for the price but it feels cheap, like it's kinda falling apart already. \n\nNot easy to clean either, it just collects dust and I have to bleach it to make it look okay. Can't even use it as a decoration because it looks like it came from a bargain",
+            "language": "English"
+        },
+        {
+            "review": "I really regret buying this mat. It just doesn't grip the floor at all. It slides around like it's trying to escape. Plus, it's super thin, feels cheap under my feet. One edge keeps curling up, and that's a tripping hazard. Not to mention the colors looked way nicer online, but in person? So dull and lifeless. I expected better but honestly, I'm just disappointed. Save your money and look elsewhere.",
+            "language": "English"
+        }
+    ]
+}

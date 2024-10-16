@@ -1,0 +1,21 @@
+{
+    "nr": "189",
+    "name": "SoundSphere Earbuds",
+    "price": "5999",
+    "ranking": 5,
+    "availability": 2,
+    "description": "Experience audio like never before with our latest innovation in personal sound technology. These cutting-edge earbuds offer an immersive listening experience that will transport you into a world of rich, vibrant sound. With their advanced noise cancellation capabilities, you can escape the hustle and bustle of daily life and fully embrace your favorite tunes, podcasts, or audiobooks\u2014just you and your sound.\n\nDesigned for ultimate comfort, each pair features a lightweight, ergonomic fit that conforms to the contours of your ears. With three different sizes of customizable ear tips, you can find your perfect fit for hours of effortless listening. Whether you\u2019re commuting, exercising, or simply winding down at home, these compact wonders promise you an excellent grip without any discomfort. \n\nThe brilliance of these earbuds doesn\u2019t stop",
+    "images": [
+        "product_189_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely blown away by these earbuds! The sound quality is just phenomenal\u2014crystal clear highs and deep bass that truly immerse you in your music. I've tried various brands, but nothing comes close to this level of audio performance. They fit snuggly in my ears and are incredibly comfortable, even during long listening sessions. The battery life is impressive too; I can use them all day without needing to charge. \n\nThe noise cancellation feature works like magic; I can zone out in my own",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely thrilled with my new earbuds! The sound quality is just incredible\u2014crystal clear and rich bass that makes every song sound amazing. I love how snugly they fit in my ears; they don't budge at all, even during my most intense workouts. The battery life is fantastic too\u2014I can use them all day without worrying about recharging. Plus, the touch controls are super responsive; skipping tracks or taking calls is a breeze. The range is great, allowing me to move around",
+            "language": "English"
+        }
+    ]
+}

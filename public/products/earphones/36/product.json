@@ -1,0 +1,36 @@
+{
+    "nr": "36",
+    "name": "SoundSphere EchoPods",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 15,
+    "description": "Experience immersive sound like never before with our cutting-edge earbuds, designed to transport you into a world of auditory bliss. These sleek, compact wonders are engineered to deliver rich, crystal-clear audio that enhances every note, beat, and podcast you listen to. Whether you're enjoying your favorite playlist during a morning jog or streaming a thrilling audiobook while relaxing at home, the premium sound quality ensures you won\u2019t miss a single detail.\n\nFeaturing advanced noise-cancellation technology, these earbuds create a serene listening environment by blocking out distractions. The ergonomic design guarantees a comfortable fit, making them perfect for long hours of enjoyment without any discomfort. With customizable ear tips in different sizes, you can achieve an ideal seal for your ears, ensuring optimal acoustic performance tailored just for you.\n\nTake",
+    "images": [
+        "product_36_01.png",
+        "product_36_02.png",
+        "product_36_03.png",
+        "product_36_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using these earphones for a few weeks now, and I gotta say they\u2019re okay but not amazing. The sound quality is decent, but I was hoping for something a bit richer. Sometimes the bass just sounds a little flat. \n\nThe design is nice and comfy to wear for long periods, at least, but I did notice the battery doesn\u2019t last as long as expected. It\u2019s frustrating when I want to use them for a whole day, and I have to charge them up",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these earphones for a few weeks now, and they have their ups and downs. The sound quality is decent; it\u2019s clear enough for music and podcasts, but I expected more bass. Sometimes they struggle with volume too\u2014there are times when cranking up the sound just doesn\u2019t deliver that punch I want.\n\nComfort-wise, they fit well in my ears for short sessions, but longer usage can be a bit uncomfortable. I\u2019ve had to take breaks after an hour or so.",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these earphones for a couple of weeks now, and I have to say, they're a mixed bag. The sound quality is decent, but I expected more bass. Sometimes, the audio can feel a little flat, especially with music that should really hit you in the chest. They\u2019re comfortable enough to wear for a while, but after a few hours, they start to hurt my ears a bit.\n\nThe noise-canceling feature works okay, but I can still hear some background",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these earphones for a couple of weeks and they\u2019re pretty okay, but nothing mind-blowing. The sound quality is decent, but honestly, I expected a bit more clarity for the price. It's nice when listening to music, but sometimes voices sound a little muffled. \n\nComfort-wise, they are alright for short listens, but I find myself adjusting them every now and then. They've also got decent battery life, which is a plus, but the connection can drop occasionally if",
+            "language": "English"
+        },
+        {
+            "review": "I got these earphones a few weeks ago and honestly, they\u2019re okay but not great. The sound quality is decent, but I expected a bit more clarity for the price. They fit well in my ears, but sometimes they feel loose when I\u2019m moving around, which is kinda annoying. Battery life is just alright too; I wish it lasted longer. \n\nThe touch controls are convenient, but they can be a bit sensitive, and I find myself accidentally pausing or changing songs by mistake.",
+            "language": "English"
+        }
+    ]
+}

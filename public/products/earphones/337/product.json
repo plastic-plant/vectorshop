@@ -1,0 +1,22 @@
+{
+    "nr": "337",
+    "name": "SoundSphere Earphones",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 7,
+    "description": "Experience audio in a whole new dimension with our revolutionary earphones. These sleek and stylish audio companions deliver an immersive sound quality that transports you into the heart of your favorite melodies, podcasts, and cinematic experiences. Designed for both casual listeners and audiophiles alike, they create a personal soundstage that allows every note to resonate with clarity and precision. Say goodbye to tangled cords and uncomfortable fit\u2014this innovative design embraces a wireless freedom that fits seamlessly into your active lifestyle.\n\nEngineered with cutting-edge noise-cancellation technology, these earphones guarantee an uninterrupted auditory escape. Whether you\u2019re navigating a crowded subway or enjoying a tranquil moment in a park, each note remains crystal clear, making it easy to lose yourself in the music. The snug, ergonomic design ensures",
+    "images": [
+        "product_337_01.png",
+        "product_337_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got these earphones a little while ago, and honestly, they\u2019re just okay. The sound quality is decent, but I don\u2019t find it as immersive as I expected. Sometimes the bass is a bit weak, and it lacks clarity in the highs. They\u2019re comfortable for short periods, but I feel kinda fatigued if I wear them too long. \n\nThe battery life is average \u2013 not bad, but not great either. They do connect pretty easily to my devices, which is a plus",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these earphones for a few weeks now, and honestly, they\u2019re just okay. The sound quality is decent, but nothing out of this world. Sometimes when I\u2019m listening to music, I feel like the bass isn\u2019t strong enough, which is a bit disappointing. \n\nThey are comfortable to wear for long periods, but the controls can be kinda tricky; it takes a few tries to get used to them without fumbling too much. Connectivity is usually fine, but there have",
+            "language": "English"
+        }
+    ]
+}

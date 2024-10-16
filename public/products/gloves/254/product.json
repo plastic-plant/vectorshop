@@ -1,0 +1,29 @@
+{
+    "nr": "254",
+    "name": "GripGuard Pro Gloves",
+    "price": "1499",
+    "ranking": 3,
+    "availability": 11,
+    "description": "Experience the ultimate in comfort and protection with the newest innovation in handwear. These gloves seamlessly blend cutting-edge materials with ergonomic design, allowing you to tackle any household task with confidence. Whether you\u2019re washing dishes, gardening, or engaging in DIY projects, these gloves elevate your performance while prioritizing your safety.\n\nCrafted from a unique blend of high-durability, chemical-resistant materials, the Pro Gloves provide unmatched grip and dexterity. The textured palms ensure that slippery objects are no match for your firm grasp, while the breathable fabric keeps your hands cool and dry, even during the most strenuous activities. Say goodbye to the days of fumbling with wet bottles or struggling to maintain hold on tools. With these gloves, every movement feels intuitive and effortless.",
+    "images": [
+        "product_254_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using these gloves for a couple of weeks now. They fit pretty well, not too tight and not too loose, but they don\u2019t have the best grip. Anytime I\u2019m handling something slippery, I feel like I'm gonna drop it. Also, they got a little sweaty after long use, so be prepared for that. \n\nFor light tasks around the house, they do the job fine. Just don\u2019t expect anything too advanced. The durability seems okay, but I wonder how long they'll",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these gloves primarily for household tasks, and I have to say they are decent, but not great. The grip is okay, and I can manage to handle most tools without dropping them. However, after just a few uses, I noticed they started to tear a little at the seams, which makes me question their durability. The fit is also a bit too tight for my liking, even though I ordered the right size. They could be more comfortable for longer wear. Overall, they're",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these gloves, and they're okay but not great. They feel nice when putting them on, but I ran into some issues while using them. The grip is decent, but I expected more slip resistance, especially for handling wet items. I also noticed they started to wear out a bit quicker than I hoped, especially in the fingertips. Comfort is there; I didn't have any pinching or discomfort, which is a plus. But for the price, I just thought they would hold up better",
+            "language": "English"
+        },
+        {
+            "review": "These gloves are okay, I guess. They have some grip, but it\u2019s not as great as I was expecting. I use them mostly for chores around the house and while they work, they don\u2019t feel super durable. After a few uses, I noticed some wear and tear. They fit pretty snug, which is nice, but can get a bit too tight after wearing them for a while. I like the idea of them, just wish they held up better. Overall, not bad, but",
+            "language": "English"
+        }
+    ]
+}

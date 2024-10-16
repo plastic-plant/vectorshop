@@ -1,0 +1,25 @@
+{
+    "nr": "156",
+    "name": "SonicSphere Earbuds",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 6,
+    "description": "Unleash a sound experience like never before with these innovative earbuds that redefine what you listen to daily. Designed for both the audiophile and the casual listener, these remarkable earbuds deliver deep bass, crystal-clear highs, and an immersive soundstage that transports you directly into the heart of your favorite tracks or podcasts. Whether you're at the gym, commuting, or getting lost in your favorite playlist, every nuance of your audio will be captured with breathtaking precision.\n\nCrafted for comfort, these sleek and lightweight companions come with customizable ear tips that ensure a snug fit for every ear shape. No more adjusting or worrying about your earbuds falling out during your most active moments. Enjoy a seamless blend of style and functionality with a streamlined design available in multiple colors that incorporate modern",
+    "images": [
+        "product_156_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using these earbuds for a couple of weeks, and they\u2019re just okay. The sound quality is decent but not mind-blowing. I mean, it\u2019s fine for casual listening or when I\u2019m at the gym, but I expected a bit more clarity, especially for the price. \n\nOn the plus side, they are lightweight and pretty comfortable, so wearing them for extended periods isn\u2019t a problem. The battery life is also good \u2014 I get a good amount of use before needing to",
+            "language": "English"
+        },
+        {
+            "review": "Got these earbuds a few weeks ago, and they\u2019re just okay. The sound quality isn\u2019t bad, but I honestly expected more for the price. Sometimes I get a bit of background noise, which can be annoying when I\u2019m trying to enjoy my music or a podcast. The fit is decent, but they fall out a lot during workouts. \n\nBattery life is pretty average, nothing too impressive. I find myself charging them more often than I\u2019d like. The controls can be a bit finicky",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these earbuds for a few weeks, and honestly, it\u2019s a mixed bag. The sound quality is decent, but it doesn't blow me away. I expected more, especially with the hype around them. They fit fairly well, but after a while, they can get a bit uncomfortable, and the battery life could be better. I guess they work for casual listening or quick calls, but if you\u2019re really into music or long sessions, you might get disappointed. Sometimes they connect slowly",
+            "language": "English"
+        }
+    ]
+}

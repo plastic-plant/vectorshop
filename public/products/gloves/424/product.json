@@ -1,0 +1,25 @@
+{
+    "nr": "424",
+    "name": "GripGuard Gloves",
+    "price": "3499",
+    "ranking": 2,
+    "availability": 14,
+    "description": "Transform your daily tasks into an effortless experience with our innovative hand protectors, designed for those who value comfort and functionality. Engineered with cutting-edge, flexible material, these gloves ensure your hands remain agile while providing superior grip, allowing you to tackle everything from heavy-duty chores to delicate tasks with confidence. Say goodbye to fumbling or slipping \u2014 it's like having a second skin that enhances your natural dexterity.\n\nEach pair features a breathable, moisture-wicking interior that keeps your hands cool and dry, even during the most demanding activities. The durable outer layer is crafted to resist wear and tear, ensuring longevity for all your household duties. Whether you're gardening, cleaning, or tackling DIY projects, these gloves are designed to withstand the rigors of daily use while",
+    "images": [
+        "product_424_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for these gloves, but honestly, I was kind of disappointed. They look alright, but when I put them on, I felt kinda restricted. They don\u2019t really fit as well as I expected and my fingers ended up falling out a lot, which was annoying. The grip isn't as strong as I thought it would be either\u2014had trouble holding on to things without them slipping. For the price, I wanted a lot more. They might work for light tasks, but for heavier",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love these gloves, but they just didn\u2019t cut it for me. They feel kinda stiff and are not as comfortable as I hoped. The grip is okay, but not great \u2013 things slipped out of my hands while I was cleaning. Also, they get really sweaty inside, which is super annoying. They do offer some protection, but you can find better ones out there. I guess they work in a pinch, but I wouldn't rely on them for anything serious. Overall, just under",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping these gloves would boost my cleaning routine, but I'm quite disappointed. The fit isn\u2019t great \u2013 they\u2019re either too tight or too loose, making it uncomfortable to do tasks. The grip did work decent when handling wet dishes, but when it comes to dealing with any rough surfaces, I felt like I was losing my hold frequently. Also, the material feels kind of cheap, and I worry they won\u2019t last long. I thought they would be more durable since they\u2019re marketed for",
+            "language": "English"
+        }
+    ]
+}

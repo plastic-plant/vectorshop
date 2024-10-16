@@ -1,0 +1,21 @@
+{
+    "nr": "667",
+    "name": "GloveSphere",
+    "price": "1999",
+    "ranking": 5,
+    "availability": 5,
+    "description": "Discover the ultimate in hand protection and style with our revolutionary new gloves, the perfect blend of innovation and comfort. Designed for the modern multitasker, these gloves provide a remarkable fit that molds to your hands while offering unparalleled dexterity. Whether you're tackling chores, cooking up a culinary masterpiece, or enjoying outdoor adventures, these gloves empower you to do it all without sacrificing skin protection or tactile sensitivity.\n\nCrafted from advanced, breathable materials, they keep your hands cool and comfortable even during the toughest tasks. The internal grip technology ensures you maintain a secure hold on everything from slippery fruit to garden tools, so you can say goodbye to fumbles and frustration. With a sleek, streamlined design that complements your personal style, you won\u2019t just wear these gloves;",
+    "images": [
+        "product_667_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely LOVE these gloves! They are a game changer for my household chores. The fit is perfectly snug, yet so flexible that I hardly feel like I'm wearing anything at all. I find myself reaching for them every time I'm cleaning, cooking, or even gardening. \n\nThe grip is just phenomenal\u2014no more slipping or fumbling with dishes or tools. Plus, they keep my hands nice and dry, which is a huge plus when it comes to washing dishes. The design is sleek and stylish too",
+            "language": "English"
+        },
+        {
+            "review": "These gloves are a game changer! \ud83d\udc96 From the moment I put them on, I felt like I was wearing a second skin. The fit is absolutely perfect\u2014not too tight, not too loose\u2014just how I like it. They have a fantastic grip, whether I\u2019m cooking, cleaning, or doing outdoor chores, and the material is so durable. \n\nI love how comfortable they are; I can wear them for hours without my hands getting sweaty or cramped. Plus, they\u2019re super easy to",
+            "language": "English"
+        }
+    ]
+}

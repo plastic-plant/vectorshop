@@ -1,0 +1,23 @@
+{
+    "nr": "658",
+    "name": "FrostGuard FlexiGloves",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 9,
+    "description": "Experience the perfect blend of warmth and dexterity with our latest innovation in hand protection. These revolutionary gloves reimagine comfort and functionality, ensuring your hands stay cozy while allowing you to tackle everyday tasks with ease. Designed for the modern multitasker, they provide exceptional grip and flexibility, making them the ideal companion for everything from outdoor adventures to indoor chores.\n\nCrafted with advanced thermal technology, these gloves are infused with a lightweight insulative layer that traps warmth without adding bulk. Whether you're enjoying a brisk stroll in the park or simply reaching for that chilly doorknob, you can count on these versatile gloves to keep your fingers toasty and agile. Plus, the water-resistant exterior means you can embrace the elements head-on without worrying about wet,",
+    "images": [
+        "product_658_01.png",
+        "product_658_02.png",
+        "product_658_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently tried out these flexible gloves and I have to say I'm pretty impressed overall! They fit really well and are super stretchy, which makes them a breeze to wear for long periods. I\u2019ve used them for everything from garden work to winter activities, and they held up great. The grip is solid, too, so I didn't lose my hold on any tools or slippery packaging. \n\nThe only reason I'm giving them 4 stars instead of 5 is that I wish they had a little more insulation",
+            "language": "English"
+        },
+        {
+            "review": "Die FlexiGloves sind echt gut f\u00fcr den Winter, wenn es draussen kalt ist. Die Passform gef\u00e4llt mir, sie sitzen angenehm und lassen sich gut an- und ausziehen. Ich finde es toll, dass sie auch warm halten, ohne das Gef\u00fchl zu haben, die Finger sind in dicken F\u00e4ustlingen eingesperrt. Ich kann gut greifen und leicht T\u00e4tigkeiten erledigen, wie Eink\u00e4ufe oder auch Reparaturen im Haus. \n\nAllerdings gibt es ein kleines Manko:",
+            "language": "German"
+        }
+    ]
+}

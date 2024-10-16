@@ -1,0 +1,24 @@
+{
+    "nr": "56",
+    "name": "GripGuard Pro Gloves",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 19,
+    "description": "Introducing the ultimate fusion of durability and dexterity, our revolutionary protective handwear that redefines efficiency in mess-prone tasks. Designed with a state-of-the-art grip technology, these gloves let you tackle everything from heavy-duty yard work to intricate household repairs without the fear of slipping or losing control. With an ergonomic fit that molds perfectly to your hands, you can effortlessly handle tools, gadgets, and household items with precision and confidence.\n\nCrafted from a blend of high-quality, breathable materials, these gloves offer unparalleled comfort, reducing hand fatigue during extended wear. The soft, anti-slip palm not only enhances grip but also shields your hands from blisters and abrasions, making them ideal for both casual DIY projects and demanding professional use. Whether you're planting flowers",
+    "images": [
+        "product_56_01.png",
+        "product_56_02.png",
+        "product_56_03.png",
+        "product_56_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "These gloves are a joke. I thought I\u2019d get something to help with chores but they just tear right away. Literally slipped off my hands when I was washing dishes, and now I have a huge cut. Not even good for light work. Material feels cheap and they smell bad out of the box. Won\u2019t buy again. Save your money!",
+            "language": "English"
+        },
+        {
+            "review": "Really disappointed with these gloves. They tore way too easily and the grip is not good at all. Was hoping for something better since the ads were flashy. Can\u2019t even use them without my hands slipping all over. Also, the fit is weird, not snug even though I measured. I thought I was getting something sturdy, but they feel cheap. Definitely not worth the money. I'll be looking for something else. Don't waste your time!",
+            "language": "English"
+        }
+    ]
+}

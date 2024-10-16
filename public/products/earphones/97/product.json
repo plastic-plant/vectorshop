@@ -1,0 +1,24 @@
+{
+    "nr": "97",
+    "name": "EchoWave Earbuds",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 25,
+    "description": "Immerse yourself in a world of crystal-clear sound and effortless connectivity with our latest innovation in audio technology. These compact, sleek earphones are designed to transform your everyday listening experience, whether you're diving into an exhilarating podcast, grooving to your favorite album, or catching up on important calls. With advanced noise isolation capabilities, you can escape the hustle and bustle of your surroundings, allowing every beat and note to resonate perfectly in your ears. \n\nCrafted for comfort, these earphones fit snugly and securely, making them ideal for long listening sessions or even your most vigorous workouts. Featuring a feather-light design, they seamlessly adapt to your lifestyle \u2013 from morning jogs to evening commutes. With a variety of ear tip sizes included, you\u2019ll find",
+    "images": [
+        "product_97_01.png",
+        "product_97_02.png",
+        "product_97_03.png",
+        "product_97_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently picked up these earbuds and I must say, I'm pretty impressed! The sound quality is clear and balanced, making my playlists sound fantastic. They fit snugly in my ears, and I didn\u2019t have to keep adjusting them while on the go. Battery life is solid too\u2014I get a whole day of playtime on a single charge!\n\nThe touch controls are a nice touch (no pun intended), but they can be a little sensitive at times. I did accidentally pause my music once while adjusting",
+            "language": "English"
+        },
+        {
+            "review": "I recently picked up a pair of these earbuds and they've been a great addition to my everyday routine. The sound quality is really impressive for the price \u2013 clear highs and decent bass that actually surprised me. I use them for music, podcasts, and even making calls, and they've delivered consistently. \n\nThey fit comfortably in my ears, and I can wear them for hours without feeling any discomfort. The battery life is solid, lasting me well through my daily commutes and the occasional long workout. Compact design",
+            "language": "English"
+        }
+    ]
+}
