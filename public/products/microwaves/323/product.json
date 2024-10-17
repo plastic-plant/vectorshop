@@ -1,0 +1,34 @@
+{
+    "nr": "323",
+    "name": "WaveMaster Fusion Microwave",
+    "price": "49900",
+    "ranking": 2,
+    "availability": 12,
+    "description": "Discover the future of cooking with this state-of-the-art kitchen marvel. Engineered for busy lifestyles, this microwave offers lightning-fast meal preparation without compromising on flavor or nutrition. Its advanced Fusion Technology ensures that every dish is evenly heated, with optimal moisture retention so that your favorite meals are served just the way you like them\u2014tender, juicy, and bursting with taste. Whether you\u2019re reheating last night\u2019s dinner or whipping up a quick breakfast, this sleek kitchen companion makes every culinary task a breeze.\n\nFeaturing an intuitive touchscreen interface, navigating through its plethora of cooking presets has never been simpler. With one touch, you can select from a variety of functions, including defrost, grill, and steam, allowing you to customize settings based on your specific",
+    "images": [
+        "product_323_01.png",
+        "product_323_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this microwave, but it hasn\u2019t lived up to my expectations. It\u2019s got a nice look, but when you actually use it, it falls flat. The buttons are hard to press, and I often end up having to hit them multiple times. Heating food takes longer than my old one, which is really frustrating when I\u2019m in a hurry. \n\nSometimes it makes a weird noise too, like it's struggling or something. It\u2019s kind of bulky, so finding a spot",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping this microwave would be a game changer for me, but it's been pretty disappointing. Honestly, it looks nice on the outside, but it doesn\u2019t perform well at all. The heating is pretty uneven, which means I\u2019m always taking things out and rotating or putting them back in. Snacks that should just take a minute somehow end up needing three rounds. \n\nAlso, the buttons are confusing. There's no clear indicator for a quick reheat function, which is just silly. Plus,",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this microwave for a few months now, and honestly, I\u2019m not that impressed. It looks nice, but when it comes to cooking power, it struggles. Sometimes it even doesn\u2019t heat food evenly. I find myself having to pause it and mix things around, which is annoying. \n\nThe controls are really not the most user-friendly either. At first, it took me a while to figure out how to use the buttons. I guess I was expecting it to be more intuitive",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping for something great, but I\u2019ve been pretty disappointed. The design looks nice, but it doesn\u2019t work as well as I thought it would. My food often comes out unevenly heated, and I find myself having to keep zapping things just to get it warm. The controls are a bit confusing, too. I expected it to be straightforward, but I\u2019ve accidentally restarted the timer more than once because I wasn\u2019t sure what some buttons did. Overall, it feels more like",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this microwave, but it hasn\u2019t quite lived up to the expectations. The design looks sleek and modern, but when it comes to actually using it, it falls short. The heating seems uneven\u2014I\u2019ve had to put food in multiple times just to get it warm enough. It also beeps incessantly when it's done, which can be more annoying than helpful. \n\nI thought the variety of settings would be great, but some of them just don\u2019t work very well. The",
+            "language": "English"
+        }
+    ]
+}

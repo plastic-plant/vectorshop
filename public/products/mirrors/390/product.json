@@ -1,0 +1,33 @@
+{
+    "nr": "390",
+    "name": "ReflectraVision",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 18,
+    "description": "Transform your daily reflection experience with a mirror that redefines clarity and style. Our innovative design showcases a seamless blend of cutting-edge technology and elegant aesthetics, making it the perfect addition to any room in your home. Say goodbye to ordinary surfaces and hello to a revolutionary product that enhances not only your appearance but also your space.\n\nImagine stepping in front of a mirror that not only offers crisp, distortion-free reflections but also features intelligent lighting tailored to your needs. The adjustable LED illumination can shift from warm to cool tones to match your mood or the time of day, ensuring you always look your best. Plus, with customizable brightness settings, you can easily create the perfect ambiance whether you're getting ready for a night out or winding down after a long day.\n\nIncorpor",
+    "images": [
+        "product_390_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this mirror for a couple of months now, and it\u2019s okay. I mean, it looks nice and all, but I expected a bit more. The lighting is decent, but sometimes it feels a bit harsh. I like that it\u2019s got a sleek design, and it fits well in my room. However, the smart features don\u2019t always work like they should; I struggle with the touch controls quite often and sometimes it just doesn\u2019t respond. \n\nThe reflection is clear,",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased a smart mirror that's supposed to be high-tech and all, but honestly, I'm not super impressed. The reflection quality is decent, but I expected it to be much clearer. The interface can be confusing, and I've spent more time trying to get it to do what I want than actually using it. Sometimes it lags and takes a bit to respond, which is kind of annoying when you're in a hurry. \n\nThe ambient lighting is a nice touch, but it could use better adjustment",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using the mirror for a few weeks, and honestly, it\u2019s not bad but not great either. The clarity is decent and it does the job for my daily routines, but I expected more from a mirror at this price point. Sometimes, the light feature can be a bit finicky, so I have to tap it a couple of times to get it to turn on. The design is nice, and it looks pretty sleek in my bathroom, but it\u2019s just missing that wow factor",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this mirror for a couple of weeks now, and I\u2019m feeling pretty mixed about it. The design is nice, sleek, and fits well in our bathroom, but it seems like it doesn\u2019t always reflect properly. Sometimes, the brightness is off, and it's frustrating when I\u2019m trying to get ready in the morning. The smart features are cool, but they can be a bit glitchy \u2013 I often have to reset it to get the lighting just right. \n\nI appreciate the",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased this virtual mirror, and honestly, it's been a mixed bag. The visuals are decent, and I appreciate the interactive features. I mean, it's fun to see this reflected image of myself, but the quality isn't as good as I expected. Sometimes the rendering is off, and I notice some pixelation, which can be distracting. \n\nAlso, it can be a bit slow to load, especially when switching between different settings or moods. I just wish it felt a bit more smooth and",
+            "language": "English"
+        }
+    ]
+}

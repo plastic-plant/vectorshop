@@ -1,0 +1,33 @@
+{
+    "nr": "218",
+    "name": "ZapWave Fusion",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 25,
+    "description": "Elevate your culinary experience with our revolutionary kitchen companion, The WaveMaster. This sleek and modern microwave combines cutting-edge technology with user-friendly features, designed to simplify meal preparation and deliver delicious results in moments. Say goodbye to mundane cooking and welcome the future of convenience in your home.\n\nWith a powerful 1,200 watts of cooking power, The WaveMaster ensures that your food is heated evenly and efficiently every time. Featuring intelligent sensor cooking, it automatically adjusts the cooking time and power level for a variety of dishes, ensuring perfect results whether you\u2019re reheating leftovers, defrosting meat, or preparing that last-minute snack. The expansive 1.8 cubic foot capacity allows you to easily accommodate everything from large casserole dishes to oversized popcorn bags, making",
+    "images": [
+        "product_218_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this microwave for a couple of weeks now, and it's a bit of a mixed bag. On one hand, it looks sleek and fits well in my kitchen. The digital display is clear and easy to read. But then there are a few things that really make me scratch my head. \n\nSome days, it heats things quickly, while other times it feels like it takes forever. Popcorn is hit or miss\u2014sometimes just right, but other times it burns too easily. The noise",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this microwave and while it does the job, it's not exactly mind-blowing. The design is sleek, and it fits well in my kitchen, but I expect a bit more for the price. Sometimes it takes longer to heat my leftovers than I expected \u2013 I find myself putting things in for an extra minute or two, which can be annoying. The controls are somewhat confusing at first; there are just a lot of buttons, and figuring out the right settings takes time. On the plus",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried one of these microwaves and honestly, it's just okay. It heats food pretty well most of the time, but occasionally I have had to run it again for something like my leftovers because they weren't fully warmed. The controls can be a bit confusing too. Sometimes I press the button and it doesn\u2019t respond right away. \n\nIt looks nice enough on the counter, but I expected a bit more given the hype. I like the size since it fits my plates, and there's enough space",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this microwave for a couple of months now, and honestly, it's a mixed bag. It heats food pretty well, but sometimes it feels like it takes longer than expected. I noticed the buttons are a bit unresponsive at times too, and I really have to press down a few times to get it to register, which can be annoying. \n\nThe design is nice and fits well in my kitchen, but I wish it had some more advanced features. It does the job, but there's",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this microwave for a few months now, and honestly, it's been kind of hit or miss. It heats things up pretty well, but sometimes it takes longer than expected. The settings can be confusing, like which one to use for popcorn - I keep overcooking it. The design looks modern, which I like, but it takes up more space on my countertop than I'd hoped. \n\nThe noise level is another thing. It\u2019s not super loud, but definitely louder than my old",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nr": "494",
+    "name": "ReflectaVibe Mirror",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Transform your space with the ultimate fusion of style and functionality. Our sleek, modern mirror features a stunning minimalist design that complements any decor, making it the perfect addition to your home, whether in the living room, bedroom, or hallway. With its ultra-slim frame and crystal-clear reflection, this mirror will not only enhance the aesthetic of your space but also create an illusion of depth and light, making rooms feel larger and more inviting.\n\nExperience a new level of convenience with the innovative touch-sensitive technology integrated into this mirror. Adjust the brightness effortlessly to suit your mood or the time of day\u2014dim it down for a cozy evening ambiance or brighten it up for a refreshing morning routine. With high-quality LED lighting that mimics natural daylight, you can trust",
+    "images": [
+        "product_494_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This mirror has some ups and downs. On one hand, it looks really sleek and modern, which is great for my bathroom. The light feature is pretty cool too\u2014it helps when I need to see details for makeup or skincare. However, the reflection isn\u2019t as clear as I hoped, and sometimes it feels like the lighting isn\u2019t bright enough. Also, it seems to smudge easily; had to clean it a few times already. I mean, it\u2019s decent for the price, but I",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smart mirror for a couple of weeks now, and I have mixed feelings about it. The design is nice and sleek, which is definitely a plus. It looks good on my wall, and the lights are pretty bright, which is useful for doing my makeup.\n\nHowever, the functionality isn't as great as I hoped. The touch controls can be quite finicky; sometimes they work perfectly, and other times, I have to tap multiple times to get a response. The sound quality of",
+            "language": "English"
+        }
+    ]
+}

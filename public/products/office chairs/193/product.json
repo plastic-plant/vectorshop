@@ -1,0 +1,21 @@
+{
+    "nr": "193",
+    "name": "ErgoZen Thrive Chair",
+    "price": "8999",
+    "ranking": 1,
+    "availability": 18,
+    "description": "Transform your workspace into a haven of comfort and productivity with this cutting-edge ergonomic seat. This chair is designed for those who refuse to compromise on their well-being while conquering the daily grind. With its patented dynamic lumbar support, every curve of your spine is cradled, promoting healthy posture and minimizing fatigue, even during marathon work sessions. Say goodbye to the stiff, achy days of office life; this chair is your ticket to a revitalized work experience.\n\nExperience the remarkable balancing act of flexibility and support. Featuring a unique adaptive design, it intuitively responds to your movements, allowing you to shift seamlessly from task to task without ever feeling restricted. Whether you're sending emails, brainstorming creative ideas, or diving deep into your next project, the chair",
+    "images": [
+        "product_193_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Honestly, this chair is really bad. It's not comfy at all, my back hurts after sitting for a few hours. The cushions feel cheap and flat, like they forgot to fill it right. I thought it had adjustable settings, but they barely do anything. I can't find a good height and the armrests are too low for me. Assembly was a nightmare, too many screws and hard to follow directions. I wanted to love it but it just feels like a waste of money. Save your cash",
+            "language": "English"
+        },
+        {
+            "review": "I don\u2019t get the hype. This chair is super uncomfortable. The material feels cheap, and the cushion is like sitting on a rock. As soon as I sit down, my back starts to hurt. The adjustments don't work well either. I thought I'd finally found a chair that could help with my posture, but nope. My neck hurts too now because the headrest is way too low. The wheels are worse. They barely move on carpet, and it always makes noise. Honestly, I wish",
+            "language": "English"
+        }
+    ]
+}

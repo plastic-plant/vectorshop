@@ -1,0 +1,33 @@
+{
+    "nr": "144",
+    "name": "ZapWave Chef 360",
+    "price": "23900",
+    "ranking": 1,
+    "availability": 24,
+    "description": "Experience the ultimate in culinary convenience with the sophisticated microwave that redefines home cooking. This innovative appliance is designed to cater to the modern lifestyle, making meal preparation simpler and more enjoyable than ever before. With precision heating technology, every dish\u2014whether it\u2019s a quick snack, a family dinner, or gourmet leftovers\u2014comes out perfectly cooked and bursting with flavor, all ready in a matter of minutes. \n\nEquipped with an intuitive touch screen interface, navigating through 10 preset cooking modes has never been easier. From steaming vegetables to grilling chicken, every function is optimized to deliver consistent results, eliminating the guesswork from your cooking routine. The energy-efficient design not only saves time but also helps you cut down on electricity costs, making it an eco-friendly choice",
+    "images": [
+        "product_144_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited to try this microwave, but wow, what a fail. It does not heat food evenly at all, I swear my leftovers are still cold in the middle no matter how long I nuke them. The buttons are confusing and hard to press, like they stick or something. Plus, sometimes it just shuts off on its own for no reason! What is going on? Waste of money for sure, don\u2019t buy this. I'm regretting my choice, big time.",
+            "language": "English"
+        },
+        {
+            "review": "Absolute garbage. Doesn't cook food evenly at all. I\u2019ve tried heating leftovers, and it\u2019s either cold or burned. The buttons are useless, has a hard time responding. You set it for two mins, and it shuts off after 30 sec. Ain\u2019t worth the money I spent. Wish I could return it but can\u2019t figure out how. Save your cash and avoid at all costs.",
+            "language": "English"
+        },
+        {
+            "review": "I really thought this microwave would make life easier, but it just doesn't work. First off, it takes forever to heat things up, like I could cook pasta faster on the stove! And every time I try to defrost meat, it ends up cooked on the edges and frozen in the middle. It's so frustrating. The buttons are confusing and not user-friendly at all. I've also noticed weird smells coming from it when I use it, which is super concerning. Definitely not worth the money. I'm",
+            "language": "English"
+        },
+        {
+            "review": "This thing is a total waste of money. Doesn\u2019t heat food right, half the time you have to put it in twice just to warm it up and then it still comes out cold. It beeps like crazy for no reason too, so annoying. I really regret buying this, should\u2019ve just stuck with my old one. Customer service was no help either. Had to wait forever to get a response and they didn\u2019t fix anything. Just stay away from this junk.",
+            "language": "English"
+        },
+        {
+            "review": "this microwave is a total waste of money. it never heats food properly, like half of it is still cold. have to put things in like 3 times to even get them warm, it takes forever. also the control panel is super confusing, just buttons everywhere and you can never tell if it\u2019s on or off. it beeps wayyy too much for no reason and gives me a headache. lightweight too, feels like it\u2019s gonna fall apart any minute. really regret buying it, don",
+            "language": "English"
+        }
+    ]
+}

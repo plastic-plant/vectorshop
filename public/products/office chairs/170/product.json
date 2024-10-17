@@ -1,0 +1,25 @@
+{
+    "nr": "170",
+    "name": "ErgoGlide Serenity Chair",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 22,
+    "description": "Experience a new level of comfort and support with the leading-edge office seating solution that redefines your workspace. Designed with the modern professional in mind, this ergonomic masterpiece balances superior functionality with sleek aesthetics. Imagine working long hours without the usual aches and fatigue \u2014 that dream is now a reality with the innovative design of the EGSC.\n\nThe core of this chair's design is its dynamic lumbar support system that adapts to your body's natural curve, ensuring optimal spinal alignment whether you\u2019re tackling emails or diving into intense brainstorming sessions. The breathable mesh back enhances airflow, keeping you cool and focused, while the plush seat cushion, crafted from high-density foam, cradles you in luxurious comfort. With a height-adjustable seat and 360-degree swivel capabilities, this",
+    "images": [
+        "product_170_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this chair for a few weeks now, and I\u2019m kinda torn. There are things I like, but also some annoyances. The design is nice and it looks great in my home office. The cushioning is decent too, feels soft enough for long hours of work.\n\nBut here\u2019s the thing, it doesn't adjust as much as I'd hoped. Sometimes my back hurts after sitting for too long, which is annoying. I thought I would feel more supported. Also, it makes this",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this chair for my home office and it's been... okay. The comfort level is decent, but I expected more considering the price. The cushion is soft enough for short sittings, but I start to feel a bit sore after a few hours. The lumbar support is alright, though it might not fit everyone well.\n\nI do appreciate how easy it was to put together, but the armrests feel a bit flimsy and wobbly. They can get annoying for longer stretches of work",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this chair for a few weeks now, and it\u2019s pretty much okay, but not exactly what I was hoping for. It does look nice and fits well in my office, which I like, but comfort could be better. The cushioning is decent, but after a few hours, I find myself shifting around to find a better spot.\n\nThe armrests are a bit wobbly and sometimes feel off when I rest my arms. I wish they were a little sturdier. The",
+            "language": "English"
+        }
+    ]
+}

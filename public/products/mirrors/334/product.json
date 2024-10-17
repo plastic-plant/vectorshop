@@ -1,0 +1,26 @@
+{
+    "nr": "334",
+    "name": "Reflectopia",
+    "price": "5999",
+    "ranking": 4,
+    "availability": 20,
+    "description": "Transform your space into a realm of elegance and sophistication with our revolutionary reflective masterpiece. This innovative mirror is not just a functional accessory, but a stunning focal point that enhances light, expands your perception of space, and serves as an artful addition to any room. Crafted with high-quality, distortion-free glass, this treasure brings clarity and vibrancy to every reflection, making it an essential for any home.\n\nDesigned with versatility in mind, the streamlined aesthetic of this mirror seamlessly complements both modern and traditional decor themes. Whether hung in your entryway, above a stylish console table, or styled in your bedroom to add depth, its chic frame boasts a minimalist appeal, available in a selection of contemporary finishes that adapt to your personal taste. Choose from sleek black,",
+    "images": [
+        "product_334_01.png",
+        "product_334_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this virtual mirror for a few weeks now, and overall, it's been a pretty solid addition to my daily routine. The reflections are clear, and I love the customizable lighting options\u2014it really helps me see how my makeup looks in different settings. \n\nSetting it up was super easy, and the interface is user-friendly, which is a big plus. However, sometimes the lag can be a bit annoying, especially when I\u2019m in a rush. And while the design looks sleek, I wish",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased a virtual mirror that\u2019s been a game changer in my daily routine. The setup was really simple, and once I got it going, I was blown away by the clarity and the realistic image quality. It really feels like looking into a traditional mirror! The augmented features are cool too: I love being able to try on different looks and see how they\u2019ll actually turn out.\n\nThe customization options allow for a lot of fun experimentation. I\u2019ve been enjoying the lighting settings, which help me",
+            "language": "English"
+        },
+        {
+            "review": "Ich habe mir diesen virtuellen Spiegel gekauft und ich bin ganz zufrieden damit! Die Bildqualit\u00e4t ist wirklich gut, viel besser als ich erwartet hatte. Das Einrichten war einfach, und ich konnte ihn schnell mit meinem Smartphone verbinden. Ein paar coole Funktionen, wie z.B. die M\u00f6glichkeit, Fr\u00fche zu machen, finde ich super praktisch. \n\nAllerdings k\u00f6nnte die Reaktionszeit manchmal etwas schneller sein. Manchmal dauert es ein bisschen, bis er mein Gesicht erkennt. Aber insgesamt ist es ein echt",
+            "language": "German"
+        }
+    ]
+}

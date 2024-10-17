@@ -1,0 +1,25 @@
+{
+    "nr": "568",
+    "name": "Reflective Reverie",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 22,
+    "description": "Transform your space with a touch of elegance, as this exquisite mirror redefines the art of reflection. Crafted with precision, its sleek frame showcases a sophisticated blend of contemporary design and timeless charm. Measuring a perfect 36 inches in diameter, it is ideal for both small nooks and expansive walls, serving as a stunning focal point in any room. Its modern minimalist aesthetic complements a variety of interior styles, making it an effortless addition to your decor.\n\nWhat truly sets this mirror apart is its unique, anti-fog coating, ensuring that your reflections remain crystal clear, even in the steamiest of bathrooms. Imagine stepping out of a warm shower to a perfectly clear view\u2014no more hassles of wiping away foggy surfaces! Plus, the lightweight design means",
+    "images": [
+        "product_568_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve got to say, this mirror kind of missed the mark for me. Look, it looks decent enough, but that\u2019s pretty much where the compliments end. The reflective quality isn't great; I can't tell if it's just weaker light or what, but sometimes it feels like I\u2019m looking through a foggy window. Plus, it has this weird distortion on the edges that makes me look... um, not exactly how I should (I swear I don't look that way in real life!). \n\nAnd",
+            "language": "English"
+        },
+        {
+            "review": "I really had high hopes for this mirror, but honestly, it just doesn\u2019t cut it. The reflective quality is pretty mediocre\u2014definitely not a \u201cwow\u201d moment. I can see myself, sure, but it\u2019s kind of dim and warped in spots. \n\nThe design looks nice, I guess, but the frame feels flimsy. It wobbles a bit when I try to adjust the angle. Plus, there are some annoying fingerprints all the time that won\u2019t come off easily.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this mirror, but honestly, it just didn\u2019t impress me much. The reflective quality isn\u2019t as clear as I expected, and it kind of distorts my face. Also, the touch controls can be really sensitive\u2014it\u2019s more trouble setting things up than it\u2019s worth. I found myself wishing I had gone for something more basic. It's decent but not really a keeper. I feel like there are better options out there at this price point, so I\u2019m a bit disappointed",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "nr": "637",
+    "name": "ReflectraVista",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Transform your space into a realm of elegance and clarity with this state-of-the-art mirror. Designed for the discerning homeowner, this stunning reflective surface is more than just a tool for checking your outfit; it\u2019s a breathtaking accent that amplifies light and depth, creating the illusion of a more spacious and inviting environment. The ultra-sleek frame adds a touch of sophistication while seamlessly blending into any d\u00e9cor style, whether it be contemporary, classic, or eclectic.\n\nEquipped with advanced anti-fog technology, this mirror remains crystal clear even in your steamiest bathroom moments, ensuring a flawless reflection every time. The built-in LED lighting is adjustable, allowing you to customize the ambiance to suit your needs, whether you're preparing for a night out or enjoying a",
+    "images": [
+        "product_637_01.png",
+        "product_637_02.png",
+        "product_637_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love this mirror! The clarity is unmatched\u2014it's like looking into a crystal lake! The lighting options are fantastic; I can adjust it for any time of day, and it makes a huge difference in how I get ready in the morning. The sleek design fits perfectly with my decor and takes up just the right amount of space. I love that it has smart features too; I can customize settings to make my makeup routine a breeze. Honestly, I feel like I have a mini spa right",
+            "language": "English"
+        },
+        {
+            "review": "I recently upgraded my bathroom with this incredible virtual mirror, and I am absolutely in love! The clarity and brightness are phenomenal, making every morning a treat when I get ready. The virtual interface is super user-friendly; I love how I can customize the lighting to suit my mood or the time of day. There\u2019s even a feature that helps me apply makeup with step-by-step guidance, which I honestly never knew I needed!\n\nThe sleek design blends perfectly with my decor, adding a modern touch that impress",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this mirror! From the moment I unboxed it, I could tell it was something special. The sleek design fits perfectly with my home decor, and the high-quality reflection is just amazing. I can't believe how perfect the lighting is\u2014it makes my makeup application a breeze! \n\nIt even has different brightness settings, which is a game changer. I love how I can adjust it for day or night. The voice command feature is something I never knew I needed; it makes",
+            "language": "English"
+        },
+        {
+            "review": "I recently upgraded my mirror game with this incredible virtual household mirror, and I couldn't be happier! From the moment I set it up, I was blown away by the clarity and brightness. It feels like I have a personal stylist with me at all times. The augmented reality features are just brilliant; I can try out different makeup looks and hairstyles without any commitment! \n\nThe touch controls are so intuitive, and the ability to adjust the brightness and lighting settings has totally transformed my getting-ready routine. Plus,",
+            "language": "English"
+        }
+    ]
+}

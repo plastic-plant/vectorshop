@@ -1,0 +1,33 @@
+{
+    "nr": "599",
+    "name": "WaveCraft Quantum Microwave",
+    "price": "29900",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Introducing the epitome of culinary convenience, the ultimate kitchen companion designed for modern households. This advanced microwave is engineered to redefine your cooking experience, combining state-of-the-art technology with sleek aesthetics. Imagine whipping up meals in record time while experiencing exceptional results with every dish. This powerhouse offers an array of innovative features that unleash your culinary creativity, making it perfect for busy professionals, families on the go, or anyone who appreciates the joy of hassle-free cooking.\n\nEquipped with precise temperature control, this dynamic appliance ensures that your food is cooked evenly, eliminating cold spots and preserving the original flavors of your ingredients. The intelligent sensor cooking technology automatically adjusts cooking time based on the dish and portion size, allowing you to enjoy perfectly prepared meals without the guesswork. Plus",
+    "images": [
+        "product_599_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this microwave for a few months now and it\u2019s just okay. It heats stuff up, but I feel like it takes longer than my old one. The design is alright, but kind of bulky for my kitchen. I thought the smart features were cool at first, but honestly, I don\u2019t use them as much as I thought I would. Sometimes it does this weird thing where it just stops heating, and I have to restart it, which is annoying. Overall, it gets",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this microwave for a few months now, and it seems okay but not great. The design looks fancy but it kinda feels more flashy than practical. The controls can be confusing too; sometimes I have to press things like three times just to heat up leftovers. \n\nWhen it comes to cooking, it warms stuff up, just not as evenly as I\u2019d hoped. I still find cold spots in my meals, even when I stir them halfway. It does have some nice features like the",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, this microwave is pretty average. It does heat up food, which is the main job, but sometimes it takes longer to warm things than I expected. I mean, how hard can it be? The digital touchpad can be a bit weird, too. It\u2019s not super responsive all the time\u2014like, I\u2019ll press a button and nothing happens. \n\nDesign-wise, it looks nice on the counter, but that also means it shows fingerprints A LOT. I find myself constantly = wiping",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this microwave for a couple of months now, and I have to say, it\u2019s just okay. The design looks sleek and modern, which I appreciate, but functionality is a bit hit or miss. Sometimes it heats food very unevenly \u2013 I often have cold spots in my leftovers, which is frustrating.\n\nThe controls can be confusing; the buttons feel a little too sensitive, so half the time I\u2019m pressing things by accident. It's not super intuitive, and I find myself referring to",
+            "language": "English"
+        },
+        {
+            "review": "I got this microwave a few weeks ago, and honestly, it\u2019s just okay. It\u2019s fast at heating stuff, which is nice, but a bit noisy? Sometimes feels like it's working harder than it needs to. The controls are a bit confusing at first; I had to read the manual a few times to figure it out. The design looks cool, but it fingerprints really easily. I wasn\u2019t too happy that it doesn't include a grill function, which I kinda expected for the price. Overall",
+            "language": "English"
+        }
+    ]
+}

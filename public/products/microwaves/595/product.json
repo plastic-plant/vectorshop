@@ -1,0 +1,29 @@
+{
+    "nr": "595",
+    "name": "ZapNest Microwave",
+    "price": "8999",
+    "ranking": 1,
+    "availability": 23,
+    "description": "Introducing the ultimate kitchen companion, the ZN WaveMaster, designed to revolutionize the way you cook, reheat, and defrost your meals. This is not just any microwave; it\u2019s your personal culinary assistant that brings convenience and innovation right to your countertop. With its sleek, modern design, the ZN WaveMaster effortlessly blends into any kitchen decor while providing a powerful 1200 watts of cooking capability. Say goodbye to unevenly heated leftovers and hello to perfectly warmed meals every time!\n\nEquipped with cutting-edge sensor technology, the ZN WaveMaster automatically detects moisture levels in your food, adjusting the cooking time based on what you\u2019re warming up. Tired of guessing how long to pop that delicious popcorn? Simply select the dedicated popcorn function",
+    "images": [
+        "product_595_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This microwave is a total disaster. It doesn't heat food right, half the time my leftovers are still cold. The buttons are super unresponsive too. I had to keep pressing them like a hundred times to get it to work. Fuzzy display, and it makes a weird noise that drives me crazy. I got this hoping for an upgrade, but it\u2019s just so frustrating. Wish I never bought it. Avoid this if you can!",
+            "language": "English"
+        },
+        {
+            "review": "I got this microwave and it\u2019s honestly a big mistake. After just a week, it stopped heating food properly. It's like it just gave up. The buttons are super confusing too, not user-friendly at all. I pressed the popcorn button and almost burnt it. What a waste! It also takes too long, and the interior space is smaller than I thought. I wouldn't even recommend this to my worst enemy. Save your money!",
+            "language": "English"
+        },
+        {
+            "review": "This microwave is the worst. It takes so long to heat stuff up, I think my food's actually getting colder. The buttons jam, and good luck trying to cook anything in it\u2014things just come out uneven. I'm pretty sure my old one from college was better than this fancy piece of junk. Looks nice on the outside, but the inside is just a mess. Waste of my money for sure. Should have read the reviews better. Wouldn't recommend to anyone.",
+            "language": "English"
+        },
+        {
+            "review": "This microwave is just plain bad. First of all, it takes forever to heat anything up. I mean I could go cook on the stove and be done faster. The settings are confusing, and it keeps beeping like crazy even when I don\u2019t ask it to. The inside is super small too, can barely fit my plate. The button feels cheap and it's not even functioning half the time. I was really hoping for something good but this was just a huge waste of money. Really disappointing!",
+            "language": "English"
+        }
+    ]
+}

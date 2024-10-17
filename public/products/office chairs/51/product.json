@@ -1,0 +1,36 @@
+{
+    "nr": "51",
+    "name": "ErgoPulse Chair",
+    "price": "8999",
+    "ranking": 3,
+    "availability": 7,
+    "description": "Revolutionize your workspace with the ultimate seating solution that blends cutting-edge ergonomics with chic design. Designed for modern professionals, this exceptional chair boasts a dynamic contoured backrest that adapts to the natural curvature of your spine, ensuring optimal support throughout the day. Say goodbye to discomfort and hello to productivity as you effortlessly transition from task to task, feeling energized and focused.\n\nEquipped with advanced memory foam cushioning, every seat is like a personalized hug, providing unparalleled comfort whether you\u2019re deep in a work project or enjoying a leisurely afternoon of browsing. The mesh fabric promotes airflow, keeping you cool and comfortable during even the most intense work sessions, while the adjustable height and swivel base allow for complete customization to fit your unique space.\n\nEnhancing your environment",
+    "images": [
+        "product_51_01.png",
+        "product_51_02.png",
+        "product_51_03.png",
+        "product_51_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this chair for a few weeks now and honestly, it's okay. It looks nice and the ergonomic design is nice for my back when I\u2019m sitting all day, but I think it could've been better. The cushions are a bit too firm, which makes it hard to sit for long periods. I also noticed it makes some squeaky noises when I shift around, which is kinda annoying.\n\nThe adjustability is decent, but it takes a bit to find the right angle. I also",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this chair and honestly, it\u2019s not bad but not great either. It\u2019s got some decent features like adjustable height and padded seating, which are nice for longer hours at my desk. However, I expected a couple of things to be better for the price point. \n\nThe lumbar support is okay, but it doesn\u2019t really feel like it fits my back right. Sometimes I still feel a bit of discomfort after working for a while. I\u2019ve had better ones that did a more effective",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this chair for a few weeks now. It\u2019s okay, not the worst I\u2019ve had but not the best either. The design looks good and fits nicely in my office. The lumbar support is decent, but I wish it was a bit more adjustable. Sometimes I feel like I need more cushioning, especially during long hours of work. \n\nThe seat is comfortable enough for short periods, but after a while, I start to feel the pressure. The armrests could use some padding",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this chair for my home office, and honestly, it\u2019s just okay. It looks nice, but I expected more comfort given the price. The padding isn\u2019t as plush as I hoped, and after a few hours of sitting, I start feeling the hard surface underneath. The lumbar support does help a bit, but sometimes it feels a little too rigid. \n\nAssembly was pretty straightforward, though I had a couple of screws that didn\u2019t seem to fit quite right. The armrests are",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this chair for a few months now and, honestly, it's just... okay. The design looks nice, but it didn\u2019t feel as comfortable as I expected. The seat is a bit too firm for long hours. I've had some backache after sitting for too long, and the lumbar support isn\u2019t great. It adjusts, but not always to the right height for me.\n\nOn the up side, it does roll pretty smoothly across my floor, and I have to say, it looks",
+            "language": "English"
+        }
+    ]
+}

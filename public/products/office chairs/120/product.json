@@ -1,0 +1,29 @@
+{
+    "nr": "120",
+    "name": "ErgoCrest Throne Chair",
+    "price": "7999",
+    "ranking": 4,
+    "availability": 7,
+    "description": "Elevate your work-from-home experience with the ultimate seat of power! This premium office chair combines elegant design with unmatched comfort, redefining what it means to sit for extended hours. Envelop yourself in lavish cushioning that gently supports your back and promotes healthy posture. The state-of-the-art lumbar support system is not just a feature; it\u2019s your new best friend. Say goodbye to fatigue and discomfort, and hello to increased productivity and creativity!\n\nCrafted with a sleek, modern aesthetic, this chair seamlessly blends into any office decor, from traditional to contemporary. The upholstery features a breathable fabric that ensures you stay cool and comfortable during long meetings and brainstorming sessions. The adjustable height and reclining options allow you to customize your sitting position, making it perfect for quick",
+    "images": [
+        "product_120_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this chair, and I have to say, it\u2019s pretty comfortable overall. The design looks sleek, and it fits well with my office decor. The cushions are nice and plush, so I don\u2019t feel sore after a long day at my desk. The armrests are adjustable, and that helps a lot since I\u2019m often typing for hours.\n\nOne thing I noticed is that the assembly was a little tricky at first, but once I figured it out, I could see why it received",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this chair for a couple of weeks now, and I have to say, it's pretty impressive overall. The cushioning is fantastic\u2014it really helps during long work sessions. I was concerned it might not have enough support, but that\u2019s not the case at all! \n\nThe adjustable features are super helpful; I like being able to customize the height and the lumbar support. However, I feel like the armrests could be a little more sturdy \u2013 they don't feel as solid as I hoped.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this chair for a couple of weeks now, and I have to say, it's pretty good! The design is sleek and fits in my home office nicely. The mesh back provides decent ventilation, which I really appreciate, especially during long work hours. \n\nThe seat is comfortable and has just the right amount of cushioning. It\u2019s great for sitting for hours at a time without feeling like I need to get up every few minutes. The armrests are adjustable too, which is a plus since",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this chair for a little over a month now, and I have to say, it's pretty solid overall. The build quality feels quite robust, and the materials are nice and durable. I do wish the lumbar support was a bit more adjustable for my liking, but it's not a dealbreaker. \n\nThe cushion is comfy enough for long hours, which is great since I'm often working from home. Some days I work long shifts, and this chair definitely helps reduce fatigue. I\u2019ve noticed fewer",
+            "language": "English"
+        }
+    ]
+}

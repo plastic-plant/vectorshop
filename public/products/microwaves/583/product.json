@@ -1,0 +1,21 @@
+{
+    "nr": "583",
+    "name": "ZapFusion Microwave",
+    "price": "8999",
+    "ranking": 3,
+    "availability": 16,
+    "description": "Introducing the ultimate kitchen ally for modern living: a microwave that transforms the mundane into the extraordinary. Picture this innovative powerhouse effortlessly whipping up gourmet-quality meals in minutes while maintaining cutting-edge technology and sleek aesthetics. With its intuitive touch interface and innovative sensor cooking capabilities, every dish comes out perfectly cooked, eliminating any guesswork. Whether it's a local takeout reheated or a family favorite casserole, your culinary goals are within arm's reach.\n\nCrafted for efficiency, this microwave boasts a roomy interior with expandable cooking options, making it ideal for singles and families alike. The dynamic dual-wave cooking system ensures even heat distribution, reducing cold spots and preserving flavors, while the quick defrost feature makes your meal prep lightning fast. And, with a built-in steam function",
+    "images": [
+        "product_583_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this microwave and honestly, it\u2019s a mixed experience. It looks sleek and modern, which is a plus, but I've found it a bit loud when it\u2019s running. Heating up my leftovers is usually quick, but sometimes it doesn\u2019t cook things evenly\u2014I've had a few cold spots that were a little annoying. The controls are straightforward, but I wish it had a few more pre-set options for different foods. It\u2019s handy for daily use, but I was expecting a bit more",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this microwave for a few months now, and honestly, it's kinda hit or miss. The design is nice and sleek, but it takes longer than expected to heat things up, which can be frustrating. Sometimes the buttons don't respond right away too. I\u2019ve had to push a few of them more than once just to get it to start. The express cook option isn't as fast as I thought it would be; it seems super slow compared to my old one. \n\nIt does have some",
+            "language": "English"
+        }
+    ]
+}

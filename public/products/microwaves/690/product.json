@@ -1,0 +1,29 @@
+{
+    "nr": "690",
+    "name": "ZapCuisine Pro",
+    "price": "45000",
+    "ranking": 4,
+    "availability": 21,
+    "description": "Elevate your cooking experience with the latest in microwave technology, designed for those who demand efficiency and style in their kitchens. This innovative appliance redefines convenience, combining cutting-edge features with a sleek design that seamlessly fits in with any d\u00e9cor. Say goodbye to guesswork in meal preparation, as this powerhouse utilizes smart cooking sensors that automatically adjust time and power levels for perfectly heated foods on every occasion. \n\nEmbrace the art of versatile cooking with multiple pre-programmed settings tailored to a variety of dishes. Whether you're defrosting, reheating, or cooking from scratch, the intuitive interface makes it easy to achieve culinary perfection with just a few taps. The exclusive turbo-boost function ensures that even the busiest of schedules won\u2019t thwart your dinner plans, delivering",
+    "images": [
+        "product_690_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this microwave for a few months now, and I have to say, it's pretty impressive! The sleek design fits perfectly in my kitchen, and the digital controls are super intuitive. The microwave heats food evenly, which is a big plus for me. \n\nUsed it for everything from reheating leftovers to making quick snacks. The popcorn button is a lifesaver\u2014so much better than my old one! The only reason I\u2019m not giving it 5 stars is that it can be a bit",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this microwave for a few weeks now, and it\u2019s been pretty good overall. The design is sleek and fits nicely in my kitchen. It heats food quickly, which is a must for my busy schedule. I really like the different settings it has, especially the steam feature for veggies. It does take some getting used to if you're switching from an old model, but once you find your way around the buttons, it's easy to operate.\n\nOne minor drawback is that it can be a",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this microwave for a few weeks now, and overall I'm pretty pleased with it. It heats up food fairly quickly and has a nice sleek design that fits well in my kitchen. The interface is user-friendly, making it easy to choose the right settings. I especially love the sensor cooking feature\u2014it really takes the guesswork out of reheating leftovers.\n\nOne minor thing I\u2019ve noticed is that it can be a bit noisy when in use, but it's not a deal-breaker for me.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this microwave for a couple of months now, and I have to say, it's pretty good overall. It heats food evenly most of the time, which is a big plus. The design is sleek and modern, fitting nicely into my kitchen. I really like the various settings - they make cooking popcorn or defrosting meat super easy.\n\nThe only downsides are the buttons can be a bit tricky to figure out at first, and it takes a little longer to heat things compared to my",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "420",
+    "name": "ReflectraGlow Mirror",
+    "price": "2999",
+    "ranking": 2,
+    "availability": 20,
+    "description": "Transform your daily routine with our innovative reflective companion that redefines elegance and functionality. This exquisite looking glass uses advanced luminescent technology to elevate your space while ensuring you always look your best. Imagine a mirror that offers more than just a reflection; it bathes you in soft, adjustable lighting that enhances every detail of your appearance, making your grooming rituals feel like steps in a luxurious spa experience.\n\nCrafted with a sleek, minimalist design, this remarkable product seamlessly integrates into any decor style. Whether you're looking for a statement piece for your contemporary bathroom or a subtle addition to your traditional vanity, the seamless frame and chic aesthetic will complement your environment beautifully. With easy installation and a lightweight design, you can effortlessly position it wherever you need, transforming your morning",
+    "images": [
+        "product_420_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Je suis un peu d\u00e9\u00e7u par ce miroir. La lumi\u00e8re est vraiment pas assez forte, je vois pas bien pour me maquiller le matin. En plus, le design est pas terrible, c'est assez basique, j'aurais aim\u00e9 quelque chose de plus styl\u00e9. La qualit\u00e9 de l'image est correcte mais rien d'exceptionnel, j'ai d\u00e9j\u00e0 des miroirs qui rendent mieux. Pour le prix, je pense qu'on peut trouver mieux ailleurs. Je ne vais pas le retourner, mais je",
+            "language": "French"
+        },
+        {
+            "review": "I was really excited to try this mirror but honestly, it's a bit lackluster. The lighting is dim, even on the brightest setting, which isn\u2019t ideal for applying makeup or doing my hair. I found myself squinting to see clearly, and that\u2019s just frustrating. \n\nThe design looks nice, I\u2019ll give it that, but it\u2019s very flimsy and wobbles a lot when I touch it. I thought I\u2019d get something sturdy based on the price. Another thing",
+            "language": "English"
+        },
+        {
+            "review": "I was really hopeful when I got this mirror, but it just doesn\u2019t do the job well. The lighting is super uneven, which makes it hard to see what I\u2019m actually doing. Sometimes it\u2019s too bright or not bright enough, and it\u2019s so frustrating! The touch controls are a bit quirky too; they don\u2019t respond half the time, which is really annoying when I\u2019m just trying to adjust things quickly. It looks nice but honestly just feels cheap. I expected more for the price",
+            "language": "English"
+        }
+    ]
+}

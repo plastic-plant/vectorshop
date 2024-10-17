@@ -1,0 +1,29 @@
+{
+    "nr": "234",
+    "name": "ReflectaNova Mirror",
+    "price": "2999",
+    "ranking": 5,
+    "availability": 20,
+    "description": "Elevate your space with a strikingly sophisticated touch that redefines elegance and functionality. This contemporary wonder offers an unobtrusive yet eye-catching design, seamlessly blending into any d\u00e9cor style, from minimalistic to boho-chic. Its stunning reflective surface is tailored to enhance natural light, making rooms feel more spacious and inviting. With a sturdy frame that not only provides stability but also adds a modern edge, this mirror becomes a focal point in your home, sparking admiration and conversation.\n\nCrafted with premium, distortion-free glass technology, this sleek accessory allows you to see yourself as you truly are. The enhanced clarity empowers you to look your best while effortlessly checking your outfit, applying makeup, or pampering yourself during skincare routines. Its convenient size makes",
+    "images": [
+        "product_234_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love this mirror! It's honestly a game changer in my daily routine. The clarity is outstanding, giving a perfect reflection every single time. The built-in lighting is just amazing! It provides this soft glow that really helps me get my makeup just right, without any harsh shadows. Plus, you can adjust the brightness, which is super handy. \n\nThe design is sleek and modern, fitting brilliantly into my bathroom decor. It was so easy to mount, and it feels really sturdy. I use",
+            "language": "English"
+        },
+        {
+            "review": "Estou completamente apaixonada por esse espelho! Desde que coloquei na minha casa, ele se tornou o destaque do meu decor. A ilumina\u00e7\u00e3o \u00e9 perfeita e se ajusta dependendo do hor\u00e1rio do dia, o que faz uma diferen\u00e7a enorme. \n\nAdoro o fato de poder mudar as configura\u00e7\u00f5es de luz \u2013 \u00e9 \u00f3timo para maquiagem ou s\u00f3 para dar uma olhada r\u00e1pida antes de sair. A qualidade de reflex\u00e3o \u00e9 incr\u00edvel, tudo fica t\u00e3o n\u00edtido! O design \u00e9 elegante e moderno, combinei",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I am absolutely in love with this mirror! It really brings a bright and airy feel to my space. The clarity is outstanding; I can see every little detail, which is perfect for my skincare routine. The design is sleek and modern, fitting perfectly with my decor. I especially appreciate the built-in lighting that adjusts easily, making it perfect for any time of day. It lights up my face beautifully without any harsh shadows. Plus, it doesn\u2019t fog up after a hot shower! Super impressed with",
+            "language": "English"
+        },
+        {
+            "review": "I recently upgraded my bathroom with this stunning mirror, and I couldn\u2019t be happier! The clarity is absolutely phenomenal; you can see every detail without distortion. The built-in lighting is a game changer\u2014so bright and even, making putting on makeup or getting ready in the morning a breeze. \n\nI love how sleek and modern it looks on the wall, adding just the right touch of elegance to my space. It's also super easy to clean, which is a huge plus. The touch sensor feature to",
+            "language": "English"
+        }
+    ]
+}

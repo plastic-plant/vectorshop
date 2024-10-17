@@ -1,0 +1,26 @@
+{
+    "nr": "679",
+    "name": "WaveMaster Pro",
+    "price": "49900",
+    "ranking": 2,
+    "availability": 11,
+    "description": "Experience the next level of culinary convenience with this state-of-the-art microwave that transforms mealtime into a seamless experience. Say goodbye to long waits and hello to the ultimate in kitchen technology, where speed meets precision. Equipped with advanced SmartHeat technology, this innovative appliance ensures your dishes are heated evenly, eliminating cold spots and ensuring every bite bursts with flavor. Whether reheating leftovers or preparing a full meal, you\u2019ll appreciate the time saved and the perfectly cooked results every time.\n\nThis cutting-edge microwave boasts a sleek, compact design that fits effortlessly into any kitchen decor while providing a generous cooking capacity. The intuitive touch-screen interface is easy to navigate, allowing you to customize cooking settings for a wide variety of dishes\u2014from instant popcorn to gourmet meals, all at the",
+    "images": [
+        "product_679_01.png",
+        "product_679_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this microwave. Saw the ads and thought it would solve my cooking woes, but it didn\u2019t quite cut it. It works, but it's super noisy, like it\u2019s having a meltdown every time I use it. The buttons are kind of confusing, and the manual wasn\u2019t much help. I sometimes press the wrong thing and end up defrosting instead of reheating. Plus, it takes ages compared to my old one\u2014what\u2019s the point of a \u201cquick\u201d",
+            "language": "English"
+        },
+        {
+            "review": "I had high expectations when I got this microwave, but honestly, it just hasn't cut it for me. The buttons are really hard to press, and sometimes it feels like they don\u2019t respond at all. I find myself having to hit them multiple times. The timer also seems off; I set it for a couple of minutes, but it runs out way too quick.\n\nOn top of that, there's this odd buzzing noise when it's working, which is super annoying. It\u2019s not even that powerful;",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this microwave, but it just doesn\u2019t cut it. It doesn\u2019t heat things evenly at all. I have to keep rotating my food, which is super annoying. Plus, the buttons are confusing - they don\u2019t respond well sometimes, and I find myself tapping them multiple times. The sound it makes when it starts is really loud and kind of startling! It looks nice, but looks don\u2019t matter if it doesn\u2019t work right. Overall, I expected more for the price",
+            "language": "English"
+        }
+    ]
+}

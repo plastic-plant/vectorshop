@@ -1,0 +1,21 @@
+{
+    "nr": "437",
+    "name": "Reflector Nova",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 8,
+    "description": "Elevate your space with a touch of modern elegance with our stunning reflective masterpiece, the R.N. This isn\u2019t just a mirror; it's a statement piece designed to enhance both aesthetics and functionality in any room. Crafted with a sleek, minimalist frame, R.N. seamlessly blends into any decor style, from chic contemporary to classic vintage. Its crystal-clear reflection and distortion-free surface make getting ready a pleasure, while the refined geometric design captures the eye without overwhelming your space.\n\nWhat sets R.N. apart is its innovative, built-in LED lighting. No more struggling with harsh overhead fluorescents or dim corners. With adjustable brightness levels, you can create the perfect ambiance for your morning routine, evening unwind, or anything in between. Whether you need a",
+    "images": [
+        "product_437_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "this mirror is a total let down. i thought it would be cool but it just looks cheap and the reflection is terrible. my face looks all warped and fuzzy. like, how can a mirror mess that up? also, it freaks me out how it glitches sometime. what even is that?? the lights dim and flicker, it\u2019s annoying. i tried to return it, but the customer service was bad too. save your money and skip this one, honestly.",
+            "language": "English"
+        },
+        {
+            "review": "Really disapointed with this mirror. It looks nice but the refletion is super blurry, like i can\u2019t even see my makeup right. Also had some kind of weird flickering thing going on, kinda gives me a headache. The app or whatever to control it is confusing too, I just want a simple mirror, not complicated tech stuff. Overall, not worth it, just stick to normal mirrors.",
+            "language": "English"
+        }
+    ]
+}

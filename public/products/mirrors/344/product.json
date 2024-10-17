@@ -1,0 +1,22 @@
+{
+    "nr": "344",
+    "name": "ReflectAura",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 5,
+    "description": "Unveil a new dimension of elegance and functionality in your home with this stunning mirror that transcends traditional design. Crafted with a sleek, minimalist frame, it brings modern aesthetics to any space, be it an entryway, living room, or bathroom. The crystal-clear reflective surface offers more than just a glimpse of your reflection; it amplifies light, creating an illusion of depth and openness while enhancing the ambiance of your surroundings.\n\nEquipped with innovative smart technology, this mirror not only reflects your image but also seamlessly integrates into your daily routine. The touch-sensitive LED lighting can be adjusted to suit any mood or time of day, providing the perfect light for makeup application, hair styling, or simply enjoying a peaceful moment in your surroundings. Moreover, with built",
+    "images": [
+        "product_344_01.png",
+        "product_344_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this mirror, but honestly, it's just okay. The design is pretty but not as sleek as I expected. The interface can be confusing; I had a hard time figuring out the features and, honestly, they don\u2019t seem that useful. The reflection quality is decent but not mind-blowing. Sometimes, it even lags a bit when switching modes, which is frustrating. I think I might be better off with a regular mirror. Not terrible, but definitely not worth the",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this virtual mirror for a couple of weeks and honestly, it\u2019s kinda disappointing. The reflections aren't as clear as I'd hoped, and the features are a bit glitchy. Sometimes it just doesn't respond when I\u2019m trying to adjust the light settings, which is really frustrating. \n\nThe idea is cool, but it just doesn\u2019t live up to what you expect. I find myself just looking at the regular mirror instead most of the time. Plus, it\u2019s a bit bulky in my small",
+            "language": "English"
+        }
+    ]
+}

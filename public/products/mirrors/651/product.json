@@ -1,0 +1,23 @@
+{
+    "nr": "651",
+    "name": "Reflectique",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 21,
+    "description": "Elevate your space with a mirror that transforms more than just your reflection\u2014it transforms your environment. Crafted with impeccable precision, this stunning piece boasts an elegant design that seamlessly complements any decor style, from modern minimalist to classic chic. Its sleek frame is available in a variety of finishes, allowing you to select the perfect vibe for your home. Whether hung as a statement piece or leaned against the wall for a casual feel, this mirror captures elegance in every facet.\n\nBut it's not just looks that matter; this outstanding reflective masterpiece is designed for functionality as well. The crystal-clear glass ensures a flawless reflection, while the distortion-free surface invites you to admire your best self from any angle. Whether you\u2019re applying your morning makeup, perfecting a hairstyle, or prepping",
+    "images": [
+        "product_651_01.png",
+        "product_651_02.png",
+        "product_651_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I honestly dont get the hype. This mirror is so tiny and it just doesn't reflect properly. I\u2019m constantly fiddling with the angle and it still looks weird. Super cheap feel too, not worth the price at all. Packing was bad when it arrived, and it took forever to get here. I've had better ones for half the price at the store. Wish I could return it but dealing with that mess is more hassle than this mirror is worth. Save your money!!!",
+            "language": "English"
+        },
+        {
+            "review": "I bought this mirror hoping for something nice but man was I disappointed. The glass is super foggy. Hard to see myself clearly. It's really cheap looking too, and the light just stopped working after a week. I can barely use it now. Not worth the money at all, total waste. I expected better quality for what I paid. Would not recommend!",
+            "language": "English"
+        }
+    ]
+}

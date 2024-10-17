@@ -1,0 +1,25 @@
+{
+    "nr": "550",
+    "name": "ZapNook Microwave Oven",
+    "price": "29900",
+    "ranking": 2,
+    "availability": 17,
+    "description": "Introducing the ultimate kitchen companion that transforms your cooking experience into a seamless choreographed dance of flavor and efficiency\u2014the ZN Microwave Oven. Designed with versatility in mind, this compact powerhouse offers a perfect blend of cutting-edge technology and user-friendly features, tailor-made for today\u2019s busy lifestyles. With its sleek, modern design, the ZN effortlessly fits into any kitchen decor while adding a touch of sophistication.\n\nExperience lightning-fast cooking like never before with advanced inverter technology, ensuring consistent heat distribution for expertly warmed meals. Whether you're defrosting frozen goods, reheating leftovers, or whipping up a quick snack, the ZN's intelligent sensors automatically adjust cooking time and power based on the food\u2019s moisture level. Say goodbye to overcooked edges and cold centers;",
+    "images": [
+        "product_550_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was kind of excited to try this microwave after reading some mixed reviews, but honestly, I'm a bit disappointed. It looks nice on the counter and has some decent features, but it definitely doesn't cook evenly. Sometimes my food comes out super hot on one side and frozen on the other. Super frustrating when you're just trying to heat up leftovers. The buttons can be a bit unresponsive too, like, you have to press them several times to get it to start. Safety features are good, I",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this microwave, but it honestly hasn\u2019t lived up to the hype. The design is sleek and modern, but it just feels off when you use it. The buttons are super finicky, and half the time, nothing happens when I press them. It also takes WAY longer to heat food compared to my old one, and is it even me or does it make a weird noise that\u2019s kinda annoying? \n\nI tried to warm up a leftover pizza, and after two cycles",
+            "language": "English"
+        },
+        {
+            "review": "I was honestly expecting a lot more from this microwave. The first few times it worked okay, but then it started acting weird. It doesn\u2019t heat everything evenly, so some parts of my food are burning while other parts are cold. Plus, there\u2019s this annoying beep that just won't stop no matter what I do. It\u2019s designed to look nice, but that doesn\u2019t help when it\u2019s taking forever to cook my meals. I mean, it shouldn\u2019t be this complicated, right? I wouldn't",
+            "language": "English"
+        }
+    ]
+}

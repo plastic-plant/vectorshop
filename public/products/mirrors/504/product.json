@@ -1,0 +1,25 @@
+{
+    "nr": "504",
+    "name": "Reflective Reverie",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 24,
+    "description": "Transform your space into a realm of inspiration and style with our latest mirror masterpiece, the \"Reflector.\" Crafted with care, this mirror is not just a functional piece but a statement of elegance that complements any room. Its sleek, minimalist design harmoniously blends with both contemporary and traditional decor, making it the perfect addition to your home, whether in the hallway, living room, or bedroom.\n\nWhat sets the Reflector apart is its unique, frameless construction, which creates an illusion of a larger space while allowing light to bounce around effortlessly. Enhanced with a specialized coating, this mirror reduces glare, ensuring you enjoy a clear and distortion-free reflection every time you glance its way. With dimensions that make it perfect for both small nooks and grand spaces,",
+    "images": [
+        "product_504_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Comprei um espelho virtual e estou gostando muito! A qualidade da imagem \u00e9 bem n\u00edtida e a ilumina\u00e7\u00e3o parece bem natural. \u00c9 legal que voc\u00ea pode ajustar v\u00e1rias configura\u00e7\u00f5es, como a altura e o brilho, ent\u00e3o sempre consigo achar a melhor posi\u00e7\u00e3o. Al\u00e9m disso, ele tem um efeito de refletir que \u00e9 super bonito. \n\nO \u00fanico ponto que diminui um pouco a nota \u00e9 que \u00e0s vezes demora um pouquinho para conectar ao wi-fi, mas nada grave. No geral",
+            "language": "Portuguese"
+        },
+        {
+            "review": "J'ai r\u00e9cemment achet\u00e9 un miroir innovant, et je dois dire que je suis globalement satisfait. La qualit\u00e9 est vraiment bonne, et la finition \u00e9l\u00e9gante s'int\u00e8gre parfaitement \u00e0 ma d\u00e9co. La fonctionnalit\u00e9 d'\u00e9clairage est un gros plus : il y a diff\u00e9rents r\u00e9glages, ce qui me permet de l'utiliser le matin pour me pr\u00e9parer ou le soir pour des moments plus relaxants.\n\nCependant, je trouve que la taille ouais, pourrait \u00eatre un peu plus grande pour mieux se voir.",
+            "language": "French"
+        },
+        {
+            "review": "I recently upgraded to this smart mirror, and it's been a great addition to my room. The design is sleek and modern, fitting perfectly with my decor. The built-in lighting is adjustable, which I love for different times of day. It's super easy to change the brightness and even has ambient settings for a cozy vibe.\n\nThe reflection is crystal clear, and the touch features work well, making it fun to use. I also appreciate how it can connect to my phone for reminders and music. The only",
+            "language": "English"
+        }
+    ]
+}

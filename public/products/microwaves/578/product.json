@@ -1,0 +1,25 @@
+{
+    "nr": "578",
+    "name": "WaveSavvy Pro",
+    "price": "7999",
+    "ranking": 1,
+    "availability": 11,
+    "description": "Discover the future of cooking with a revolutionary microwave that redefines convenience and culinary excellence. This sleek, innovative appliance not only elevates your kitchen aesthetic but also transforms the way you prepare meals. Featuring state-of-the-art sensor cooking technology, it ensures that everything \u2014 from reheating leftovers to defrosting frozen dinners \u2014 is done to perfection every time. Say goodbye to guesswork; with this microwave, optimal results are just a button away.\n\nEfficiency meets versatility with a spacious interior that accommodates even the largest casseroles, making it your go-to for family gatherings and meal prep. The dual-wave heating system guarantees even cooking and eliminates hot or cold spots, so you can enjoy evenly warmed meals with every use. Pre-programmed settings allow for one-touch cooking",
+    "images": [
+        "product_578_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This microwave is the worst! It doesn\u2019t heat food properly, my leftovers come out cold or just warm in spots. Even tried different settings, but it\u2019s like it doesn\u2019t even work right. Plus, the buttons are hard to press and sometimes unresponsive. I was really hoping for something better, but this was a total waste of money. Havent even had it for long and it already feels like it\u2019s falling apart. Avoid this at all costs. So disappointed!",
+            "language": "English"
+        },
+        {
+            "review": "This microwave is a total waste of money. It can't even heat leftovers properly. I need to run it for twice as long just to warm stuff up. Tried to use the popcorn setting and it burned everything. The buttons are confusing too, hard to read and half the time they don't respond. It makes weird noises like it's about to break. Seriously regret buying this thing, dead in a few months?? Save your cash and go with a better brand!",
+            "language": "English"
+        },
+        {
+            "review": "got this microwave a week ago and it\u2019s been nothing but trouble. so far the buttons get stuck and it takes forever to heat my food. sometimes it just beeps for no reason. the display is hard to read like what even is that?? if i could return it, I would. don\u2019t waste your money on this contraption, im so dissapointed!",
+            "language": "English"
+        }
+    ]
+}

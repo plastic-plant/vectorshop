@@ -1,0 +1,29 @@
+{
+    "nr": "140",
+    "name": "WaveMaster 360",
+    "price": "12000",
+    "ranking": 5,
+    "availability": 14,
+    "description": "Introducing the latest breakthrough in kitchen convenience, the WavePro! Say goodbye to long cooking times and hello to a smarter, more efficient way to prepare meals. This cutting-edge microwave combines high-performance functionality with a sleek, modern design that will elevate any kitchen aesthetic. Cooking, reheating, or defrosting has never been easier or more enjoyable.\n\nEquipped with innovative smart sensor technology, the WavePro automatically detects moisture levels in your food and adjusts cooking times accordingly, ensuring that each dish is cooked to perfection every time. Enjoy a variety of cooking modes\u2014from popcorn to pizza, and everything in between\u2014all at the touch of a button. With its spacious cavity and turntable, it\u2019s designed to accommodate even your largest dishes, making family dinners and meal",
+    "images": [
+        "product_140_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "\u00a1Estoy s\u00faper impresionado con este microondas! La potencia es incre\u00edble, calienta todo de manera uniforme y r\u00e1pida. No puedo creer lo f\u00e1cil que es de usar, tiene una interfaz s\u00faper intuitiva y muchas opciones preprogramadas que facilitan la vida. \n\nMe encanta que tenga un dise\u00f1o moderno que combina perfectamente con mi cocina. Adem\u00e1s, el espacio interior es amplio, capaz de acomodar platos grandes sin problemas. He probado calentar desde palomitas hasta cenas completas y todo queda perfecto.",
+            "language": "Spanish"
+        },
+        {
+            "review": "I absolutely love my new microwave! It's become a game changer in my kitchen. The first thing I noticed was how sleek and modern it looks on my countertop. It fits perfectly with my decor! \n\nThe performance is outstanding\u2014everything heats up evenly and super quickly. Whether I'm reheating leftovers or making a quick snack, it gets the job done without any hassle. Plus, it has a variety of settings that make cooking a breeze. I especially appreciate the popcorn and pizza presets; they work like a",
+            "language": "English"
+        },
+        {
+            "review": "I've been absolutely blown away by this microwave! It's incredibly efficient and heats everything evenly\u2014no more cold spots in my leftovers. I love the sleek design; it fits perfectly in my kitchen and adds a modern touch to the space. The touch panel is easy to use, and I appreciate all the preset functions for things like popcorn and reheating drinks. \n\nWhat really stands out to me is how quiet it is compared to my old one. I can have it running while watching a movie without the annoying",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this amazing microwave, and it has completely changed my kitchen game! The sleek design fits perfectly in my countertop, and it\u2019s super easy to use. The touch controls are super responsive, and I love how quickly it heats my food. \n\nWhat really blew me away is the even cooking feature\u2014no more cold spots in my leftovers! The presets for popcorn and reheat are spot on, making snack time so much more enjoyable. Plus, it\u2019s surprisingly quiet compared to my old microwave",
+            "language": "English"
+        }
+    ]
+}

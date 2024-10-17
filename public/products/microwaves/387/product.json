@@ -1,0 +1,21 @@
+{
+    "nr": "387",
+    "name": "ZapWave Fusion",
+    "price": "29900",
+    "ranking": 5,
+    "availability": 20,
+    "description": "Experience the future of cooking with the ultimate kitchen companion, designed to revolutionize your meal preparation. This innovative microwave oven redefines convenience and efficiency, boasting a sleek, modern design that seamlessly blends into any culinary space. Say goodbye to uneven heating and lengthy cooking times as this state-of-the-art appliance expertly combines advanced technology with user-friendly features to deliver perfectly cooked meals in a fraction of the time.\n\nEquipped with cutting-edge SmartWave technology, this microwave ensures that every dish is heated evenly, preserving flavors and nutrients while eliminating the frustration of cold spots. Its intuitive control panel offers a range of pre-programmed settings for popcorn, frozen dinners, and even baked goods, making it incredibly easy to whip up delicious meals at the touch of a button. With",
+    "images": [
+        "product_387_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I can't believe how much this microwave has transformed my cooking routine! It heats everything so evenly and quickly\u2014no more cold spots in my meals. The sleek design fits perfectly in my kitchen and looks as good as it performs. I love the intuitive controls, making it super easy to operate\u2014even my kids can use it without any help! \n\nThe defrost feature is a game changer. I can go from frozen chicken to ready-to-cook in no time. Plus, the sensor cooking automatically adjusts the",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely love this microwave! It has completely changed my kitchen game. The sleek design fits perfectly with my decor, and it's so lightweight I can move it anywhere I want. The performance is amazing \u2013 it heats up everything evenly and super quickly. I just pop in some leftovers, hit a button, and it's ready to go in no time. \n\nThe different settings are really convenient, and I love that it even has a popcorn button that actually works unlike my old one! Cleanup is a breeze, too",
+            "language": "English"
+        }
+    ]
+}

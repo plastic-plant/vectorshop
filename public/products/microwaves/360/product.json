@@ -1,0 +1,25 @@
+{
+    "nr": "360",
+    "name": "WaveCraft Pro 9000",
+    "price": "8999",
+    "ranking": 1,
+    "availability": 19,
+    "description": "Experience culinary innovation like never before with the latest marvel in kitchen technology, the MW9000. Designed with both modern aesthetics and unmatched functionality, this microwave brings an extra touch of sophistication to your home while elevating your cooking game to new heights. With its sleek stainless steel finish and an intuitive LED touch panel, you\u2019ll be inspired to explore new recipes and effortlessly reheat your favorites with a single tap.\n\nThe MW9000 is engineered to make your life easier, featuring SmartHeat\u2122 technology that ensures every meal is cooked evenly and to perfection. No more cold spots or overcooked edges; this innovative system detects food density andes automatically optimizes cooking time and power\u2014transforming the way you prepare meals in your busy household. Plus, with",
+    "images": [
+        "product_360_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I honestly don\u2019t know what I expected, but this is a total letdown. First, it took forever to heat anything, and I mean FOREVER. I followed the instructions and waited, but everything came out cold. The buttons are super confusing, and the display is hard to read. One minute it says it\u2019s done, and then it keeps going? Who designed this?!? Also, the thing smells like burning plastic every time I use it, no thanks. Overall, big disappointment,",
+            "language": "English"
+        },
+        {
+            "review": "this microwave is a TOTAL disappointment. I\u2019ve had it for a few months and it hardly works! it takes ages to heat anything and sometimes it just shuts off for no reason. I\u2019ve tried to reach customer service but they never respond. honestly, save your money and buy something else. also, the buttons are super confusing and make no sense. why does it beep so much?! not worth the hassle.",
+            "language": "English"
+        },
+        {
+            "review": "i seriously regret buying this microwave. it hardly heats stuff and takes forever to cook anything. sometimes it just shuts off and doesn't even finish the timer. the buttons are super unresponsive!!! so frustrating. and don't even get me started on the noise it makes when it's running. it's loud and sounds like it's falling apart. def not worth the money, save yourself the hassle and get a diff one. only a 1 star rating is too good for this thing. what a waste!",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "545",
+    "name": "HeatWave Fusion Microwave",
+    "price": "9999",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Transform your cooking experience with the pinnacle of culinary innovation - a microwave designed to redefine convenience and flavor. Featuring an elegant and compact design, this cutting-edge appliance seamlessly fits into any kitchen, enhancing both style and functionality. Whether you're a busy professional, a parent on the go, or a culinary enthusiast, this powerhouse offers an unparalleled cooking experience that delivers delectable results in seconds.\n\nWith smart technology at its core, this remarkable kitchen companion boasts precise sensor cooking that automatically adjusts time and power settings based on your meal's moisture levels. No more guesswork or overcooked dinners! Redefine your approach to meal prep with ten preset cooking functions, from steaming vegetables to popping the perfect popcorn, ensuring that every dish is cooked to perfection with minimal effort. The",
+    "images": [
+        "product_545_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this microwave for a few weeks now, and I couldn't be happier! It's powerful, heats up everything evenly, and the fusion technology really makes a difference in how my food tastes. I love the sleek design; it fits perfectly in my kitchen. \n\nThe smart features are a game-changer too! I appreciate the auto-cook settings that take all the guesswork out of cooking different meals. Plus, cleanup is a breeze with the easy-to-clean interior. \n\nFrom reheating leftovers",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love my new microwave! It has completely transformed my kitchen experience. The sleek design fits perfectly with my other appliances, and it\u2019s surprisingly compact yet surprisingly spacious inside. \n\nThe heating options are incredible\u2014there\u2019s a setting for everything! I can easily defrost frozen meals in no time, and reheating leftovers is equally quick and efficient. The different power levels help ensure my food is heated evenly, which is a huge plus. \n\nWhat really impresses me is the smart functionality. I",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve owned this microwave for a few months now, and it has completely transformed my cooking experience! From reheating leftovers to cooking meals from scratch, it's always spot on. The sensor cooking feature is brilliant! It automatically adjusts cooking times and power levels, so I never have to guess. \n\nI love the sleek design; it fits beautifully in my kitchen. The user interface is super easy to use, with clearly marked buttons. Also, the heat distribution is amazing\u2014no cold spots in my food",
+            "language": "English"
+        }
+    ]
+}
