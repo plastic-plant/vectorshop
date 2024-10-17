@@ -1,0 +1,21 @@
+{
+    "nr": "452",
+    "name": "SkyGuard Umbrella",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 16,
+    "description": "Introducing the ultimate shield against the elements\u2014your reliable partner for rain or shine. This premium umbrella boasts a cutting-edge design featuring a robust, wind-resistant frame that can withstand gusts up to 60 mph, ensuring that you stay dry even in the fiercest storms. Say goodbye to flipping inside-out umbrellas; this innovative companion is engineered with reinforced ribs and a double-canopy structure that maximizes stability while maintaining a lightweight feel for effortless portability.\n\nExperience the art of convenience with one-handed, automatic opening and closing functionality. Whether you're juggling groceries or rushing to catch that bus, this umbrella springs into action with just the press of a button. Its generously sized canopy offers ample coverage, providing you and your belongings with a protective haven from sudden downpours",
+    "images": [
+        "product_452_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this umbrella for a few weeks now, and I have mixed feelings about it. On one hand, it looks pretty nice and is lightweight, but on the other hand, it\u2019s not the sturdiest. I got caught in a bit of wind, and I swear, it almost turned inside out. It does the job for light rain, but I wouldn\u2019t trust it in a storm. \n\nThe automatic open feature is nice, but it could be faster. Also,",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this umbrella for a couple of weeks now, and honestly, it\u2019s kind of just okay. It has a cool design and the color is nice, but it doesn\u2019t feel super sturdy. On a windy day, it kinda struggles to keep its shape. I appreciate the compact size when folded, very convenient for carrying in my bag. \n\nAlso, the automatic open feature is a cool idea but sometimes it doesn\u2019t respond right away, which can be annoying if I\u2019m caught in",
+            "language": "English"
+        }
+    ]
+}

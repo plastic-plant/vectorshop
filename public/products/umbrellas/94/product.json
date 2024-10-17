@@ -1,0 +1,24 @@
+{
+    "nr": "94",
+    "name": "SkyGuard Umbrella",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 21,
+    "description": "When the skies open up and the rain starts to pour, you'll be glad to have your trusty Shield up and ready. This isn't just any ordinary umbrella; it's a revolution in rain protection. Crafted with an ultra-durable, wind-resistant frame, this feature ensures that you remain sheltered from the elements, even in the most ferocious storms. Open it up with a single push-button mechanism, and experience the effortless elegance that blends convenience with style.\n\nWhat sets the Shield apart is its all-weather, UV-blocking canopy, designed to keep you protected not only from rain but also the harmful rays of the sun. Made from premium, water-repellent fabric, it dries quickly and resists fading over time, ensuring that it remains as vibrant as the",
+    "images": [
+        "product_94_01.png",
+        "product_94_02.png",
+        "product_94_03.png",
+        "product_94_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this umbrella a month ago, and honestly, it's okay but not great. The design is nice; I like how it looks, but it\u2019s a bit tricky to open sometimes. Got caught in a rainstorm yesterday, and while it kept me somewhat dry, the wind was strong, and I felt like I was fighting with it. It definitely didn\u2019t hold up as well as I thought it would. I also wish it was a little more compact since I carry it in my bag.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this umbrella, but it turned out to be just okay for me. The design is nice, and I appreciate that it\u2019s lightweight, but it's not the sturdiest option out there. During a recent windy day, I was worried it might flip inside out! Also, the handle feels a bit cheap and slippery when wet. It does keep me dry, at least, but sometimes it doesn\u2019t open as smoothly as I hoped. Overall, it does the job but",
+            "language": "English"
+        }
+    ]
+}

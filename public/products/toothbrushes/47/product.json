@@ -1,0 +1,36 @@
+{
+    "nr": "47",
+    "name": "Brillianteeth",
+    "price": "1299",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Elevate your oral care routine with a revolutionary brushing experience that transforms every session into a luxe self-care ritual. Engineered with a unique tri-action design, our premium brush features ultra-soft bristles that caress your gums while effectively sweeping away plaque and bacteria. Say goodbye to harsh brushing and hello to a gentle yet thorough clean that leaves your smile radiant and healthy.\n\nIncorporating cutting-edge sonic technology, this innovative tooth-cleaning tool delivers over 30,000 vibrations per minute, ensuring that even the most hard-to-reach areas are thoroughly cleaned. With multiple intensity settings, you can customize your brush to fit your unique preference, whether you need a gentle touch in the morning or a more invigorating experience after that midday coffee. The two-minute",
+    "images": [
+        "product_47_01.png",
+        "product_47_02.png",
+        "product_47_03.png",
+        "product_47_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this toothbrush for a few weeks now. It\u2019s decent, I guess, but it\u2019s not exactly blowing me away. The vibrations are fine, and it cleans okay, but I expected more for the price. The battery life is okay, but it dies faster than I\u2019d like. The design is nice, sleek and all, but it slips a bit when wet. I mean, it\u2019s doing its job, my teeth feel clean, but it doesn\u2019t feel as special as",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toothbrush for a few weeks now, and while it does the job, I wasn't as wowed as I expected. The vibrations and settings are nice, but I find it a bit bulky to handle comfortably. The battery life seems decent, but charging takes longer than I thought it would. I feel like it cleans well but not 3 times better than my old one. Overall, it\u2019s okay for the price, but I wouldn\u2019t say it\u2019s a must-have.",
+            "language": "English"
+        },
+        {
+            "review": "I got this toothbrush a few weeks ago. It does the job, I guess, but I was expecting a little more. The design is nice, and the colors are pretty, but the brushing Action isn't as powerful as I hoped. Sometimes I feel like I have to go over the same spot multiple times to feel clean. The timer feature is helpful, but I sometimes forget to start it, so it's kinda useless for me. Battery life is okay, but I've had to charge it more often than",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toothbrush for a few weeks now, and honestly, it's just okay. The design is sleek and it feels good in my hand, but I don't think it's doing anything special for my teeth. There are times when I feel like it doesn't remove all the plaque as well as my old manual brush did. The battery life is decent, but I've had to recharge more often than I expected. The different modes are neat, but I usually stick to one because the others seem pointless. Overall",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried this new virtual toothbrush and honestly, it\u2019s just okay. The features are neat, like the different settings and reminders, but I don't think it really did anything special for my teeth. It felt kind of awkward to use, and after a week, I didn't see much improvement in my oral hygiene. The app was a bit glitchy, too, which was frustrating. I appreciate the innovation, but it didn\u2019t quite live up to my expectations. It\u2019s decent if you want something",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "162",
+    "name": "AuraBrush",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 6,
+    "description": "Discover the revolution in dental care with the advanced oral hygiene tool that brings a touch of luxury to your daily routine. This innovative toothbrush features cutting-edge sonic technology, generating up to 40,000 vibrations per minute to gently yet effectively remove plaque and promote healthier gums. With its sleek design and ergonomic handle, you can experience a comfortable grip that allows for effortless brushing, transforming chore into pleasure.\n\nWhat truly sets this remarkable toothbrush apart is its smart pressure sensor, which notifies you when you\u2019re brushing too hard, protecting your enamel while ensuring a thorough clean. Coupled with a built-in timer that encourages the recommended two minutes of brushing, you'll never have to guess whether you're doing enough\u2014this powerful duo takes the guesswork out of your oral hygiene routine",
+    "images": [
+        "product_162_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this smart toothbrush for a few weeks now, and it's definitely a solid addition to my daily routine. The design is sleek and feels good in my hand, plus the battery life is really impressive. I love the way it syncs to my phone - having the feedback on my brushing technique is an extra bonus! \n\nThe app is user-friendly and offers tips that have really improved my brushing habits. Not a huge fan of the intense vibrations at first, but I got used to it quickly",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smart toothbrush for a few weeks now, and I have to say, it's really impressive! The design is sleek, and it fits comfortably in my hand. The multiple brushing modes are a nice touch, allowing me to customize my experience based on how my teeth feel. The app is super helpful too, providing tips on how to improve my brushing technique. I love that it even tracks my brushing habits to ensure I'm doing a good job.\n\nThe only reason I'm not giving it five stars",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toothbrush for a few weeks now, and I'm pretty impressed overall. The design really stands out\u2014it's sleek and feels good in my hand. The bristles are soft enough for a gentle clean but still provide that satisfying feel when brushing.\n\nOne of my favorite features is the built-in timer. It helps me make sure I\u2019m brushing long enough, which honestly is something I struggle with. The different modes are nice too; I can switch to sensitive when needed, making brushing super comfortable",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this new electric toothbrush for a few weeks now, and I have to say it\u2019s pretty impressive! The design is sleek and modern, which looks great in my bathroom. The different modes really cater to my needs depending on whether I want a gentle clean or a more intensive polish after a meal.\n\nWhat I like most is the built-in timer that lets me know when to move on to different sections of my mouth. It keeps me on track, which has helped me improve my brushing",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toothbrush for a few weeks now, and overall, I\u2019m pretty impressed. The design is sleek and modern, fitting nicely in my hand. The different modes are a nice touch \u2013 I especially love the gentle option for my sensitive gums. Each time I brush, my mouth feels super clean, and I notice way less plaque buildup. \n\nThe battery life is also commendable; I don\u2019t have to charge it as often as I expected. One downside is that it\u2019s a bit",
+            "language": "English"
+        }
+    ]
+}

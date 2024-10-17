@@ -1,0 +1,21 @@
+{
+    "nr": "112",
+    "name": "SootheSplash Towels",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 21,
+    "description": "Elevate your everyday routine with the epitome of comfort and elegance embodied in our luxurious bath companion. Designed to embrace you in a cascade of softness, these exceptional towels transform the mere act of drying off into a sumptuous experience. Crafted from premium, ultra-absorbent materials, they capture moisture with unrivaled efficiency, drying you off faster while still providing a gentle caress against your skin.\n\nNot only do these towels excel in functionality, but they also boast a stunning array of chic colors and contemporary designs, making them a delightful addition to any bathroom aesthetic. Their vibrant hues and eye-catching patterns bring a splash of personality to your home, ensuring that they are both practical and pleasing to the eye. Whether you prefer sleek minimalism or a burst of",
+    "images": [
+        "product_112_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought these towels hoping for something special, but honestly, they\u2019re just okay. The feel is nice and they look good hanging in the bathroom, but they\u2019re not super absorbent. It takes a while to get dried off after a shower. Plus, they do take longer than I expected to dry completely. I don\u2019t hate them, but I feel like I can find better options out there. They\u2019re decent for decor, but for actual use? Not impressed. It\u2019s a mixed bag",
+            "language": "English"
+        },
+        {
+            "review": "I got these towels recently, and they're just okay. They look nice at first but don't really dry you off that well. I mean, they hold wetness instead of soaking it up. They're kinda soft but feel a bit flimsy in your hands. I have to use two to get fully dry, which is annoying. I was hoping for more based on the hype. They're not terrible, but I wouldn\u2019t say they\u2019re worth the price either. Just average, really.",
+            "language": "English"
+        }
+    ]
+}

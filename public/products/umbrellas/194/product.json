@@ -1,0 +1,29 @@
+{
+    "nr": "194",
+    "name": "\"CloudCatcher Umbrella\"",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 17,
+    "description": "Embrace the elements with a beautifully designed umbrella that transforms rainy days into an opportunity for style and elegance. Engineered with a canopy that resists wind gusts of up to 60 mph, this umbrella flaunts a stunningly sleek structure made from premium, water-repellent fabric. No more turning inside out in the storm\u2014this everyday companion offers a sturdy frame that will keep you sheltered and protected, allowing you to navigate through the drizzle with poise.\n\nReflecting on both innovation and convenience, this eccentric umbrella features a one-touch automatic open and close mechanism, making it a true favorite for those on the go. Imagine stepping from the safety of your car or a warm caf\u00e9 without fumbling with a cumbersome contraption; simply press a button",
+    "images": [
+        "product_194_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this umbrella hoping it\u2019d be amazing based on the hype, but to be honest, it's just okay. The design is pretty cool, and I love the idea of it catching clouds, but in reality, it feels a bit flimsy. Like, I wouldn't want to whip it out during heavy rain. It does look stylish though, so that\u2019s a plus. \n\nOpening it can be tricky sometimes; I actually had to wrestle with it once or twice. It\u2019s also a little",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try out this umbrella after seeing all the hype, but honestly, it's just okay. It definitely looks cool and has a unique design, but that\u2019s pretty much where the excitement ends. \n\nThe automated opening feature is neat, but it doesn\u2019t always work perfectly; sometimes it jams. And I was hoping it would be super lightweight to carry around, but it feels a bit heavier than what I expected. Don\u2019t get me wrong, it does keep me dry, which is",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this umbrella for a little while, and it's okay, I guess. It looks nice and I like the design, but the durability isn\u2019t great. It feels a bit flimsy when there's a strong wind. I ended up with a few bends in the frame after just a month, which is disappointing. The canopy does open pretty wide, which is nice if it\u2019s pouring. It also dries pretty quick, so that\u2019s a plus. But I expected a bit more considering the",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this umbrella since I've heard mixed things about it. At first glance, it looks pretty sleek and modern, which I appreciate. But after using it a few times, I have to say it's just okay. \n\nThe size is nice and it feels light, but the opening mechanism is a bit finicky. I often struggle to pop it open smoothly, and there have been times when it jammed. Also, I was expecting it to handle wind better, but I've had",
+            "language": "English"
+        }
+    ]
+}

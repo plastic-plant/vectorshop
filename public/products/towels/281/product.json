@@ -1,0 +1,21 @@
+{
+    "nr": "281",
+    "name": "FluffNest Towels",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 25,
+    "description": "Wrap yourself in the ultimate comfort of our luxurious towels, where softness meets absorbency for a spa-like experience right at home. Crafted from an innovative blend of premium cotton and microfibers, these towels boast an irresistibly plush texture that gently caresses your skin. Say goodbye to the days of rough, scratchy fabrics; instead, embrace the cloud-like feel that transforms your daily routines into moments of indulgence.\n\nEngineered with advanced moisture-wicking technology, our towels dry you off in no time, making them perfect for post-shower refreshes, gym sessions, or lounging by the pool. The lightweight design allows for effortless portability, so you can enjoy that velvety touch whether you\u2019re at home, on vacation, or at the gym",
+    "images": [
+        "product_281_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for these towels, but they really didn\u2019t live up to the expectations. They feel soft at first, but sadly they don\u2019t absorb water as well as I thought they would. After a shower, I found myself reaching for more than one just to dry off properly. The colors are nice, but that\u2019s about it. They also take forever to dry after washing, which is super inconvenient. For the price, I expected something much better. Honestly, I don\u2019t think I",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love these towels, but they just didn\u2019t live up to expectations. They feel softer than I thought they would, but after a couple of washes, they started to lose fluffiness and absorbency. I expected them to soak up water better than they do. They kind of just glide over my skin when I try to dry off. It's pretty frustrating since I was looking for something cozy and reliable. Would probably look for other brands next time. Quite the disappointment overall.",
+            "language": "English"
+        }
+    ]
+}

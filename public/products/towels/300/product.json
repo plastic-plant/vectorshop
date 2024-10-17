@@ -1,0 +1,34 @@
+{
+    "nr": "300",
+    "name": "AquaVelvet Towels",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 3,
+    "description": "Experience the luxury of a spa in the comfort of your home with our revolutionary towels, designed to elevate your daily routine. Crafted from an ultra-soft, highly absorbent microfibrous material, these standout textiles are engineered to wrap you in a cloud-like embrace after every shower, swim, or workout. Their lightweight construction ensures they dry quickly, preventing that damp, musty smell of traditional towels, so you can enjoy a fresh, clean feeling every time you reach for one.\n\nWhat sets our towels apart is their superior performance combined with stunning aesthetics. With a vibrant palette of colors to choose from, these towels effortlessly blend style with function. They are fade-resistant and durability-tested to withstand countless washes while maintaining their plushness and brilliant hue. Each towel is",
+    "images": [
+        "product_300_01.png",
+        "product_300_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "Got these towels and honestly, they're the worst I've ever used. They just don\u2019t absorb anything at all!! Tried to dry off after a shower and my skin was still wet. Plus, they feel kinda scratchy, not soft at all. After one wash, they're already fraying and look like they\u2019ve been through a war. Totally disappointed, waste of money, won't be using them again. Definitely wouldn't recommend to anyone!",
+            "language": "English"
+        },
+        {
+            "review": "These towels are just awful. They soak up no water at all and leave me damp every time. The fiber feels cheap and scratchy. They don't dry properly, so you end up with musty smelling towels. Plus, they shed like crazy in the wash! I've tried to give them a chance but really wish I hadn't wasted my money. Definitely do not recommend!",
+            "language": "English"
+        },
+        {
+            "review": "These towels are the worst. They are not absorbent at all. I tried to dry my hands and they just smeared the water. What\u2019s the point? They also feel really rough on my skin, not soft like I expected. After just one wash, they started to fray around the edges. They look horrible now. Seriously regret buying these. Save your money and get something else.",
+            "language": "English"
+        },
+        {
+            "review": "These towels are a total joke. They feel cheap and scratchy. Don\u2019t absorb any water at all, just towel gets wet and that\u2019s it. I tried using them after a shower and it took forever to dry off, like using a plastic bag. Also started to fall apart after a few washes, threads everywhere. Honestly, I don\u2019t see how anyone likes these. Would not recommend, save your money.",
+            "language": "English"
+        },
+        {
+            "review": "These towels are a joke. I bought them thinking they\u2019d be soft and absorbent, but they just feel scratchy and leave lint everywhere. I used them after a shower and it felt like I was drying off with a piece of sandpaper. What\u2019s the point of a towel if it can\u2019t even dry you properly?! Plus, they smell weird after washing them. I tried getting rid of the smell but nothing worked. Do yourself a favor and overskip these. Save your money for something",
+            "language": "English"
+        }
+    ]
+}

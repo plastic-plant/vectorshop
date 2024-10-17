@@ -1,0 +1,21 @@
+{
+    "nr": "212",
+    "name": "AquaShield Umbrella",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 9,
+    "description": "Transform your rainy days into a walk in the park with our innovative shelter designed for every type of weather. Born from the desire to protect you from the elements while enhancing your style, this sleek and modern accessory redefines the art of staying dry. Crafted with cutting-edge waterproof technology and a stunning canopy that resists both wind and rain, you'll be the envy of fellow pedestrians as you unveil a shield that not only looks good but performs exceptionally.\n\nExperience the remarkable fusion of durability and lightweight design, ensuring that your oasis on a dreary day won't weigh you down. The advanced fiberglass ribs provide superior strength, allowing this beauty to withstand gusty winds without flipping inside out. Say goodbye to flimsy umbrellas that buckle under pressure; with our innovation at your side",
+    "images": [
+        "product_212_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "this umbrella is awful. first time using it and it flipped inside out as soon as the wind picked up. like seriously?! what even is the point of having one that cant stand a little breeze? then it won't close properly after that, just get stuck. must be made from cheap materials. even the colors are dull. I'd rather get wet than use this again, total waste of money.",
+            "language": "English"
+        },
+        {
+            "review": "I bought this umbrella hoping for some good protection from the rain but what a letdown! It broke the first time I tried to use it in the wind. The handle feels cheap and wobbly. I thought I was getting a sturdy product, but it's like it was made to fall apart. Plus, it barely covers me when it's open. I'm drenched every time! So disappointed. Would not recommend honestly. Save your money!",
+            "language": "English"
+        }
+    ]
+}

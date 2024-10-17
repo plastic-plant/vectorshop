@@ -1,0 +1,26 @@
+{
+    "nr": "318",
+    "name": "SparkleBrush 360",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 10,
+    "description": "Step into a new era of dental care with the revolutionary teeth-cleaning companion that\u2019s ready to transform your daily routine. The SmartBrush Pro is not your ordinary toothbrush; this innovative device harmonizes advanced technology with stunning design to ensure that every brush is not only effective but enjoyable. Featuring a sleek, ergonomic handle available in a palette of vibrant colors, your daily oral hygiene will never look or feel so good.\n\nEquipped with a unique 360-degree brushing technology, the SmartBrush Pro adapts to the contours of your mouth, guaranteeing that every surface of your teeth receives the attention it deserves. No more missed spots or tedious brushing techniques! With its ultra-soft, antibacterial bristles, this toothbrush is gentle on gums while tackling plaque and promoting a healthier",
+    "images": [
+        "product_318_01.png",
+        "product_318_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this toothbrush but, honestly, it just didn\u2019t wow me. The design is kind of cool, but the bristles are too stiff. It felt more like poking my gums than cleaning my teeth. The battery life seems okay, but it takes forever to charge. Also, the settings are confusing; I can't figure out what the shortcuts really do, and I have to guess each time. Not impressed overall, wouldn\u2019t recommend it.",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this toothbrush, but honestly, it didn't live up to the hype. The design looks nice, but when I started using it, I found the bristles too harsh. I thought it would give me that fresh feeling, but I was left with some irritation instead. The smart features sounded great in the advertising, but they don't work quite as smoothly as promised. It\u2019s a bit noisy too, which isn\u2019t ideal for early morning brushes. The battery life isn\u2019t what I",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this toothbrush, but honestly, it just didn\u2019t live up to my expectations. While it has some cool features that caught my eye, the performance is pretty underwhelming. The bristles are too soft, and I feel like I\u2019m just pushing the dirt around my teeth instead of actually cleaning them. The smart technology just isn\u2019t intuitive; I spent more time trying to figure out which settings to use than actually brushing. The battery life is mediocre too. I mean,",
+            "language": "English"
+        }
+    ]
+}

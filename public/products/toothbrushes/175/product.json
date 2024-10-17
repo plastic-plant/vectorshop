@@ -1,0 +1,25 @@
+{
+    "nr": "175",
+    "name": "BrushBreeze Deluxe",
+    "price": "1999",
+    "ranking": 3,
+    "availability": 10,
+    "description": "Transform your daily oral care routine with the revolutionary toothbrush that combines cutting-edge technology and sleek design\u2014perfectly crafted for those who believe their dental hygiene deserves a touch of luxury. With its state-of-the-art gentlest bristle technology, each stroke feels effortless, providing a soothing yet effective clean that removes plaque and sharpens your smile without causing discomfort. Say goodbye to ordinary dental care; it's time to elevate your brushing experience to new heights.\n\nEquipped with advanced features, this toothbrush offers customizable modes tailored to your unique needs\u2014whether you prefer a gentle cleanse, a deep clean for stubborn spots, or even a refreshing gum massage. The smart timer ensures you brush for the optimal two minutes, while the pressure sensor protects your enamel from excess force. And",
+    "images": [
+        "product_175_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently tried this new toothbrush, and it\u2019s just okay. The design looks nice and it has some cool features that I liked at first. The vibrations are strong and it gets my teeth pretty clean. But honestly, it feels a bit bulky in my hand, which makes it awkward to use sometimes. The battery life is decent, but I expected a bit more for the price.\n\nI\u2019ve had better results with simpler brushes, and I don't find the extra settings that useful. Sometimes I think less",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toothbrush for a couple of weeks now, and it's good but not great. It has some nice features like the timer and the multiple settings, but honestly, it feels a bit bulky in my hand. The bristles are softer than I expected, which might be good for some, but I prefer a firmer brush. It does a decent job of cleaning, but it hasn\u2019t wowed me like I hoped it would. I've had better brushes in the past. The battery life",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this toothbrush for a couple of weeks now. Honestly, it\u2019s okay but doesn\u2019t blow my mind. The features are decent, like the different modes, but they don\u2019t feel that different to me. The battery life is average, and the brush head is a little too hard for my gums, so I feel like I have to be careful not to press too hard. Cleaning seems fine, but I\u2019ve had electric brushes before that just felt better. Overall, it\u2019s better",
+            "language": "English"
+        }
+    ]
+}

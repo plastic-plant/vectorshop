@@ -1,0 +1,29 @@
+{
+    "nr": "600",
+    "name": "AeroShield Umbrella",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 11,
+    "description": "Meet your new rainy-day companion, the ultimate shield against the elements! This cutting-edge umbrella not only boasts a stylish design but is engineered with advanced wind-resistant technology that allows it to withstand even the fiercest storms. With a lightweight yet durable frame crafted from high-quality materials, it offers maximum portability without sacrificing strength. Say goodbye to those pesky days of turning umbrellas inside out or being left drenched on your daily commute.\n\nOne of the standout features is its innovative canopy design, which is treated with a hydrophobic coating to repel water and dry quickly. Gone are the days of wringing out your umbrella after a downpour. In just a few shakes, it\u2019s ready to stowaway in your bag or car without leaving a mess behind. Convenient",
+    "images": [
+        "product_600_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this umbrella for a few weeks now, and it's really impressive! The wind resistance is on point; I\u2019ve walked through some pretty strong gusts and it hasn\u2019t flipped inside out once. It opens and closes without any weird jams or issues, which is a relief. \n\nThe design is sleek and it feels sturdy in my hands. Also, I love the size\u2014it provides great coverage without being super heavy to carry around. The handle is comfortable to hold too, which is a big",
+            "language": "English"
+        },
+        {
+            "review": "I recently got an umbrella that I have to say is pretty impressive! It opens easily with just a button, which is super convenient when you\u2019re caught in a sudden downpour. The fabric feels really sturdy, and I love that it\u2019s wind-resistant\u2014no more flipping inside out during gusty weather. The handle is comfortable to grip, and I found it light enough to carry around all day without it being a hassle.\n\nMy only minor complaint is the color options could be more exciting; they are",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this umbrella, and I have to say, it's pretty great overall! The automatic open feature is really handy, especially when you're juggling bags and trying to stay dry. The material feels really sturdy, and despite some windy days, it held up pretty well. \n\nThe compact size is perfect for slipping into my bag, but when open, it gives nice coverage. The handle has a comfortable grip which is a nice touch as well. \n\nThe only reason I'm giving it 4 stars instead",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this cool umbrella, and overall, I\u2019m pretty happy with it! The moment I took it out of the packaging, I could tell it was well-made. The fabric feels durable and the frame is sturdy. I\u2019ve used it on a couple of rainy days and it withstood some decent wind too \u2013 no turning inside out! \n\nThe grip is comfortable, which makes it easy to hold, even when it\u2019s wet. I really like the automatic open and close feature",
+            "language": "English"
+        }
+    ]
+}

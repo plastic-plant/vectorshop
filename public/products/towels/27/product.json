@@ -1,0 +1,28 @@
+{
+    "nr": "27",
+    "name": "AquaVelvet Luxe Towels",
+    "price": "1499",
+    "ranking": 4,
+    "availability": 10,
+    "description": "Immerse yourself in a world of unparalleled softness and absorbency with our plush ensemble of bath essentials, designed to elevate your daily routine. Crafted from the finest microcotton fibers, these luxurious linens promise a comforting embrace as they gently caress your skin. Whether you're stepping out of a steamy shower or lounging by the pool, our ultra-soft towels provide a velvety touch that transforms the mundane into the magnificent.\n\nExperience the unrivaled drying potential of our ingeniously engineered fabric, expertly designed to absorb moisture five times faster than traditional towels. Say goodbye to dampness and hello to a quick-drying solution, perfect for busy lifestyles. The vibrant, fade-resistant colors retain their brilliance even after countless washes, ensuring your collection remains as stunning as the",
+    "images": [
+        "product_27_01.png",
+        "product_27_02.png",
+        "product_27_03.png",
+        "product_27_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently bought these towels, and overall, I\u2019m pretty happy with my decision. The moment I unwrapped them, I was impressed by how soft they felt\u2014definitely a step up from my old set. They absorb water really well, which is a huge plus after a shower. I also noticed that they dry quickly, so I haven\u2019t had any issues with musty smells.\n\nOne thing I wasn\u2019t expecting was the vibrant colors. I went for the navy blue, and it looks stunning",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on these towels, and they are quite nice! The softness is really impressive; they feel plush against the skin. Besides that, they absorb water really well. I love how they don\u2019t leave lint all over the place like some other towels I've tried. \n\nThey dry fairly quickly too, which is a bonus. The colors are beautiful and they don\u2019t fade after washing, which is a real plus for me. On the downside, I wish they were a bit thicker,",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased these towels and I've been pretty happy with my decision. They have a great feel, very soft and plush against my skin. Drying off after a shower feels really nice, and they absorb water so well! The colors are stylish and have held up well after a few washes, no fading at all. \n\nMy only small issue is that they can take a bit longer to dry if you throw them in the dryer, though they are quicker to air dry. Still, overall, they",
+            "language": "English"
+        }
+    ]
+}

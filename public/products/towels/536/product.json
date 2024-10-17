@@ -1,0 +1,25 @@
+{
+    "nr": "536",
+    "name": "AquaCloud Towels",
+    "price": "1499",
+    "ranking": 1,
+    "availability": 21,
+    "description": "Experience ultimate comfort and luxury with our revolutionary drying solution that feels like a gentle caress against your skin. Infused with innovative moisture-wicking technology, these towels absorb water fast, leaving you feeling dry and refreshed in seconds. Crafted from ultra-soft, sustainably sourced fibers, they transform every post-bath moment into a spa-like retreat, enveloping you in a plush embrace that lingers long after use.\n\nDesigned for both style and practicality, our towels showcase a chic, modern aesthetic with eye-catching colors that effortlessly elevate any bathroom decor. Their lightweight yet durable composition means they withstand daily wear and tear while remaining soft and vibrant wash after wash. The quick-drying feature prevents musty odors and ensures your towels are always ready when you need them, making",
+    "images": [
+        "product_536_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "these towels are the worst! they don\u2019t absorb anything at all. feel like using a damp rag. after a few washes they look all frayed and worn out. so disappointed! total waste of money. can\u2019t believe the hype, just avoid them!",
+            "language": "English"
+        },
+        {
+            "review": "These towels are the worst. They don\u2019t absorb anything and just feel like wet paper when you use them. After one wash they are falling apart, lint everywhere! Way too thin to beany good. I was expecting soft and fluffy, but got rough and scratchy. So disapointing. Honestly, I wouldn't wipe my dog with these. Total waste of money. Never again.",
+            "language": "English"
+        },
+        {
+            "review": "These towels are a total letdown. I thought they\u2019d be soft and absorbent but they just don\u2019t work. They feel rough on my skin like sandpaper! It takes ages to dry off and they still smell weird after washing. I don\u2019t get what all the hype is about. I regret buying them. Definitely not worth the money. Save yourself the trouble and look for something better!",
+            "language": "English"
+        }
+    ]
+}

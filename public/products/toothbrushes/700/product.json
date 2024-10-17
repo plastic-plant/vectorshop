@@ -1,0 +1,29 @@
+{
+    "nr": "700",
+    "name": "BrillianceBrush",
+    "price": "299",
+    "ranking": 1,
+    "availability": 15,
+    "description": "Introducing the ultimate revolution in dental care: the innovative smart toothbrush, lovingly referred to as \"The Brush\". Elevate your daily dental routine with cutting-edge technology designed for a brighter, healthier smile. Engineered with adaptive pressure sensors and sonic vibrations, The Brush delivers a superior clean while protecting your gums from damage. Say goodbye to the guesswork of brushing; with its built-in smart timer, The Brush ensures you brush for the optimal two minutes, promoting thorough cleaning for every quadrant of your mouth.\n\nEquipped with a stylish, ergonomic handle and a variety of interchangeable brush heads, The Brush provides a personalized experience tailored to your specific needs. Whether you're after a gentle clean, deep plaque removal, or enhanced whitening, there's a brush head designed just for you",
+    "images": [
+        "product_700_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really excited to try this toothbrush because of all the hype, but what a letdown! It doesn't clean my teeth well at all, feels flimsy, and the bristles are way too soft. It barely vibrates and doesn\u2019t reach the back of my mouth. Battery life is terrible, I have to charge it all the time! Disappointed and it's just not worth the money. Would not recommend. Definitely won't be using it anymore. Save your cash!",
+            "language": "English"
+        },
+        {
+            "review": "I really don\u2019t get the hype about this toothbrush. I've used it for a few weeks and my teeth feel like I just wiped them with a wet napkin. It doesn't clean well at all! The battery life is terrible, had to charge it after a week and it didn\u2019t even last that long. The design is... well, weird with weird buttons. Can\u2019t even tell when it\u2019s on half the time. I ended up going back to my old one, way better. Save your",
+            "language": "English"
+        },
+        {
+            "review": "I really didn't like this toothbrush at all. It hardly vibrates and the bristles feel cheap. My teeth don't feel clean after using it. The battery died super fast, had to recharge it all the time. Also, the brush head is too big and makes it hard to get to the back teeth. Honestly, I thought it would be great but it just doesn\u2019t work for me. Save your money and look for something else.",
+            "language": "English"
+        },
+        {
+            "review": "Worst toothbrush ever!! Didn\u2019t even do the job. Bristles too stiff, hurt my gums. Battery died so fast I hardly got to use it. Plus wasn\u2019t even any good at kinda getting to those hard spots. It feels cheap and the app barely works. I just wanted to get my teeth nice and clean, but this was just a waste of money. Save your cash and get one from the store instead. Total letdown!!",
+            "language": "English"
+        }
+    ]
+}

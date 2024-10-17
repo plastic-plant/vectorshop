@@ -1,0 +1,22 @@
+{
+    "nr": "332",
+    "name": "AquaLuxe Wraps",
+    "price": "1999",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Discover the ultimate in comfort and sophistication with our premier towel collection, designed to elevate your everyday bathing experience into a luxurious retreat. Crafted from the finest materials, our lightweight yet incredibly absorbent towels wrap you in a cocoon of coziness, ensuring you feel pampered and refreshed every time you step out of the shower. Say goodbye to the discomfort of damp, heavy towels\u2014these are engineered for superior absorbency that dries quickly, so you always enjoy a clean, dry embrace.\n\nFeatures like an ultra-soft texture and stylish designs make them a standout addition to your bathroom. Available in an array of chic colors and patterns, these towels can complement any decor style, from modern minimalist to rustic charm. Plus, their extra-large dimensions provide ample coverage, giving",
+    "images": [
+        "product_332_01.png",
+        "product_332_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got these wraps hoping for something special, but I'm a bit torn. They're soft enough and look nice, but they don\u2019t absorb as much water as I expected. After getting out of the shower, I find myself needing to use two or even three just to feel dry. The fabric feels kinda delicate too, not sure how long they'll hold up with regular use. \n\nThey come in some pretty colors and I love that, but I just wish they were a bit more practical. For the price",
+            "language": "English"
+        },
+        {
+            "review": "He probado estas toallas y debo decir que son un poco decepcionantes para el precio. Al principio se ven bien, pero despu\u00e9s de algunos lavados, ya no son tan suaves. Me gustar\u00eda que absorbieran m\u00e1s agua, ya que siento que a veces no secan bien la piel. Adem\u00e1s, el tama\u00f1o es un poco peque\u00f1o para que te sientas c\u00f3modo. No son las peores toallas que he usado, pero definitivamente no esperas lo que pagas. Podr\u00edan mejorar en",
+            "language": "Spanish"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "672",
+    "name": "SparkleWave Toothbrush",
+    "price": "1999",
+    "ranking": 5,
+    "availability": 23,
+    "description": "Transform your daily oral care routine with our innovative dental hygiene marvel, the S-Wave. This revolutionary tool combines advanced technology with an ergonomic design to deliver an unparalleled brushing experience that leaves your mouth feeling fresher and cleaner than ever before. Say goodbye to conventional toothbrushes that fall flat and welcome the future of oral health into your home!\n\nThe S-Wave features ultra-soft, multi-density bristles that adapt to the contours of your teeth, ensuring a thorough clean while being gentle on your gums. Paired with an efficient pulsating action that reaches even the most stubborn plaque hidden in tight spaces, this toothbrush provides a spa-like treatment right in your bathroom. Enjoy the confidence of a brighter smile as the advanced bristle design gently polishes your teeth,",
+    "images": [
+        "product_672_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently upgraded my dental care routine with this fantastic toothbrush, and I am absolutely in love with it! From the moment I took it out of the box, I was impressed by its sleek design and vibrant colors. It feels comfortable to hold in my hand, and the lightweight construction makes brushing easy and fun.\n\nThe features are amazing! The different modes allow me to customize my brushing experience, so I can switch between gentle cleaning and deeper plaque removal. My favorite part is the built-in timer that gently",
+            "language": "English"
+        },
+        {
+            "review": "I can't say enough good things about my new toothbrush! From the moment I started using it, I noticed a huge difference in how fresh my mouth feels. The bristles are super soft, but they do their job brilliantly \u2013 no more harsh scrubbing. Plus, the built-in timer helps me stick to those two minutes, which is so helpful. \n\nThe different modes for sensitivity and whitening are a game changer! My teeth have never felt cleaner. It's also great that it has a long battery life",
+            "language": "English"
+        },
+        {
+            "review": "I recently started using this innovative toothbrush, and I can confidently say it has transformed my daily routine! From the moment I picked it up, I was impressed by how sleek and ergonomic it feels in my hand. The brushing experience is simply delightful\u2014gentle yet effective, leaving my mouth feeling fresh and clean every single time.\n\nThe built-in timer feature encourages me to brush for the right amount of time, which has really improved my oral hygiene game. And the pressure sensor is a game-changer\u2014it",
+            "language": "English"
+        },
+        {
+            "review": "I can't say enough about how amazing this toothbrush is! From the moment I picked it up, I could tell it was designed with care. The ergonomic handle fits perfectly in my hand, and the bristles are so gentle yet effective. My mouth has never felt this clean after brushing! \n\nThe different modes are a game changer too\u2014my favorite is the sensitive option. It takes really good care of my gums while still ridding my teeth of all that pesky plaque! The built-in timer encourages me",
+            "language": "English"
+        }
+    ]
+}

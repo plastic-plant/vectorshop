@@ -1,0 +1,29 @@
+{
+    "nr": "114",
+    "name": "SkyGuard Umbrella",
+    "price": "1999",
+    "ranking": 4,
+    "availability": 3,
+    "description": "Introducing the ultimate protection from the elements\u2014the innovative ShieldMaster! Designed to combat not only rain but also fierce winds and harsh sunlight, this exceptional umbrella transcends the ordinary, elevating your outdoor experience to new heights. With its cutting-edge technology and stylish design, you'll never dread a rainy day again.\n\nCrafted with ultra-durable, lightweight materials, the ShieldMaster boasts a reinforced frame that can withstand gusts of up to 60 mph, ensuring you stay dry and composed even in the most challenging weather. Its innovative water-repellent canopy features the latest in nanotechnology, allowing raindrops to bead up and roll right off, keeping you completely dry. Plus, thanks to its compact folding mechanism, this umbrella easily fits into your bag,",
+    "images": [
+        "product_114_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this innovative umbrella, and I have to say, it\u2019s pretty impressive! The design is sleek and modern, making it a great addition to my wardrobe. The fabric is durable yet lightweight, and I love that it has a wind-resistant feature. I\u2019ve tested it on some mildly windy days, and it stood up surprisingly well.\n\nOpening and closing it is super easy, and the handle feels comfortable even after long use. The added automatic open feature is a real game changer",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this umbrella, and I have to say, I'm pretty impressed with it. It's lightweight but strong, which is a must for windy days. The canopy opens up nice and wide, keeping me dry even during the craziest rain showers. The design is sleek, and I like how the handle feels in my hand\u2014grippy and comfortable. \n\nOne small downside is that when I flipped it inside out, it took a bit of fiddling to close back up, but that's manageable",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this umbrella and overall, I\u2019m pretty happy with it! The design is sleek and it feels quite sturdy compared to other umbrellas I\u2019ve owned. It opens and closes smoothly, which is a big plus when you're caught in suddenly bad weather. \n\nOne thing I really love is that it\u2019s lightweight\u2014perfect for carrying around all day. The handle has a nice grip, so it doesn\u2019t slip out of my hands. \n\nThe only reason I didn\u2019t give it five stars is that",
+            "language": "English"
+        },
+        {
+            "review": "Ich habe diesen Regenschirm jetzt seit ein paar Wochen und muss sagen, dass ich ziemlich zufrieden bin. Er ist leicht und l\u00e4sst sich schnell aufspannen, auch bei windigem Wetter. Die Stabilit\u00e4t hat mich echt \u00fcberrascht, denn bisher hat er mir noch nie einen Stich durch den Wind gegeben, was ich bei anderen Regenschirmen oft erlebt habe. Die Farbe und das Design sind sehr ansprechend, und ich bekomme oft Komplimente dazu. \n\nEin kleines Manko gibt es: Der",
+            "language": "German"
+        }
+    ]
+}

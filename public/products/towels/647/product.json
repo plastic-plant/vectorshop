@@ -1,0 +1,23 @@
+{
+    "nr": "647",
+    "name": "CloudSoft Luxe Towels",
+    "price": "2999",
+    "ranking": 2,
+    "availability": 1,
+    "description": "Wrap yourself in a realm of unparalleled comfort with our premium plush towels, lovingly crafted for those who seek the ultimate in bath-time luxury. Each towel\u2019s ultra-soft texture envelops your skin like a gentle cloud, making post-bath routines feel like a spa indulgence right at home. Say goodbye to the harsh, scratchy towels of yesteryears and say hello to comfort that caresses your skin with every use.\n\nEngineered with an advanced moisture-wicking technology, these towels absorb water effortlessly, drying you off in record time. The quick-drying properties not only enhance your experience but also keep your towels fresher for longer, reducing the chances of mildew and musty odors. Designed for durability, they hold their vibrant colors and plush feel",
+    "images": [
+        "product_647_01.png",
+        "product_647_02.png",
+        "product_647_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like these towels, but honestly, they're just okay. Sure, they're soft at first, but after a few washes, the fluffiness disappears. They also take forever to dry, and I\u2019ve noticed that they don\u2019t absorb water very well. It\u2019s like they\u2019re just spreading it around. I thought they would be more luxurious, but I wouldn\u2019t say they live up to that. I\u2019ve had better towels for a lot less money. Overall, not impressed, and I",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these towels based on the hype, but honestly, they just don\u2019t live up to it. The feel is nice at first, but after a few washes, they\u2019re practically the same as cheap ones. I expected them to be more absorbent, but I still find myself struggling to get dry without using several. And don't even get me started on the lint\u2014every time I use them, it feels like I'm shedding! Look, they look great, but they\u2019re not",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nr": "103",
+    "name": "AetherShield Umbrella",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 8,
+    "description": "Introducing the ultimate shield against the elements, a cutting-edge umbrella designed to elevate your rainy day experience. With its aerodynamic structure and lightweight carbon-fiber frame, this umbrella is not just about protection from the rain; it represents a seamless blend of style and durability. Say goodbye to flimsy, easily-breakable options and embrace a canopy that combines high-performance engineering with chic design, ensuring that you turn heads while staying dry.\n\nCrafted with a revolutionary water-repellent fabric, the canopy effortlessly sheds water, drying almost instantly after use. You'll love the way raindrops bead and roll off, allowing you to put it away without leaving a puddle in your living space or trunk. Its spacious design offers generous coverage for you and a friend, so",
+    "images": [
+        "product_103_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Honestly, I expected better. I got this umbrella hoping it would stand up to the wind and rain, but it flopped pretty hard. The design looks nice, and I thought the material felt sturdy at first. But when the rain started, it struggled to stay intact. The handle is also cheap and feels like it could break any minute. Plus, it\u2019s kinda heavy for what it is. Not the worst thing I\u2019ve owned, but definitely not worth the hype. Just okay in my books",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this umbrella, but it just didn't deliver. First off, it's really flimsy. The frame felt weak, and on a mildly windy day, it was practically turning inside out. The design is kind of cool, but it doesn't really matter when the function isn't there. The grip is uncomfortable too; I felt like I'd have include it to hold onto it formerills which was really annoying in heavy rain. I wasn\u2019t expecting the moon but something that holds up better would be",
+            "language": "English"
+        }
+    ]
+}

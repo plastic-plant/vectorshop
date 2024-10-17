@@ -1,0 +1,33 @@
+{
+    "nr": "201",
+    "name": "AquaEmbrace Towels",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 19,
+    "description": "Wrap yourself in luxury with these extraordinary towels that redefine the essence of comfort and style. Crafted from an ultra-soft blend of premium cotton and advanced microfiber, they promise to envelop you in gentle warmth and unparalleled absorbency. Perfect for after a refreshing shower, a soothing bath, or a day at the beach, these versatile companions elevate your self-care routine while ensuring you dry off quickly and effectively.\n\nFeaturing a chic and elegant design, these towels are available in a stunning array of colors that will beautifully complement any bathroom decor. Beyond their aesthetic appeal, they boast a revolutionary technology that resists fading and maintains their plush texture through countless washes. With reinforced hems and meticulous stitching, they are not only a treat for the senses but also incredibly durable, ensuring they stay",
+    "images": [
+        "product_201_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using these towels for a couple of weeks now, and I have to say, I'm quite impressed! The softness is just right\u2014definitely much nicer than my old towels. They absorb water well, which is what you need from towels, right? \n\nThey also dry relatively quickly, so I don\u2019t have to worry about musty smells. I do wish they came in a few more colors, but that\u2019s a minor detail. Overall, I think I made a good choice. Can't",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these towels, and overall they\u2019ve been pretty good! The softness on my skin is a definite win, and they dry quickly, which is super helpful. I\u2019ve washed them a few times already, and they maintain their plush feel without any shedding, which I was worried about.\n\nHowever, they could be a bit more absorbent. Sometimes, it seems like I\u2019m drying off but still a bit damp after using them. They also take up quite a bit of space when folded,",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these towels for a few weeks now and they definitely deliver. The absorbency is impressive\u2014just a quick pat and they soak up water like a sponge. They\u2019re also really soft, which is a nice touch after a shower. I love how quick they dry too; I\u2019ve had issues before with towels staying damp and getting that musty smell, but these don\u2019t. \n\nThe only downside is that after a few washes, I noticed they lost a little fluffiness, but",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these towels, and overall, I think they\u2019re pretty great! The softness is really impressive; it feels like wrapping yourself in a gentle hug after a shower. They\u2019re super absorbent too, quickly drying my skin without leaving any wet spots. \n\nThe design is sleek, and they come in a nice range of colors that match nicely with my bathroom. My only minor issue is that they take a bit longer to dry after washing compared to my old towels, which is why I didn't",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these towels for a few weeks now, and they have been a solid addition to my bathroom. The material feels super soft against the skin, and they got great absorbency\u2014definitely a plus after a shower! I really appreciate how quickly they dry too; no more musty towel smell. \n\nThe colors are vibrant and haven\u2019t faded in the wash yet, which is impressive. My only minor complaint would be that they could be a little thicker, but they still perform well overall",
+            "language": "English"
+        }
+    ]
+}

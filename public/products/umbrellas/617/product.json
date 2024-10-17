@@ -1,0 +1,21 @@
+{
+    "nr": "617",
+    "name": "SkyGuard Umbrella",
+    "price": "1999",
+    "ranking": 3,
+    "availability": 9,
+    "description": "Say goodbye to rainy days ruining your plans with a game-changing solution that combines elegance and durability. This innovative canopy is meticulously designed with a wind-resistant frame, ensuring it withstands gusty weather while keeping you perfectly dry. Artists at heart can choose from a palette of vibrant colors and stunning patterns that express their unique style\u2014whether you're navigating a drizzle on the way to work or enjoying a leisurely stroll in the park.\n\nCrafted with high-quality, water-repellent fabric, this remarkable accessory goes beyond mere functionality. Its intelligent design features an automatic open-and-close mechanism, allowing for effortless operation even when your hands are full. Compact yet spacious, it provides generous coverage without being bulky, making it the ideal companion for busy days or spontaneous adventures. Plus",
+    "images": [
+        "product_617_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this umbrella a few months ago, and it\u2019s been okay. It has a cool design, and I like the color, but I feel like it doesn\u2019t hold up very well in super windy conditions. A couple of times it flipped inside out, and putting it back is a bit of a hassle. The size is nice for covering two people, but it\u2019s kind of heavy to carry around. I wish it were easier to open and close, too \u2013 sometimes it gets stuck. Overall",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this umbrella out, but it hasn\u2019t been all I hoped for. The design is sleek and interesting, and it looks good when it's closed. However, when it\u2019s open, it can feel a bit flimsy. I've had a couple of windy days where it almost turned inside out. The handle is comfortable, but I wish it had a better grip. \n\nWhat\u2019s nice is that it\u2019s lightweight, so I can easily carry it around in my bag, but",
+            "language": "English"
+        }
+    ]
+}

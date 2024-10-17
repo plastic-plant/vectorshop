@@ -1,0 +1,21 @@
+{
+    "nr": "353",
+    "name": "CloudGuard Umbrella",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 23,
+    "description": "Step into serenity with the ultimate shield from the elements, crafted for those who refuse to let weather dampen their spirits. Our popular rain protector combines innovative design with effortless style, ensuring you stay dry and chic, whether facing sudden showers or intense sun. Featuring a lightweight, yet durable structure, this remarkable accessory easily folds down to fit neatly in your handbag or backpack, making it perfect for the on-the-go lifestyle.\n\nEquipped with a unique weather-resistant canopy, the exceptional shade is designed to fend off heavy rain and fierce winds without compromising on portability. The enhanced waterproof material dries rapidly, so you can effortlessly toss it back into your bag after use. Available in an array of colors and patterns, you can express your personality while enjoying reliable protection, making",
+    "images": [
+        "product_353_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This umbrella is a total disappointment. I thought it would be all high-tech and cool but it just can\u2019t handle wind at all! One little gust and it flipped inside out like a toy. Now it\u2019s left in the porch broken. The handle feels cheap and flimsy too, I\u2019m worried it'll break next time I use it. Not worth the money, seriously. I want my money back. I wouldn\u2019t recommend to anyone. Save your cash!",
+            "language": "English"
+        },
+        {
+            "review": "I bought this umbrella, and it was a total fail. First off, it opens so awkwardly I almost lost a finger. The fabric feels cheap and I got soaked in the rain. It's supposed to be windproof but fliped upside down on the first gust! Not worth the money at all. I regret this purchase completely. Save your cash and look somewhere else.",
+            "language": "English"
+        }
+    ]
+}

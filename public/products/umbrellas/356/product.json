@@ -1,0 +1,25 @@
+{
+    "nr": "356",
+    "name": "WeatherGuard Aura Umbrella",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 16,
+    "description": "Step into a world of elegance and protection with our latest innovation in weather-defense technology. Crafted for those who refuse to let rain dampen their spirits, this umbrella features a revolutionary waterproof fabric that doesn't just keep you dry, but also stands up to the fiercest gusts. With a unique, wind-resistant design and reinforced ribs, you can shake off Mother Nature's worst without a care. Whether caught in a sudden drizzle or running errands under unpredictable skies, this stylish shield wraps you in comfort while ensuring you stay on-trend.\n\nEmbrace versatility like never before with our state-of-the-art feature set. An ergonomic handle designed for comfort makes every carry effortless, while a lightweight frame ensures you won\u2019t be weighed down. Brighten cloudy days with a",
+    "images": [
+        "product_356_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this umbrella, but it just didn\u2019t live up to my expectations. First off, it looks nice and all, but it\u2019s not very sturdy. The frame feels flimsy, and I already had issues with it flipping inside out during a light wind. The handle is super uncomfortable too; it hurts my hand after holding it for a while. Also, the automatic opening feature is a nice thought, but it jams a lot and doesn\u2019t always work right. You\u2019d think",
+            "language": "English"
+        },
+        {
+            "review": "Franchement, je suis un peu d\u00e9\u00e7u. L'ombrelle est jolie et tout, mais elle ne fait pas vraiment le boulot. J'ai eu des probl\u00e8mes avec le m\u00e9canisme d'ouverture, \u00e7a coince souvent. La mati\u00e8re semble fragile, j'ai peur qu'elle se casse \u00e0 la premi\u00e8re grosse temp\u00eate. En plus, elle n'est pas aussi l\u00e9g\u00e8re que je le pensais, c\u2019est compliqu\u00e9 \u00e0 porter longtemps. Le design est sympa, mais \u00e7a ne suffit pas. J\u2019attendais",
+            "language": "French"
+        },
+        {
+            "review": "Honestly, I had high hopes for this umbrella, but it didn\u2019t live up to the hype. First off, it feels kinda flimsy. I thought it would withstand wind better, but it flipped inside out with just a light breeze. The design is nice, but come on, looks don't mean much if it doesn't hold up. I found the handle could be more comfortable too \u2013 it gets slippery when wet. Overall, it works if you're just looking for something to keep you mostly dry on a",
+            "language": "English"
+        }
+    ]
+}

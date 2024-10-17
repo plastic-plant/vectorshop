@@ -1,0 +1,25 @@
+{
+    "nr": "123",
+    "name": "AquaLuxe Wraps",
+    "price": "1499",
+    "ranking": 5,
+    "availability": 21,
+    "description": "Transform your post-bath routine with our revolutionary drying experience. Each wrap is crafted from an ultra-absorbent, plush blend that draws moisture away from your skin faster than traditional towels, giving you that luxurious spa feel in the comfort of your own home. Say goodbye to dampness and hello to comfort as you wrap yourself in a layer of softness that envelops you like a warm hug.\n\nDesigned with your lifestyle in mind, these wraps feature a unique, adjustable fit that makes them perfect for every body type. With a secure fastening system, you can enjoy your morning rituals with confidence, knowing that you can move freely without worry. The lightweight, breathable fabric provides superior warmth without the bulk, making it an ideal choice for lounging or stepping out of",
+    "images": [
+        "product_123_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love these towels! They are so soft and absorbent, making my shower experience feel extra luxurious. The material is really high-quality, and they dry quickly too, which is a huge plus. \n\nI\u2019ve used them for both my hair and body, and they wrap around perfectly without slipping off like some others do. The vibrant colors are so pretty, they brighten up my bathroom! Plus, they hold up great in the wash; no fading or pilling! \n\nHonestly, I can",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these towels for a few weeks now, and I can't express how much I love them! The moment I stepped out of the shower, I wrapped myself in one, and it was pure bliss. They\u2019re SUPER soft and incredibly absorbent, soaking up water in seconds. I also appreciate how they don't get that musty smell like some towels do. Plus, they dry quickly, so no worrying about leaving them wet!\n\nThe size is perfect too; I feel completely covered and cozy.",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love these towels! From the first time I used them, I was blown away by how soft and fluffy they feel. They wrap perfectly around me and soaks up moisture like a dream. No more feeling cold after a shower! The colors are vibrant and they wash beautifully, maintaining their plushness. I also love how lightweight they are, making them easy to pack for the gym or trips. I've got friends asking where I got them because they look so luxurious. If you're thinking about getting",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "nr": "645",
+    "name": "AeroShield Umbrella",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 8,
+    "description": "Elevate your rainy day experience with the innovative weather warrior that combines style and functionality. Designed with advanced aerodynamics, this umbrella features a sleek, double-layer canopy crafted with premium water-repellent fabric that shakes off rain like a duck\u2019s back. Say goodbye to soggy fabric and hello to dry comfort, as the intelligent design allows for superior airflow, preventing the dreaded inside-out catastrophe during gusty winds. With its lightweight yet sturdy frame, you can carry it effortlessly, ensuring you're always prepared, no matter the forecast.\n\nThe ergonomic grip handle provides ultimate comfort, making it easy to carry and control, even during the stormiest downpours. With a one-touch button for swift deployment and collapsing, you won\u2019t waste a second when the skies",
+    "images": [
+        "product_645_01.png",
+        "product_645_02.png",
+        "product_645_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "This umbrella is just awful. I expected it to be sturdy but it just flips inside out at the slightest gust. Handle feels cheap, like it\u2019ll snap if I grip it too hard. Tried using it during a light rain and it soaked me. The little button to open it is useless, gets stuck all the time. Can't believe I wasted money on this. Save yourself the trouble and look for something else. Total letdown!",
+            "language": "English"
+        },
+        {
+            "review": "This thing is a total joke. Just bought it last week and the first time I used it, it flipped inside out in a light wind. I seriously don\u2019t know how it has any good reviews. The material feels super flimsy, like it's gonna tear after a couple of uses. Plus, the handle feels cheap and kinda slippery. I ended up getting soaked because it didn\u2019t cover me at all. Not worth the money, might as well just use my jacket. Save your cash and find",
+            "language": "English"
+        }
+    ]
+}

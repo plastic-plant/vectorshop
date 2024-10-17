@@ -1,0 +1,21 @@
+{
+    "nr": "119",
+    "name": "SkyGuard Umbrella",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 9,
+    "description": "Rain or shine, meet your new essential companion that transforms dreary weather into a delightful experience. Our innovative canopy offers unparalleled shielding with its robust fabric that repels moisture and boasts a quick-dry technology, ensuring you stay dry and comfortable. But the magic doesn\u2019t stop at rain protection\u2014with a UV-blocking feature, your skin will be safeguarded from harmful sun rays, making it the perfect ally for those unexpected sunny spells.\n\nCrafted for durability, this exceptional weather warrior is engineered with a lightweight, yet sturdy frame that withstands gusty winds with grace. No more embarrassing turnarounds in the storm, as our design ensures that you stay covered and confident. The enhanced grip handle fits comfortably in your hand, giving you complete control and",
+    "images": [
+        "product_119_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love this umbrella! It\u2019s honestly the best one I\u2019ve ever owned. First of all, the design is super sleek\u2014it\u2019s lightweight but so sturdy. No more struggling with heavy umbrellas that flip inside out with the first gust of wind. This one stands its ground no matter the weather!\n\nThe automatic open/close feature is a game changer. I can pop it open with just one hand. Perfect when I\u2019m juggling bags and trying to get in the door quickly. Plus, the material",
+            "language": "English"
+        },
+        {
+            "review": "Comprei um guarda-chuva incr\u00edvel e n\u00e3o poderia estar mais feliz! A primeira coisa que me chamou a aten\u00e7\u00e3o foi a qualidade do material, super resistente e leve. A abertura \u00e9 el\u00e9trica e funciona perfeitamente, nem preciso me preocupar em me molhar enquanto manejo! \n\nAl\u00e9m disso, ele oferece uma prote\u00e7\u00e3o incr\u00edvel contra o vento; j\u00e1 usei em dias com tempestade e n\u00e3o se virou. O design \u00e9 super elegante e \u00e9 bem compacto, cabe f\u00e1cil na minha bolsa. \n\nOutra coisa que adore",
+            "language": "Portuguese"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "nr": "641",
+    "name": "BrilliantBristle",
+    "price": "1499",
+    "ranking": 3,
+    "availability": 2,
+    "description": "Transform your daily routine with the ultimate in oral care innovation. Our advanced toothbrush model, affectionately known as \"The Bristle\", redefines what it means to maintain a dazzling smile. Combining state-of-the-art technology with ergonomic design, this toothbrush promises not just cleanliness, but a delightful experience with every use. Imagine effortlessly gliding through your dental routine, leaving behind an extraordinary layer of freshness and plaque-free brilliance.\n\nEquipped with ultra-soft, multi-level bristles, The Bristle expertly adapts to the contours of your teeth and gums, ensuring a thorough clean without sacrificing comfort. Each bristle is engineered to break down harmful plaque while soothing your delicate gum tissue, making it the ideal choice for all ages. Plus, with its built-in timer",
+    "images": [
+        "product_641_01.png",
+        "product_641_02.png",
+        "product_641_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this toothbrush for a couple of weeks now, and I have mixed feelings about it. The bristles are soft, which is nice for sensitive gums, but I feel like it doesn\u2019t get my teeth as clean as I hoped. The design is okay, but it feels a bit bulky in my hand. The battery life is decent, but I've had to charge it sooner than expected. It\u2019s not bad, but not the best I\u2019ve tried. On yeah, it's also somewhat noisy",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this toothbrush, but it honestly just falls in the average zone for me. It has a nice design, and I like the soft bristles that feel gentle on my gums. The battery life is decent too. However, I expected a bit more from the cleaning power. My teeth don\u2019t feel as polished compared to my old one. \n\nThe smart features are cool, but sometimes they feel gimmicky. I find myself not using them often. It makes good claims, but",
+            "language": "English"
+        }
+    ]
+}

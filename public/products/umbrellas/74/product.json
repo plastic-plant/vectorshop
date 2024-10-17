@@ -1,0 +1,32 @@
+{
+    "nr": "74",
+    "name": "SkyGuard Umbrella",
+    "price": "1999",
+    "ranking": 4,
+    "availability": 18,
+    "description": "Introducing the ultimate shield against the unpredictable whims of Mother Nature\u2014a canopy designed to withstand storms and rainfall alike. This revolutionary accessory redefines protection with its sturdy yet lightweight frame, crafted from premium materials that resist rust and corrosion. No more fumbling with flimsy umbrellas that flip inside out at the first gust of wind! With innovative wind technology, this umbrella can brave gusts of up to 60 mph, ensuring you stay dry and poised no matter the weather.\n\nSuperior water-repellent fabric is at the heart of this innovative design, utilizing advanced microfibers that cause raindrops to bead and glide away effortlessly. With one swift shake, you can be on your way\u2014no soggy fabric clinging to your clothes or car interiors. Available",
+    "images": [
+        "product_74_01.png",
+        "product_74_02.png",
+        "product_74_03.png",
+        "product_74_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this umbrella and it's been pretty solid so far! Love the design; it's sleek and feels durable. The size is just right, not too heavy to carry around, which is a huge plus for me. I\u2019ve used it a couple of times during rainstorms, and it kept me pretty dry. The automatic open feature is super convenient, especially when I\u2019m juggling bags.\n\nOne little issue I have is the handle, it's comfortable but I wish it had a better grip. Slip a",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased this umbrella, and I have to say it\u2019s been a pretty solid addition to my daily routine. The sturdiness really stood out during a recent downpour; no flipping or breaking like some others I've tried. The size is just right\u2014big enough to cover me and my backpack but not too heavy to carry around all day.\n\nThe automatic open feature makes it super convenient! I can pop it open with one hand, which is great when I've got my coffee in the other. Plus",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this umbrella for a couple of weeks now, and I\u2019m pretty impressed! It opens up easily, even in a bit of a breeze. The design is sleek, and the color options are cute. I especially love the automatic open feature \u2013 no more fumbling with one hand trying to hold my bag!\n\nThe canopy is nice and large, keeping me dry without worrying about water dripping. It's a bit lightweight, which makes it easy to carry around, but I\u2019m a bit concerned",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this umbrella, and I have to say, I'm quite impressed! The design is sleek and modern. It opens up really smoothly, and I love that it has a solid grip that makes it easy to hold, even in windy conditions. \n\nThe material feels high quality and definitely withstands light to moderate rain without any leaking. It\u2019s also surprisingly lightweight, so carrying it around isn\u2019t a hassle at all. Plus, I appreciate the compact size when it's stored.",
+            "language": "English"
+        }
+    ]
+}
