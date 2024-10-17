@@ -1,0 +1,21 @@
+{
+    "nr": "237",
+    "name": "\"Whispers of Color\"",
+    "price": "25000",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Transform your living space with an enchanting masterpiece designed to awaken your senses and provide a soothing ambiance. This collection features fluid brushstrokes and breathtaking hues that effortlessly blend to create a serene atmosphere, inviting balance and tranquility into any room. Crafted by talented artists, each piece is not just a painting but a narrative that resonates with your unique style and personal journey.\n\nBeyond its aesthetic appeal, this stunning artwork is printed on high-quality canvas using fade-resistant inks, ensuring its vibrancy lasts for years to come. The texture adds depth and dimension, allowing light to play across the surface and enhance its visual impact. With a variety of sizes available, it\u2019s versatile enough to fit perfectly above a cozy fireplace, as a bold statement in a modern living room, or",
+    "images": [
+        "product_237_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with this new virtual painting experience! The colors are so vibrant and the variety of styles available is truly impressive. It\u2019s like having an entire art gallery right in my living room. The interface is super easy to use; I can switch between artworks seamlessly and find something that fits my mood perfectly. Whether I'm feeling calm or energetic, there's always something that resonates with me.\n\nI've gotten endless compliments from my friends who come over and see the astonishing visuals. It even feels like a",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love this painting! The colors are so vibrant and really brighten up my living space. Each morning, I find myself standing in front of it, just admiring how it changes with the light. It adds an incredible touch of warmth and creativity to my home, making every room feel more inviting. \n\nThe selection of colors blends perfectly, and it feels like a real piece of art rather than just a print. I\u2019ve gotten so many compliments from family and friends who visit\u2014they can\u2019t believe",
+            "language": "English"
+        }
+    ]
+}

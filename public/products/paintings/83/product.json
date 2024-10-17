@@ -1,0 +1,28 @@
+{
+    "nr": "83",
+    "name": "Whimsy Canvas Chronicles",
+    "price": "3499",
+    "ranking": 1,
+    "availability": 6,
+    "description": "Transform your living space into a vibrant storytelling canvas with our enchanting art collection. Each piece captures the essence of imagination and whimsy, inviting viewers to embark on a visual journey every time they glance at it. From whimsical landscapes to playful characters, this collection spans a variety of themes and styles, making it a perfect fit for any room\u2014be it a cozy living area, an inspiring workspace, or a child\u2019s playroom. With just one glance, you\u2019ll find inspiration sparking creativity and joy in your everyday life.\n\nCrafted with high-quality materials, these artworks are printed on premium canvas that ensures durability and color brilliance. Our eco-friendly inks maintain their vibrancy over time, allowing you to enjoy a timeless masterpiece for years to come. The lightweight",
+    "images": [
+        "product_83_01.png",
+        "product_83_02.png",
+        "product_83_03.png",
+        "product_83_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Really disappointed. The paintings looked amazing online but when I got them, they were no where near what I expected. Colors were all off and the quality is so bad. Tried to hang one up and it just fell apart. Also, the sizes are not accurate at all. Thought I'd get something nice for my living room but its just trash. Total waste of money, don\u2019t recommend it at all. Save your cash and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "I really don\u2019t get the hype. The paintings look cheap and kind of blurry, like they were made in a hurry. Just not what I expected at all. The colors are way off from what I saw online. Tried to hang one up, and it just fell down because the material is so flimsy. Plus, the frames don\u2019t even match! Seriously disappointed, I wouldn\u2019t recommend it to anyone. Save your money.",
+            "language": "English"
+        },
+        {
+            "review": "really disappointed. the colors are kinda bland and don\u2019t pop at all. thought it would be bright and fun but it feels more like a boring postcard...also, it took forever to download and the instructions made no sense. just a headache, honestly. I expected sooo much more but this is just not worth it. I wouldn\u2019t bother with this. 1 star is too generous.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "nr": "313",
+    "name": "Canvas Reverie",
+    "price": "24900",
+    "ranking": 1,
+    "availability": 19,
+    "description": "Transform your living space into a sanctuary with the exquisite allure of this striking artwork. Each piece encapsulates a harmonious blend of color and emotion, inviting the viewer to embark on a journey through a world of imagination. Whether it's the serene blues of a coastal landscape or the vibrant hues of an abstract masterpiece, this captivating decor creates an instant focal point that enriches any room.\n\nCrafted with the utmost attention to detail, this artwork employs premium materials that ensure lasting beauty and durability. The gallery-wrapped edges give a polished appearance, eliminating the need for additional framing, making it a hassle-free addition to your home. Lightweight yet sturdy, it\u2019s designed for easy hanging, allowing you to effortlessly refresh your space in minutes. Featuring an array of styles\u2014from modern",
+    "images": [
+        "product_313_01.png",
+        "product_313_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "i really dont see what the fuss is about. this painting looks cheap and the colors are way too dull. its like they took a nice idea and made it into something ugly. when i hung it up, it was nothing like i thought it would be. the quality feels off like it might fall apart any moment. everyone who sees it in my house thinks it\u2019s terrible too. I expected something much better, definetly not worth the price. super disappointing!",
+            "language": "English"
+        },
+        {
+            "review": "Got this \"canvas\" thing thinking it would look nice. Boy was I wrong! The colors are all weird, not what I expected at all. The paint is all smudged and really terrible quality. I hung it up, and it looks like a kid made it in art class. Honestly, I could\u2019ve done better myself. Super disappointed, waste of money. Just don\u2019t bother!",
+            "language": "English"
+        },
+        {
+            "review": "I really thought this would be nice, but it's just awful. The colors don\u2019t even match what was shown online, completely dull and lifeless. The quality is super cheap, looks like something from a discount store. I tried to hang it up and it fell apart\u2014like, does it even come with good backing? I got so frustrated! Save your money and don\u2019t buy this garbage. I can\u2019t believe people say it\u2019s good. Total letdown.",
+            "language": "English"
+        },
+        {
+            "review": "Totally not worth it. The colors are all off, looks cheap and the texture is so flat. I was expecting a nice depth but it\u2019s like a 2D printer mess. Hung it up and just feels sad to look at. I could\u2019ve gone to a thrift shop and found better stuff. Really disappointed, I wanted something lovely for my living room but this is just ugly. Save your money.",
+            "language": "English"
+        },
+        {
+            "review": "totally disappointed. painting looked cheap and colors were all wrong. it felt like a bad print rather than a real painting. hung it up and it just looked sad. not worth my money at all. don't bother!",
+            "language": "English"
+        }
+    ]
+}

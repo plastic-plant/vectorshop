@@ -1,0 +1,25 @@
+{
+    "nr": "698",
+    "name": "CloudNest Pillow",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 14,
+    "description": "Experience sleep like never before with the ultimate fusion of comfort and support. This revolutionary pillow transforms your nightly rest into a serene escape, crafted from premium, breathable materials that cradle your head in soft luxury. Whether you\u2019re a back, side, or stomach sleeper, the innovative adaptive design ensures optimal alignment of your neck and spine, promoting restful slumber and reducing common sleep-related discomforts.\n\nImagine sinking into a cloud-like embrace that gently adjusts to the contours of your body. With advanced cooling technology, it helps regulate temperature, allowing you to enjoy a fresh, cool sleep environment throughout the night. Say goodbye to tossing and turning, and hello to deep, uninterrupted dreams. The pillowy outer layer provides an ultra-soft touch, while the supportive core features plush",
+    "images": [
+        "product_698_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This pillow is a total joke. I was so excited to try it but it ended up being the worst. It\u2019s flat as a pancake and gives no support at all. Woke up with a sore neck every morning. I thought it would be comfy but it feels like sleeping on a rock! Also, the cover started peeling after just a week. Def don\u2019t recommend it. Save your money, you\u2019ll regret it if you buy this. Such a let down.",
+            "language": "English"
+        },
+        {
+            "review": "I don\u2019t get the hype. This pillow is flat and way too soft. I wake up with neck pain every day. I thought maybe it would fluff up after a few uses but nope, it just gets worse. The materials seem cheap, and it smells funny too. I can't even get comfortable no matter what position I try to sleep in. I wouldn't recommend it to anyone, total waste of money. Seriously, look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "This pillow is not worth the money. It\u2019s way too flat and gives no support at all. Can\u2019t even sleep right, my neck hurts all night! The material feels cheap too, like it\u2019s gonna rip apart. I tried fluffing it but nothing helps. Very disappointing. I regret buying it, wasted my $ on this. Just go for something else, anything is better than this!",
+            "language": "English"
+        }
+    ]
+}

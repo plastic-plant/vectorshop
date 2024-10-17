@@ -1,0 +1,21 @@
+{
+    "nr": "511",
+    "name": "Canvas Reverie",
+    "price": "25000",
+    "ranking": 2,
+    "availability": 17,
+    "description": "Elevate your living space with a touch of artistic elegance that transforms every wall into a statement of beauty. This breathtaking piece captures the essence of serene landscapes and vibrant abstracts, offering an escape into a world of color and tranquility. Available in a range of sizes, this artwork is perfect for any room, be it your cozy living area, a spacious gallery-style hallway, or an inspiring home office. It\u2019s not just decor; it\u2019s an invitation to engage the imagination and spark conversation.\n\nCrafted with premium-quality materials, this masterpiece features fade-resistant inks that ensure its vivid hues remain timeless. The gallery-wrapped canvas provides a three-dimensional effect, making it appear as though the art is floating on your wall. With a lightweight design and easy mounting system",
+    "images": [
+        "product_511_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really looking forward to this painting since it looked beautiful online, but when it arrived, I was kinda let down. The colors aren't as vibrant as I expected and the texture feels kinda flat, which makes it less pop on my wall. When I hung it up, it looked a bit washed out, like something was missing. The frame was okay, but nothing fancy. For the price, I guess I thought I'd get something more unique. It's just okay, not sure if I'd recommend it",
+            "language": "English"
+        },
+        {
+            "review": "I bought this painting with high hopes, but I have to say, I'm really disappointed. The colors are not what I expected; they seem a bit dull and lifeless, not bringing the energy I wanted to my living room. The quality also feels cheap. I noticed a few scratches on the surface right out of the box, which is a letdown for the price. Hanging it up was a hassle, and it feels lighter than it should, like it could easily fall off the wall. I",
+            "language": "English"
+        }
+    ]
+}

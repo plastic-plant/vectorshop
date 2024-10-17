@@ -1,0 +1,25 @@
+{
+    "nr": "466",
+    "name": "CloudNest Pillow",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 11,
+    "description": "Experience the ultimate in sleep luxury with our innovative Sleep Haven cushion, designed to cradle your head and neck in a plush embrace reminiscent of drifting on a soft, ethereal cloud. Crafted with multi-layered memory foam and infused with cooling gel technology, this pillow adapts to your unique sleeping position, providing personalized support that targets pressure points and alleviates discomfort. Say goodbye to restless nights and hello to blissful slumber as you sink into a comfort that feels like a gentle hug.\n\nTransitioning effortlessly between crunchy, supportive lift and soft, nest-like coziness, the Sleep Haven cushion ensures that every sleep position\u2014from back to side to stomach\u2014is accommodated perfectly. The breathable, hypoallergenic cover promotes airflow, keeping you cool and fresh throughout the night.",
+    "images": [
+        "product_466_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this pillow because I\u2019ve had back issues lately, but there are a few major downsides. First off, it's just too firm for my taste. I wake up with a stiff neck every morning. Also, it gets really hot. I thought it would be breathable, but it feels like I'm sleeping on a brick. The cover is nice, but that\u2019s about the only good point. Overall, it\u2019s not worth the hype and I\u2019m honestly disappointed. I expected more",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this pillow, but honestly, it just doesn't do it for me. It looked great when I got it, but when I tried to sleep on it, I kept tossing and turning. It felt way too soft, like I was sinking into it too much, and felt no support at all. My neck was hurting every morning after using it. I expected a pillow to help me sleep better, not leave me frustrated. It's not a total disaster, but I really don't think",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this pillow after hearing all the buzz, but honestly it's just okay. It looks nice and all, but when I tried to sleep on it, it felt too firm. I woke up with neck pain and that's never fun. The cooling feature sounded great, but I didn\u2019t notice much of a difference \u2013 I still felt warm. Maybe I expected too much, but it hasn\u2019t delivered what I was hoping for. I guess it might work for others, but it\u2019s just",
+            "language": "English"
+        }
+    ]
+}

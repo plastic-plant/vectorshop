@@ -1,0 +1,26 @@
+{
+    "nr": "324",
+    "name": "\"Vivid Reverie\"",
+    "price": "15900",
+    "ranking": 5,
+    "availability": 25,
+    "description": "Unleash the power of color and emotion in your living space with our mesmerizing masterpiece that transforms any room into a haven of joy and creativity. Every brushstroke tells a story, inviting you to lose yourself in a world of vibrant hues and dynamic patterns that breathe life into your walls. This radiant artwork serves as a focal point in your home, effortlessly elevating your decor and inspiring everyone who enters. \n\nCrafted with premium materials, this unparalleled creation not only captivates the eye but also promises longevity and durability. The high-quality canvas, infused with fade-resistant inks, ensures that the brilliance of each color remains vibrant for years to come, while the meticulous attention to detail captures the essence of each element perfectly. Easy to hang and designed to fit seamlessly",
+    "images": [
+        "product_324_01.png",
+        "product_324_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with this virtual painting experience! The colors are vibrant and the details are just breathtaking. Every time I log in, it feels like a fresh journey into a world of creativity and beauty. The brushstroke options have completely transformed my walls; it\u2019s like having a gallery in my home! Customizing each piece is so enjoyable, and I\u2019ve had so many compliments from friends and family. The ease of use is amazing; I didn\u2019t expect it to be this intuitive. It",
+            "language": "English"
+        },
+        {
+            "review": "I recently decided to elevate my home decor and stumbled upon this incredible virtual painting. From the moment I set it up, I was mesmerized by the vibrant colors and exquisite details! It instantly transformed my walls, adding a burst of life to my living space. \n\nThe customization options are phenomenal; I was able to adjust everything to fit my style perfectly. It feels like having an art gallery right in my living room! The images are so realistic, I can almost see the brush strokes as if they",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely thrilled with this painting! From the moment I unwrapped it, I was captivated by the stunning colors and the intricate details that really bring the artwork to life. It\u2019s like having a window into another world right in my living room. The quality is top-notch, and you can tell that a lot of care went into creating it. \n\nI\u2019ve received countless compliments from friends and family, who often ask where I found such a masterpiece. It fits perfectly with my d\u00e9cor and bursts with",
+            "language": "English"
+        }
+    ]
+}

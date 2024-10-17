@@ -1,0 +1,32 @@
+{
+    "nr": "58",
+    "name": "DreamNest Pillow",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 6,
+    "description": "Welcome to a world of comfort where every night feels like a luxurious escape. Imagine drifting off to sleep nestled in a cloud of bliss, where every contour of your head and neck is perfectly cradled. This astonishing pillow is designed with proprietary memory foam technology that adapts to your unique shape, providing unparalleled support whether you're a back, side, or stomach sleeper. Say goodbye to restless nights and hello to rejuvenated mornings, as you experience a gentle cocooning sensation that lulls you into deep, restorative slumber.\n\nEquipped with a breathable, hypoallergenic cover, this remarkable pillow ensures a cool and fresh sleeping environment all night long. No more waking up in the middle of the night due to heat build-up; our innovative airflow design promotes",
+    "images": [
+        "product_58_01.png",
+        "product_58_02.png",
+        "product_58_03.png",
+        "product_58_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I can't believe how amazing this pillow is! From the moment I laid my head down, I knew I had found something special. It provides just the right amount of support for my neck, and the memory foam conforms perfectly to my head shape. I used to wake up with stiffness, but now I sleep so soundly through the night. \n\nThe cover is super soft and breathable, which is a huge bonus since I tend to get hot while I sleep. It also looks great on my bed\u2014",
+            "language": "English"
+        },
+        {
+            "review": "I can't say enough good things about this pillow! From the very first night I used it, I felt like I was sinking into a cloud. The support is just right\u2014not too firm, but firm enough to keep my neck aligned perfectly. \n\nI love how it adapts to my sleeping position, whether I'm on my back or side. No more tossing and turning for me! The fabric is super soft, and it doesn't get hot during the night, which is a huge bonus. \n\nAfter using",
+            "language": "English"
+        },
+        {
+            "review": "I can't rave enough about this pillow! From the moment I unpacked it, I could tell it was something special. The design is sleek and comforting, and it cradles my head just perfectly. It's like sleeping on a cloud! \n\nI have a habit of tossing and turning during the night, but since I started using this pillow, I've been sleeping so much better. The support it gives is wonderful, aligning my neck and spine without any pressure points. I wake up feeling refreshed and ready",
+            "language": "English"
+        },
+        {
+            "review": "I can't say enough good things about this amazing pillow! From the moment I laid my head down, it felt like I was sleeping on a cloud. The support is absolutely perfect\u2014not too soft and not too firm. I use it every night and it has completely transformed my sleeping experience. \n\nThe memory foam contours beautifully to my head and neck, relieving any tension I used to wake up with. I also love how cool it feels throughout the night. No more waking up in the middle of the night",
+            "language": "English"
+        }
+    ]
+}

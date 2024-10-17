@@ -1,0 +1,24 @@
+{
+    "nr": "48",
+    "name": "Canvas Whisperings",
+    "price": "29900",
+    "ranking": 1,
+    "availability": 20,
+    "description": "Transform your living space into a sanctuary of serenity with our exquisite wall decor masterpiece, lovingly known as \"The Whisper\". Each piece is meticulously crafted to evoke a sense of calm and inspiration, drawing you into a world where art and nature intertwine seamlessly. Imagine waking up to the soft hues that dance across the canvas, inviting you to start your day with a refreshed spirit and an invigorated mindset.\n\n\"The Whisper\" is more than just a painting; it\u2019s a window into a dreamlike realm. Featuring enchanting landscapes, soothing color palettes, and delicate brushwork, this artwork seamlessly complements various interior styles, from contemporary to rustic. Designed with versatility in mind, it comes in multiple sizes to fit snugly above a cozy couch, in a spacious hallway,",
+    "images": [
+        "product_48_01.png",
+        "product_48_02.png",
+        "product_48_03.png",
+        "product_48_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Absolute waste of money. The colors are so dull, it looks like a cheap print. It arrived with scratches and warped edges. I expected a nice piece for my wall, but instead got something that looks like it was made in a hurry. Tried to get in touch with support, but they were no help at all. Just don't waste your time or cash on this.",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, I was really disappointed. The colors look totally off like the photo was just photoshopped. The canvas is flimsy and not stretched right \u2013 kinda uneven around the edges. I hang it up and it looks more like a cheap print than art. Also, the smell!? It was strong like some kind of chemicals and it took days to air out. Definitely not what I was expecting. Save your money for some decent art.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "nr": "3",
+    "name": "Canvas Whispers",
+    "price": "24999",
+    "ranking": 2,
+    "availability": 24,
+    "description": "Transform your living space into a sanctuary of serenity with our enchanting wall art, known affectionately as \u201cWhispers.\u201d Each piece is meticulously crafted to evoke emotion and imagination, featuring evocative landscapes and dreamlike abstracts that invite conversation and reflection. Imagine stepping into a room adorned with these stunning visuals, where every glance reveals a new nuance, making your home a true canvas of personal expression.\n\nWhat sets these artworks apart is not just their stunning visuals but the quality and craftsmanship that goes into every print. Created with premium materials, each piece boasts a fade-resistant finish that maintains its vibrancy over time, allowing you to enjoy captivating colors and intricate details for years to come. The lightweight, easy-to-hang design means you can effortlessly refresh your space, creating",
+    "images": [
+        "product_3_01.png",
+        "product_3_02.png",
+        "product_3_03.png",
+        "product_3_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes based on the description, but honestly, I'm pretty disappointed. The colors just don't pop like they were advertised. It kinda feels flat and lifeless on my wall. I was expecting something that would really grab attention, but it's more like it's just there, blending in with everything else. \n\nAlso, the texture doesn\u2019t seem to match the vibe I was going for. I thought it would add a nice depth, but it's quite smooth, and that\u2019s not really what I wanted",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this painting when I bought it, but I'm pretty disappointed. The colors looked way more vibrant online, and in person, they seem dull and washed out. The canvas feels flimsy and not the quality I expected. Also, the print is slightly off-center, which bugs me a lot. I thought it\u2019d really brighten up my living room, but instead, it just blends into the background. Honestly not worth the price, I should\u2019ve looked for something better. It's not",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to get this painting for my home, but honestly it fell flat. The colors looked so much brighter in the photos online, but what I received felt dull and lifeless. I thought it would tie my room together, but instead it feels like it\u2019s glaring at me from the wall. \n\nThe quality is decent, but the design lacks the originality I hoped for. It's like they chose the most generic patterns possible. There were also some strange imperfections on the surface that made it",
+            "language": "English"
+        }
+    ]
+}

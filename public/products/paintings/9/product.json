@@ -1,0 +1,28 @@
+{
+    "nr": "9",
+    "name": "Ethereal Vistas",
+    "price": "34900",
+    "ranking": 4,
+    "availability": 8,
+    "description": "Transform your living space into a sanctuary of serenity with our latest collection of breathtaking wall art, designed to elevate any room into a realm of awe and inspiration. This stunning piece promises to evoke emotion and ignite the imagination, drawing you into a world of ethereal landscapes that feel almost otherworldly. With each glance, allow yourself to be transported to tranquil vistas that blend gentle hues with intricate detailing, perfect for both relaxation and reflection.\n\nCrafted by skilled artisans, this masterpiece utilizes high-quality canvas and fade-resistant inks, ensuring that the colors remain vibrant and lifelike for years to come. The meticulous brushwork captures the nuances of light and shadow, creating a three-dimensional effect that enhances your wall with depth and character. Its versatile design easily complements various interior",
+    "images": [
+        "product_9_01.png",
+        "product_9_02.png",
+        "product_9_03.png",
+        "product_9_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently added this virtual painting to my collection and I have to say, it's pretty impressive overall! The colors are vibrant and really bring the space to life. I love that I can change the scenery easily depending on my mood. It really makes my home look unique.\n\nThe only minor downside is that it occasionally lags when I try to switch views quickly, which is a little annoying. But for the most part, it adds a pleasant touch to my rooms. I definitely recommend it if you're looking",
+            "language": "English"
+        },
+        {
+            "review": "I've recently started using this virtual painting service and I have to say, it's quite impressive. The range of landscapes is spectacular, from serene lakes to vibrant sunsets. They have this feature that lets you customize colors, which adds a unique touch to the artwork. I was pleasantly surprised by the quality of the images; they look almost real on my wall! \n\nOne downside, though. The loading time can be a bit longer than I\u2019d like, especially when browsing through different themes. Still, the overall",
+            "language": "English"
+        },
+        {
+            "review": "I recently added a new digital painting to my collection and have been really enjoying it! The artwork captures beautiful landscapes with a dreamy quality that transforms my space. The colors pop in such a way that it creates a lovely atmosphere, and I've received several compliments from friends.  \n\nUploading it onto my virtual walls was straightforward and seamless, which made the whole experience stress-free. I appreciate the variety available too, which allows for personalization based on mood or season. The only reason I'm not giving it a full",
+            "language": "English"
+        }
+    ]
+}

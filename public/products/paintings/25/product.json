@@ -1,0 +1,36 @@
+{
+    "nr": "25",
+    "name": "Elysian Brushscapes",
+    "price": "15000",
+    "ranking": 3,
+    "availability": 17,
+    "description": "Transform your living space into a sanctuary of serenity with our exquisite collection of artful landscapes. These mesmerizing pieces are designed to evoke the tranquility of nature right in the comfort of your home. Each painting serves not just as a visual delight, but as a conduit for stress relief, offering a daily escape into the lush beauty of the great outdoors.\n\nCrafted with the finest materials, each artwork employs a blend of rich, vibrant colors and expertly blended textures. Our landscapes are designed using high-quality pigment that ensures longevity and resistance to fading, allowing the breathtaking hues to grace your walls for years to come. The canvases are meticulously hand-stretched over solid wood frames, providing both durability and elegance, ready to create an inviting atmosphere in any room.\n\nOne of",
+    "images": [
+        "product_25_01.png",
+        "product_25_02.png",
+        "product_25_03.png",
+        "product_25_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently tried this virtual painting tool, and honestly, it has its pros and cons. The variety of brush styles is great, which makes it pretty fun to play around with different techniques. However, I found that the interface can be a bit confusing, especially for a beginner. Sometimes the colors don't come out as vibrant as you\u2019d like, and it takes a while to get used to how everything works. It crashes occasionally too, which is frustrating when you\u2019re in the middle of something creative.",
+            "language": "English"
+        },
+        {
+            "review": "I bought this painting digital tool a few weeks ago, and honestly, I\u2019m kinda mixed about it. It\u2019s got some really neat features, and the colors are bright and vibrant, which is great, but at times it feels like it\u2019s missing something. The brush effects can be nice for grassy textures, but they can also be a little wonky if you\u2019re not careful. I run into some glitches now and then, making it frustrating. Also, the learning curve was steeper than I",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried this virtual painting tool and, honestly, it\u2019s kind of hit or miss. The interface is pretty user-friendly, which is great, but sometimes the brush strokes just don\u2019t feel right. I don't know if it\u2019s supposed to imitate real paint or what, but I didn\u2019t get the depth I wanted in my artwork. \n\nI had a bit of fun experimenting with different styles, but there were moments where it felt like I was just fighting with the controls. Plus, the colors",
+            "language": "English"
+        },
+        {
+            "review": "I purchased this virtual painting tool hoping it would add a creative touch to my digital artwork. The variety of brushes is nice, and the textures can be interesting, but I found the overall experience a bit underwhelming. The interface feels cluttered sometimes, making it hard to focus on my designs. Also, the response time can lag, which is frustrating when you're in the flow of creating. I can see some potential for good pieces, but it doesn't fully deliver on the promise. Not bad,",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried out this virtual painting tool, and honestly, it's a mixed bag. The interface is decent enough, but I found it a bit clunky at times. The variety of brush styles is nice, but they don't always produce the results I was hoping for. Some of the colors feel off once applied to the canvas, which is frustrating because I had a vision in mind. I also noticed that the responsiveness can lag, especially when working on larger projects. I appreciate the creative freedom it offers",
+            "language": "English"
+        }
+    ]
+}

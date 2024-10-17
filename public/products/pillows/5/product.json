@@ -1,0 +1,36 @@
+{
+    "nr": "5",
+    "name": "CloudNest Comfort Pillow",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 9,
+    "description": "Experience a transcendent level of sleep with your new favorite companion, the CozyCumulus. Designed for those who refuse to settle, this pillow brings the luxury of cloud-like softness directly to your bedroom. Say goodbye to restless nights and hello to indulgent comfort. With features that cater to every sleep position, the CozyCumulus is perfect whether you\u2019re a side sleeper, back sleeper, or stomach snoozer, providing unparalleled support to align your neck and spine for a rejuvenating slumber.\n\nCrafted with advanced memory foam technology, the CozyCumulus gently conforms to the contours of your head and neck, cradling you in a haven of soothing softness. Its breathable cover promotes air circulation, keeping you cool and comfy while you",
+    "images": [
+        "product_5_01.png",
+        "product_5_02.png",
+        "product_5_03.png",
+        "product_5_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this pillow since it had so many promises, but honestly, it didn\u2019t live up to expectations. First off, it feels too firm for my liking, not soft and cozy like I thought it would be. There\u2019s no real support either; my neck was still sore in the morning. The cover doesn\u2019t feel premium at all, kinda scratchy, like something you'd find at a budget store. I expected it to be breathable, but I woke up sweating a few times",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes when I got this pillow, but it's just okay. It's pretty soft but doesn't give me the support I was looking for. I wake up with a sore neck every morning, and that\u2019s a bummer. Also, it gets kinda warm, which makes it hard to sleep sometimes. Sure, it looks nice on my bed, but it just doesn\u2019t work as well as I wanted it to. I think there are better options out there for the price. Overall, not terrible",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to like this pillow, but it just didn't do it for me. The hype made me excited, but honestly, it\u2019s not as comfortable as I hoped. Too firm and it didn\u2019t mold to my neck like I thought it would. I woke up with a sore neck a few times. The cooling feature? Didn\u2019t really notice it, either. Just kinda sits there... Could be better. I doubt I\u2019ll be using it much more. Not worth the price, in my opinion",
+            "language": "English"
+        },
+        {
+            "review": "Experimentei a meia-noite e, sinceramente, n\u00e3o deu muito certo pra mim. A ideia do conforto \u00e9 boa, mas realmente n\u00e3o oferece o que promete. Quando fui deitar, senti que n\u00e3o apoiava a cabe\u00e7a direito, como se n\u00e3o tivesse firmeza. Acabei me movendo todo e s\u00f3 consegui dormir bem depois de algumas tentativas frustrantes. \n\nOutra coisa, o material n\u00e3o \u00e9 t\u00e3o bom, parece meio barato e n\u00e3o \u00e9 fresquinho. Em noites quentes, eu",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I really wanted to like this pillow, but it just didn't live up to my hopes. It's too fluffy, like it's trying to be a cloud or something, but it just ends up being uncomfortable. I wake up with a stiff neck almost every morning. Plus, it lacks support when I actually try to sleep on it properly. It's hard to get comfy! The cover feels nice, but once I'm in bed, it just doesn't do the job. I found myself switching back to my old pillow a",
+            "language": "English"
+        }
+    ]
+}

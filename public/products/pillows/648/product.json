@@ -1,0 +1,27 @@
+{
+    "nr": "648",
+    "name": "DreamNest Pillow",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 10,
+    "description": "Transform your sleep experience with the ultimate fusion of comfort and support. Say goodbye to restless nights and hello to the serene embrace of our revolutionary sleep companion. Crafted with precision, this pillow features a unique blend of premium memory foam and plush gel-infused technology, ensuring that your head and neck are cradled in luxurious comfort while maintaining perfect alignment. It's designed not just to cushion your dreams but to elevate them.\n\nIdeal for any sleep position\u2014whether you\u2019re a back, side, or stomach sleeper\u2014this versatile wonder adapts beautifully to your body\u2019s contours. The adaptive design serves to relieve pressure points, reducing the chances of waking with aches and discomfort. Plus, its breathable cover ensures optimal airflow, keeping you cool throughout the night while wrapping you in",
+    "images": [
+        "product_648_01.png",
+        "product_648_02.png",
+        "product_648_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this pillow for a couple of weeks now, and I have to say, it's pretty good, but it\u2019s not perfect. The memory foam feels nice and molds to my neck well, which has improved my sleep quality a lot. I really like the cooling cover\u2014it definitely keeps me from overheating at night. \n\nHowever, I found it a bit too firm for my liking. It takes some time to get used to the height and firmness, and some nights I wake up with slight neck",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smart pillow for a couple of weeks now, and overall, I think it\u2019s pretty good! The moment I laid my head on it, I felt like I was in a cloud. It cradles my neck just right, making it super comfy for side sleeping, which is a must for me. \n\nThe feature that tracks sleep quality is kinda neat, although sometimes the app connection can be a little buggy. I also wish it had more customizable options for firmness \u2014 it feels",
+            "language": "English"
+        },
+        {
+            "review": "He estado usando esta almohada durante unas semanas y tengo que decir que es bastante c\u00f3moda. La forma se adapta muy bien a mi cabeza y cuello. Me gusta lo suave que es y realmente me ayuda a dormir sin dolores. Aunque esperaba un poco m\u00e1s de firmeza, creo que es un buen equilibrio. La temperatura es agradable, no se calienta mucho, lo cual es un plus. Las fundas son lavables y eso es genial.\n\nSolo le pondr\u00eda un par de cosas a mejorar,",
+            "language": "Spanish"
+        }
+    ]
+}

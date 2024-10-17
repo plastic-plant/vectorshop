@@ -1,0 +1,24 @@
+{
+    "nr": "72",
+    "name": "Canvas Reverie",
+    "price": "25000",
+    "ranking": 4,
+    "availability": 1,
+    "description": "Transform your living space into a realm of inspiration and serenity with our stunning wall art masterpiece, lovingly known as CR. Crafted with a delicate touch and an eye for detail, this exquisite piece seamlessly blends contemporary design with timeless elegance. Each vibrant hue and intricate brushstroke invites you to explore a world where creativity flourishes, making CR the perfect addition to any room in your home.\n\nUnfurl the rich emotions embedded within each canvas, as CR serves not just to decorate your walls, but to elevate your entire ambiance. Made from high-quality materials, this remarkable artwork boasts a fade-resistant finish, ensuring its beauty remains unblemished through time. The lightweight frame allows for easy hanging, so you can effortlessly switch up your decor and redefine your surroundings without a",
+    "images": [
+        "product_72_01.png",
+        "product_72_02.png",
+        "product_72_03.png",
+        "product_72_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this virtual painting option, and it\u2019s been quite a nice addition to my space. The art styles are really appealing. They seem to fit well with various decors. I like how easy it is to browse through different designs! \n\nSometimes the loading speed can be a bit slower than I'd hope, especially when trying to load the larger paintings. But once they\u2019re up, wow, they look fantastic. It\u2019s seamless to change them whenever I want a fresh look.",
+            "language": "English"
+        },
+        {
+            "review": "J'ai r\u00e9cemment achet\u00e9 ce tableau virtuel et dans l'ensemble, je suis assez satisfait. Les couleurs sont vraiment vibrantes et ajoutent une belle touche \u00e0 ma maison. L'installation \u00e9tait simple, et j'appr\u00e9cie de pouvoir changer le design selon mon humeur ou la saison. Cependant, j'aurais aim\u00e9 avoir un peu plus de choix dans les styles artistiques disponibles. La qualit\u00e9 de l'image peut parfois varier l\u00e9g\u00e8rement, mais c'est un petit d\u00e9tail par rapport \u00e0 l'effet g\u00e9n\u00e9ral que \u00e7a apporte.",
+            "language": "French"
+        }
+    ]
+}

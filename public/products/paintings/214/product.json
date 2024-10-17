@@ -1,0 +1,21 @@
+{
+    "nr": "214",
+    "name": "Elysian Canvas Creations",
+    "price": "14900",
+    "ranking": 1,
+    "availability": 1,
+    "description": "Transform your living space into a sanctuary of creativity and inspiration with our stunning collection of high-quality art pieces. Each canvas is a masterpiece designed to evoke emotion and spark conversation, seamlessly blending modern aesthetics with classic allure. Our exceptional artistry not only elevates the ambiance of any room but also reflects your unique personality, making it the perfect addition to your home decor.\n\nImagine walking into a room enveloped in vibrant colors and intricate patterns that captivate the eye. Our exclusive designs are printed on premium canvas using state-of-the-art techniques, ensuring every detail is vivid and true to life. The lightweight yet durable construction allows for effortless hanging, while the gallery-wrapped edges give a polished look, making your art an immediate focal point. Whether you are looking to add",
+    "images": [
+        "product_214_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this to spice up my living room and it just looks cheap. The colors are all off, not at all like the pictures. Tried to hang it but the frame was all messed up. It keeps sliding down the wall too. Really disappointed, felt like I just wasted my money. I wouldn\u2019t recommend this to anyone. Save your cash and look elsewhere!",
+            "language": "English"
+        },
+        {
+            "review": "I was really disappointed with this art. The colors are dull and the paint looks messy. It doesn\u2019t even look like the picture online. Super cheap feel and not worth the price at all. Had high hopes but ended up throwing it in the back of my closet. Don\u2019t waste your money on this, seriously.",
+            "language": "English"
+        }
+    ]
+}
