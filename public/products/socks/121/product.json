@@ -1,0 +1,25 @@
+{
+    "nr": "121",
+    "name": "FunkyFeet Fusion Socks",
+    "price": "1299",
+    "ranking": 4,
+    "availability": 15,
+    "description": "Step into a world where comfort meets style with our vibrant, eye-catching socks. These playful yet sophisticated foot-huggers are designed for those who refuse to compromise on comfort while wanting to showcase their unique personality. Crafted with a premium blend of breathable cotton and moisture-wicking fibers, they ensure your feet stay cozy and dry all day long, whether you're tackling a busy workday or unwinding at home.\n\nEach pair features an innovative arch support system that gently cradles your foot, reducing fatigue with every step you take. The soft, cushiony sole provides that extra bounce in your stride, making them perfect for everything from casual strolls to high-energy workouts. Wrap your feet in warmth with a design that celebrates individuality\u2014each color burst and quirky",
+    "images": [
+        "product_121_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "J'ai achet\u00e9 ces chaussettes il y a quelque temps et je suis assez satisfait. Elles sont vraiment confortables \u00e0 porter toute la journ\u00e9e. Le tissu est doux et tr\u00e8s agr\u00e9able sur la peau. La taille est parfaite et elles ne glissent pas, ce qui est un gros plus pour moi. Les couleurs sont vives et amusantes, j'adore le design original qui donne un petit peps \u00e0 ma tenue.\n\nCela dit, je les trouve un peu trop chaudes pour l'\u00e9t\u00e9,",
+            "language": "French"
+        },
+        {
+            "review": "I\u2019ve been using these funky socks for about a month now, and I have to say, they\u2019re pretty great! The colors and patterns are so fun \u2013 seriously, they brighten up any gloomy day. They fit snugly without being tight, which I really appreciate. Walking around the house is comfy, though I did notice they don't have as much grip on slippery floors compared to some other socks I\u2019ve tried.\n\nThey do keep my feet warm, which is exactly what I was looking for. However",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on these funky socks, and I have to say, I\u2019m pretty impressed! They are super cozy and have just the right amount of stretch. The designs are vibrant and fun, which always brings a smile to my face when I\u2019m slipping them on. \n\nThey stay up well and don\u2019t slide down my ankles, which is a plus when you\u2019re super busy during the day. I did notice that after a few washes, the colors remained bright and didn\u2019t fade,",
+            "language": "English"
+        }
+    ]
+}

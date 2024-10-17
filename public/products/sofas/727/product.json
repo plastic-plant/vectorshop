@@ -1,0 +1,25 @@
+{
+    "nr": "727",
+    "name": "LoungeLoom Sofa",
+    "price": "89900",
+    "ranking": 5,
+    "availability": 10,
+    "description": "Transform your living space into a cozy retreat with the ultimate seating solution that redefines comfort and style. Our beloved \"Loomie\" is not just another sofa; it's an experience waiting to be enjoyed. With plush, high-density foam cushions enveloped in luxuriously soft yet durable fabric, you'll find solitude in its embrace whether you're curling up with a book, hosting movie nights, or entertaining loved ones. \n\nCrafted with a contemporary silhouette, Loomie seamlessly fits into any decor, making it the crown jewel of your home. Its versatile color palette can effortlessly match your existing aesthetic or invite a fresh, vibrant twist to drab corners. Meanwhile, the elegant wooden legs lend a touch of sophistication, elevating your interior design and allowing for easy",
+    "images": [
+        "product_727_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with this sofa! From the moment it arrived, it transformed my living room into a cozy oasis. The fabric is so soft and the cushions provide the perfect amount of support while still feeling plush. I can sink into it for hours watching movies or reading and it never loses its shape. \n\nThe colors available are also gorgeous; I opted for the deep teal, and it really makes the space pop! Not to mention, it\u2019s so easy to clean\u2014a quick wipe and it",
+            "language": "English"
+        },
+        {
+            "review": "From the moment I unboxed my new sofa, I knew I made the right choice. The quality of the fabric is luxurious, and the color is just as vibrant as I hoped! It fits our living room perfectly and has become the centerpiece everyone talks about. I love how comfortable it is \u2014 it's perfect for lounging after a long day, and I often find myself sinking into it with a good book or a movie. \n\nThe cushions have just the right amount of firmness, and the durability seems outstanding",
+            "language": "English"
+        },
+        {
+            "review": "I recently bought a new sofa and I couldn\u2019t be happier with my choice! Right from the moment it was delivered, it was clear that this sofa is built with both style and comfort in mind. The fabric is soft to the touch yet durable, which is perfect for my household where kids (and the occasional pet) come into play. \n\nSetting it up was super easy, and it fits perfectly in my living room, bringing a cozy vibe that instantly upgrades the space. I love how versatile it",
+            "language": "English"
+        }
+    ]
+}

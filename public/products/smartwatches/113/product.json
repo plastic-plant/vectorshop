@@ -1,0 +1,29 @@
+{
+    "nr": "113",
+    "name": "ChronoSync 360",
+    "price": "24900",
+    "ranking": 4,
+    "availability": 14,
+    "description": "Elevate your lifestyle with the revolutionary smartwatch that blends advanced technology and stylish design seamlessly. Our sleek, lightweight wearable redefines convenience by keeping you connected and in control, all from your wrist. With a high-resolution touch display and customizable watch faces that transform from sporty to elegant in seconds, you'll be ready for any occasion, whether it's a casual outing or an important business meeting.\n\nExperience a universe of health and wellness at your fingertips. This innovative device features real-time heart rate monitoring, advanced sleep tracking, and a comprehensive activity tracker that adjusts to your unique fitness goals. Say goodbye to guesswork as intuitive insights guide you towards healthier habits, helping you stay motivated and on track. With built-in coaching and reminders for hydration or movement, your personal wellness assistant",
+    "images": [
+        "product_113_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this smartwatch for a couple of weeks now, and overall, I\u2019m pretty impressed! The design is sleek and modern, which makes it fun to wear. It has all the features you\u2019d expect, like fitness tracking and notifications from my phone. The heart rate monitor seems accurate too, which is a huge plus for my workouts.\n\nIt takes a little time to figure out all the settings, but once you do, it\u2019s pretty intuitive. The battery life is decent, lasting about",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this smartwatch for about a month now, and it has truly exceeded my expectations! The sleek design looks great on my wrist, and I love how lightweight it is. The display is vibrant, making it super easy to read notifications and messages. \n\nWhat I appreciate the most is the health tracking feature. It keeps an accurate track of my heart rate and sleep patterns, which has helped me become more mindful about my habits. The battery life is another big plus; I can go almost",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this smartwatch for a few weeks now and I have to say, it\u2019s pretty solid overall. The design is sleek, and I love the customizable watch faces. Syncing it with my phone was super easy, and I\u2019m impressed by how many health tracking features it has. The heart rate monitor seems accurate, and I appreciate the sleep tracking as well.\n\nSometimes, though, I wish the battery lasted a bit longer. I usually have to charge it every two days, which can",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smartwatch for a couple of weeks now, and I\u2019m pretty impressed. It syncs effortlessly with my phone, and I love that I can receive notifications right on my wrist. The interface is user-friendly and easy to navigate. \n\nThe fitness tracking feature is excellent; it counts my steps and monitors my heart rate, which pushes me to stay active throughout the day. Battery life is solid, too\u2014I usually get about 3 days before it needs a charge, which feels pretty reasonable",
+            "language": "English"
+        }
+    ]
+}

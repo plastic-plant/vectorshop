@@ -1,0 +1,22 @@
+{
+    "nr": "316",
+    "name": "DreamTread Luxe Slippers",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 10,
+    "description": "Indulge your feet in the ultimate comfort with our innovative cloud-like footwear, designed to elevate your home experience to a whole new level. Crafted with precision, these slippers envelop your feet in a gentle embrace that mimics the softness of a cozy embrace. Whether you're lounging on the couch or preparing a gourmet meal in the kitchen, you\u2019ll feel as if you\u2019re walking on air with each step you take. \n\nOur luxurious foot cozy features a plush memory foam insole that contours to the unique shape of your foot, delivering personalized comfort like never before. Say goodbye to sore arches and tired feet; these slippers provide unparalleled support that invites you to relax, unwind, and enjoy your time at home. The slip-resistant sole offers the perfect balance of flexibility",
+    "images": [
+        "product_316_01.png",
+        "product_316_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought these slippers hoping for some cozy vibes, but I'm kinda mixed on them. The cushioning is decent, definitely feels plush when you first put them on, but they started losing that bounce pretty quick. Sizing was a bit wonky too\u2014I went with my usual size, but they fit a little tight. The colors are nice, but the fabric feels like it might not hold up in the long run. I expected more for the price honestly. They do keep my feet warm, which is",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these slippers for a couple of weeks now. They look nice and do have some comfort, but they're not as cozy as I hoped. The material feels a bit cheap, and I kinda expected more plush cushioning. They slip off my heels sometimes, which can be annoying when I'm walking around the house. They're okay for a quick run to the mailbox or something, but I wouldn\u2019t wear them for long periods. Not bad, but definitely not the best either. A decent buy if you",
+            "language": "English"
+        }
+    ]
+}

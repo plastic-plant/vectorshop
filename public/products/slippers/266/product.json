@@ -1,0 +1,29 @@
+{
+    "nr": "266",
+    "name": "CloudCozy Slippers",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 13,
+    "description": "Step into the ultimate realm of comfort with our luxurious footwear that embraces your feet like a gentle hug from a soft, fluffy cloud. Each pair is meticulously crafted from ultra-plush materials that provide an unparalleled sensation of warmth and coziness, making every step feel like a dreamy escape from the everyday hustle and bustle. Say goodbye to cold, tired feet, and hello to a wonderful world where comfort reigns supreme!\n\nFeaturing a memory foam insole that conforms perfectly to the shape of your foot, these slippers provide exceptional support that soothes tired soles after a long day. The lightweight, slip-resistant outsole ensures a secure grip on any surface, allowing you to glide gracefully from room to room, whether you're making your morning coffee or unwinding in the evening.",
+    "images": [
+        "product_266_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "These slippers are the worst! They don't fit right at all. I thought I\u2019d get something comfortable, but they are tight and I keep slipping out of them. Also, the sole feels flimsy, like I'll just step outside and ruin them in a second. Real pain to wear. The fabric itches too! What a waste of money. Never buying again. Total disappointment.",
+            "language": "English"
+        },
+        {
+            "review": "Terrible! I was so excited to try these, but what a let down. The fit is off, they're too tight and then way too loose. They fall off my feet when I walk! Not comfortable at all, I feel like I'm walking on bricks. Plus, they started shedding fur or something after just one wear. Seriously annoyed. Save your money, don\u2019t waste it on this!",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, these slippers are a complete letdown. They feel super cheap and quickly lose shape. I expected comfort, but they are uncomfortable and don\u2019t stay on my feet. The sizing is way off too \u2013 I\u2019m usually a size medium but these are huge! Wasted my money, would not recommend to anyone. Even the color is meh. Save your cash and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "These are the worst slippers ever. They are super uncomfortable and honestly feel cheap. My feet hurt after just a few minutes of wearing them. The fabric is scratchy and it doesn\u2019t even keep my feet warm. Plus, they slipped off so easily that I almost tripped twice. I thought they\u2019d be cozy like they claim, but they totally missed the mark. Don't waste your money on this junk. I regret buying them.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "222",
+    "name": "CloudNest Sofa",
+    "price": "29999",
+    "ranking": 1,
+    "availability": 16,
+    "description": "Elevate your living space with the epitome of comfort and style, a masterpiece that transforms any room into a serene sanctuary. Imagine sinking into a haven of relaxation where every cushion is designed to cradle you just right. With its plush, pillowy softness complemented by a chic, modern silhouette, this sofa redefines cozy lounging. Softened edges and a minimalist frame come together, making it not just a piece of furniture but the centerpiece of your home\u2014a space where warmth, style, and function harmoniously coexist.\n\nCrafted with durable, high-quality fabrics, this beauty promises not only aesthetic appeal but also resilience against the rigors of everyday life. The innovative memory foam cushions adapt effortlessly to your body shape, ensuring optimal support whether you\u2019re hosting a gathering",
+    "images": [
+        "product_222_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Terrible sofa. I don\u2019t get how anyone thinks this is comfy. The cushions are hard like a rock and it smells weird. Falls apart too. The fabric is cheap and not like the pictures. I sat down and felt like i was sinking. It's imposible to get up without help. Don\u2019t waste your money! Would NOT recommend this to anyone. Total disaster. Just stick to real couches.",
+            "language": "English"
+        },
+        {
+            "review": "I was really disappointed with this sofa. First off, the cushions are too soft and just sink down when you sit. The fabric feels cheap and is already piling after a few weeks. It\u2019s also way smaller than I expected, not comfy for more than one person. Assembly was a nightmare, nothing fit right. I totally regret this purchase. Save your money and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "completely not worth it. when i first got this sofa i thought it would be great but it\u2019s soooo uncomfortable. feels like sitting on rocks! the cushions are wayyy too firm and i regret spending my money. also, it stains easily and it\u2019s super hard to clean. it looks nice but u can\u2019t actually SIT on it. what a waste. dont buy!",
+            "language": "English"
+        }
+    ]
+}

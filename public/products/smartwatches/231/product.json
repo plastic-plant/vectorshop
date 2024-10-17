@@ -1,0 +1,25 @@
+{
+    "nr": "231",
+    "name": "ChronoSync Pro",
+    "price": "29900",
+    "ranking": 1,
+    "availability": 8,
+    "description": "Elevate your lifestyle with the ultimate smartwatch designed to keep you effortlessly connected and in control \u2013 meet the \"CSP.\" This cutting-edge wearable combines sleek design with innovative technology to become an essential extension of your daily life. Whether you\u2019re a busy professional, an avid fitness enthusiast, or someone looking to stay organized, the CSP caters to your individual needs while delivering style that complements any outfit.\n\nImagine a device that not only tracks your fitness goals with precise metrics but also monitors your sleep patterns, heart rate, and stress levels. The CSP's advanced health tracking features empower you to take charge of your well-being, offering personalized insights and reminders to help you make informed lifestyle choices. With built-in GPS, you can explore new trails or navigate your city\u2019s",
+    "images": [
+        "product_231_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really didn't like this watch. It keeps losing sync with my phone and wasting battery. The notifications are always late, so I miss important calls. The screen is small and hard to read. Plus, the touch response is terrible\u2014half the time it doesn't even register my taps. Also, the app it comes with is super confusing; couldn't figure out how to set it up. Overall, just a big let down. Would not recommend at all.",
+            "language": "English"
+        },
+        {
+            "review": "This smartwatch is just a disappointment. It doesn\u2019t do half of what it claims. Notifications don\u2019t sync, battery drains fast, and the interface is clunky. Tried to connect it to my phone and it just wouldn't. It froze multiple times. Spent hours setting it up, and for what? Total waste of money. I wish I could return it, but of course, I\u2019m stuck with it. Save your money and avoid this. So bad.",
+            "language": "English"
+        },
+        {
+            "review": "got this smartwatch expecting it to be great but its so disappointing. battery life is terrible, i\u2019m lucky to get a day out of it. apps barely work and half the time it won\u2019t track my steps right, so whats the point? the screen is glitchy too, looks cheap, like it\u2019s fading already. then there\u2019s the syncing issue \u2014 i\u2019ve had to reconnect my phone like 10 times just today! i really regret buying this thing. should\u2019ve listened to the bad reviews",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "nr": "326",
+    "name": "Socktastic Voyage",
+    "price": "1299",
+    "ranking": 4,
+    "availability": 21,
+    "description": "Step into a world of comfort and style with our latest revolutionary sock experience\u2014the ultimate foot companion ready to elevate your everyday routine. Imagine slipping on a pair of luxurious, breathable socks designed to cradle your feet in plush softness while adding a pop of color to your wardrobe. Each pair is crafted from a premium blend of eco-friendly fibers that wick away moisture, keeping your feet dry and fresh from dawn until dusk. Whether you\u2019re conquering the office, lounging at home, or hitting the gym, these socks have your back with unmatched comfort and support.\n\nWhat sets this versatile gem apart is its innovative design featuring targeted cushioning zones that provide extra support where your feet need it most. Your arches will thank you as you navigate through your day with a spring in your",
+    "images": [
+        "product_326_01.png",
+        "product_326_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently picked up a pair of these fun socks, and I have to say, they\u2019re pretty great! The colors are super vibrant, really add a pop to my wardrobe. They feel soft on my feet, which is always a huge plus. Great for lounging around or even wearing out and about.\n\nThe fit is nice, not too tight but snug enough to stay in place throughout the day. I don\u2019t get that annoying slipping down my ankle, which is always such a bother. Plus,",
+            "language": "English"
+        },
+        {
+            "review": "I've been testing out these socks for a few weeks now, and overall I'm pretty happy with them! The material feels really soft and cozy, which is a must for me. They fit pretty well, snug but not too tight. I\u2019ve worn them all day, and they didn\u2019t slip down or bunch up, which is a win in my book. \n\nThey've held up well in the wash too\u2014no weird pilling or shrinking. The colors and patterns are fun and add a nice touch",
+            "language": "English"
+        }
+    ]
+}

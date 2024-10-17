@@ -1,0 +1,29 @@
+{
+    "nr": "519",
+    "name": "CloudCuddle Slippers",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 7,
+    "description": "Imagine stepping into a world of unparalleled comfort and warmth with our newest innovation in footwear. Designed for those who crave the delightful embrace of soft materials, our latest offering envelops your feet like a gentle hug, allowing you to indulge in serenity with every step. These cozy companions not only provide warmth but also feature a plush memory foam insole that conforms to your foot\u2019s unique shape, making you feel like you're walking on clouds. \n\nCrafted with an ultra-soft, breathable fabric, these slippers keep your feet cozy without overheating, ensuring that you can wear them throughout the day. The flexible rubber sole offers excellent grip and durability for both indoor lounging and quick trips outside, making them versatile enough to take you from the warmth of your home to your morning coffee",
+    "images": [
+        "product_519_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "vraiment de\u00e7ue. je m'attendais \u00e0 des chaussons comfy mais ils sont super durs. \u00e7a me fait mal aux pieds et en plus ils glissent partout. le petit prix n\u2019en vaut pas la peine. qualit\u00e9 nul,\u00e7a ne chauffe m\u00eame pas. je ne recommande pas.",
+            "language": "French"
+        },
+        {
+            "review": "these slippers were a huge let down. they are not at all comfy like i expected. the material feels cheap and they don't even fit right, super tight and awkward. ive tried wearing them a few times but ended up giving up. they make my feet feel hot and sweaty. for the price, i thought i would be getting something nice but honestly, you would be better off with a pair from the dollar store. save your money!",
+            "language": "English"
+        },
+        {
+            "review": "These slippers are the worst. I was so excited but they fell apart in like a week. They don't fit right either, so uncomfortable. I thought I was buying something cozy but it feels like I'm wearing cardboard. \ud83e\udd37\u200d\u2640\ufe0f I can't walk more than a few steps without my feet hurting. Definitely wouldn\u2019t recommend. Total waste of money. Save your cash for something better.",
+            "language": "English"
+        },
+        {
+            "review": "these slippers are terrible! they feel cheap and dont fit right. i was excited to try them but they hurt my feet. the lining is scratchy and feels like cardboard. i thought they would be warm but my toes froze as soon as i put them on. i honestly regret buying them. save ur money and look for something better, you\u2019ll thank yourself later.",
+            "language": "English"
+        }
+    ]
+}

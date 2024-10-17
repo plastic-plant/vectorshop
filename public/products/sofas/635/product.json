@@ -1,0 +1,23 @@
+{
+    "nr": "635",
+    "name": "LuxeNest Sofa",
+    "price": "59900",
+    "ranking": 5,
+    "availability": 10,
+    "description": "Transform your living space into a sanctuary of comfort and style with this unparalleled seating solution that redefines relaxation. Crafted with the finest materials, the LuxeNest's plush cushions invite you to sink in, providing the perfect balance between softness and support. Its premium upholstery is not only a feast for the eyes but durable enough to withstand the rigors of daily life, maintaining its pristine appearance through years of cozy evenings and spontaneous gatherings.\n\nSmart design meets functional elegance with versatile options to customize your experience. Available in a palette of sophisticated colors and textures, this masterpiece integrates seamlessly with any decor, allowing you to express your unique style. Plus, its modular structure makes it easy to rearrange and adapt to your space, whether you're hosting friends for movie night or enjoying a",
+    "images": [
+        "product_635_01.png",
+        "product_635_02.png",
+        "product_635_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've had my new sofa for a few weeks now, and I am absolutely in love! The comfort level is off the charts; it\u2019s like sitting on a cloud. After coming home from a long day, just sinking into it feels so luxurious. \n\nThe design is chic and modern, fitting perfectly with my living room decor. The fabric is really soft and durable; I can tell it\u2019s going to hold up well over time. Plus, it\u2019s so easy to clean, which is a big",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely thrilled with my new sofa! This piece has transformed my living room into a cozy haven. The cushions are incredibly plush, making it the perfect spot for movie nights or just chilling with a good book. The design is sleek and modern, fitting seamlessly with my decor. I also love that it's easy to clean \u2013 a must for anyone with kids or pets. The quality is evident in every stitch, and it feels like it was tailor-made for our space. Can\u2019t say enough good things; it",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "449",
+    "name": "CozyCloud Slippers",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 1,
+    "description": "Wrap your feet in the ultimate luxury with our plush and potently cozy slippers, designed for the dreamers and comfort-seekers. Each step feels like walking on a cloud, thanks to the ultra-soft memory foam insole that cradles your feet, providing unparalleled support and cushioning. Whether you're enjoying a quiet evening at home or bustling around the house, these fuzzy companions will keep your toes snug and warm through every season.\n\nDesigned with practicality in mind, our slippers feature a non-slip, durable sole that provides both safety and stability atop hardwood or tile floors. No more worrying about those unexpected slips! The breathable fabric allows for airflow, ensuring your feet stay comfy without overheating, making them ideal for all-day wear. Plus, the easy-to-clean",
+    "images": [
+        "product_449_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "These slippers are so disappointing. They fall apart way too quickly and are super uncomfortable. I expected some coziness but they just feel cheap. The sizing is off too \u2013 I ordered my size and they\u2019re way too tight. Can\u2019t even wear them for more than 10 min without my feet hurting. Wish I would have read the other bad reviews before wasting my money. Never buying this brand again.",
+            "language": "English"
+        },
+        {
+            "review": "They don't fit right at all. Way too tight and uncomfortable, felt like I was walking on rocks. The material is cheap and smells funny. The sole is really thin, no support whatsoever. Honestly, I've had better luck with old socks. I don't know how they got so many good reviews. Wouldn't recommend them to anyone. Total waste of money.",
+            "language": "English"
+        },
+        {
+            "review": "These slippers are a total letdown. I ordered them hoping for some comfort but ended up with stiff, poorly made shoes. The sizing is way off too \u2013 they felt two sizes too small! The material is scratchy and not cozy at all. Seriously, I just wanted something soft to walk around in, but these make my feet ache. Not worth the money. Do yourself a favor and skip these!",
+            "language": "English"
+        },
+        {
+            "review": "Die Hausschuhe sind schlecht. Sie sind zu klein und unbequem. Ich hab sie ein paar Mal getragen und sofort Blasen bekommen. Die qualit\u00e9 ist total mies, der Stoff f\u00fchlt sich irgendwie billig an und man schwitzt darin wie verr\u00fcckt. Nach einer Woche haben sie schon die Form verloren und sehen aus wie M\u00fcll. Ich kann das nicht empfehlen, viel zu viel Geld f\u00fcr so einen Schrott! Absolute Entt\u00e4uschung!",
+            "language": "German"
+        }
+    ]
+}

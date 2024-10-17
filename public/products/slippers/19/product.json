@@ -1,0 +1,32 @@
+{
+    "nr": "19",
+    "name": "CloudCuddle Slippers",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 17,
+    "description": "Step into a realm of unparalleled comfort and relaxation with our luxurious foot-huggers. Perfectly designed to envelop your feet in plush softness, these slippers transform your everyday routine into a soothing experience. Imagine slipping off your shoes after a long day and immersing your feet in a cloud of coziness that gently cradles every contour. With its velvety surface and cushioned soles, you\u2019ll feel as though you\u2019re walking on air.\n\nCrafted with the ultimate blend of style and functionality, these foot-friendly companions feature a slip-resistant sole that allows you to glide effortlessly across any surface. Whether you're padding around the house or stepping out to grab the morning paper, you can trust in their stability and support. The breathable fabric ensures optimal ventilation,",
+    "images": [
+        "product_19_01.png",
+        "product_19_02.png",
+        "product_19_03.png",
+        "product_19_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been trying out these slippers for a couple of weeks, and I\u2019m kind of on the fence about them. On one hand, they're really soft and cozy when you first put them on. The cloud-like cushion is nice, and it feels like walking on a little pillow. \n\nBut after wearing them for a while, I noticed they don\u2019t have the best grip on the bottom. I slipped a few times on my hardwood floors, which was a bit annoying. Also, they don\u2019t",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these slippers for a little while now, and honestly, they\u2019re just okay. They feel decent but could definitely be better. The cushioning is nice at first, but it doesn\u2019t hold up after a few hours. They also run a bit small, which was kinda a letdown because I went up a size as suggested. The style is cute, but the material feels kinda cheap. I really wanted to love them since everyone was raving about them, but they don't quite live",
+            "language": "English"
+        },
+        {
+            "review": "I have to be honest, these slippers are just okay. The design is really cute, and they definitely have that cozy feel. The material is soft, but they tend to get a bit warm after wearing them for a while. The comfort level is decent, but I've had better. \n\nThey also slip off my feet sometimes when I walk around the house, which is super annoying. I kind of expected them to be a bit more snug. The bottom has decent grip, so I haven't slipped yet",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these slippers because of all the hype around them, but honestly, they\u2019re a bit of a mixed bag. They look super cute and fluffy, which is a plus. But the comfort level? It's just okay. They feel nice when you first put them on, but after a while, they kind of lose their shape and support. \n\nThe inner lining is soft, sure, but it feels almost too thin, and I worry about durability. Walking around on my hardwood floors, I",
+            "language": "English"
+        }
+    ]
+}

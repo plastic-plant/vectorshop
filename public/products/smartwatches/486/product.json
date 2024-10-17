@@ -1,0 +1,25 @@
+{
+    "nr": "486",
+    "name": "ChronoSync Pro",
+    "price": "34900",
+    "ranking": 2,
+    "availability": 8,
+    "description": "Experience the future of timekeeping with our cutting-edge smartwatch, the ultimate companion for your busy lifestyle. Designed with sleek aesthetics and a lightweight feel, this elegant wearable not only enhances your wardrobe but also takes your productivity to the next level. With its intuitive touch screen and customizable watch faces, you can elevate your personal style effortlessly while staying connected at a glance.\n\nImagine syncing seamlessly with your smartphone, receiving notifications, and managing calls without missing a beat\u2014all while tracking your fitness journey with precision. Our advanced health monitoring features, including heart rate monitoring, sleep analysis, and activity tracking, empower you to take charge of your well-being. Whether you\u2019re hitting the gym, attending a crucial business meeting, or enjoying a night out, this smartwatch is your reliable partner",
+    "images": [
+        "product_486_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this smartwatch. The design looks good, but that\u2019s about where the positives stop. The battery life is a huge letdown. I expected it to last at least a couple of days, but it barely makes it through a full day with minimal usage. Frustrating! \n\nAlso, the syncing with my phone could be better \u2013 it sometimes struggles to connect or lags, which is super annoying when I\u2019m expecting notifications. The health features are decent, but they often",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this smartwatch, but it's pretty disappointing. The setup was confusing, and I had a hard time getting it to sync with my phone. \n\nOccasionally, it tracks my steps, but most of the time it\u2019s inaccurate. The battery life isn\u2019t what I expected either; I have to charge it daily, which is such a hassle. \n\nThe apps it offers are also pretty basic, and I was hoping for more options. Overall, it feels underwhelming and",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to like this smartwatch. It has some good features, like tracking steps and heart rate, but it just doesn't deliver. The battery life is really disappointing\u2014barely lasts a day with normal use. The app didn't sync well with my phone, which was super frustrating. Plus, the design feels cheap. Honestly, I've had better experiences with other brands. Thought this would be a real upgrade, but it\u2019s just kinda mediocre. Not what I expected.",
+            "language": "English"
+        }
+    ]
+}

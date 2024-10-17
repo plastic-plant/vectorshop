@@ -1,0 +1,25 @@
+{
+    "nr": "502",
+    "name": "ChronoSync Pro",
+    "price": "24900",
+    "ranking": 5,
+    "availability": 20,
+    "description": "Unleash the future of wearable technology with our cutting-edge smartwatch, the ultimate companion for your modern lifestyle. Crafted with precision and style, this sleek device seamlessly blends advanced functionality with stunning design. Featuring a vibrant, always-on display and lightweight materials, this smartwatch makes every interaction a joy, whether you're at the gym, in the office, or enjoying a night out. With numerous customizable watch faces, it adapts to your personal aesthetic, ensuring that you always look your best.\n\nExperience the power of health and wellness tracking right on your wrist. This remarkable device monitors your heart rate, sleep patterns, and activity levels, providing real-time insights to help you optimize your daily routine. With built-in GPS and access to a plethora of fitness apps, you",
+    "images": [
+        "product_502_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019m absolutely in love with this smartwatch! It has completely transformed how I manage my daily tasks. The syncing feature is superb\u2014everything from messages to calendar events flows seamlessly to my wrist. I never miss an important meeting or text anymore. \n\nThe design is sleek and modern, which matches my style perfectly. I also love the customization options; I can change the watch face to suit my mood or outfit. The battery life is impressive too! I can wear it all day and even during workouts,",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019m absolutely in love with this smartwatch! It\u2019s been a game changer for me. The design is sleek and stylish, making it perfect for any occasion. I appreciate how lightweight it feels on my wrist\u2014I barely notice it's there. The display is crystal clear, and the touch response is super smooth, which makes navigating through apps a breeze.\n\nOne of my favorite features is the health tracking; I can easily monitor my heart rate, steps, and even sleep patterns. It\u2019s like having a personal",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this smartwatch for a few months now, and I can\u2019t express how much I love it! The look is super sleek and stylish, perfect for any occasion. The tracking features are absolutely brilliant, whether I'm walking, running, or even just going about my day. The heart rate monitor seems accurate, and I love how it syncs with my phone effortlessly.\n\nNotifications are clear and easy to read without being too disruptive. The battery life is fantastic; I hardly ever have to charge",
+            "language": "English"
+        }
+    ]
+}

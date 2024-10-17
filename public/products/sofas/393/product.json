@@ -1,0 +1,21 @@
+{
+    "nr": "393",
+    "name": "Couchscape Serenity",
+    "price": "59900",
+    "ranking": 4,
+    "availability": 2,
+    "description": "Transform your living space into a sanctuary of comfort with our latest gem in luxury seating. This exquisite sofa blends modern elegance with unparalleled coziness, inviting you to unwind after a long day. The plush cushions are designed with high-density memory foam that adapts to your body, creating a cloud-like experience that feels as though it was custom-made just for you. Available in a range of sophisticated colors, this piece not only enhances your decor but also seamlessly integrates into any style, be it minimalistic chic or cozy rustic.\n\nCrafted with meticulous attention to detail, this sofa boasts a sturdy, hardwood frame that ensures durability without compromising on style. The upholstery is not only soft to the touch but also stain-resistant, making it perfect for homes with kids and pets",
+    "images": [
+        "product_393_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently purchased this sofa and I'm really happy with it! The design is so modern and fits perfectly in my living room. The fabric is soft and comfortable, making it a great spot to relax after a long day. It was easy to assemble, which was a nice surprise. \n\nI love how sturdy it feels\u2014no wobbles or instability at all. The color options are great, and I appreciate how it looks both chic and cozy. My family has already given it a thumbs up for",
+            "language": "English"
+        },
+        {
+            "review": "I recently upgraded my living room with this sleek sofa, and I\u2019m pretty pleased with it so far. The design is super modern and fits perfectly into my space, plus it\u2019s really easy to clean, which is a huge bonus. The cushions are quite comfy, and I love how firm they are while still giving you that cozy feel. \n\nThe only downside is that the color choices were limited. I ended up settling for gray when I really wanted navy blue. But honestly, it looks great,",
+            "language": "English"
+        }
+    ]
+}

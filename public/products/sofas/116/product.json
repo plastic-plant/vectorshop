@@ -1,0 +1,33 @@
+{
+    "nr": "116",
+    "name": "CloudNest Sofa",
+    "price": "84900",
+    "ranking": 3,
+    "availability": 4,
+    "description": "Experience the epitome of comfort and style with our revolutionary sofa, lovingly known as the \"Cuddler.\" This exquisite piece of furniture is designed not just for sitting, but for immersing yourself in a cloud-like oasis where relaxation knows no bounds. Sink into its plush cushions, crafted with a patented soft-touch fabric that caresses your skin, making every movie night or afternoon nap feel like a getaway to a serene retreat.\n\nThe Cuddler is not only about indulgent softness; it's also built to last. Its sturdy frame is constructed from high-quality hardwood, ensuring lasting durability while maintaining its elegant, minimalist aesthetic. Choose from an array of stunning colors and textures that seamlessly blend with any home d\u00e9cor, making it the perfect centerpiece for your living space",
+    "images": [
+        "product_116_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "J'ai r\u00e9cemment achet\u00e9 ce canap\u00e9 et je suis un peu partag\u00e9. D'un c\u00f4t\u00e9, il est plut\u00f4t moderne et a un bon style. La couleur est jolie et s'agence bien avec ma d\u00e9co. Par contre, je trouve qu'il n'est pas tr\u00e8s confortable pour un usage prolong\u00e9. Les coussins manquent un peu de soutien, surtout si on reste assis longtemps. Et la qualit\u00e9 des mat\u00e9riaux, honn\u00eatement, pourrait \u00eatre meilleure pour le prix. Je m'attendais \u00e0 quelque chose d",
+            "language": "French"
+        },
+        {
+            "review": "I was really excited to get this sofa but it\u2019s just okay. It looks nice and fits my living room, but the comfort level isn\u2019t as great as I hoped. The cushions are kind of stiff, not as plush as I expected. The fabric feels decent but it picks up lint like crazy; I\u2019m always having to clean it. Assembly was pretty straightforward, but one of the legs didn\u2019t fit right and I had to fuss with it for a bit.\n\nIt\u2019s not awful, but",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this sofa, and I have mixed feelings about it. On one hand, it looks great in my living room and fits the space nicely. The design is sleek, which is a plus. However, when it comes to comfort, it's just okay. The cushions could use a bit more support \u2013 they sink a little too much for my preference. I was also expecting a softer feel but it's kinda firm, so I don\u2019t find myself lounging for too long.\n\nAssembly wasn't too difficult,",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this sofa for a little while now, and I have mixed feelings about it. On one hand, it's stylish and fits perfectly with my living room d\u00e9cor. The design is modern, and I love the color options. However, the comfort level isn\u2019t quite what I expected. It feels great at first, but after sitting for a while, it gets a bit stiff. \n\nThe materials seem decent, but I worry about durability. I have a cat, and the fabric doesn\u2019t",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had this sofa for a few months now. Honestly, it\u2019s just okay. It looks nice, but the comfort level isn\u2019t what I expected. It\u2019s kinda firm, which is fine for short sitting, but if you plan to lounge for long, it gets a bit uncomfortable. \n\nThe installation was fairly straightforward, which was a plus. I appreciate the sleek design, though the fabric does feel cheaper than what I thought I was getting. I was looking for something more cozy, ya",
+            "language": "English"
+        }
+    ]
+}

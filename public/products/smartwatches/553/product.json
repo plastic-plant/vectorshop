@@ -1,0 +1,25 @@
+{
+    "nr": "553",
+    "name": "ChronoCortex",
+    "price": "19900",
+    "ranking": 5,
+    "availability": 4,
+    "description": "Introducing the ultimate fusion of style and technology, the smartest accessory you\u2019ll ever own. Designed for those who refuse to compromise on functionality or elegance, this smartwatch redefines what it means to be connected. With an ultra-sleek interface and customizable watch faces, you\u2019ll not only track your day but make a statement while doing it. Whether you\u2019re in a meeting, at the gym, or enjoying a night out, it seamlessly integrates into your lifestyle, offering an effortless blend of form and function.\n\nStay on top of your health with cutting-edge features that monitor your heart rate, sleep patterns, and even stress levels in real time. The advanced health tracking technology empowers you to take charge of your well-being, providing personalized insights that motivate you to reach",
+    "images": [
+        "product_553_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with my new smartwatch! The features are incredible \u2013 tracking my heart rate and sleep patterns really helps me stay on top of my health goals. I especially love the customizable watch faces; it's so fun to match it with my outfits. Notifications are quick and easy to read, which means I never miss an important message.\n\nBattery life is impressive too \u2013 I can go days without needing to charge! It syncs effortlessly with my phone, and the voice commands are super responsive. I",
+            "language": "English"
+        },
+        {
+            "review": "This smartwatch has completely exceeded my expectations! The design is so sleek and stylish, making it perfect for any occasion. The touchscreen is super responsive, and I love how easy it is to navigate through the apps. \n\nThe fitness tracking features are on point! From heart rate monitoring to step counting, it keeps me motivated to stay active throughout the day. I really appreciate the customizable watch faces as well \u2013 I can switch it up to match my mood or outfit.\n\nI also can\u2019t get enough of the",
+            "language": "English"
+        },
+        {
+            "review": "Wow, wat een fantastische smartwatch! Deze slimme horloge heeft echt mijn leven veranderd. De interface is supergebruiksvriendelijk en ik vind het geweldig hoe ik al mijn meldingen rechtstreeks op mijn pols kan zien. Heel handig tijdens het werken en sporten!\n\nDe fitnessfuncties zijn top! Ik kan mijn hartslag, stappen en zelfs mijn slaappatroon bijhouden. En de batterijduur? Geweldig, ik hoef het niet elke avond op te laden!\n\nOok de persoonlijke aanpass",
+            "language": "Dutch"
+        }
+    ]
+}

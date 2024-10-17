@@ -1,0 +1,29 @@
+{
+    "nr": "182",
+    "name": "Socktastic Voyage",
+    "price": "1299",
+    "ranking": 3,
+    "availability": 12,
+    "description": "Step up your sock game with a pair of unparalleled foot companions that redefine comfort and style. These dynamic footwear wonders are expertly crafted from a blend of ultra-soft materials that embrace your skin like a gentle hug, providing all-day coziness whether you\u2019re lounging at home or on an adventurous outing. Available in a variety of vibrant colors and playful patterns, they are the perfect accessory to express your personality and keep your feet happy.\n\nFunction meets flair in these remarkable socks, designed with innovative moisture-wicking technology that keeps your feet dry and comfortable throughout the day. Say goodbye to pesky odors and clammy toes! The breathable design ensures optimal ventilation, making them the perfect partner for any activity\u2014whether you\u2019re hitting the gym, running errands, or simply enjoying a",
+    "images": [
+        "product_182_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "These socks are pretty average. They feel okay but nothing too special. The colors are nice\u2014but that\u2019s about it. I expected better comfort and cushioning. Sometimes they slide down a bit, especially when I\u2019m moving around a lot. They\u2019re not terrible but I wouldn\u2019t rave about them. Maybe good for lounging but not for staying active. Just okay, really.",
+            "language": "English"
+        },
+        {
+            "review": "I got these socks after hearing some good stuff, but they\u2019re just okay. The designs are pretty cool and vibrant, which I liked at first. However, after a couple of washes, they started to lose their colors and softness. Also, the fit is a bit off. They\u2019re kinda tight around the middle but loose at the top, so it\u2019s a weird combo. I expected more for the price. I suppose they\u2019re fine for wearing around the house, but I wouldn't recommend them for",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these new socks, and while they have a few good qualities, they're just okay overall. The design is pretty cool and they definitely stand out in my drawer. They fit well initially, but after a couple of washes, I noticed they started to lose their shape a bit. \n\nThe material feels nice and soft on my feet, but they don't keep their warmth as nicely as I'd hoped. It's fine for casual wear, but I wouldn\u2019t recommend them for really cold days. \n\nI",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these socks, and honestly, they\u2019re okay. The fit is decent, not too snug but not loose either, which I appreciate. They come in some fun colors and patterns, but the material feels a bit thin. I've noticed they started to show signs of wear after only a few washes. The comfort level is fair, but I was kind of expecting more. They do keep my feet warm, but I wouldn't say they are the greatest I\u2019ve tried. So yeah, not bad",
+            "language": "English"
+        }
+    ]
+}

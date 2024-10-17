@@ -1,0 +1,21 @@
+{
+    "nr": "733",
+    "name": "Socktastic Voyage",
+    "price": "1299",
+    "ranking": 2,
+    "availability": 2,
+    "description": "Step into a world of comfort and creativity with our extraordinary sock collection, your passport to an unparalleled experience in foot fashion! Designed for those who dare to express their individuality, each pair is crafted from breathable, ultra-soft materials that wrap your feet in a gentle embrace. Your toes will thank you as you glide smoothly through your day, whether you\u2019re at work, lounging at home, or hitting the town.\n\nNot only do these socks prioritize comfort, but they also boast vibrant designs that reflect your unique style. From whimsical patterns to trendy color pop, every pair features eye-catching prints that are as adventurous as you are. Say goodbye to the mundane and step into a fashion statement that speaks to your personality! With reinforced toes and heels, durability is seamlessly woven",
+    "images": [
+        "product_733_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really looking forward to these socks, but they kinda missed the mark. First off, they feel a bit rough. I expected buttery softness, but instead, I got that scratchy feel. They also don\u2019t stay up well; I found myself pulling them up way too often while wearing them. Plus, the patterns are cute, but they started to fade after a few washes, which is disappointing. Overall, these socks are just okay, probably wouldn\u2019t buy again.",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love these, but honestly, they just missed the mark. The design is kinda fun, but after a few washes, they lost their color and started to fray. They don\u2019t stay up on my calves either; I found myself adjusting them all day. Not super comfy either, a bit scratchy against my skin. I expected more for the price. Definitely not the best socks I\u2019ve tried. Might work for some, but I won\u2019t be getting them again.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "632",
+    "name": "ChronoSync Smartwatch",
+    "price": "29900",
+    "ranking": 1,
+    "availability": 18,
+    "description": "Experience the future of timekeeping and connectivity with the Ultimate TechTime wearable. This state-of-the-art smartwatch seamlessly integrates your daily life, offering a stunning blend of style, functionality, and innovation that suits every lifestyle. With its sleek design and customizable watch faces, your wrist will not only tell time but also make a bold fashion statement wherever you go.\n\nStay in tune with your health and wellness thanks to an array of advanced monitoring features, including heart rate tracking, sleep analysis, and stress management tools. The Ultimate TechTime wearable empowers you to take control of your well-being, providing insights to help you achieve your fitness goals. Whether you\u2019re hitting the gym or winding down after a long day, you'll feel supported every step of the way.\n\nDon't miss",
+    "images": [
+        "product_632_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "waste of money honestly. The watch barely works. It hardly connects to my phone and the battery drains way too fast. I'll spend all day trying to charge it up just for it to die in a few hours. The steps and heart rate monitor seem super inaccurate too, it just feels like a toy trying to be a real watch. Wish I could return it but I guess I\u2019m stuck. \n\nDon\u2019t bother with this thing. Look for something else.",
+            "language": "English"
+        },
+        {
+            "review": "This watch is a joke. Stopped working after a week. Battery drains so fast I can't even get through the day. Tried to sync it with my phone and it just won't connect. Screen is super laggy and sometimes just freezes. The health tracking is so off \u2013 I think it counts my steps while I\u2019m sitting! Total waste of money. I wish I could return it, but I lost the stupid box. Save your cash, find something better.",
+            "language": "English"
+        },
+        {
+            "review": "Not worth the money. Keeps losing connection to my phone and the notifications are all messed up. Battery life is terrible \u2013 I have to charge it every night, and it barely lasts me through the day. The design looks cheap, and the screen lags a lot. Tried to sync my health data but it never works properly. Super frustrating. I honestly regret buying it. Don\u2019t waste your money, it\u2019s just not good.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "485",
+    "name": "Socktastic Voyage",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 23,
+    "description": "Embark on a cozy journey with our extraordinary sock collection, where comfort meets creativity in every step. Engineered from a luxurious blend of breathable cotton and a touch of elastane, these delightful foot-huggers are designed to keep you feeling fresh and free, whether you\u2019re navigating the hustle and bustle of daily life or lounging at home. Say goodbye to discomfort and hello to bliss, as our innovative moisture-wicking technology ensures your feet stay dry and comfortable all day long.\n\nEach pair is a masterpiece, featuring vibrant colors and whimsical patterns that inspire both style and personality. From playful polka dots to adventurous animal prints, there's a design for every mood and occasion, making them the perfect accessory for any outfit \u2014whether you\u2019re dressed up for a night",
+    "images": [
+        "product_485_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for these socks, but honestly, they just didn\u2019t do it for me. The design is cool, but they don\u2019t fit quite right. They slip down my heel when I wear them, which is super annoying. I had to keep pulling them up all day! Plus, the material feels kinda cheap, not soft and cozy like I expected. They kinda lose shape after a wash too. I mean, they\u2019re okay for lounging around the house, but I wouldn\u2019t wear",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these socks, but they just didn't cut it for me. The colors are fun, but they kept slipping off my heels. Super annoying when you're trying to move around! Also, the fabric didn't feel as soft as I expected it to be; kinda scratchy after wearing them all day. Plus, they lost their shape after one wash. I mean, come on, how hard can it be to make decent socks? I wanted to love them, but I guess I just",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these socks, but they just didn't live up to the hype. The colors were fun, but after one wash, they started to look faded and stretched out. The material felt ok at first, but they do not stay in place at all\u2014they keep slipping down and bunching up in my shoes which is super annoying. I expected more comfort, but honestly, they get pretty itchy after wearing them for a while. I've got better socks in my drawer collecting dust because I've been",
+            "language": "English"
+        },
+        {
+            "review": "I was excited to try these socks, but they turned out to be a bit of a letdown. The design looked cool, but the fit was kind of weird; they don't stay up and just slide down my legs all the time. I've tried washing them a couple of times hoping they'd shape up, but nope. Plus, they feel kinda scratchy after a while. For the price, I expected better quality. Not really worth the hype, honestly. Just average socks that I wouldn't recommend if",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping these socks would be great, but they\u2019re just okay. The design is fun, and they look cute, but that's where the positives end. The comfort level is average at best\u2013 after a few hours, they start to slide down and bunch up weirdly. Plus, they don\u2019t keep my feet warm like I imagined they would. I\u2019ve also noticed they snag easily and some threads are coming loose after only a couple of washes. I mean, I was excited to wear",
+            "language": "English"
+        }
+    ]
+}

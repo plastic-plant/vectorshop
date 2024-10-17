@@ -1,0 +1,26 @@
+{
+    "nr": "301",
+    "name": "\"SnugStep Blisswear\"",
+    "price": "1299",
+    "ranking": 2,
+    "availability": 18,
+    "description": "Discover the ultimate in cozy comfort with our plush cushioning technology, meticulously designed to cradle your feet in a gentle embrace. These socks feature a unique blend of ultra-soft fabrics that regulate temperature, ensuring your feet stay warm in the winter and cool in the summer. Slip into serenity as the plushness liberates you from the ordinary, transforming every step into a luxurious experience.\n\nEngineered with non-slip grip technology, these socks provide unparalleled traction, allowing you to move confidently on any surface. Whether you're settling in for a movie night, indulging in a self-care day, or enjoying a family gathering, their sleek design adds a touch of elegance to your lounge wear. And forget the hassle of constant readjustment; thanks to their innovative fit, these beauties",
+    "images": [
+        "product_301_01.png",
+        "product_301_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really hoping these socks would be great since they looked cozy, but honestly, they just didn\u2019t impress me. The material feels kind of cheap, and they don\u2019t stay up like they should. After wearing them for a day, they started to stretch out, and I found myself constantly pulling them up. The colors are nice, though, but that\u2019s not enough for a sock I can't trust. I wanted to love them, but it's just not working out for me. I think I'll",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these socks based on the hype, but honestly, they don\u2019t impress me much. The fit is weird; they slide down way too often. I expected softness, but they\u2019re just okay\u2014not the cozy feel I was looking for. Plus, they pill like crazy after a few washes. It\u2019s not worth the price tag. I\u2019ll probably just wear them around the house instead of out. Not a total loss, but I doubt I\u2019d buy again.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these socks, but they just didn't deliver. First off, they looked so nice when I ordered them, but when they arrived, they felt kinda cheap. The comfort was okay at first, but after a few wears, they lost their softness and started feeling scratchy. And don\u2019t even get me started on the fit. They kept slipping down my ankle, which is so annoying. I expected better for the price I paid. Not sure I would recommend these.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "384",
+    "name": "CloudStep Slippers",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 21,
+    "description": "Experience the delightful sensation of walking on clouds with our premium fuzzy footwear, designed for maximum comfort and style. Engineered for those who cherish cozy moments at home, these slippers transform your everyday routine into a luxurious experience. Imagine slipping your feet into a plush embrace that cradles your arches, providing instant relief after a long day. Say goodbye to cold floors and sore soles\u2014this is where comfort meets sophistication.\n\nThese slippers are crafted with a unique, memory foam insole that molds to the shape of your foot, offering personalized support and cushioning with every step you take. The ultra-soft outer layer, reminiscent of the coziest blanket, wraps your feet in warmth without sacrificing breathability. Whether you\u2019re enjoying your morning coffee or winding down with a",
+    "images": [
+        "product_384_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought these slippers hoping for a comfy experience but honestly, they\u2019re just okay. The comfort was decent at first, but after wearing them for a few hours, they start to feel kinda flat and lose their bounce. The material feels a bit cheap, and I've noticed some loose threads already. They do keep my feet warm, which is a plus, but not great if you have sweaty feet because it can get warm inside. \n\nI also wish they offered more arch support; my feet sometimes ache",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these slippers for a few weeks now, and honestly, they're kind of okay. The design is nice and they look good on my feet, but the comfort isn't really what I expected. They feel a bit stiff and take a while to break in. \n\nAlso, the sole isn\u2019t as cushioned as I would have liked. I don\u2019t feel much support when I walk around the house for longer periods. They keep my feet warm, which is a plus, but I just wish",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had these slippers for a few weeks now and honestly, they are okay but not great. The cushioning is decent, and it feels nice at first, but after a bit, they start to flatten out. Also, they get really warm, which is fine for winter but definitely too hot in the summer. The foot support isn\u2019t as good as I hoped, and I can feel some pressure points after wearing them for a while. They look nice and the color options are cool, though.",
+            "language": "English"
+        },
+        {
+            "review": "I recently picked up these slippers and, well, they're a bit of a mixed bag. They have a nice cushiony feel, which I appreciate when I'm walking around the house. The soft fabric is pleasant on my feet, but I found the sizing a bit off. I usually wear a medium, but these feel slightly tight. After wearing them for a while, my toes start to feel cramped, which isn't the best for lounging at home.\n\nThe design is pretty cute, not gonna lie, but",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been trying these slippers for a while now, and honestly, they're just okay. The fit is a bit off; they feel slightly loose, which isn\u2019t super comfortable for walking around the house. The cushioning is decent, but I was hoping for something a bit more plush. They do keep my feet warm enough, especially on chilly mornings, but I expected a bit more after all the hype.\n\nThe style is pretty nice, and they look good, but functionality matters most to me. I",
+            "language": "English"
+        }
+    ]
+}

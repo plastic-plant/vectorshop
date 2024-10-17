@@ -1,0 +1,25 @@
+{
+    "nr": "118",
+    "name": "CloudCuddle Slippers",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 21,
+    "description": "Step into a world of unparalleled comfort with the ultimate cozy companion for your feet. Designed to envelop your toes in a warm embrace, these heavenly footwear essentials transform every step into a delightful experience. With their plush interior and soft, cloud-like exterior, you\u2019ll feel as if you\u2019re walking on a fluffy marshmallow, making them your go-to choice for those leisurely weekends at home or a relaxing evening by the fire.\n\nCrafted with an innovative memory foam insole, each pair molds perfectly to the contours of your feet, providing personalized support that adjusts with every wear. The high-quality, breathable fabric keeps your feet cozy without overheating, making them perfect for year-round use. Not only do these slippers pamper your feet, but they also feature a durable",
+    "images": [
+        "product_118_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Absolute waste of money. Slippers are super uncomfortable and feel cheap. They don\u2019t fit right at all, and my feet keep slipping out. After a couple of wear they just look worn out. Not warm and cushy like I thought, more like walking on a cold floor. Took forever to arrive too. Seriously disappointed. Wouldn\u2019t recommend to anyone. Save your cash!",
+            "language": "English"
+        },
+        {
+            "review": "i was super excited to get these slippers but they're so uncomfortable! they feel cheap and flimsy like they won't even last a week. the sizing is all wrong too, they're way too tight. also i found some threads coming loose already! for the price i expected way better. big letdown, wish i could return them!",
+            "language": "English"
+        },
+        {
+            "review": "I got these slippers hoping for comfort but honestly, they are the worst. Hard and stiff, felt like I was walking on rocks. They don't even fit right, too loose & floppy. Tried to use 'em for a few days but my feet hurt after a hour. Plus, they look cheap and the color faded right away. Really disappointed\u2026 won't ever buy again!",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "675",
+    "name": "ChronoSync 360",
+    "price": "19900",
+    "ranking": 3,
+    "availability": 9,
+    "description": "Elevate your everyday life with a state-of-the-art smartwatch designed for the modern multitasker. This remarkable timepiece goes beyond telling time; it revolutionizes how you connect, track, and thrive. With its sleek design and cutting-edge technology, you'll not only make a fashion statement but also enhance your productivity. Say goodbye to cumbersome devices and hello to effortless versatility\u2014this smartwatch is crafted for individuals who embrace both style and efficiency.\n\nStay in touch with the world around you without ever reaching for your phone. Featuring seamless notifications, you can receive calls, messages, and social media updates directly on your wrist, ensuring you never miss a beat. Its intuitive interface makes navigating through alerts a breeze, letting you decide what's essential in a flash. Plus,",
+    "images": [
+        "product_675_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this smartwatch a few weeks ago, and honestly, it\u2019s okay but not great. The design is pretty nice, and it looks good on my wrist. The features are decent too. I like that I can track my workouts and get notifications, but sometimes it just doesn\u2019t sync right. \n\nThe battery life is alright, but I feel like I\u2019m charging it more than I expected. Also, the interface can be a bit confusing. I find myself looking for things or pressing the wrong",
+            "language": "English"
+        },
+        {
+            "review": "Ik heb de smartwatch nu een paar weken en ik heb gemengde gevoelens. Het ontwerp is best sleek en draagt comfortabel, maar er zijn een paar dingen die me een beetje teleurstellen. De batterijduur is niet zo lang als ik had gehoopt, na een dag moet ik hem alweer opladen. Daarnaast is de software soms traag, vooral bij het openen van apps. \n\nDe fitnessfuncties zijn wel handig, maar ze zijn niet zo nauwkeurig als ik bij andere merken heb",
+            "language": "Dutch"
+        },
+        {
+            "review": "I\u2019ve been using this smartwatch for a couple of weeks, and it\u2019s kind of underwhelming. The design is nice enough and I like the variety of watch faces you can choose from, which is a plus. However, the fitness tracking is not as accurate as I expected. I went for a long run and it completely missed my distance! Notifications are a hit or miss; sometimes they come through quickly, but other times there's a delay that gets frustrating. The battery life could be better too",
+            "language": "English"
+        }
+    ]
+}

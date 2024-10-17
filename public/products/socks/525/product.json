@@ -1,0 +1,25 @@
+{
+    "nr": "525",
+    "name": "Sole Symphony Socks",
+    "price": "1299",
+    "ranking": 3,
+    "availability": 23,
+    "description": "Step into a world where comfort meets style with our latest footwear marvel, expertly designed to elevate your everyday experience. These innovative socks blend a luxurious feel with unmatched performance, ensuring that every step you take resonates with warmth and support. Imagine wrapping your feet in a soft embrace, crafted from premium blended materials that wick away moisture while providing breathability for all-day wear. Say goodbye to discomfort and hello to a plush experience that lets you glide through your daily routine effortlessly.\n\nEach pair of these exceptional socks is equipped with advanced arch support technology, designed to cradle your feet and promote a natural posture. Whether you're heading to the office, lounging at home, or embarking on a weekend adventure, the ergonomic fit molds seamlessly to your foot's contours, offering unparalleled stability and",
+    "images": [
+        "product_525_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to love these socks, but they're just okay. The design is cute, and I appreciate the idea behind them. They're comfortable for a while, but I\u2019ve noticed they start to slide down after a few hours, which is kind of annoying. They also don\u2019t seem to keep my feet as warm as I expected, especially on colder days. The fabric is decent but not the softest I\u2019ve used. I wish they had a bit more stretch and support. Overall, I don't",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these socks for a few weeks now, and honestly, they\u2019re just okay. They feel nice when you first put them on, definitely soft and comfy, but the cushioning doesn\u2019t last as long as I expected. The style is decent but not super exciting. They do keep my feet warm, which is a plus, but after washing a few times, they don\u2019t seem to hold their shape very well. They fit alright but could be a bit more snug around the arch.",
+            "language": "English"
+        },
+        {
+            "review": "I was pretty excited to try these socks, but they ended up being just okay. The fit is decent, but they don't stay in place as well as I'd hoped. They feel soft at first, but after a few washes, they started to lose some of that plushiness and got a bit of pilling. The color options are nice, though, and they look good with a lot of outfits. They keep my feet warm but aren't super breathable, so my feet can get a little sweaty if",
+            "language": "English"
+        }
+    ]
+}

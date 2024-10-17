@@ -1,0 +1,25 @@
+{
+    "nr": "128",
+    "name": "Sockura Threads",
+    "price": "599",
+    "ranking": 4,
+    "availability": 18,
+    "description": "Step into a world where comfort meets style with our innovative new sock line, affectionately known as \"Sock U.\" Designed for those who value both functionality and flair, these socks are not just an accessory; they are your new best friends for any occasion. Made from a premium blend of breathable, moisture-wicking materials, they keep your feet cool and dry whether you\u2019re sprinting through your daily errands or unwinding on a cozy evening at home.\n\nImagine slipping your feet into a second skin crafted with plush cushioning that supports every step you take. The carefully designed arch support alleviates pressure, making it perfect for long days at work or active weekends outdoors. Available in a kaleidoscope of vibrant colors and playful patterns, you can express your unique",
+    "images": [
+        "product_128_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ces chaussettes sont vraiment confortables et douces ! J'adore la fa\u00e7on dont elles s'ajustent \u00e0 mes pieds, c'est comme si je marchais sur des nuages. En plus, les motifs sont super sympas et ajoutent une touche de fun \u00e0 ma tenue. La couleur reste belle apr\u00e8s plusieurs lavages, ce qui est un gros plus. Par contre, je trouve qu'elles prennent un peu plus de temps \u00e0 s\u00e9cher que pr\u00e9vu. Mais bon, \u00e7a ne g\u00e2che",
+            "language": "French"
+        },
+        {
+            "review": "I recently tried these socks, and I must say, they're pretty great overall! The material feels nice and soft on the feet, which I absolutely love for everyday wear. They also come in such fun colors and patterns that really brighten up my wardrobe. I don\u2019t have any slipping or bunching at all, which is a major plus. My only gripe would be that I wish they were a bit more durable \u2013 after a few washes, they seem to lose a bit of their elasticity. Still,",
+            "language": "English"
+        },
+        {
+            "review": "These socks are pretty nice! The material feels great and they fit really well. I\u2019ve worn them for a few weeks now, and they hold up nicely in the wash too\u2014no weird shrinking or fluffballs. They\u2019re warm but breathable enough for the summer, which is a bonus. \n\nOnly thing I wish is that they came in more colors, but the selection they have is still decent. Overall, a solid buy! I\u2019d recommend them for daily wear.",
+            "language": "English"
+        }
+    ]
+}

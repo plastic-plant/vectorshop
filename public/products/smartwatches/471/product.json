@@ -1,0 +1,21 @@
+{
+    "nr": "471",
+    "name": "ChronoSync Pro",
+    "price": "24900",
+    "ranking": 3,
+    "availability": 7,
+    "description": "Step into the future of personal timekeeping and wellness with the ultimate wrist companion \u2013 the SmartWrist Elite. This cutting-edge smartwatch seamlessly merges style and functionality, designed for the modern individual who demands more from their daily accessories. Whether you\u2019re a fitness fanatic, a busy professional, or someone who loves to stay connected, this device offers unparalleled versatility to fit every lifestyle.\n\nExperience a vibrant, customizable display that not only tells the time but transforms your wrist into a canvas of personal expression. With thousands of watch faces to choose from, you can effortlessly match your mood or outfit while enjoying the crisp clarity of its high-resolution screen. Stay ahead of your daily agenda with smart notifications that keep you updated on calls, texts, and emails, all while maintaining a",
+    "images": [
+        "product_471_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this smartwatch for a few weeks now, and honestly, it\u2019s kind of hit or miss. The design is sleek and looks good on my wrist, but the battery life leaves a lot to be desired. I find myself charging it every other day. The fitness tracking features are decent, but I\u2019ve noticed some discrepancies in the heart rate monitor, which can be frustrating when I'm trying to stay on top of my workouts. The interface is a bit clunky; it takes a few",
+            "language": "English"
+        },
+        {
+            "review": "I purchased this smartwatch a few weeks ago, and I have to say, it\u2019s a mixed bag. On the one hand, it looks sleek and has a really nice display. You can definitely tell it's made with quality materials. But then, the battery life isn\u2019t great; I find myself needing to charge it every day which is kind of annoying. \n\nThe fitness tracking features are pretty decent. I like the heart rate monitor and step tracker. Sometimes the watch gets a bit laggy when I",
+            "language": "English"
+        }
+    ]
+}

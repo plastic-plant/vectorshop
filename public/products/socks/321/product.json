@@ -1,0 +1,22 @@
+{
+    "nr": "321",
+    "name": "Sole Symphony Socks",
+    "price": "499",
+    "ranking": 4,
+    "availability": 10,
+    "description": "Step into a world of comfort and style that harmonizes your personal expression with unparalleled coziness. Our advanced knit blend embraces your feet with a luxuriously soft touch, ensuring every step feels like walking on clouds. Designed with breathable fabric, these vibrant socks regulate temperature to keep your feet comfortable in every season\u2014whether you're enjoying a cozy winter evening or a sunny spring day.  \n\nWhat truly sets these remarkable foot-huggers apart is their dynamic cushioning system. Each pair features strategically placed padding that provides support precisely where you need it, from the arch to the heel. Say goodbye to sore feet after a long day; these socks work tirelessly to absorb impact, making them perfect for your morning jog, a full day at work, or simply lounging at",
+    "images": [
+        "product_321_01.png",
+        "product_321_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using these socks for a few weeks now, and overall, I\u2019m pretty happy with them! The material feels great and they have a nice amount of cushioning which makes walking around the house a real treat. I do wish they were a bit thicker, but they are comfy enough for daily use. Also, the design is cute and matches well with my loungewear. A couple of times I noticed some slight slipping while I was wearing them, but nothing too inconvenient. All in",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these socks, and I've got to say, they\u2019re pretty great! The fabric feels soft and breathable, perfect for all-day wear. I love slipping them on in the morning; they fit just right\u2014not too tight, not too loose. \n\nThe cushiony feel is a real bonus, especially after a long day on my feet. I do wish they had a few more color options, but the ones available are nice enough. \n\nWashing them was a breeze, and they held",
+            "language": "English"
+        }
+    ]
+}

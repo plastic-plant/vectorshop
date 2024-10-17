@@ -1,0 +1,33 @@
+{
+    "nr": "495",
+    "name": "ChronoSync Smartwatch",
+    "price": "29900",
+    "ranking": 1,
+    "availability": 19,
+    "description": "Discover a new world of convenience with the next-generation companion that effortlessly syncs your life. This revolutionary smartwatch redefines functionality, blending cutting-edge technology with a sleek design that fits seamlessly into your daily routine. With its ultra-responsive touch interface and customizable watch faces, you can express your personal style while staying on top of your busy schedule. From subtle elegance to sporty flair, this timepiece adapts to the wearer, embodying versatility at its finest.\n\nExperience the power of holistic health monitoring with advanced sensors that track heart rate, sleep patterns, and activity levels in real-time. With its built-in GPS, you can explore the world while staying connected to your fitness goals\u2014perfect for both avid runners and casual walkers alike. Intuitive notifications keep you in",
+    "images": [
+        "product_495_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "No vale la pena. La bater\u00eda se muere en un d\u00eda. La pantalla es de poca calidad, a veces no responde. La app es lenta y molesta. No puedo recibir bien mis mensajes. Todo es un desastre. Definitivamente no lo comprar\u00eda de nuevo. Fui muy ilusionado y me he sentido decepcionado.",
+            "language": "Spanish"
+        },
+        {
+            "review": "I really wanted to like this smartwatch, but it just doesn't work well. First off, it doesn't sync with my phone half the time. Notifications are late or don\u2019t come through at all. The battery life is awful too\u2014I\u2019m charging it every day, which is annoying. And the interface is confusing. I waste so much time trying to figure it out. \n\nAlso, fitness tracking seems completely off, not sure how accurate it is. Plus, it freezes sometimes, which is frustrating.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this watch, but honestly, it's just a huge letdown. It keeps disconnecting from my phone, which is super annoying. The fitness tracking is not accurate at all; I walked 10,000 steps and it said I only did 200! The battery life is garbage too, drains faster than my old watch. \n\nAlso, the interface is confusing. I struggled to find basic features like checking the time or my messages. The screen freezes occasionally and I've had to",
+            "language": "English"
+        },
+        {
+            "review": "Absolute waste of money. Stopped syncing after a week. The notifications barely work \u2013 I can\u2019t get texts or calls, which is the whole point. Tried to reset it but that did nothing. Customer service is also a joke \ud83d\ude24. The battery life is terrible, lasts maybe half a day if I\u2019m lucky. Honestly just feels cheap and not worth it. Wish I could return it. Do NOT recommend!!",
+            "language": "English"
+        },
+        {
+            "review": "What a joke! I can\u2019t believe I wasted my money on this thing. It\u2019s so slow and hardly connects to my phone. Half the time it doesn\u2019t track my steps right. Notifications are so delayed it\u2019s not worth it. Battery life is terrible too, no way it lasts a day. I thought I\u2019d be able to use it for fitness, but it shuts down in the middle of my run! Save your money. Don\u2019t buy this, real disappoint.",
+            "language": "English"
+        }
+    ]
+}

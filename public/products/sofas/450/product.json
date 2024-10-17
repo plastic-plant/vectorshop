@@ -1,0 +1,21 @@
+{
+    "nr": "450",
+    "name": "CloudNest Sofa",
+    "price": "89900",
+    "ranking": 2,
+    "availability": 11,
+    "description": "Embrace a new realm of comfort and style with this exceptional sofa that transforms your living space into a cozy haven. Designed with luxurious, plush cushions and an inviting silhouette, this remarkable piece invites you to sink in and unwind after a long day. Imagine curling up with a good book or enjoying a movie night with friends, all while enveloped in the softness that cradles you like a cloud. This is where your relaxation is elevated, redefining what it means to unwind.\n\nAccessibility meets elegance with its thoughtfully-crafted design. The sturdy frame ensures durability, while the high-density foam cushions provide just the right amount of support without sacrificing comfort. Thanks to its modular design, this sofa is not only versatile; it adapts seamlessly to your lifestyle. Whether",
+    "images": [
+        "product_450_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this sofa, but honestly, it\u2019s been a letdown. After a few weeks of use, I noticed the cushions started to sag and lose their shape. Not comfy anymore, and I feel like I\u2019m sitting on a stack of old newspapers! The fabric is soft, but it stains super easy. I had a little spill, and it took forever to clean. And let's talk about assembly \u2014 the instructions were confusing, and I ended up with a couple of extra screws",
+            "language": "English"
+        },
+        {
+            "review": "Ik had echt meer verwacht van deze bank. De stijl is mooi en hij ziet er goed uit in mijn woonkamer, maar dat is waar de positieve punten eindigen. Comfortabel is hij zeker niet, na een tijdje zitten begint hij te pijnlijk te worden. De kussens zijn niet echt lekker, je zakt eigenlijk gewoon doorheen. Ook de kwaliteit is ondermaats; ik heb hem nog geen paar maanden en er zijn al kleine beschadigingen. Het lijkt wel alsof ik een goedkope bank",
+            "language": "Dutch"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "401",
+    "name": "ChronoSync Elite",
+    "price": "24900",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Unleash the power of modern technology on your wrist with our groundbreaking smart companion, affectionately known as the \"CSE.\" This smartwatch transcends the boundaries of timekeeping, blending elegance with innovation to enhance your everyday life seamlessly. With a sleek, customizable interface, the CSE not only keeps you connected but also reflects your personal style, making a statement wherever you go.\n\nStay on top of your health and fitness goals like never before! Equipped with advanced heart rate monitoring, sleep tracking, and a variety of workout modes, the CSE acts as your personal fitness coach, motivating you every step of the way. With its impressive battery life that lasts up to two weeks, you can count on the CSE to accompany you through your busiest days",
+    "images": [
+        "product_401_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this smartwatch for a few weeks now, and I am absolutely loving it! The seamless integration with my phone means I can receive calls and messages without having to pull my phone out all the time. It\u2019s super convenient, especially when I\u2019m busy.\n\nThe fitness tracking features are incredible! I can track my steps, heart rate, and even my sleep patterns, which helps me stay on top of my health goals. The battery life is impressive too\u2014I can go days without needing to",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this smartwatch for a few months now, and it has completely transformed my daily routine. The design is sleek and stylish, making it perfect for both workouts and casual wear. I absolutely love the customizable watch faces and straps \u2013 it lets me express my personal style effortlessly!\n\nThe fitness tracking features are phenomenal! It accurately monitors my heart rate, sleep patterns, and even tracks my workouts with precision. I\u2019ve noticed improvements in my health since I started using it. The notifications are seamless,",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this incredible smartwatch, and I cannot express how amazed I am by its capabilities! The sleek design is stunning and very comfortable to wear. From the moment I synced it with my phone, everything just worked seamlessly. Notifications come through crystal clear, and I can respond to messages without even pulling out my phone, which is super convenient.\n\nThe fitness tracking features are a game changer for me! It keeps a close eye on my heart rate, steps, and even sleep patterns.",
+            "language": "English"
+        }
+    ]
+}

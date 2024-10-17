@@ -1,0 +1,33 @@
+{
+    "nr": "731",
+    "name": "CloudNest Sofa",
+    "price": "29900",
+    "ranking": 3,
+    "availability": 4,
+    "description": "Transform your living space into a sanctuary of comfort with the ultimate lounging experience that redefines relaxation. Imagine sinking into a cloud-like embrace every time you come home. This lavish piece is crafted with plush, multi-layered cushioning that contours to your body, providing you with unparalleled support and softness. Perfect for unwinding after a long day or entertaining friends, it invites you to stay longer and enjoy every moment in your home.\n\nDesigned with modern elegance in mind, this exquisite sofa features sleek lines and a minimalist silhouette, making it an ideal addition to any decor style. The high-quality upholstery is not only soft to the touch but also durable and stain-resistant, guaranteeing your investment stands the test of time and everyday life. Available in a variety of chic colors,",
+    "images": [
+        "product_731_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this sofa for a couple of weeks now, and let me tell you, it\u2019s a mixed bag. At first glance, it looks great and adds a nice touch to my living room. The design is modern, and I love the color options. However, when it comes to comfort, it\u2019s just okay. Sitting on it for long periods isn't the most supportive, and honestly, it could use more cushioning.\n\nAssembly was straightforward, but there were some screws missing, which was",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, the sofa is okay but not what I expected for the price. The design is sleek and aesthetically pleasing, which is a plus. I was really drawn to its modern look. However, the comfort level isn't as great as I'd hoped. I find myself wanting more cushioning and support after sitting for a while. It feels more like a decor piece than a cozy spot to relax. Assembly was straightforward, but the materials don't feel as durable as they should be. I\u2019m not sure how it will",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had this sofa for a few months now, and it\u2019s just okay. The design looks nice, but the comfort isn\u2019t as great as I expected. It felt stiff at first, and while it softened up a bit, I wouldn\u2019t say it\u2019s super cozy. The material is decent, but it doesn\u2019t feel as durable as I'd hoped. The style fits well with my living room, but the cushions kind of slide around. Also, I thought the color would be more vibrant,",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this sofa, and while it looks alright, I have mixed feelings. It's comfortable enough for short sittings, but if you plan on lounging for hours, good luck. The cushions tend to flatten out relatively quickly\u2014pretty disappointing for the price. The color is nice, and it fits my place well, but the fabric could be better. It's a bit hard to clean, so just a heads up if you have pets or kids running around. Overall, I\u2019d say it's decent for",
+            "language": "English"
+        },
+        {
+            "review": "La verdad es que es un sof\u00e1 m\u00e1s o menos. Est\u00e9ticamente se ve bonito, pero la comodidad no es la mejor. Al principio parec\u00eda bien, pero despu\u00e9s de unas horas sentados, se siente un poco duro. La calidad de los materiales tambi\u00e9n deja un poco que desear. Por el precio, esperaba algo m\u00e1s resistente. Al igual que muchos otros he le\u00eddo, a pesar de que tiene buen dise\u00f1o, necesito m\u00e1s confort. No est\u00e1 horrible, pero hay mejores opciones por el mismo dinero.",
+            "language": "Spanish"
+        }
+    ]
+}

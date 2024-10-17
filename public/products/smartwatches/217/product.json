@@ -1,0 +1,29 @@
+{
+    "nr": "217",
+    "name": "ChronoSync Pro",
+    "price": "24900",
+    "ranking": 2,
+    "availability": 4,
+    "description": "Introducing the ultimate companion for your active lifestyle, the revolutionary smart timepiece designed to sync seamlessly with your busy schedule. With its sleek, minimalist design and vibrant display, this smartwatch isn\u2019t just a gadget; it\u2019s a statement of sophistication and functionality. We\u2019ve packed it with cutting-edge features that cater to your every need, whether you\u2019re hitting the gym, heading to the office, or embarking on an outdoor adventure.\n\nGet ready to elevate your fitness journey with precision health tracking that monitors your heart rate, sleep patterns, and calorie burn in real-time. Our advanced algorithms ensure you stay informed and motivated, while an impressive battery life means you can go days without needing a charge. Transform your workout sessions into efficient performance periods, all while keeping an eye",
+    "images": [
+        "product_217_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this smartwatch for a few weeks now, and I\u2019m honestly pretty disappointed. The battery life is a joke\u2014barely makes it through the day, and I end up charging it every night. The interface is not very user-friendly either, it takes ages to scroll through apps. \n\nNotifications sometimes don\u2019t even come through, which is frustrating since I miss important messages. I thought it would be great to track workouts and health, but the fitness features are not accurate at all.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this smartwatch, but honestly, it just falls short. The design is nice and sleek, but it\u2019s way too slow to respond. The interface is confusing and I often find myself struggling to navigate through the apps. After a couple weeks it started lagging a lot, and the battery life is pretty disappointing. I thought I could rely on it for tracking my workouts, but the steps counter seems off too, showing less than what I actually do. I wanted this to be",
+            "language": "English"
+        },
+        {
+            "review": "Comprei este smartwatch esperando muito, mas a verdade \u00e9 que est\u00e1 longe de surpreender. Acabei achando o sistema meio lento e n\u00e3o responde t\u00e3o bem quanto eu esperava. As notifica\u00e7\u00f5es demoram a chegar e v\u00e1rias vezes n\u00e3o aparecem no pulso. A bateria tamb\u00e9m n\u00e3o dura como prometido, precisa carregar quase todos os dias, o que \u00e9 bem frustrante. E as fun\u00e7\u00f5es de sa\u00fade, que eram um dos principais atrativos, parecem erradas \u00e0s vezes. \u00c9 legal por ser",
+            "language": "Portuguese"
+        },
+        {
+            "review": "While I wanted to love this smartwatch, it has really fallen flat for me. The interface is clunky, and honestly, it feels like it\u2019s missing some basic features you\u2019d expect for the price. Notifications are hit or miss and sometimes take forever to show up. I\u2019ve had trouble syncing with my phone, which is incredibly frustrating. I mean, I really wanted it to work well for workouts and tracking my health, but the tracking seems all over the place. Battery life isn't great either;",
+            "language": "English"
+        }
+    ]
+}

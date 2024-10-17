@@ -1,0 +1,33 @@
+{
+    "nr": "629",
+    "name": "CloudCuddle Slippers",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 22,
+    "description": "Step into a world of unparalleled comfort with our irresistible snugglers that redefine relaxation. Crafted with luxurious, ultra-soft materials, these enchanting footwear wonders transform every step into a cloud-like experience. Imagine sinking your feet into plush cushioning that hugs you gently, as if cradled by a delicate embrace, allowing you to unwind after a long day and feel as if you\u2019re walking on air.\n\nDesigned for optimal versatility, these cozy companions feature an innovative, non-slip sole that provides stability and safety on any surface. Whether you're padding around the house during the early morning hours or enjoying a cozy evening spent with loved ones, you can rely on these slippers to keep you secure. Plus, their stylish silhouette and range of delightful colors mean you won't have to sacrifice",
+    "images": [
+        "product_629_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really looking forward to these slippers, but they just didn\u2019t work out. They feel kinda cheap and not very comfy at all. I was expecting something super cozy, but these don't have much padding. The fit is weird too; they\u2019re either too tight or too loose. Also, they didn\u2019t stay on my feet properly, which is super annoying when just walking around the house. The design is nice, but that\u2019s not enough when the comfort isn't there. I was hoping for more",
+            "language": "English"
+        },
+        {
+            "review": "Ik had meer verwacht van deze slippers. Ze leken echt fijn, maar na een paar keer dragen begonnen ze al te verslijten. Het uiterlijk is leuk, maar dat helpt niet als ze zo snel kapot gaan. De hele dag heb ik pijn in mijn voeten omdat ze echt niet goed passen. Ze zijn ook niet zo warm als ik gehoopt had. Jammer, want ik dacht dat ze perfect zouden zijn voor de winter. Zou ze niet aanraden.",
+            "language": "Dutch"
+        },
+        {
+            "review": "I had high hopes for these fluffy slippers, but honestly, they just don't cut it. They feel nice at first, but after wearing them for a bit, they start to lose their shape and support. Plus, they're kinda slippery on the floor, which is a little scary when you're walking around the house. \n\nI noticed some threads coming loose after only a week, which is not what I expected. They also don\u2019t keep my feet very warm like I thought they would. Thought I was getting",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love these slippers, but they just didn\u2019t meet my expectations. The design seems cute, and they do feel soft at first, but the comfort doesn\u2019t last long. After wearing them for a little bit, the cushioning flattened out and they felt kind of cold. Also, they slip off my heels easily, which is super annoying when I walk around. The sizing feels a bit off too. I got my usual size, but they\u2019re larger than I expected. Honestly, I",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love these slippers, but honestly, they just don\u2019t do it for me. First off, they\u2019re not as comfy as I was hoping. They feel a bit flimsy and don\u2019t really give the support I expected. Also, after a few uses, the fabric started to look a bit worn out, which is disappointing. The sizing feels off too \u2013 they\u2019re either too tight or too loose. I don't know. Maybe they just don't work for me. Could be better!",
+            "language": "English"
+        }
+    ]
+}

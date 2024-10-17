@@ -1,0 +1,25 @@
+{
+    "nr": "270",
+    "name": "ChronoSync Wearables",
+    "price": "29900",
+    "ranking": 4,
+    "availability": 12,
+    "description": "Discover the ultimate companion for your active lifestyle with the latest innovation in wearable technology! Designed for those who demand style, functionality, and cutting-edge performance, this smartwatch seamlessly integrates into your day-to-day routine. With its sleek design and customizable watch faces, it not only fits your wrist like a second skin but also elevates your personal style, making it the perfect accessory for any occasion.\n\nExperience unparalleled convenience with a feature set that caters to both health enthusiasts and tech-savvy individuals. Monitor your heart rate, track your sleep patterns, and receive personalized fitness insights that empower you to reach your wellness goals. Advanced GPS capabilities ensure that you can map out your outdoor adventures without needing to pull out your phone. Plus, with real-time notifications for calls, messages",
+    "images": [
+        "product_270_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this smartwatch for a few weeks now, and overall, it does a solid job of keeping me connected and tracking my daily activities. The design is sleek and fits well on my wrist, which is a major plus. The display is bright and easy to read, even in sunlight. I like the various health tracking features, although I wish the battery life lasted a bit longer. Notifications come through clearly, but sometimes I feel like I get too many and can't keep up. The syncing with",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smartwatch for a couple of months now and I have to say, it's pretty impressive overall. The design is sleek and comfortable on my wrist. The app integration is smooth, making it easy to track my fitness and notifications. The battery life is solid, generally lasting me through several days of normal use, which is a huge plus. Just wish there were more customization options for the watch faces. Sometimes it feels a bit limited in terms of personal style. Also, the sleep tracking could",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smartwatch for a couple of months, and I have to say, I am overall quite happy with it. The design is sleek and comfortable on my wrist. The display is bright and easy to read, even in sunlight. \n\nThe features are pretty handy. I love being able to track my workouts and monitor my heart rate. The integration with my phone is smooth - notifications pop up without any issues. I use it for music control while running, and it\u2019s super convenient.",
+            "language": "English"
+        }
+    ]
+}

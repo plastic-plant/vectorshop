@@ -1,0 +1,29 @@
+{
+    "nr": "131",
+    "name": "CloudCuddle Slippers",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 18,
+    "description": "Step into a world of unparalleled comfort with our signature plush footwear, designed to cradle your feet in a warm embrace. Imagine the sensation of walking on clouds as you glide through your home, each step cushioned by ultra-soft memory foam that responds to your every movement. The cozy lining not only adds an extra layer of warmth but also wicks away moisture, keeping your feet dry and toasty during those chilly evenings. \n\nCrafted with a versatile, non-slip sole, our delightful footwear allows you to move freely throughout your living space without fear of slips or mishaps. Whether you\u2019re brewing your morning coffee or unwinding with a good book, you\u2019ll feel secure and stylish. Plus, the sleek design transitions effortlessly from lazy mornings to spontaneous errands,",
+    "images": [
+        "product_131_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I picked these slippers hoping for the ultimate cozy experience, but I have to say they are just okay. The fluffy material feels nice and soft, but after wearing them for a while, they don't really provide much support for my arches. \n\nThe design is cute, but I noticed that the color started to fade a bit after a few washes, which is kind of disappointing. Another point: they slip off my heels sometimes, which can be annoying when I\u2019m just trying to walk around the house.",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these slippers for a few weeks now, and they\u2019re okay, but I expected more. The material is definitely soft, and they feel pretty cozy when you first put them on. However, I find them slipping off my heels too often, which is super annoying.\n\nThe interior cushioning is decent, but I don\u2019t think it\u2019s as supportive as I\u2019d hoped. After a while, my feet start to feel a little achy. I also noticed they don\u2019t keep my feet",
+            "language": "English"
+        },
+        {
+            "review": "Estuve pensando en comprar estas pantuflas debido a todas las rese\u00f1as, pero despu\u00e9s de usarlas, creo que solo valen un mont\u00f3n de sensaciones a medias. Son c\u00f3modas, eso no se puede negar, pero no son tan c\u00e1lidas como esperaba. A veces siento que se resbalan un poco en el suelo, lo cual me hace dudar cuando camino r\u00e1pido. El dise\u00f1o es bonito, me gusta, pero el material no es tan resistente como cre\u00eda, ya se nota",
+            "language": "Spanish"
+        },
+        {
+            "review": "These slippers are pretty decent, but they didn\u2019t live up to what I expected. They feel soft and cozy at first, but after wearing them for a while, they kinda lose that plush feel. The size is a bit off too; I thought they\u2019d fit better. I ordered my usual size, but they felt a bit tight. The design looks great, though, so at least they check that box. For the price, I was hoping for more comfort and durability. They\u2019re okay for",
+            "language": "English"
+        }
+    ]
+}

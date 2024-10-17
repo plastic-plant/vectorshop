@@ -1,0 +1,34 @@
+{
+    "nr": "343",
+    "name": "ChronoSync 360",
+    "price": "29900",
+    "ranking": 2,
+    "availability": 24,
+    "description": "Discover the future of personal time management and health monitoring with our innovative smartwatch that seamlessly integrates with your lifestyle. Designed for the modern individual, this sleek wrist companion not only tells time but revolutionizes how you connect with your world. With its intuitive touch interface and customizable dials, you'll enjoy effortless access to notifications, fitness tracking, and so much more\u2014all precisely tailored to elevate your daily routine.\n\nImagine having a personal assistant right on your wrist. Our cutting-edge device empowers you to manage your calendar, receive reminders, and even respond to messages with simple voice commands. Say goodbye to fumbling for your phone when you're on the move; everything you need is just a tap away. Plus, built-in GPS ensures you can navigate your day effortlessly, whether you're",
+    "images": [
+        "product_343_01.png",
+        "product_343_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "La verdad es que esperaba m\u00e1s de este reloj inteligente. La bater\u00eda se descarga muy r\u00e1pido, as\u00ed que tengo que cargarlo casi a diario, lo cual es molesto. La conectividad con el m\u00f3vil a veces se cae, y es frustrante cuando intentas recibir notificaciones y no llegan. Las funciones de monitorizaci\u00f3n son b\u00e1sicas y no tan precisas como pens\u00e9. El dise\u00f1o es bonito, pero eso no compensa lo dem\u00e1s. En general, creo que tiene potencial, pero hay muchas cosas que",
+            "language": "Spanish"
+        },
+        {
+            "review": "I really wanted to love this smartwatch, but honestly, I\u2019m a bit disappointed. The design is nice, but it\u2019s pretty slow and unresponsive. Sometimes it doesn't even sync with my phone. Notifications can be hit or miss, which is annoying when I'm waiting to see something important. \n\nThe battery life is just okay, nothing to rave about. I've had better battery performance from cheaper models. It does track steps and stuff, but the accuracy can be off, and a few times I found",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smartwatch for a few months now, and honestly, it hasn't lived up to my expectations. The first few days were great, but then I noticed a lot of bugs and glitches. The battery life is pretty disappointing too \u2013 I have to charge it every day, and sometimes it doesn\u2019t even register my workouts properly. The app is clunky and not user-friendly. I tried reaching out to customer support but didn\u2019t get much help. Overall, I thought it would be a game",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this smartwatch, but honestly, it's kinda disappointing. The features looked great on paper, but in reality, it just didn\u2019t deliver. The battery life is weak; I find myself charging it all the time. Also, the syncing with my phone is hit or miss, which is super frustrating. The interface could be more user-friendly too, I sometimes struggle to navigate through the menus.\n\nI expected to track my workouts and get notifications seamlessly, but more often than not,",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this smartwatch, but it just falls flat. Setting it up was a hassle and it kept disconnecting from my phone. The battery life is pretty disappointing too; I find myself charging it almost every night. Sometimes it tracks my workouts, but other times it just glitches out and doesn't record anything. The display isn\u2019t very bright either, making it hard to see in sunlight. I expected better usability and features for the price. Overall, it\u2019s okay but definitely not worth the",
+            "language": "English"
+        }
+    ]
+}
