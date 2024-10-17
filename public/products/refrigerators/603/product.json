@@ -1,0 +1,29 @@
+{
+    "nr": "603",
+    "name": "ChillNest Refrigerator",
+    "price": "49900",
+    "ranking": 2,
+    "availability": 6,
+    "description": "Meet your kitchen\u2019s new best friend, where innovation meets style\u2014designed for those who crave comfort and sophistication. With a stunning exterior that effortlessly complements any decor, this sleek appliance transforms every meal prep into a culinary adventure, elevating your home\u2019s aesthetic while providing the ultimate functional storage solution. \n\nExperience the future of food preservation with cutting-edge cooling technology that ensures your groceries stay fresher for longer. Equipped with advanced temperature control and humidity management systems, this smart fridge optimizes airflow to maintain perfect conditions for fruits, vegetables, and dairy products, reducing spoilage and extending shelf-life. Say goodbye to wilted greens and welcome vibrant produce bursting with flavor!\n\nBut functionality doesn\u2019t stop there! The spacious interior features customizable shelving and innovative compartments, allowing",
+    "images": [
+        "product_603_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really hopeful about this fridge when I bought it, but honestly, it\u2019s not living up to expectations. First off, it doesn't keep stuff as cold as I thought it would. I often find my milk warmer than I like. The layout of the shelves is kind of awkward too; it doesn\u2019t fit a lot of things well, and I end up having to stack stuff in front of each other. \n\nAlso, the noise is pretty annoying. It makes this weird hum that I can",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this refrigerator, but it's just not living up to expectations. First off, it\u2019s not very cold! I\u2019ve had food that is supposed to be kept fresh go bad too quickly. Plus, the layout inside is strange. The shelves seem too short, and there\u2019s not enough space for bottles. The LED lights are nice, but they\u2019re too dim\u2014I can barely see what I have in there. Also, the noise level is annoying; it makes weird sounds that keep",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to this fridge, but honestly, it falls short. It does keep stuff cool, but not as well as I expected. Sometimes, I find things a bit warm even when other stuff is icy. Also, the layout is weird; I can barely fit my bigger grocery items. The shelves feel cheap and sometimes rattle when I close the door. \n\nEnergy efficiency isn't all that great too, I get higher bills now! And the noise \u2013 ugh! It's louder than",
+            "language": "English"
+        },
+        {
+            "review": "Ik vond dit koelingsapparaat helaas niet zo geweldig. De eerste paar weken werkte het goed, maar daarna begon het te sputteren. De temperatuuraanwijzer klopt nooit en soms moest ik gewoon opnieuw starten om het normaal te laten werken. Best frusterend. De indeling is ook niet ideaal, waardoor grotere artikelen gewoon niet passen. Akoestisch is het nog een heel gedoe, het maakt al snel veel geluid, wat soms echt ongelegen komt. Het heeft potentie",
+            "language": "Dutch"
+        }
+    ]
+}

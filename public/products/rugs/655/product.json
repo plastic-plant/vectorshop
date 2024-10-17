@@ -1,0 +1,35 @@
+{
+    "nr": "655",
+    "name": "Woven Whimsy Carpets",
+    "price": "5999",
+    "ranking": 1,
+    "availability": 23,
+    "description": "Transform your living space into an oasis of style and comfort with our exclusive line of enchanting carpets. Each piece is a masterpiece, crafted with artistry and attention to detail that tells a story of elegance and whimsy. The soft, textured fibers underfoot invite you to kick off your shoes and bask in the cozy embrace of a well-designed home. Say goodbye to drab flooring; these carpets redefine your rooms, making every step a sensory delight.\n\nAvailable in a myriad of delightful patterns and hues, the collection echoes the beauty of nature and contemporary trends alike. Imagine livening up your home with vibrant florals, geometric motifs, or playful abstracts that blend seamlessly with any decor theme. These carpets not only serve as a foundation for your furniture but also act",
+    "images": [
+        "product_655_01.png",
+        "product_655_02.png",
+        "product_655_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this rug but it\u2019s just the worst. Color is completely different from the photos, way more dull and not at all vibrant. When I unpacked it, it smelled so bad, like chemical fumes everywhere and took forever to air out. The texture feels scratchy, not soft at all. And the edges started to fray after just a week! It slides all over the place, like no grip at all. I expected way better for the price. Total waste of",
+            "language": "English"
+        },
+        {
+            "review": "I don't get what the hype is. The rug looks cheap and feels awful underfoot. After a week, it started to fray at the edges. I thought maybe it was just me, but my friends all said they wouldn\u2019t want it in their homes. It slides around like crazy even with a pad underneath. Super disappointed, don\u2019t waste your money.",
+            "language": "English"
+        },
+        {
+            "review": "Got this rug thinking it would be lovely, but it's really not. Color is totally different than what was shown. It looks cheap and feels rough. I was expecting something cozy, but it\u2019s scratchy and uncomfortable to walk on. Plus, it has a weird smell that won\u2019t go away. Seriously regret this purchase! Don\u2019t waste your money like I did!",
+            "language": "English"
+        },
+        {
+            "review": "I was really disappointed with this rug. the colors didn\u2019t match the pic at all, looked super cheap when it arrived. felt rough underfoot too, not cozy. also, it started to fray at the edges after just a few days. I\u2019ve had better rugs from discount stores for way less. would not recommend at all. save your money.",
+            "language": "English"
+        },
+        {
+            "review": "I really regret buying this rug. It sheds like crazy\u2014everywhere! My room looks like a pet store with all the fuzz. The colors aren't even close to what I saw online, it's way duller. Plus, it's super thin, feels cheap underfoot. I expected better quality but I guess I got what I paid for. Honestly, save your money and look elsewhere cause this one is a big no for me.",
+            "language": "English"
+        }
+    ]
+}

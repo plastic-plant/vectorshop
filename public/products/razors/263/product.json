@@ -1,0 +1,21 @@
+{
+    "nr": "263",
+    "name": "SmoothEdge Revolution Razor",
+    "price": "1999",
+    "ranking": 3,
+    "availability": 21,
+    "description": "Experience the ultimate in shaving precision with the revolutionary grooming tool that\u2019s redefining your daily routine. The Apex Shaver combines cutting-edge technology with an ergonomic design that feels like an extension of your own hand. Say goodbye to nicks and irritations and hello to unparalleled smoothness. Every stroke glides effortlessly over your skin, ensuring a close, comfortable shave that lasts all day.\n\nCrafted with a titanium-coated blade, the Apex Shaver promises durability and resilience. Its self-sharpening feature guarantees that you can enjoy a consistently sharp edge without the hassle of frequent replacement, saving you time and money. The innovative moisture strip enriched with aloe and vitamin E calms and nurtures your skin, making post-shaving irritation a thing of the past",
+    "images": [
+        "product_263_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I just tried out this razor and, honestly, it\u2019s okay. The design looks sleek, but I was hoping for a closer shave. It\u2019s not bad, but I had to go over some spots a few times to get it really smooth. It glides well, but the blades don't feel as sharp as I expected, and I did get some irritation on my neck. Maybe it's just me, but I prefer a little more outright sharpness. \n\nThe handle is comfortable to grip, and",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this razor for a couple of weeks now, and I\u2019m kind of on the fence about it. The design is sleek, and it feels good in my hand, but the performance has been a bit hit or miss. Some days I get a really close shave, and other days I feel like I\u2019m still fuzzy in areas. \n\nThe blades are sharp, but I\u2019ve noticed some pulling while shaving, which is irritating. I think if the technology could just improve a bit,",
+            "language": "English"
+        }
+    ]
+}

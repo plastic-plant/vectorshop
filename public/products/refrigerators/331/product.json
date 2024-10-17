@@ -1,0 +1,22 @@
+{
+    "nr": "331",
+    "name": "ChillSphere",
+    "price": "49900",
+    "ranking": 1,
+    "availability": 11,
+    "description": "Discover the future of food preservation with our latest innovation, the ChillMate. Designed to revolutionize your kitchen experience, this state-of-the-art refrigerator combines cutting-edge technology, sleek design, and energy efficiency to cater to your every culinary need. With its spacious interior and adjustable compartments, the ChillMate offers seamless organization for groceries of all shapes and sizes, ensuring that everything is easily accessible and beautifully arranged.\n\nImagine effortlessly keeping your ingredients fresher for longer, thanks to the ChillMate's advanced cooling system. Featuring multi-zone technology, this powerhouse intelligently adjusts the temperature and humidity for different compartments, preserving the natural flavors and nutrients of your food. No more wilted greens or spoiled leftovers \u2013 every bite will be as delicious as the day you bought it. Plus",
+    "images": [
+        "product_331_01.png",
+        "product_331_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I regret buying this fridge. It\u2019s super noisy all the time, like a jet engine in my kitchen. Kept my food warm instead of cold, the temperature control is terrible. Tried setting it lower but doesn\u2019t change anything. And the shelves are so flimsy, one broke when I just touched it. Also, the light inside flickers constantly, like it\u2019s haunted or something. Can\u2019t even fit my groceries properly, it\u2019s like designed wrong. Wish I could return it, total",
+            "language": "English"
+        },
+        {
+            "review": "I really wish I could give this a zero. The fridge works when it wants to, but most times it's just a big box of warm air. Food goes bad super fast. Plus, the ice maker? Yeah, it doesn\u2019t even make ice. I\u2019ve had it for a month, and I\u2019m already looking for a replacement. Had a hard time reaching customer service too. Like, hello? Fridges aren't supposed to be this hard to deal with! Save your money and buy something else",
+            "language": "English"
+        }
+    ]
+}

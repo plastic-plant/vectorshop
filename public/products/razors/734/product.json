@@ -1,0 +1,29 @@
+{
+    "nr": "734",
+    "name": "SmoothGlide Razorblade",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 23,
+    "description": "Experience the art of shaving like never before with our revolutionary blade that takes your grooming routine to the next level. This state-of-the-art razor combines precision engineering with cutting-edge technology, ensuring a remarkably close and comfortable shave every time. Say goodbye to nicks and irritations, as its uniquely designed blades glide effortlessly across your skin, providing a smooth finish that will leave you feeling fresh and confident.\n\nEquipped with an advanced lubrication strip infused with natural oils, this razor reduces friction and enhances glide, allowing for an unparalleled shaving experience. Whether you\u2019re navigating the contours of your face or tackling stubborn hair on your body, our sleek design effortlessly adapts to your movements. The ergonomic handle promises a firm grip, minimizing any chances of slippage and giving you",
+    "images": [
+        "product_734_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this razor for a few weeks, and honestly, I expected more. It glides okay but not as smoothly as I hoped. I have to go over some spots multiple times, which is a bit frustrating. The handle feels a bit flimsy too, like it could break if I'm not careful. I appreciate the design, but it just doesn't give me that clean shave I'm looking for. It's decent, but I'm already thinking about trying something else. Overall, not the worst, but",
+            "language": "English"
+        },
+        {
+            "review": "No cumple con las expectativas. No se siente suave al usarlo, al contrario, parece m\u00e1s rasposo y me ha dejado algunas irritaciones. Intent\u00e9 ajustar el \u00e1ngulo, pero nada me funciona. El dise\u00f1o parece prometedor, pero en la pr\u00e1ctica no genera buenos resultados. Termin\u00e9 utilizando otro en su lugar. Un par de amigos tambi\u00e9n tuvieron problemas, as\u00ed que no soy yo sola. No lo recomendar\u00eda, est\u00e1 lejos de ser \u201cincre\u00edble\u201d, como lo promet\u00edan.",
+            "language": "Spanish"
+        },
+        {
+            "review": "Honestly, I was kind of let down by this razor. The design looks cool and all, but it just doesn't perform well. It feels like it gets stuck pretty easily and I end up having to go over the same spots multiple times. I thought I'd get a nice smooth shave, but it just gets irritated instead. Also, it doesn't last as long as I hoped, and after a few uses, it starts to tug and pull. I mean, for the price, I was expecting better.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this razor, but honestly, it just doesn\u2019t deliver. The design looked nice, and I was excited to try it, but it didn\u2019t glide as well as I expected. I had to go over spots multiple times to get a close shave, which is super frustrating. Also, it seemed to irritate my skin more than other razors do. Not great for sensitive areas. Maybe it works for some people, but for me, it was just a letdown.",
+            "language": "English"
+        }
+    ]
+}

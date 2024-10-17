@@ -1,0 +1,21 @@
+{
+    "nr": "435",
+    "name": "FrostGuard ChillVault",
+    "price": "59900",
+    "ranking": 1,
+    "availability": 6,
+    "description": "Experience the ultimate in food preservation with our cutting-edge refrigeration innovation. This sleek, modern unit is designed with advanced cooling technology that ensures your groceries stay fresher for longer. Featuring a spacious interior with adjustable shelving, you can effortlessly customize your storage as you stock up on everything from fresh produce to party platters. With a whisper-quiet operation, it keeps your kitchen serene while maintaining the optimal environment for all your culinary delights.\n\nSay goodbye to temperature fluctuations and spoilage! Our innovative climate control feature includes smart sensors that automatically adjust cooling performance based on your usage patterns, meaning no more wilting greens or frozen leftovers. The energy-efficient design not only keeps your food in peak condition but also saves you money on utility bills. Plus, its eco-friendly materials",
+    "images": [
+        "product_435_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Total disappointment. This fridge is a total letdown. It barely cools anything! I\u2019ve been living out of a cooler because my stuff goes bad so fast. Customer service is non existent \u2013 I tried calling them and no one picked up! The shelves are flimsy and don\u2019t even hold weight. Can\u2019t believe I wasted my money on this thing. Seriously, save yourself the grief and invest in something better. What a nightmare.",
+            "language": "English"
+        },
+        {
+            "review": "I can't believe I wasted my money on this. It\u2019s like I bought a fancy box that doesn't keep anything cold! My food goes bad in a couple of days, and I have to keep opening it to see if it\u2019s even still working. The noise it makes is soo annoying too. It\u2019s loud and it starts and stops way too much. I tried calling customer service, but they kept putting me on hold forever. I just want my fridge to be a fridge, is that too much",
+            "language": "English"
+        }
+    ]
+}

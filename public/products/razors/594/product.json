@@ -1,0 +1,29 @@
+{
+    "nr": "594",
+    "name": "\"SilkEdge Precision Razor\"",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 2,
+    "description": "Experience the future of shaving with our latest innovation, the ultimate grooming tool designed for precision and comfort. This versatile razor redefines your shaving routine, combining cutting-edge technology with a sleek, ergonomic design. Its ultra-fine, dual-blade system glides effortlessly over the skin, providing a close shave while minimizing irritation and minimizing nicks. With a moisture-infused strip, your skin will feel nourished and smooth after every use, making it perfect for all skin types\u2014even the most sensitive.\n\nEquipped with an adjustable pivot head, this remarkable razor adapts to the contours of your face, neck, or body, ensuring every angle is met with precision. Say goodbye to missed spots and uneven patches! The anti-slip grip handle gives you complete control",
+    "images": [
+        "product_594_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently tried this new razor, and it's definitely impressive overall. The blade glides smoothly, giving me a clean shave without the usual nicks and cuts I get from others. The ergonomic handle feels great in my hand, making it easy to maneuver around tricky areas like my chin and neck. \n\nI appreciate the design \u2014 it looks sleek and modern and has a nice weight to it. The replacement cartridges are easy to install, and they really seem to last longer than what I\u2019ve used previously.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this razor for a couple of weeks now, and I have to say, it's pretty good. The sleek design makes it super easy to handle, and it glides smoothly over the skin. I really like how the blades cut without much pressure, so there's less risk of nicks, which is always a plus for me.\n\nIt works well for both my face and body areas, giving a nice, close shave without irritation. The pivoting head is a nice touch\u2014it really adjusts to",
+            "language": "English"
+        },
+        {
+            "review": "Eu comprei uma nova l\u00e2mina para ajudar a deixar a pele mais suave, e posso dizer que valeu a pena! A sensa\u00e7\u00e3o durante o uso \u00e9 bastante confort\u00e1vel, e mesmo com a preocupa\u00e7\u00e3o de irrita\u00e7\u00f5es, eu n\u00e3o tive problemas. O design \u00e9 super interessante e parece ser feito com materiais que realmente fazem a diferen\u00e7a. Embora eu ainda ache que poderia ser um pouco mais afiada, gostei do resultado final. \u00c9 uma \u00f3tima op\u00e7\u00e3o para quem quer praticidade e um bom acabamento. Recomendo!",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I've been using this razor for a few weeks now and I'm pretty impressed. The blades are super sharp and cut really close while still feeling gentle on my skin. I often get razor burns, but I've had no issues with this one. The handle is comfortable to hold, which makes a big difference, especially when I\u2019m trying to navigate around tricky areas. \n\nHowever, the replacement cartridges can be a bit pricey. That\u2019s the main downside for me, but overall, it gives a great shave.",
+            "language": "English"
+        }
+    ]
+}

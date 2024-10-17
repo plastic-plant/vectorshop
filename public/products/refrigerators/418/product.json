@@ -1,0 +1,25 @@
+{
+    "nr": "418",
+    "name": "FrostGuard 360",
+    "price": "59900",
+    "ranking": 1,
+    "availability": 24,
+    "description": "Meet the ultimate kitchen companion that transforms the way you store, organize, and enjoy fresh food. With state-of-the-art cooling technology, this innovative refrigeration marvel not only keeps your groceries at the peak of freshness but also offers a stylish centerpiece for your modern kitchen. Imagine having the power to optimize your food storage with adjustable shelves that accommodate everything from towering cakes to family-sized pizza boxes, all while maintaining a sleek and energy-efficient design. \n\nWhat sets this extraordinary appliance apart is its intuitive SmartSense system. Equipped with a smart temperature regulation feature, it monitors and adjusts internal conditions in real-time, ensuring your perishables are protected from spoilage. No more mystery leftovers languishing at the back of the fridge \u2013 its built-in organization tool helps you quickly identify",
+    "images": [
+        "product_418_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Had it for a month and I'm so frustrated. This fridge just doesn't keep things cold at all. I put in milk, thinking it would be fine, and it spoiled in two days. Such a waste of money! The shelves are all flimsy, and the design is super confusing. The buttons don\u2019t work half the time. I tried to contact support but got no help. Seriously regretting this purchase, would not recommend, super disappointed!",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to get this refrigerator, but it turned out to be a total letdown. It doesn't keep things cold like it should. I opened it up after a few hours and everything was warm, like really warm. Bought some nice meats and they spoiled. So frustrating!! \n\nPlus, the ice maker jams all the time, had to pull it apart like 5 times already. Just a poor design I guess. It sounds like a truck when its running and it takes forever to chill",
+            "language": "English"
+        },
+        {
+            "review": "This fridge is terrible. It's super noisy like really loud, I can't even hear my TV when it's running. It doesn't cool well, my ice cream is half melted after an hour. And don\u2019t even get me started on the design, it looks cheap and flimsy. Plus, door doesn\u2019t close right so everything inside spills out if you hit it gently. I regret buying. Waste of money. Id give it zero stars if I could.",
+            "language": "English"
+        }
+    ]
+}

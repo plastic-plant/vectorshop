@@ -1,0 +1,21 @@
+{
+    "nr": "686",
+    "name": "SilkEdge Razor",
+    "price": "2999",
+    "ranking": 2,
+    "availability": 4,
+    "description": "Experience the art of smoothness like never before with our latest precision tool, the SE Razor. Crafted with cutting-edge technology and user-centric design, this razor transforms your daily grooming ritual into a moment of indulgence. With its ultra-smooth stainless steel blades, you\u2019ll find yourself gliding effortlessly over your skin, making nicks and irritation a thing of the past. Each stroke has been engineered for optimal performance, ensuring both a close shave and unparalleled comfort.\n\nWhat sets the SE Razor apart is its ergonomic grip, designed for maximum control and ease of use. Whether you\u2019re navigating the contours of your face or the delicate curves of your legs, this razor adapts seamlessly to your movements, offering a tailored experience every time. Furthermore, the anti-slip",
+    "images": [
+        "product_686_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this razor, but honestly, it\u2019s just okay. The design looks nice, but when I actually used it, it didn\u2019t give me the smooth shave I was expecting. It kind of tugged at my hair rather than gliding smoothly, which was disappointing. Also, it seems to dull really quickly\u2014after just a couple of uses, I needed to replace the blade. I guess it\u2019s not a total disaster, but for the price, I expected way better.",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to trying this razor, but I\u2019m honestly pretty disappointed. It\u2019s not as smooth as I hoped it would be. The blades feel a bit dull right out of the box, and I\u2019ve had to go over the same spot multiple times. \n\nThe handle design looks nice but feels awkward to grip, making it harder to control. Honestly, I expected more for the price. I'll keep using it for now, but I\u2019m not super impressed so far. I think I",
+            "language": "English"
+        }
+    ]
+}

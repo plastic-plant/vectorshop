@@ -1,0 +1,24 @@
+{
+    "nr": "52",
+    "name": "Woven Whimsy Rugs",
+    "price": "8999",
+    "ranking": 1,
+    "availability": 10,
+    "description": "Transform your living space into a sanctuary of comfort and charm with our delightful woven creations. Each piece is meticulously crafted to elevate any room in your home, infusing it with a touch of personality that only natural fibers can provide. Imagine stepping onto a soft, textured surface, where every footfall whispers warmth and coziness, making it an inviting oasis for family and friends.\n\nOur unique design blends intricate patterns with vibrant colors, ensuring that there's a perfect match for your decor aesthetic, from modern minimalism to bohemian chic. The durable weave provides not only a stunning visual appeal but also functional strength, making these rugs resistant to wear and tear\u2014perfect for high-traffic areas or homes with pets and children. Each rug tells a story of craftsmanship and care",
+    "images": [
+        "product_52_01.png",
+        "product_52_02.png",
+        "product_52_03.png",
+        "product_52_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really don\u2019t know what I was thinkin buying this rug. It looked cute online but came all wrinkled and doesn\u2019t lay flat at all. The colors are way duller than the pics, and honestly, it sheds like crazy. I\u2019ve got more fibers on my floor now than on the rug! Plus, it's slippery and feels cheap. Not worth the money, save yourself the trouble!",
+            "language": "English"
+        },
+        {
+            "review": "what a waste of money. i got this rug thinking it would be cute but it looks cheap, the colors are all off and it sheds like crazy. every time i walk on it i end up with bits stuck to my feet. not comfy at all! also it slipped around on my floor even with a rug pad. total let down wouldn't recommend to anyone. save your cash and look for better options.",
+            "language": "English"
+        }
+    ]
+}

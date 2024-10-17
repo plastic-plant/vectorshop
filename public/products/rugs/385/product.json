@@ -1,0 +1,21 @@
+{
+    "nr": "385",
+    "name": "\"Velvet Voyage Rug\"",
+    "price": "5999",
+    "ranking": 1,
+    "availability": 13,
+    "description": "Step into a realm of luxury and comfort with our exquisite rug designed to transform any space into a sanctuary. Crafted with a soft, shimmering pile that feels as smooth as a gentle breeze on your bare feet, this stunning floor piece is not just a decoration\u2014it's a statement. The sumptuous texture invites you to sink into relaxation, making it the perfect addition to your living room, bedroom, or reading nook. Enjoy a plush experience that melds style with functionality, giving your home a touch of elegance that your guests will admire.\n\nFeaturing a captivating blend of rich hues and intricate patterns, this masterpiece effortlessly complements a variety of design aesthetics, from modern chic to bohemian flair. The innovative fade-resistant fibers ensure that the colors remain vibrant, making it an investment",
+    "images": [
+        "product_385_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this rug and I'm really disappointed. Looks good online but in reality, it's a complete mess. The color is not what I expected, more faded than anything. It sheds everywhere like crazy, had to vacuum constantly. Also feels really cheap underfoot. Not worth the money at all. Seriously Regret this purchase. Wouldn\u2019t recommend to anyone. Save your cash!",
+            "language": "English"
+        },
+        {
+            "review": "I was super disappointed with this rug. It looked nice online but when I got it, the color was totally different and faded. The material feels cheap like it will break down in days. Also shed all over my floor, like seriously made a mess. It doesn't even lie flat, it keeps curling up on the edges. I'm really regretting this purchase. Save your money!",
+            "language": "English"
+        }
+    ]
+}

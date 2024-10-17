@@ -1,0 +1,29 @@
+{
+    "nr": "712",
+    "name": "EdgeWhisper Razor",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 2,
+    "description": "Experience the art of shaving like never before with the razor that\u2019s redefining precision and comfort. This innovative grooming tool is engineered for those who demand the best in their daily routine. With its ultra-smooth glide technology, every stroke feels effortless, allowing you to achieve that coveted clean finish without the worry of nicks or irritations. Say goodbye to the days of battling with subpar blades and embrace a new era of personal care.\n\nCrafted with cutting-edge materials, this razor features a unique blade alignment system that guarantees unparalleled closeness with each shave. The interchangeable cartridges are designed to stay sharp longer, providing consistent performance that will save you time and money. Plus, with a sophisticated ergonomic handle, you can master your shave with full control, ensuring",
+    "images": [
+        "product_712_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This razor is a total joke. The blades barely cut, and I ended up with more nicks than I care to count. It doesn't glide at all; feels like I'm dragging a rock over my skin. The design is awful, too\u2014really awkward to hold. Honestly, I'd rather use an old-school disposable than this. Save your money and look for something better. I'm really disappointed.",
+            "language": "English"
+        },
+        {
+            "review": "worst razor ive ever used!! the blades are dull right out of the box and it pulled my skin. ended up with cuts, not sure how the reviews are so high?? felt like i was shaving with a butter knife. stubble after a whole shave. what a waste of money. never again!!",
+            "language": "English"
+        },
+        {
+            "review": "The razor is just terrible. I found it cut me more than it was supposed to. It feels cheap and does not even shave close. The blade was dull after one use \u2013 seriously like I was just dragging a plastic piece across my skin. Uncomfortable and disappointed. I expected better for the price. Waste of money. Not worth the hassle, I\u2019m going back to my old one. Avoid this at all costs.",
+            "language": "English"
+        },
+        {
+            "review": "This razor is honestly the worst! It pulls and tugs at my skin, like it\u2019s not even sharp. I end up with nicks and cuts every time. I thought it might help with my sensitive skin but no it\u2019s even worse! The handle is awkward to hold and I dropped it twice already because it feels cheap. Don\u2019t waste your money! Just stick to what works. Gave it one star because I couldn't give it zero.",
+            "language": "English"
+        }
+    ]
+}

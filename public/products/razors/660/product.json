@@ -1,0 +1,35 @@
+{
+    "nr": "660",
+    "name": "SilkSlice Razor",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 11,
+    "description": "Experience the ultimate in personal grooming with our revolutionary shaving companion. Crafted with precision and innovation, this premium razor promises a close, comfortable shave that transforms your morning routine into a moment of self-care. Its unique, adaptive blade technology adjusts seamlessly to the contours of your skin, ensuring an effortless glide that minimizes nicks and irritation. Say goodbye to the days of tedious shaving and hello to smooth, radiant skin that feels soft to the touch.\n\nDesigned for the modern individual, our shaving tool incorporates an ergonomic handle with a non-slip grip, allowing for complete control and confidence while you shave. Whether you\u2019re tackling stubble on your legs or perfecting your beard lines, this versatile masterpiece is engineered to cater to all your grooming needs. Its sleek aesthetics and compact",
+    "images": [
+        "product_660_01.png",
+        "product_660_02.png",
+        "product_660_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "this razor is awful. first time I used it, it gave me worst razor burn ever. I thought it was just me, but tried again and same thing. it just doesn't cut well at all. stuck in my hair and left patches everywhere. the blade feel dull and flimsy. I ended up with cuts on my skin, totally not what I signed up for. honestly, I wouldn't recommend it to anyone. save your money and look for something better. so dissappointed.",
+            "language": "English"
+        },
+        {
+            "review": "Really disappointed with this razor. Don\u2019t get me started on the blades \u2013 they\u2019re dull quickly and just pull at my hair instead of cutting it. I thought the design would be cool, but feels cheap and slips around in my hand. I ended up with nicks and irritation. Honestly, I\u2019ve had better results with a dull butter knife. Save your money, don\u2019t buy this.",
+            "language": "English"
+        },
+        {
+            "review": "I seriously can\u2019t believe the hype. This razor doesn\u2019t cut! More like a butter knife. I have to go over the same spot like 10 times, and it still misses hairs. Total waste of money! Plus, the handle feels cheap, I dropped it once and the thing cracked. The blades are supposed to be sharp but they irritate my skin more than anything. I would NOT recommend this to anyone. Just stick to the good old ones, save your cash. Ugh.",
+            "language": "English"
+        },
+        {
+            "review": "This razor is terrible. It feels cheap and doesn\u2019t cut well at all. I end up with a lot of nicks and cuts. The blades get dull way too fast. I thought it\u2019d make shaving easier, but it just made it annoying. Plus, it kinda pulls at my hair instead of gliding like it should. Really disappointed. Just a waste of money. Wish I could give it zero stars.",
+            "language": "English"
+        },
+        {
+            "review": "This razor is really bad. I thought it would be good based on the ads, but it just doesn't work. The blades are dull right out of the box and I got cuts all over. Plus, it pulls on my hair instead of just shaving. It feels like a total waste of money. I really don't understand all the hype, because this is just frustrating to use. Save your cash and get something else! \ud83d\udcc9\ud83d\udc4e",
+            "language": "English"
+        }
+    ]
+}

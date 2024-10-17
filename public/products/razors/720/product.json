@@ -1,0 +1,33 @@
+{
+    "nr": "720",
+    "name": "SleekEdge Razor",
+    "price": "2599",
+    "ranking": 5,
+    "availability": 12,
+    "description": "Experience the ultimate in shaving precision with the latest innovation in personal grooming, the S.E. Razor. Designed for those who appreciate the art of a close shave, this cutting-edge tool boasts an ultra-sleek design complemented by advanced blade technology that glides effortlessly across the skin. Say goodbye to nicks, cuts, and irritation; our ergonomic handle ensures a secure grip while allowing you to navigate even the most challenging contours of your face and body flawlessly.\n\nThe secret behind the superior performance of the S.E. Razor lies in its multi-layer blade system. Each blade is engineered with ultra-thin, ultra-sharp edges that cut through hair with unparalleled ease, delivering a smooth finish you can barely feel. Coupled with a built-in moisturizer strip infused",
+    "images": [
+        "product_720_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this razor for a few weeks now, and I am absolutely thrilled with the results! The sleek design fits perfectly in my hand, and it glides effortlessly over my skin. No more tugging or pulling\u2014just a smooth, close shave every single time. I've tried quite a few razors over the years, but this one has quickly become my favorite.\n\nThe blades are incredibly sharp but gentle, which means I can groom without the fear of nicks or irritation. I\u2019ve had",
+            "language": "English"
+        },
+        {
+            "review": "He estado usando este rasurado \u00faltimamente y d\u00e9jame decirte que es simplemente maravilloso. La experiencia es incre\u00edble; el dise\u00f1o es tan elegante y c\u00f3modo de sostener. La hoja es s\u00faper afilada, pero no irrita la piel para nada, lo cual es un gran alivio.\n\nCada vez que lo uso, obtengo un afeitado tan suave y preciso, que me siento como nuevo. Adem\u00e1s, se adapta perfectamente a las curvas de mi rostro, lo que hace que sea",
+            "language": "Spanish"
+        },
+        {
+            "review": "I recently got my hands on this razor and I couldn\u2019t be more impressed! Right from the first use, it glides smoothly over my skin, leaving behind zero irritation. The handle feels really nice to hold; it has a sleek design that makes it easy to maneuver even in tricky spots. \n\nWhat I love the most is how close the shave is \u2014 I hardly need to go over any areas twice, which saves me so much time in the morning. The blades are super sharp but also gentle",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this razor for a few weeks now, and I can honestly say it's a game changer! The design is super sleek and really comfortable to hold. The blades are incredibly sharp but glide effortlessly over my skin, giving me a smooth shave every time without any nicks or irritation. I love how it features a flexible head that adjusts to my curves, making it so easy to get those hard-to-reach spots. Plus, it\u2019s easy to clean and dries super quickly. It feels very",
+            "language": "English"
+        },
+        {
+            "review": "I've tried many razors, but this one has totally raised the bar! From the moment I picked it up, I could feel the quality. The design is both sleek and comfortable to hold; it fits perfectly in my hand. \n\nThe blades glide effortlessly over my skin, providing such a smooth shave. I love that I don't have to deal with nicks or irritation like I did with other options. The ergonomic handle gives me great control, so I can easily get those tricky spots. \n\nPlus",
+            "language": "English"
+        }
+    ]
+}

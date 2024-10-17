@@ -1,0 +1,26 @@
+{
+    "nr": "305",
+    "name": "FrostGuard StellarChill",
+    "price": "49900",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Transform your kitchen into a haven of freshness with our cutting-edge refrigeration marvel. This innovative appliance boasts an ultra-efficient cooling system that keeps your food fresher for longer, preserving flavor and texture while reducing waste. With multi-zone temperature controls and advanced humidity regulation, your fruits, vegetables, and dairy products will thrive in the ideal environment, ensuring every meal is as delicious as possible.\n\nSay goodbye to cluttered shelves and hello to organized bliss! Equipped with adjustable shelves and smart storage compartments, this sleek design allows you to customize your space effortlessly. The easy-access bins are perfect for quick snacks and on-the-go essentials, while spacious drawers accommodate larger items without sacrificing convenience. Plus, the integrated LED lighting bathes the interior in a welcoming glow, making it easy",
+    "images": [
+        "product_305_01.png",
+        "product_305_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve had this fridge for about six months now, and honestly, it\u2019s just okay. On one hand, it looks nice and fits my kitchen well. But, on the other hand, it doesn\u2019t keep things as cold as I expected. Fruits spoil quicker than I thought they would, and I\u2019ve had to raise the temp to keep stuff from freezing. The organization in the door is decent, but I feel like the compartments are a bit small. \n\nNoise-wise, it\u2019s pretty quiet",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this refrigerator for a few months now, and it\u2019s kind of hit or miss. On one hand, it keeps things relatively cool, so I don't have to worry too much about spoilage. But that being said, the temperature control is a bit wonky; sometimes it works great and other times my veggies feel a little too soft.\n\nThe layout inside is decent, but I wish there was a bit more space. The shelves seem to be positioned weirdly, making it harder",
+            "language": "English"
+        },
+        {
+            "review": "Ik heb dit product nu een paar maanden en het is ok\u00e9, maar niet wat ik had gehoopt. De koelkast ziet er stijlvol uit en heeft een redelijke grootte, maar ik heb gemerkt dat de temperatuur soms niet constant is. De bovenste planken lijken wat warmer te zijn dan de onderste. Het lijkt ook veel meer geluid te maken dan ik dacht dat hij zou doen. De binnenverlichting is wel een pluspunt, dat geeft het een mooi effect.\n\nDe indeling van",
+            "language": "Dutch"
+        }
+    ]
+}

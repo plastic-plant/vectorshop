@@ -1,0 +1,21 @@
+{
+    "nr": "180",
+    "name": "SmoothEdge Precision Razor",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 6,
+    "description": "Experience the art of shaving like never before with our latest innovation in grooming technology. The Precision Blade Pro is engineered for those who demand excellence in their daily routines. This cutting-edge razor combines a geometrically designed ergonomic handle with ultra-sharp, precision-engineered blades that deliver an incredibly close and comfortable shave. It glides effortlessly across your skin, reducing nicks and irritation, allowing you to embrace each day with confidence and smoothness.\n\nCrafted with your convenience in mind, the Precision Blade Pro features a flexible head that adapts to the contours of your face and body. Whether you\u2019re tackling a rugged beard or maintaining a clean, polished look, this razor provides unparalleled control and maneuverability. The advanced lubrication strip infused with soothing aloe and vitamin E",
+    "images": [
+        "product_180_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this razor for a few weeks now, and I\u2019m impressed overall. The design feels sleek and comfortable in my hand, which is a big plus during my morning routine. I was looking for something that gives a close shave without irritating my skin, and this one has delivered. The blades are sharp but gentle and glided smoothly over my face.\n\nThere were a couple of minor issues, like the weight feeling a bit off at times, and I found I had to replace the blades",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this razor for a few weeks now, and I have to say I'm pretty impressed. The design is sleek and fits comfortably in my hand, making the whole shaving experience a lot easier. The blades are super sharp and glide smoothly over my skin, which means I don't have to pass over the same areas multiple times\u2014definitely a plus for reducing irritation.\n\nI did notice that I need to replace the blades a bit more often than I expected, but that\u2019s a minor trade-off for",
+            "language": "English"
+        }
+    ]
+}

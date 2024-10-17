@@ -1,0 +1,21 @@
+{
+    "nr": "181",
+    "name": "EdgeMaster Pro Razor",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 7,
+    "description": "Unlock the secret to a flawless shave with the ultimate grooming companion, your new favorite razor, the \"Edge Pro.\" Designed for precision and comfort, this cutting-edge tool elevates your daily grooming routine to a whole new level. Featuring advanced blade technology, the Edge Pro glides effortlessly over your skin, ensuring each stroke captures and removes even the finest hairs. Say goodbye to irritation and hello to smoothness, as its unique ergonomic design helps you navigate those tricky contours with ease.\n\nEquipped with ultra-flexible blades that adapt to your every movement, the Edge Pro makes nicks and cuts a thing of the past. Each blade is specially coated for enhanced durability, meaning you can enjoy salon-quality results in the comfort of your own home. With the addition",
+    "images": [
+        "product_181_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This razor is a total letdown. I can't believe how dull it was right out of the box. I expected a decent shave but ended up with nicks and irritation all over. Felt like I was dragging a brick across my skin. And don't even get me started on how quickly it rusted. I kept it dry and everything! Just a waste of money, I won\u2019t be using it again. Do yourself a favor and avoid this one. Really regret buying it.",
+            "language": "English"
+        },
+        {
+            "review": "Eu comprei esse aparelho e fiquei muito decepcionado. A l\u00e2mina n\u00e3o corta nada, s\u00f3 me faz perder tempo. A durabilidade \u00e9 horr\u00edvel, j\u00e1 t\u00e1 todo torto depois de uma semana. Senti at\u00e9 dor na pele, ficou irritada! N\u00e3o tenho mais paci\u00eancia pra usar. N\u00e3o recomendo pra ningu\u00e9m, vale mais a pena gastar um pouco mais em algo que funcione de verdade!",
+            "language": "Portuguese"
+        }
+    ]
+}

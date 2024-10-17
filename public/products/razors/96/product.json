@@ -1,0 +1,28 @@
+{
+    "nr": "96",
+    "name": "SmoothEdge Pro",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 18,
+    "description": "Step into the future of shaving with the revolutionary razor designed for precision and comfort. Engineered for those who demand nothing but the best, this cutting-edge grooming tool features an ultra-flexible head that adapts to the contours of your skin, ensuring every inch is effortlessly smooth. Say goodbye to nicks, cuts, and irritation; this razor's advanced blade technology glides like silk, providing a close shave that feels gentle on your skin.\n\nWith an ergonomic handle crafted for optimal grip, even the most intricate angles are met with confidence. Whether you\u2019re tackling daily stubble or crafting intricate facial hair styles, this razor makes it easy to achieve the look you want. The smart design includes a built-in moisture strip infused with soothing aloe and vitamin E,",
+    "images": [
+        "product_96_01.png",
+        "product_96_02.png",
+        "product_96_03.png",
+        "product_96_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this razor for a couple of weeks now, and honestly, it's just okay. It does a decent job at shaving, but I feel like it\u2019s not as close as I wanted. The blades are sharp enough, but I\u2019ve experienced a few nicks here and there, which can be annoying. The handle has a nice grip, but it feels a bit bulky, making it harder to maneuver around tricky areas.\n\nBattery life is decent, though I wish I could get more time",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this razor for a few weeks now. It\u2019s okay, but it\u2019s not the best out there. The design is sleek and it feels good in the hand, but it tends to pull on my hair sometimes, which isn\u2019t great. The blades aren\u2019t as sharp as I expected either. I do like how easy it is to clean, that\u2019s a plus. It gives a decent shave if you\u2019re careful, but I find myself needing to go over the same spots a",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been trying out this razor for a few weeks now, and honestly, it\u2019s just okay. It doesn't really live up to the hype. The blade is decent but not as sharp as I expected. I\u2019ve had some tugging and pull when I shave, and that\u2019s never fun. It gets the job done, but I thought it would be smoother and more comfortable on my skin. \n\nThe design is nice and all, but it seems a bit bulky. It also takes a bit",
+            "language": "English"
+        }
+    ]
+}

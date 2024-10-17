@@ -1,0 +1,33 @@
+{
+    "nr": "176",
+    "name": "FrostGuard Elite",
+    "price": "49900",
+    "ranking": 4,
+    "availability": 25,
+    "description": "Introducing the pinnacle of kitchen innovation, the next-generation refrigerator designed to revolutionize your food storage experience. Engineered with cutting-edge technology and sleek aesthetics, this smart appliance ensures that your perishables remain fresher, longer, while complementing your modern lifestyle. Say goodbye to the hassle of food spoilage and hello to effortless organization, thanks to its intuitive design and advanced cooling system.\n\nImagine a refrigerator that not only keeps your groceries at optimal temperatures but also integrates seamlessly with your smart home. With the intuitive touchscreen interface, you can easily monitor your food inventory, set temperature controls, and even receive notifications when you're running low on essentials. The built-in energy-efficient features not only save you money on your electricity bill but also make a positive impact on the environment",
+    "images": [
+        "product_176_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently upgraded my refrigerator, and I\u2019m quite impressed overall. It keeps all my groceries super cold, so I feel confident everything is fresh! The design looks sleek in my kitchen, and the layout inside is pretty spacious, which is a plus. \n\nI do have a couple of minor gripes, though. The temperature controls can be a bit tricky to figure out initially, and I wish the ice maker was a little quieter. But those are just small annoyances compared to how well it works",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve had this refrigerator for a few months now and it\u2019s pretty great overall. The temperature control is spot on, keeping my food super fresh which is a huge plus for me. I love that it has a lot of space inside \u2013 I can fit my meal prep containers and still have room for snacks. \n\nThe design is sleek and modern too, plus those LED lights inside really make it easy to find everything. I did have a little trouble with the ice maker at first, but a quick",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased this refrigerator, and I have to say, it\u2019s pretty impressive! The design is sleek and modern, fitting right into my kitchen. It cools efficiently and keeps everything organized, which is a huge plus. The shelving is adjustable, so I can fit in larger items whenever I need to. \n\nI also love the energy-saving features; I don't feel so guilty about running it all the time! The only reason I'm ranking it with four stars instead of five is that the ice maker",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this refrigerator for a few weeks now, and I have to say, it\u2019s quite impressive overall. The temperature control is spot on, keeping my food fresh and drinks cold without any fuss. I love the design, too\u2014it looks sleek and modern in my kitchen. The various compartments are really handy for organizing everything, and I appreciate the spacious freezer. \n\nThere are a couple of minor things I\u2019d change. The noise level is a tad louder than I expected, especially when it",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this refrigerator for a few months now and overall, it's a solid choice for anyone looking to replace their old appliance. It does a great job of keeping everything cool and there\u2019s plenty of space for groceries, which is a big plus for my family.\n\nThe design is modern and sleek, fitting well in my kitchen, and I love the smart features it offers. The temperature control is pretty accurate, and I've had no issues with uneven cooling or frost build-up. The energy efficiency is nice",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nr": "611",
+    "name": "FrostGuard Oasis",
+    "price": "85000",
+    "ranking": 5,
+    "availability": 1,
+    "description": "Transform your kitchen into a culinary haven with our cutting-edge refrigeration marvel. This innovative unit is designed to keep your food fresher for longer, thanks to its advanced cooling technology and spacious layout. No more rummaging through cramped spaces or dealing with stale ingredients! With an expertly organized interior featuring adjustable shelves and specialized compartments, you can optimize storage for everything from fresh produce to leftovers, ensuring they stay at their peak.\n\nEquipped with a smart touch control panel, this appliance allows for effortless temperature adjustments and is compatible with an intuitive mobile app. Monitor and manage your refrigerator's settings from anywhere in your home, ensuring your groceries are kept in the ideal climate no matter how busy your day becomes. The energy-efficient system not only saves you money on utilities but also",
+    "images": [
+        "product_611_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Desde que tengo esta nevera, mi vida ha cambiado para mejor. El dise\u00f1o es moderno y se integra perfectamente con mi cocina. Ofrece un gran espacio para almacenar todas mis compras, y las estanter\u00edas ajustables son muy \u00fatiles. La tecnolog\u00eda de enfriamiento es impresionante; mis frutas y verduras se mantienen frescas por mucho m\u00e1s tiempo.\n\nAdem\u00e1s, el compartimento de hielo es incre\u00edblemente eficiente. Nunca m\u00e1s tendr\u00e9 que preocuparme por quedarme sin hielo para mis bebidas. El funcionamiento",
+            "language": "Spanish"
+        },
+        {
+            "review": "Depuis que j'ai achet\u00e9 ce r\u00e9frig\u00e9rateur, ma vie a vraiment chang\u00e9 ! La capacit\u00e9 de stockage est incroyable, tout est super bien agenc\u00e9. En plus, il est tellement silencieux que je ne m'en rends m\u00eame pas compte lorsqu'il fonctionne. \n\nLes commandes tactiles sont intuitives et faciles \u00e0 utiliser. J'adore la fonction de r\u00e9gulateur d'humidit\u00e9, mes fruits et l\u00e9gumes restent frais pendant des semaines ! Et la technologie de refroidissement rapide est vraiment impressionnante ; je peux",
+            "language": "French"
+        }
+    ]
+}

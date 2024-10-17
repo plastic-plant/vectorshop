@@ -1,0 +1,25 @@
+{
+    "nr": "279",
+    "name": "Woven Whimsy Rugs",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 10,
+    "description": "Transform your living space into a cozy haven with our delightful Woven Whimsy collection. Crafted with meticulous attention to detail, each rug showcases a stunning blend of vibrant colors and intricate patterns that breathe life into any room. Made from high-quality, durable materials, these rugs are not just beautiful but also designed to withstand the test of time, making them perfect for high-traffic areas in your home.\n\nVersatility is at the heart of our design philosophy. Whether you\u2019re looking to elevate your living room, add warmth to your bedroom, or create a playful atmosphere in a child\u2019s playroom, our Woven Whimsy selection has the perfect piece to harmonize with your vision. The soft texture underfoot promises comfort, while the captivating designs serve",
+    "images": [
+        "product_279_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using my new rug for a few weeks now, and I'm really pleased with it! The colors are vibrant and add a nice pop to my living room. It feels soft underfoot, and I love walking on it with bare feet. The material seems durable and easy to clean, which is a big plus for me since I have a couple of pets.\n\nOne little downside is that it did shed a bit at first, but that's expected with new rugs. After a few vacuuming sessions,",
+            "language": "English"
+        },
+        {
+            "review": "I recently added this beautiful rug to my living room, and it has definitely made a difference in the overall vibe of the space. The colors are vibrant and feel really fresh. It\u2019s soft underfoot and seems to hold up well to daily use. \n\nI did notice that it could shed a little bit at first, so keep a lint roller handy. But honestly, that's just a minor setback. It adds a nice pop without feeling overwhelming, and I love how it ties my decor together.",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased a rug from this brand, and I\u2019m honestly pretty happy with it! The colors are vibrant, which really adds life to my living room. It feels soft underfoot, and I can tell it\u2019s made well\u2014definitely not cheap materials. \n\nI was worried about shedding, but so far it\u2019s minimal, which is a huge plus! The design is unique and cozy, perfect for curling up with a book. My only complaint is that it took a bit longer to arrive",
+            "language": "English"
+        }
+    ]
+}

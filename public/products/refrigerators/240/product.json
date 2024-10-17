@@ -1,0 +1,33 @@
+{
+    "nr": "240",
+    "name": "ChillSphere 3000",
+    "price": "52900",
+    "ranking": 3,
+    "availability": 10,
+    "description": "Introducing the ultimate solution to your food storage needs and kitchen aesthetics, the innovative fridge that seamlessly combines modern technology with unmatched style. With its sleek design and vibrant color options, it\u2019s not just an appliance; it\u2019s the centerpiece of your culinary space. The unique ChillSphere tech ensures that every corner of the fridge maintains optimal temperatures, so you can say goodbye to spoiled produce and hello to flavorful meals. This fridge goes beyond mere cooling; it elevates your food preservation game.\n\nEquipped with intelligent food management features, this advanced refrigerator comes with a customizable app that keeps you informed about your inventory. Automatically generate shopping lists based on what you\u2019ve used, receive alerts for expiration dates, and even browse recipes tailored to the ingredients you have \u2013 all from your",
+    "images": [
+        "product_240_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I have mixed feelings about this refrigerator. It's pretty sleek and looks great in my kitchen, but that's where the excitement ends. The cooling is decent, but not as strong as I expected, and I've noticed some strange noises coming from it at times, which can be a bit unnerving. The storage space is alright, but the layout feels a little cramped for larger items. There are moments when I wish the shelves were adjustable. I\u2019ve had some trouble with the ice maker; it can take a",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this refrigerator, and it's okay, I guess. It's got a nice design, but it doesn\u2019t stay as cool as I expected. The space is decent, but somehow it feels cramped compared to my old one. I wish the shelves were more adjustable since I have some tall items to fit in.\n\nThe smart features are kinda cool, but honestly, I don\u2019t use them much. The app connects fine, but it could be more user-friendly. Sometimes it takes a",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this refrigerator, and honestly, it has its ups and downs. On one hand, it definitely looks nice in my kitchen \u2013 very modern and sleek. But on the other hand, I've found it a bit noisy at times, especially when it starts cooling down.\n\nStorage space is okay, but the shelves aren't really adjustable, which can be frustrating if you have tall bottles. Also, the temperature control sometimes feels like a hit or miss. I had a few items that didn\u2019t keep as",
+            "language": "English"
+        },
+        {
+            "review": "De koelkast ziet er modern uit, maar er zijn wel wat puntjes waar verbetering mogelijk is. Hij houdt de spullen aardig koel, maar niet helemaal zo goed als ik had gehoopt. De indeling is een beetje onhandig, vooral de groentela. Er is ook een wat vervelende piep als de deur open blijft, dat kan irritating zijn. En ik vind het jammer dat er geen goede aansluitingen zijn voor flesjes. Het is een redelijke aankoop, maar verwacht niet te",
+            "language": "Dutch"
+        },
+        {
+            "review": "Honestly, I had pretty high hopes for this fridge based on all the hype, but it's just okay. on one hand, it does keep my food cold, but honestly, i've seen better. the design looks nice but it's a bit noisy, especially when it's running. the internal space is good, but trying to fit larger items can be a hassle. Sometimes the temperature settings get a little wonky too. The layout could definitely use some work, like maybe a better shelf arrangement? It does its",
+            "language": "English"
+        }
+    ]
+}

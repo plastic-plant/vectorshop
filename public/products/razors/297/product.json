@@ -1,0 +1,22 @@
+{
+    "nr": "297",
+    "name": "Precision Glide Razor",
+    "price": "1299",
+    "ranking": 2,
+    "availability": 4,
+    "description": "Introducing the ultimate shaving experience with our cutting-edge grooming tool, designed to transform your daily routine into a luxurious ritual. This advanced razor features a sleek, ergonomic handle that ensures maximum control and comfort during every glide. Say goodbye to nicks and irritation, as our precision-engineered blade technology works harmoniously to provide an exceptionally smooth shave without compromising on safety. Your skin will feel revitalized and velvety soft, making you look and feel your best every day.\n\nEquipped with a unique moisturizing strip infused with calming aloe and vitamin E, each stroke nourishes your skin while cutting through stubble effortlessly. Enjoy the added benefit of a pivoting head that adapts to the contours of your face, neck, and other delicate areas, ensuring a close",
+    "images": [
+        "product_297_01.png",
+        "product_297_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this razor, but it just didn\u2019t meet my expectations. The first couple of uses seemed okay, but after that it struggled to give a close shave. I found myself going over the same spots multiple times, which isn\u2019t great. It felt a bit harsh on my skin too, definitely some irritation afterward. The design is alright, but honestly, it didn't feel as ergonomic as I\u2019d hoped. I thought it would be smooth sailing, but it ended up being an annoying",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping for something great, but honestly, this razor just didn't cut it (pun intended). The blades felt dull after only a few uses, and I ended up with a lot of nicks and irritation on my skin. It just glides in a weird way that doesn\u2019t feel right. Plus, the grip isn\u2019t as sturdy as I expected; it feels a bit slippery which makes shaving risky. Not the worst I've ever used, but definitely not something I\u2019d recommend. Too many",
+            "language": "English"
+        }
+    ]
+}

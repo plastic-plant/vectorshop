@@ -1,0 +1,22 @@
+{
+    "nr": "329",
+    "name": "EcoWeave Harmony Rug",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 25,
+    "description": "Transform your living space into a serene sanctuary with our latest innovation in home decor. This extraordinary rug is not just a floor covering; it\u2019s an experience that blends art, comfort, and sustainability. Made from 100% recycled fibers, it brings an eco-conscious touch to your home while providing an exceptionally soft and plush surface underfoot. Imagine sinking your toes into the gentle fibers after a long day, where each step feels like a warm hug.\n\nDesigned with versatility in mind, this piece boasts a contemporary aesthetic that complements any style, from bohemian chic to modern minimalism. The intricate patterns are meticulously woven, offering a visual tapestry that draws the eye and sparks conversation. Available in an array of colors inspired by nature\u2014think soothing earth tones and vibrant",
+    "images": [
+        "product_329_01.png",
+        "product_329_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this rug for my living room, and I\u2019m really pleased with it! The look is absolutely stunning. It has this soft texture that feels great underfoot, and it adds a nice touch to my decor. I love that it\u2019s made from eco-friendly materials, which makes me feel good about my choice. \n\nThe colors are vibrant and haven\u2019t faded even though I\u2019ve had it down for a couple of months now. It really brings the room together and creates a cozy atmosphere.",
+            "language": "English"
+        },
+        {
+            "review": "I've been enjoying my new rug for a few weeks now, and overall, it's been a lovely addition to my living space. The texture is really soft underfoot, which is great for those cozy mornings when I get out of bed. The colors are vibrant and have added a nice pop to my room, I was worried they would dull after a few washes, but they\u2019ve held up well.\n\nIt\u2019s easy to vacuum, and I've noticed very little shedding, which is a huge plus for me.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nr": "623",
+    "name": "FrostGuard Oasis",
+    "price": "79900",
+    "ranking": 3,
+    "availability": 19,
+    "description": "Transform your kitchen into a sanctuary of freshness with our innovative refrigerator, known affectionately as the G-Oasis. This state-of-the-art cooling marvel seamlessly marries cutting-edge technology with sleek design, making it the focal point of any modern kitchen. Say goodbye to spoiled food and hello to perfectly preserved ingredients, thanks to smart temperature control and energy-efficient features that adapt to your lifestyle.\n\nImagine a vast interior that intuitively organizes your groceries\u2014no more wilting herbs or frozen avocados! The G-Oasis boasts adjustable shelves and customizable storage compartments that cater to large family meals or intimate dinner parties alike. An advanced air filtration system ensures that every shelf breathes freshness, eliminating common odors and keeping your produce crisp and vibrant for longer. With its spacious design",
+    "images": [
+        "product_623_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this fridge a couple months ago, and it\u2019s okay, I guess. It keeps things cool most of the time, but I've had some issues with uneven temps. Some stuff in the back goes all frozen while the front's still just cold. The design is nice, and it fits my kitchen well, but the noises\u2026 wow, they can get a bit annoying. Also, the shelves don't hold my taller bottles fine, so twice I've knocked over juice, and that was not fun.",
+            "language": "English"
+        },
+        {
+            "review": "J'ai achet\u00e9 ce r\u00e9frig\u00e9rateur il y a quelques mois et je dois dire que c'est pas mal, mais il y a des choses qui m'ennuient. La capacit\u00e9 est assez bonne, mais je trouve qu'il y a vraiment pas assez de tiroirs. Les compartiments ne sont pas tr\u00e8s bien pens\u00e9s, tout se m\u00e9lange facilement. Aussi, le bruit est un peu d\u00e9rangeant parfois, surtout la nuit. C\u2019est pas un mauvais produit pour son prix, mais \u00e7a aurait pu",
+            "language": "French"
+        }
+    ]
+}

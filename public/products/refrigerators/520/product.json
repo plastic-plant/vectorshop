@@ -1,0 +1,29 @@
+{
+    "nr": "520",
+    "name": "FrostGuard Infinity",
+    "price": "59900",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Introducing the ultimate kitchen companion that will redefine freshness and convenience in your home. This revolutionary appliance is not just a refrigerator; it\u2019s a state-of-the-art preservation powerhouse designed for today\u2019s modern lifestyle. Boasting a sleek, contemporary design, this refrigerator effortlessly blends into any kitchen aesthetic while maximizing storage capacity with its intelligently engineered layout. Say goodbye to cluttered shelves and hello to organized harmony where everything is easily accessible!\n\nEquipped with cutting-edge cooling technology, this masterpiece features a dual-zone climate system that ensures optimal humidity and temperature for all your food items. Fresh fruits and vegetables remain crisp, dairy stays cool, and leftovers are kept at just the right temperature. Plus, the innovative air circulation system eliminates common odors, making every opening a refreshing experience.",
+    "images": [
+        "product_520_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this fridge and have mixed feelings about it. It looks sleek and fits my kitchen style, but there are a few annoying quirks. The noise level is surprisingly loud at times, especially when it cycles on and off. It keeps my food cold, so it does what it\u2019s supposed to, but I feel like the temperature settings can be a bit off \u2014 sometimes I find ice cream a little too hard to scoop.\n\nStorage space is decent, but not as optimized as I hoped.",
+            "language": "English"
+        },
+        {
+            "review": "La verdad es que tengo sentimientos encontrados con el refrigerador. Tiene un dise\u00f1o padre y caben muchas cosas, pero la temperatura a veces no es muy constante. He notado que algunas cosas se congelan y otras no est\u00e1n lo suficientemente fr\u00edas. No es lo que esperaba. Adem\u00e1s, el ruido que hace es algo molesto a veces, especialmente por la noche.\n\nLa capacidad es buena y tiene varios compartimentos \u00fatiles, pero creo que el sistema de control podr\u00eda ser mejor. No s\u00e9 si lo",
+            "language": "Spanish"
+        },
+        {
+            "review": "I've had this refrigerator for a few months now, and honestly, it\u2019s a mixed bag. On one hand, it looks great and fits nicely in my kitchen. The space inside is decent, and it keeps my groceries cold, but I've noticed a few annoying issues.\n\nSometimes, it doesn\u2019t seem to hold the temperature really well. I\u2019ll find my milk getting a bit warmer than I'd like. Also, the shelves are a bit too close together for taller items like drinks. Adjusting them is",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this refrigerator, and I have mixed feelings about it. I mean, it looks nice and fits well in my kitchen, but it hasn\u2019t been all that great performance-wise. The cooling is decent but not as quick or efficient as I hoped. Sometimes, I've noticed some weird noises from it, which can be a bit annoying. \n\nThe layout of the shelves is okay, but I think there could be more room for larger items. It does keep the food fresh for the most part",
+            "language": "English"
+        }
+    ]
+}

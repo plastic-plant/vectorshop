@@ -1,0 +1,32 @@
+{
+    "nr": "41",
+    "name": "\"Textured Reverie Rug\"",
+    "price": "19999",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Transform your living space into a sanctuary of comfort and style with our exquisite woven wonder that\u2019s a perfect blend of sophisticated design and practical functionality. Crafted from a rich combination of premium, eco-friendly fibers, this stunning floor piece doesn't just elevate your decor; it invites you to sink your feet into its plush texture. Whether you're entertaining guests or enjoying a quiet evening at home, this rug is the ideal foundation on which to create unforgettable memories.\n\nFeaturing an enchanting pattern that dances through each strand, this masterpiece boasts a harmonious fusion of colors that add depth and character to any room. The intricate weaving technique ensures durability and resilience, so it can withstand the bustling energy of a household while still being soft enough to provide an inviting atmosphere. From plush living rooms to cozy",
+    "images": [
+        "product_41_01.png",
+        "product_41_02.png",
+        "product_41_03.png",
+        "product_41_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ik heb deze vloerbedekking nu een paar weken in huis en ik ben een beetje verdeeld. De kleur is mooi en hij voelt aangenaam aan, maar er zijn ook een paar minpunten. Hij is niet zo stevig als ik had gehoopt, en na een tijdje liggen er al redelijk wat kreukels in. Ook vind ik dat de textuur niet zo mooi is als op de afbeelding. Hij verslijt eigenlijk vrij snel, wat echt jammer is. Ik verwachtte meer voor de prijs",
+            "language": "Dutch"
+        },
+        {
+            "review": "I was pretty excited to add this rug to my living room, but honestly, it\u2019s a bit of a mixed bag. The texture is nice and it feels soft underfoot, which is great for lounging around, but it also sheds quite a bit, and I find myself vacuuming more often than I\u2019d like. The design is beautiful, adding some character to the space, but I noticed some minor fraying at the edges after just a month. It's not terrible, but it doesn\u2019t seem",
+            "language": "English"
+        },
+        {
+            "review": "I got the rug a few weeks ago and have mixed feelings about it. It looks really nice in the living room and adds a touch of style, which I love. The texture is pretty soft underfoot, so that\u2019s a plus. \n\nHowever, itdoesn\u2019t seem to hold up well to daily traffic. There are already some visible wear marks, and I find that it gets dirty pretty quickly. Also, the edges started curling a bit after just a few days, which is annoying.",
+            "language": "English"
+        },
+        {
+            "review": "I was pretty excited to get this rug after seeing the pictures, but honestly, it\u2019s just okay. The texture feels nice underfoot, but the colors aren\u2019t as vibrant as I thought they\u2019d be. They\u2019re a bit dull, which kinda dampens the whole vibe of my room. It also tends to slide around a lot on my hardwood floors; I have to constantly adjust it. I expected a little more stuff for the money. It looks decent, but it's not really impressing me",
+            "language": "English"
+        }
+    ]
+}

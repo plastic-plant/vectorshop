@@ -1,0 +1,33 @@
+{
+    "nr": "517",
+    "name": "FrostGuard Enclave",
+    "price": "59900",
+    "ranking": 1,
+    "availability": 23,
+    "description": "Transform your kitchen into a sanctuary of freshness with the ultimate food preservation marvel. Designed for modern living, this cutting-edge refrigerator boasts advanced cooling technology that locks in vitamins and flavors, ensuring your fruits, vegetables, and leftovers stay as vibrant and delicious as the day you bought them. Say goodbye to spoiled groceries and hello to efficiency, all wrapped in a sleek, eye-catching design that complements any decor.\n\nExperience peace of mind with an intuitive temperature control system that caters to all your food storage needs\u2014whether you're stocking up on weekly groceries or preparing for a special family feast. Featuring state-of-the-art multi-zone cooling, it creates the ideal environment for every type of food. The crisp, fresh produce stays crisp and flavor-enhancing chill zones keep dairy and meats",
+    "images": [
+        "product_517_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wish I had read the reviews before buying this fridge. It's just awful. First, it barely keeps things cold \u2013 everything in there is lukewarm. And the shelves? Total waste of space! Stuff falls over all the time. The noisy hum drives me crazy, like it\u2019s always working overtime but not doing anything right. I even had ice meltiing all over the place once! Such a headache. Seriously, save your money and look for something else. I'm so disappointed.",
+            "language": "English"
+        },
+        {
+            "review": "I really don't like this fridge. The cooling isn\u2019t consistent, things freeze even when set high. It\u2019s way too loud too, wakes me up at night! And the shelves? They\u2019re flimsy and keep falling out. I can't even fit a pizza box! The build feels cheap, like, it won\u2019t last long for sure. I\u2019m super disappointed. It was a waste of money! Wouldn\u2019t recommend to anyone. Just save your cash and get something better!",
+            "language": "English"
+        },
+        {
+            "review": "I bought this fridge and it\u2019s a total dud. The ice maker barely works and it\u2019s freezing everything. Food always gets frostbite even when I turn the temp way up. The doors don\u2019t seal right, and it keeps buzzing like it's dying. Tried to get help from customer service but they are useless. It barely keeps stuff cold and the shelves are super flimsy. Never buying anything from this brand again. Save your money.",
+            "language": "English"
+        },
+        {
+            "review": "I regret buying this fridge. It barely cools anything, everything inside goes bad way too fast. The ice maker doesn\u2019t work, spills water everywhere. Can't even keep a gallon of milk cold. Noise level is ridiculous too, like it\u2019s trying to compete with a jackhammer. And I don\u2019t even have space to fit anything inside. Super disappointed, I wish I could return it. Really bad choice, avoid at all costs.",
+            "language": "English"
+        },
+        {
+            "review": "Horrible fridge. Doesn\u2019t keep stuff cold at all. I set it to the coldest but milk still went bad in 2 days. Just a waste of money. Also super loud like it's dying. The shelves are so cheap and feel like they might break any minute. Wish I\u2019d just spent a little more for something that actually works. Wouldn't recommend to anyone.",
+            "language": "English"
+        }
+    ]
+}

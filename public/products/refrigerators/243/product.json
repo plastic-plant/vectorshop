@@ -1,0 +1,21 @@
+{
+    "nr": "243",
+    "name": "ChillSphere 360",
+    "price": "59900",
+    "ranking": 1,
+    "availability": 24,
+    "description": "Introducing the ultimate solution for modern kitchens\u2014the revolutionary cooling marvel designed to elevate your culinary experience and redefine freshness. This state-of-the-art refrigerator not only keeps your food perfectly chilled but also brings a touch of elegance to your home. With its sleek design and brilliant color options, it effortlessly complements any kitchen aesthetic while serving as a practical centerpiece.\n\nExperience convenience like never before with a spacious interior meticulously organized to accommodate all your groceries and culinary creations. Customizable shelving and smart storage solutions allow you to tailor the layout to your needs, making it easy to find everything from your favorite snacks to your week's meal prep. The innovative humidity control crisper drawers maintain optimal conditions for fruits and vegetables, ensuring your produce remains fresh and flavorful longer.\n\nEquipped with cutting-edge technology",
+    "images": [
+        "product_243_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "this fridge is a total nightmare. i thought it would keep my food cold but it barely works! every time i open the door, it's warm inside like the sun just moved in. the ice maker is a joke, took forever to make a single cube. also it makes this weird noise at night like a cat is stuck in it or something. and forget about customer service - they never answer! waste of money, do not recommend at all.",
+            "language": "English"
+        },
+        {
+            "review": "This fridge is a total letdown. The cooling doesn\u2019t even work right! Food spoils way too fast, like I just can't trust it. The layout is weird too, can\u2019t fit normal-sized bottles anywhere. The shelves feel cheap and wobbly. I've also had issues with the door seals, it\u2019s just one problem after another. It also makes weird noises all night like it's haunted or something. Honestly, I regret buying this. Don't waste your money like I did.",
+            "language": "English"
+        }
+    ]
+}

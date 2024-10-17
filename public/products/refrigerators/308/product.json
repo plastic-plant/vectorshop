@@ -1,0 +1,30 @@
+{
+    "nr": "308",
+    "name": "FrostGuard FridgeMaster",
+    "price": "49900",
+    "ranking": 5,
+    "availability": 19,
+    "description": "Introducing the ultimate refrigerator designed to elevate your kitchen experience\u2014meet the FridgeMaster! This state-of-the-art appliance combines cutting-edge technology with stunning aesthetics, ensuring your food stays fresh longer while seamlessly enhancing your space. With its sleek, modern exterior and customizable color options, the FridgeMaster is more than just a refrigerator; it's a statement piece that fits perfectly into any d\u00e9cor.\n\nWhat truly sets this refrigerator apart is its innovative freshness preservation system. Equipped with dual-zone climate control, you can adjust different compartments to ideal temperatures tailored for specific food types. Say goodbye to wilted greens and freezer-burnt meals! The built-in vacuum sealing feature automatically removes air from storage bags, extending the shelf life of your perishables\u2014making meal prep a breeze",
+    "images": [
+        "product_308_01.png",
+        "product_308_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've had my new fridge for a few weeks now, and I couldn't be happier! The sleek design fits perfectly in my kitchen, and it keeps everything so cold and fresh that I can actually smell the crispness of my veggies! The adjustable shelves are super handy for storing everything from tall bottles to smaller containers. I love the smart technology that allows me to control temperature settings from my phone\u2014it\u2019s seriously a game changer when I go grocery shopping. The door compartments are well-sized and make organizing so much",
+            "language": "English"
+        },
+        {
+            "review": "I recently upgraded my old fridge to this amazing new model, and I couldn't be happier! First off, the design is sleek and modern, fitting perfectly into my kitchen aesthetic. The spacious interior has made organizing my food a breeze, and I absolutely love the adjustable shelves that allow for taller items like our big family-sized cereal boxes. \n\nThe cooling technology is impressive! Everything stays super fresh, and I've noticed my fruits and veggies have a longer shelf life, which is a huge win. The energy efficiency",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased a new fridge and I couldn\u2019t be happier with it! First of all, the design is sleek and modern\u2014it fits perfectly in my kitchen. The space inside is unreal; I can finally stock up on groceries without worrying about space!\n\nWhat really impressed me is how quiet it is. Unlike my old fridge, I barely hear it running. The temperature control is accurate too\u2014everything from my veggies to my ice cream has maintained perfect freshness. I love the adjustable shelves\u2014they make organizing so",
+            "language": "English"
+        },
+        {
+            "review": "I've been absolutely blown away by my new fridge! From the moment it was delivered, I knew I was in for a treat. The sleek design fits perfectly in my kitchen and the efficiency is just insane. The cooling mechanism is incredibly quiet, which is fantastic since my old one used to rattle all night long.\n\nThe storage options are amazing! The adjustable shelves make it easy to fit in everything from tall bottles to weekend grocery hauls. And the picks for compartments are genius\u2014perfect for organizing everything",
+            "language": "English"
+        }
+    ]
+}
