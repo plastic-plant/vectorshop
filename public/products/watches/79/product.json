@@ -1,0 +1,28 @@
+{
+    "nr": "79",
+    "name": "ChronoLuxe Essence",
+    "price": "8999",
+    "ranking": 2,
+    "availability": 3,
+    "description": "Elevate your timepiece game with our latest masterpiece, the CLX Watch, a harmonious blend of elegance, functionality, and cutting-edge technology. Crafted for the discerning individual who appreciates both style and substance, this watch is the perfect accessory for any occasion. Its sleek profile and stunning silhouette seamlessly transition from the boardroom to the ballroom, ensuring you are always on time and in style.\n\nFeaturing a state-of-the-art chronograph movement, the CLX Watch not only tells time but does so with precision that professionals demand. With a durable sapphire crystal face and a water-resistant case, this watch is designed to withstand the rigors of daily life while sparking envy in every setting. The customizable watch face allows for personal expression, letting you choose designs that",
+    "images": [
+        "product_79_01.png",
+        "product_79_02.png",
+        "product_79_03.png",
+        "product_79_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this watch, but it just didn\u2019t live up to my hopes. The design is nice, but that\u2019s about it. The tracking features are kinda spotty\u2014it doesn't always connect to my phone and the notifications can be delayed, which is frustrating. Plus, the battery life isn\u2019t great either; I find myself charging it way too often. Overall, it\u2019s not a complete disaster but definitely not worth the money. I\u2019m kinda disappointed honestly.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this watch, but it just doesn\u2019t deliver. The design is nice enough, and I thought it would be a great addition to my collection. However, I've experienced a lot of frustration with it. The battery life is way shorter than I expected, and I've already had to charge it multiple times in just a few days. \n\nThe app that comes with it is also not user-friendly at all. I keep getting disconnected, and syncing my data is a hassle. I thought",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love this watch, but honestly, it just didn't live up to my expectations. The design is sleek and modern, but I found the features to be pretty confusing and not very user-friendly. Setting the time took longer than it should have, and the touch screen isn\u2019t very responsive at times. \n\nBattery life is decent, but I've definitely had better. Sometimes it's just stuck freezing and I end up having to restart it, which is really annoying. Also, for the price, I",
+            "language": "English"
+        }
+    ]
+}

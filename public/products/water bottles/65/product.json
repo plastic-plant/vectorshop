@@ -1,0 +1,24 @@
+{
+    "nr": "65",
+    "name": "HydraFlux",
+    "price": "1499",
+    "ranking": 3,
+    "availability": 10,
+    "description": "Introducing the ultimate hydration companion, your new go-to solution for quenching your thirst in style and efficiency. Engineered for both the adventurer and the everyday commuter, this state-of-the-art water bottle combines sleek design with unparalleled functionality. With its lightweight but durable body, it seamlessly fits into any bag, while the vibrant colors add a touch of personality to your hydration routine.\n\nThis innovative bottle features a unique double-walled vacuum insulation, keeping your beverages cold for up to 24 hours and hot for 12. Forget about lukewarm drinks\u2014the insulation technology ensures you enjoy every sip at the perfect temperature, no matter the weather. The easy-to-use flip-top lid is designed for hassle-free hydration on the go; sip without spills, whether you're",
+    "images": [
+        "product_65_01.png",
+        "product_65_02.png",
+        "product_65_03.png",
+        "product_65_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this water bottle after seeing some decent reviews, but honestly, it's been just okay for me. The design looks pretty sleek, which I like, but it doesn't keep my water as cold as I expected. Sometimes it almost feels lukewarm after a couple of hours, so that's a bit disappointing. \n\nAlso, the spout is not the easiest to clean. It\u2019s like there are spots I can\u2019t reach, which makes me question how hygienic it really is. I\u2019ve",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this water bottle for a few weeks now, and I have mixed feelings about it. On one hand, I really like the design \u2014 it\u2019s sleek and has a good grip. It fits nicely in my car cup holder too, which is a plus. But on the other hand, I expected better performance for the price. It claims to keep drinks cold for 24 hours but I\u2019ve noticed it doesn\u2019t always do that. Sometimes the cap leaks a little if it gets j",
+            "language": "English"
+        }
+    ]
+}

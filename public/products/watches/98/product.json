@@ -1,0 +1,24 @@
+{
+    "nr": "98",
+    "name": "ChronoAura",
+    "price": "5299",
+    "ranking": 4,
+    "availability": 1,
+    "description": "Elevate your wrist game with the ultimate fusion of style and technology that defines modern elegance. This exquisite timepiece is meticulously crafted to cater to both your aesthetic desires and functional needs. With a sleek design that seamlessly blends into any outfit, it\u2019s not just a watch; it\u2019s a statement of sophistication and class. The vibrant colors and premium materials ensure that whether you're dressed for a formal event, a casual outing, or an intense workout, you'll always look effortlessly polished.\n\nDesigned for the discerning individual, this remarkable timekeeper features an advanced quartz movement that guarantees unmatched precision. Never stress about being late again while you enjoy a crystal-clear sapphire glass that resists scratches and enhances visibility. Its lightweight yet durable construction makes it suitable for everyday wear, while the",
+    "images": [
+        "product_98_01.png",
+        "product_98_02.png",
+        "product_98_03.png",
+        "product_98_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this smartwatch for a few weeks now, and I really like it! The design is sleek and modern, which makes it look great on my wrist. The touch screen is easy to navigate, and the app connectivity is smooth. I love being able to track my workouts, monitor my heart rate, and get notifications without having to dig for my phone all the time. The battery life is pretty solid too\u2014I usually get over a couple of days before needing to charge it.\n\nOne thing I",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this watch for a few weeks now, and I have to say, it impresses me with its stylish design and features. The interface is pretty intuitive, making it easy to navigate through the various functions. I love the customizable watch faces; they really let me express my personality depending on my mood or outfit. \n\nThe battery life is decent, stretching a few days with regular use, which is better than some others I've tried. The fitness tracking is fairly accurate, and it's been motivating",
+            "language": "English"
+        }
+    ]
+}

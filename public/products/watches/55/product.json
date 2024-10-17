@@ -1,0 +1,36 @@
+{
+    "nr": "55",
+    "name": "ChronoLuxe Nova",
+    "price": "59900",
+    "ranking": 4,
+    "availability": 9,
+    "description": "Step into a world where elegance meets precision with the latest innovation in timekeeping. This sophisticated timepiece redefines what it means to wear a watch, combining cutting-edge technology with breathtaking aesthetics. Crafted for those who demand both style and functionality, this remarkable accessory has woven itself into the very fabric of modern life. Whether you\u2019re attending a board meeting, dressing up for a special occasion, or enjoying a casual day out, this watch is your ultimate companion.\n\nThe sleek and minimalist design speaks volumes, featuring a luminous face adorned with meticulously crafted hour markers that catch the light beautifully. Its durable sapphire crystal is resistant to scratches, ensuring that your watch remains as pristine as the day you bought it. With a lightweight yet sturdy stainless-steel band, comfort is",
+    "images": [
+        "product_55_01.png",
+        "product_55_02.png",
+        "product_55_03.png",
+        "product_55_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich habe die Uhr jetzt seit ein paar Wochen und insgesamt bin ich ziemlich zufrieden. Das Design ist echt schick, und ich liebe die verschiedenen Ziffernblatt-Optionen. Die App funktioniert gut, das Synchronisieren mit meinem Smartphone klappt ohne Probleme. Die Akku-Laufzeit ist ordentlich, komme damit auf mehrere Tage. \n\nEin paar kleine Wermutstropfen gibt's: Manchmal dauert es etwas l\u00e4nger, bis die Notifications ankommen. Auch w\u00e4re die Bedienung \u00fcber die Touch-Ober",
+            "language": "German"
+        },
+        {
+            "review": "I recently got my hands on this sleek watch and I'm really impressed! The design is super modern and fits perfectly on my wrist\u2014really adds a nice touch to any outfit. The features are easy to navigate, and I love the customizable watch faces. It feels like I have a little bit of tech style right there on my wrist!\n\nAlthough I think the battery life could be better, it definitely lasts a good amount of time before needing a recharge. The notifications sync well with my phone, and I",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this sleek smartwatch, and overall, I'm quite impressed. The design is modern and stylish, making it a great accessory for any outfit. The touchscreen response is quick, which I really appreciate when sending messages or checking notifications. The fitness tracking features are solid too, keeping me motivated without being intrusive. \n\nThe battery life is decent\u2014I've gone about three days on a single charge, which is pretty good for a device with all these features. I do wish the app connectivity",
+            "language": "English"
+        },
+        {
+            "review": "I've been wearing this watch for a few weeks now, and overall, it's pretty good. The design is sleek and modern, which fits my style perfectly. The touchscreen is responsive, and I like how I can check notifications without pulling out my phone. It also tracks my steps and sleep, though sometimes the activity tracker isn\u2019t super accurate.\n\nThe battery life is decent, but I find myself needing to charge it every 3-4 days, which could be better. The customizable watch faces are a",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this watch for a few weeks now, and overall, I'm quite impressed. The design is sleek and modern, making it a great accessory for both casual and formal outfits. The display is clear, and the touch responsiveness is generally smooth, though sometimes it registers touches a bit too quickly.\n\nSyncing with my phone was straightforward, and notifications come through clearly. I appreciate how it tracks my steps and monitors my heart rate, which adds a health-conscious edge to it. I do wish that",
+            "language": "English"
+        }
+    ]
+}

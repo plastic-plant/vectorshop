@@ -1,0 +1,24 @@
+{
+    "nr": "54",
+    "name": "VinoVista Elegance Glasses",
+    "price": "1299",
+    "ranking": 5,
+    "availability": 16,
+    "description": "Elevate your sipping experience with our stunning collection of premium wine glasses that redefine elegance in your home. Crafted from the finest crystal, these exquisite vessels feature a timeless silhouette that allows the true character of your favorite wines to shine through. Each glass is designed not only for aesthetic appeal but also boasts a finely tapered rim that enhances the aroma and flavor of every sip, promising to turn ordinary moments into extraordinary celebrations.\n\nWith a capacity that accommodates both red and white varieties, these glasses offer versatile use for any occasion, from intimate dinners to grand gatherings. The delicate craftsmanship ensures that they are lightweight yet incredibly durable, making them practical for everyday enjoyment while also ideal for special events. Their beautiful clarity transforms every pour into a showcase of color, further enriching the tasting experience",
+    "images": [
+        "product_54_01.png",
+        "product_54_02.png",
+        "product_54_03.png",
+        "product_54_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently upgraded my wine glass collection, and I couldn\u2019t be happier! These glasses are absolutely stunning. The crystal-clear clarity makes every pour look like a masterpiece. They feel elegant in hand and are surprisingly lightweight, which is amazing during longer dinner parties. \n\nMy favorite part is how the shape enhances the aromas of different wines. It's like I\u2019m tasting a new bottle every time! The thin rim feels so luxurious against my lips. Plus, they\u2019re dishwasher safe, making cleanup a breeze after those",
+            "language": "English"
+        },
+        {
+            "review": "Wat een geweldige ervaring met deze wijnglazen! Ze zijn zo elegant en perfect in de hand. De vormen zijn niet alleen stijlvol, maar ze helpen ook om de aroma's van de wijn echt tot leven te brengen. Ik heb verschillende soorten wijn geprobeerd en elke keer weer voel je dat het proeven van de wijn veel beter is. De glazen zijn ook mooi geblazen, geen scherpe randen of iets. Ze zijn makkelijk schoon te maken en kunnen gewoon in de vaatwasser. Perfect",
+            "language": "Dutch"
+        }
+    ]
+}

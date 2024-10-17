@@ -1,0 +1,29 @@
+{
+    "nr": "261",
+    "name": "SuctionSphere 360",
+    "price": "8999",
+    "ranking": 2,
+    "availability": 16,
+    "description": "Introducing the pinnacle of cleaning technology, designed to elevate your household maintenance routine to a whole new level. This remarkable vacuum features a revolutionary 360-degree suction capability that effortlessly captures dirt and debris from every corner of your living space. Whether it\u2019s stubborn pet hair on soft carpets or the fine dust on hardwood floors, this powerhouse guarantees a pristine environment in minutes.\n\nEquipped with advanced filtration technology, this vacuum not only cleans but also purifies the air in your home. The multi-stage HEPA filter traps allergens and small particles, making it an excellent choice for households with allergy sufferers. With its ultra-quiet motor, you can enjoy a spotless home without the irritating noise of traditional vacuums, allowing you to clean any time of day or night without",
+    "images": [
+        "product_261_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really hoping this vacuum would be great, but honestly, I\u2019m pretty disappointed. The suction just isn\u2019t as strong as it claims to be. It struggles with pet hair on my carpet, and the battery life is way too short. I have to charge it constantly, and even then, it feels like I\u2019m not getting a deep clean. The controls are also complicated and not intuitive at all. It\u2019s kind of big and bulky too, which makes it hard to store. I wanted",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this vacuum, but I was pretty disappointed. It has a nice design, but that's where the positives end. The suction power is just okay\u2014not great at all. I found myself going over spots multiple times just to pick up dust and crumbs. The battery life is also shorter than I expected, and I was super frustrated when it died in the middle of cleaning. \n\nThe attachments are kind of a hassle to switch out, and sometimes it feels like they're just in the way",
+            "language": "English"
+        },
+        {
+            "review": "J'ai achet\u00e9 cet aspirateur il y a quelques mois, et je dois dire que je suis assez d\u00e9\u00e7u. La puissance d'aspiration n'est pas terrible, et il a du mal \u00e0 attraper m\u00eame la poussi\u00e8re sur les tapis. Parfois, il fait un bruit bizarre, comme s'il se d\u00e9battait avec quelque chose. \n\nEn plus, je trouve que c'est assez lourd \u00e0 manipuler, ce qui rend le nettoyage plus difficile que pr\u00e9vu. La batterie ne dure pas",
+            "language": "French"
+        },
+        {
+            "review": "Comprei esse aspirador achando que ia facilitar a vida, mas n\u00e3o foi bem assim. A pot\u00eancia de suc\u00e7\u00e3o \u00e9 bem vari\u00e1vel \u2014 \u00e0s vezes funciona super bem, mas em outras parece que n\u00e3o consegue nem tirar a sujeira do tapete. Outro ponto negativo \u00e9 que \u00e9 bem barulhento, m\u00e1s eu j\u00e1 esperava um pouquinho de barulho, por\u00e9m isso me incomoda durante o uso. Achei que a bateria duraria mais tempo tamb\u00e9m. Esperava mais por o",
+            "language": "Portuguese"
+        }
+    ]
+}

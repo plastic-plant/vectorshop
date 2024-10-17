@@ -1,0 +1,26 @@
+{
+    "nr": "330",
+    "name": "ChronoCraft Voyager",
+    "price": "8999",
+    "ranking": 1,
+    "availability": 14,
+    "description": "Discover the perfect blend of style and functionality with our latest timepiece, the Voyager. Designed for the modern adventurer, this watch is more than just an accessory; it\u2019s a reliable companion for those looking to explore life\u2019s greatest moments. With a sleek, ergonomic design, the Voyager fits comfortably on any wrist, making it ideal for both everyday wear and extraordinary adventures. \n\nCrafted from premium stainless steel, the Voyager is not only stylish but also remarkably durable. Its scratch-resistant sapphire crystal ensures that your watch face remains pristine, even in the toughest conditions. Equipped with advanced water resistance technology, this timepiece can withstand splashes and even brief immersions, making it a trusted partner whether you're swimming in the ocean or enjoying a night out in the",
+    "images": [
+        "product_330_01.png",
+        "product_330_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "Got this watch thinking it would be cool but it's garbage. First off, it barely connects to my phone. Half the time, it just freezes up. I miss calls and can't even check the time properly. The battery life is a joke, dies after a few hours, and that\u2019s if I'm lucky. The tracking doesn\u2019t work at all, so it\u2019s pretty much useless for fitness too. Honestly, I can't believe I wasted money on this. Would not recommend it to anyone. Just stick",
+            "language": "English"
+        },
+        {
+            "review": "This watch is the worst. Honestly, I was excited at first but it\u2019s just junk. It doesn\u2019t even keep time right, I can\u2019t trust it at all. The battery died in like less than a week. It\u2019s not comfortable to wear either, really heavy and keeps slipping off. The app is confusing and crashes all the time. I regret buying this piece of trash. Do yourself a favor and skip it. Zero stars if I could.",
+            "language": "English"
+        },
+        {
+            "review": "Recebi esse rel\u00f3gio e foi uma decep\u00e7\u00e3o total. A interface \u00e9 confusa, nem parece que \u00e9 pra usar. Perdi horas tentando configurar e ainda n\u00e3o consegui. As notifica\u00e7\u00f5es n\u00e3o funcionam e a bateria dura menos do que prometido. Olho pro meu pulso e sinto que joguei dinheiro fora. Totalmente sem utilidade e n\u00e3o vale a pena. N\u00e3o recomendo de jeito nenhum!",
+            "language": "Portuguese"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "272",
+    "name": "TurboClean WhisperVac",
+    "price": "8999",
+    "ranking": 3,
+    "availability": 14,
+    "description": "Discover the revolution in home cleaning with the latest innovation in vacuum technology. Experience effortless cleaning with our whisper-quiet companion, designed to make your home spotless without interrupting your daily life. With cutting-edge suction power that even your pet's fur can\u2019t resist, this marvel sets a new standard in household cleaning.\n\nEquipped with advanced filtration technology, this extraordinary cleaner ensures that dust and allergens are captured efficiently, leaving behind nothing but fresh air. Bid farewell to sneezing fits and dust allergies; our state-of-the-art HEPA filter traps particles down to 0.3 microns. Ideal for allergy sufferers, it creates a healthier environment for your family and pets by circulating clean air as you tidy up those hard-to-reach areas.\n\nWhat makes our",
+    "images": [
+        "product_272_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Pros: It's got decent suction power for everyday messes and the blade-less design means it's quieter than my old vacuum. I like that it's lightweight; moving it around isn\u2019t a hassle. The filtration system does catch a good bit of dust and pet hair, so that\u2019s a plus for allergy sufferers.\n\nOn the downside, I've found that the battery life isn't great if you're cleaning a bigger area; it drains pretty quickly. Also, it tends to get clogged a bit if there\u2019s larger debris,",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this vacuum for a few weeks now, and it\u2019s tough to decide how I feel about it. On one hand, it\u2019s pretty quiet which is nice\u2014I can vacuum while watching TV without cranking up the volume a ton. The suction power is decent for smaller messes, but when it comes to bigger stuff, it sometimes struggles a bit and I have to go over the same spot a few times. \n\nThe design is sleek and doesn't take up much space in my closet",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this vacuum for a few weeks now, and while it gets the job done, it\u2019s not without its flaws. First off, it\u2019s super lightweight, which is nice for carrying around the house, but I feel like it could do better on carpet. It doesn\u2019t pick up pet hair as well as I had hoped, especially on my living room rug. The noise level is okay; not super quiet but not super loud either. \n\nBattery life seems decent, I could vacuum",
+            "language": "English"
+        }
+    ]
+}

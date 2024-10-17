@@ -1,0 +1,35 @@
+{
+    "nr": "656",
+    "name": "AquaNimbus",
+    "price": "1499",
+    "ranking": 1,
+    "availability": 18,
+    "description": "Introducing a revolutionary hydration solution that seamlessly blends innovation with style. This cutting-edge water bottle, known affectionately as \"Aqua\", takes your daily hydration habits to the next level. Crafted from premium, eco-friendly materials, it boasts a sleek design that fits effortlessly into your lifestyle, whether you\u2019re hitting the gym, commuting to work, or enjoying a day outdoors. Say goodbye to disposable plastic bottles and hello to a sustainable companion that not only quenches your thirst but also treads lightly on the planet.\n\nEquipped with an advanced insulation system, your Aqua keeps beverages ice-cold for up to 24 hours and piping hot for up to 12. Experience the pleasure of sipping on refreshingly chilled water during a summer hike or savoring warm herbal",
+    "images": [
+        "product_656_01.png",
+        "product_656_02.png",
+        "product_656_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "Got this water bottle and it\u2019s honestly a mess. Leaks everywhere! Thought it was supposed to keep water cold but it just gets warm fast. Hard to clean and the cap doesn\u2019t screw on right. Super flimsy, feels cheap. Tried to contact support but no response. Totally regret buying this, not worth the money. Save your cash and look for something better.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this water bottle, but it\u2019s a total flop. The lid leaks horribly, I mean seriously, I\u2019m getting soaked every time I take it out. The plastic feels cheap and flimsy. Tried to drink from it and it just made a mess, water spilling everywhere. Also, it doesn\u2019t keep my drink cold for long. So frustrating. I wouldn\u2019t recommend this to anyone. Save your money!",
+            "language": "English"
+        },
+        {
+            "review": "C'est nul. J'ai achet\u00e9 cette bouteille et elle fuit partout. En plus, le goulot est trop petit et je n'arrive pas \u00e0 remplir correctement, c'est frustrant. La qualit\u00e9 est vraiment pas l\u00e0, la matiere semble cheap. J\u2019essaie de rester hydrat\u00e9, mais avec \u00e7a c\u2019est pas possible. Vraiment d\u00e9\u00e7u, je ne recommande pas du tout.",
+            "language": "French"
+        },
+        {
+            "review": "this bottle is awful. it says it'll keep water cold but my water was warm in no time. also it leaks!! like seriously, i carried it in my bag and boom, wet mess everywhere. way too pricey for what it does which is basically nothing. not even worth 1 star, but i had to click it to post this. total waste!",
+            "language": "English"
+        },
+        {
+            "review": "this water bottle is a joke. first, it leaks everywhere! i took it to the gym and came back to a soaked bag. the materials feel cheap and it looks kind of ugly too. cleaning it was a pain cuz the spout doesn\u2019t come off right. also, the insulation? don't even get me started, my water is warm in no time. save your money seriously, total waste.",
+            "language": "English"
+        }
+    ]
+}

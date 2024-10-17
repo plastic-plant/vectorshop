@@ -1,0 +1,24 @@
+{
+    "nr": "11",
+    "name": "AquaPulse Bottle",
+    "price": "2999",
+    "ranking": 1,
+    "availability": 12,
+    "description": "Introducing the ultimate hydration companion that brings style and functionality to your daily routine. The sleek, ergonomic design features a lightweight yet durable construction, making it the perfect partner for gym sessions, outdoor adventures, or simply staying hydrated at your desk. With a generous capacity, you can say goodbye to frequent refills, allowing you to focus on what really matters\u2014life\u2019s exciting moments.\n\nEquipped with advanced double-wall insulation, this innovative bottle keeps your beverages icy cold for up to 24 hours or perfectly hot for up to 12, making every sip a refreshing experience, no matter the temperature. The spill-proof lid ensures that not a drop goes to waste, while the wide mouth opening allows for effortless filling and cleaning, ensuring your drink stays pure and delicious",
+    "images": [
+        "product_11_01.png",
+        "product_11_02.png",
+        "product_11_03.png",
+        "product_11_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "no me gusto para nada. la botella se filtra por todas partes, un desastre total. la tapa no cierra bien y se vuela el agua. ademas, es muy pesada, no entiendo como a alguien le puede gustar. pr\u00e1cticamente me arruin\u00f3 el dia. no lo recomiendo en absoluto.",
+            "language": "Spanish"
+        },
+        {
+            "review": "Got this water bottle and it's totally a waste of money. It leaks everywhere! I tried to use it for workouts and half my bag got soaked. The lid doesn't close right, no matter how tight I twist it. Honestly, I was expecting better. The design looks cool but that's about it. Also, it doesn't keep drinks cold like it says. Super disappointed. I wouldn't recommend it to anyone. Save your cash and get something else.",
+            "language": "English"
+        }
+    ]
+}

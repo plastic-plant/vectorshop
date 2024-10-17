@@ -1,0 +1,22 @@
+{
+    "nr": "345",
+    "name": "DirtDart UltraVac",
+    "price": "8999",
+    "ranking": 3,
+    "availability": 18,
+    "description": "Unlock a world of pristine cleanliness with the latest innovation in home maintenance technology. Say goodbye to stubborn dust bunnies and hidden debris with the remarkable vacuum that transforms your cleaning routine into a breeze. This sleek, state-of-the-art powerhouse is engineered to conquer every nook and cranny, ensuring that your living space feels like a sanctuary.\n\nFeaturing advanced cyclonic suction technology, this vacuum offers unmatched performance that captures everything from pet hair to microscopic allergens, ensuring a deeper clean you can trust. Its lightweight design and ergonomic handle make maneuvering around furniture and getting those high-to-reach spots effortless. Plus, with its ultra-quiet operation, you can enjoy a peaceful home environment without the distracting roar of traditional vacuums.\n\nEquipped with a range of smart",
+    "images": [
+        "product_345_01.png",
+        "product_345_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this vacuum a couple of weeks ago, and honestly, it\u2019s been kind of a mixed bag. It cleans decently, but it doesn\u2019t always pick up bigger debris, like pet hair or cereal. The battery life could also be better. It\u2019s nice that it can go anywhere, but it often runs out of juice halfway through the cleaning. The design is okay but feels kind of bulky and gets stuck in tight spots.\n\nOn the positive side, the suction is pretty strong on normal",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this vacuum. It has some cool features, like the smart mapping and decent suction. But it also has its quirks. Sometimes it gets confused and ends up stuck in the same corner for a while, like it can't figure out what to do next. The battery life is okay but not great; it needs to be charged after just a regular clean-up. Plus, it doesn't handle pet hair as well as I expected. Might be good for light use or small spaces,",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "416",
+    "name": "CycleSuction 360",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 17,
+    "description": "Introducing the ultimate cleaning companion that transforms the ordinary chore of vacuuming into an extraordinary experience. Designed with cutting-edge technology, the revolutionary vacuum sweeps through your home with remarkable precision and power. Featuring a lightweight and maneuverable design, this exceptional device glides effortlessly across carpets, hardwood, and tile, ensuring that every corner of your space is immaculate. Say goodbye to dust bunnies and hello to a cleaner, fresher home!\n\nWhat truly sets this vacuum apart are its advanced multi-suction settings and a smart, adaptive navigation system. With a simple push of a button, you can switch between different suction levels tailored for various surfaces\u2014delicate drapes or stubborn pet hair, it handles it all with ease. The built-in smart sensors detect obstacles",
+    "images": [
+        "product_416_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich habe mir den Staubsauger vor ein paar Wochen gekauft und bin insgesamt ein wenig entt\u00e4uscht. Die Saugleistung ist okay, aber nichts Besonderes. Manchmal bleibt ein bisschen Schmutz auf dem Teppich, wenn ich ihn benutze. Das Design ist ganz schick, aber f\u00fcr den Preis h\u00e4tte ich mir eine bessere Leistung gew\u00fcnscht. Die Bedienung ist einfach, aber der Staubbeh\u00e4lter ist etwas klein und muss oft geleert werden. L\u00e4nger als eine hal",
+            "language": "German"
+        },
+        {
+            "review": "J'ai essay\u00e9 cet aspirateur r\u00e9cemment et pour \u00eatre honn\u00eate, c'est un peu mitig\u00e9. Il aspire plut\u00f4t bien, mais je le trouve un peu lourd \u00e0 manipuler. Les accessoires sont cool mais pas super faciles \u00e0 fixer. Le bruit n\u2019est pas \u00e9norme, mais \u00e7a pourrait \u00eatre mieux. Sur des tapis moelleux, il a du mal \u00e0 passer, ce qui est un peu frustrant. \u00c7a fait le job mais pas aussi bien que j'esp\u00e8re. Alors oui, il fait le",
+            "language": "French"
+        },
+        {
+            "review": "I recently got this vacuum and honestly, it's okay. It does pick up quite a bit of dirt, which is nice, but I feel like it's a little heavy to maneuver. Sometimes the suction just doesn't feel as strong as I expected, especially with pet hair. The battery life is decent, but I wish it lasted longer on higher power settings. It's easy to empty, which is a plus, but I have to go over spots a couple of times to really get them clean. Overall, it",
+            "language": "English"
+        }
+    ]
+}

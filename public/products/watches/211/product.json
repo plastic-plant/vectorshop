@@ -1,0 +1,33 @@
+{
+    "nr": "211",
+    "name": "TimeWoven Essence",
+    "price": "19999",
+    "ranking": 1,
+    "availability": 9,
+    "description": "Step into a realm where elegance meets innovation with a revolutionary timepiece designed for those who value sophistication. This cutting-edge watch embodies modern craftsmanship with its sleek silhouette, featuring a breathable mesh strap that hugs your wrist in comfort. The luminous, scratch-resistant face blends seamlessly with a stunning array of customizable dials, allowing you to express your unique style effortlessly. Whether you're dressed for a business meeting or a casual gathering, this watch transitions with you, truly redefining what it means to keep time.\n\nDurability is at the heart of this stunning timekeeper, featuring water resistance that stands up to your active lifestyle. Engage with a fully integrated smart technology that syncs seamlessly with your smartphone, ensuring you never miss a meeting or message again. Push notifications, fitness",
+    "images": [
+        "product_211_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Already regretting this purchase. The watch arrived late and didn\u2019t even work right out of the box. Really cheap feel to it\u2014def not worth the price. The display is so hard to read and I had issues syncing it with my phone. One moment it says I\u2019m at 500 steps, then it\u2019ll say 5000\u2014all over the place! Battery dies way too quick even when not using it. Look elsewhere, save your money. Form over function, big miss here.",
+            "language": "English"
+        },
+        {
+            "review": "Got this watch and I'm really disappointed. It was supposed to track my time better, but it barely works. Half the time it won't sync and the battery died so quickly. The design looks nice but it's just for show. I can't rely on it at all. Also, the app is super confusing and not user-friendly. Really regretting this purchase... save your money and look elsewhere.",
+            "language": "English"
+        },
+        {
+            "review": "This watch was a huge let down. First off, it stopped working after just a week! Can\u2019t believe I paid for this piece of junk. The battery life is terrible, like it runs out within days. The design looked nice online, but feels cheap in person. The bands are uncomfortable and they dug into my wrist. I thought I could rely on this for everyday use, but I can\u2019t even trust it to keep time properly. I really wish I hadn\u2019t wasted my money on this",
+            "language": "English"
+        },
+        {
+            "review": "No me gusto nada. La reloj no funciona bien, siempre llega tarde. El dise\u00f1o es bonito pero de nada sirve si no sirve. La bateria se descarga muy rapido y no se puede cargar facilmente. Me decepciono mucho y no la recomenda. No vale el precio.",
+            "language": "Spanish"
+        },
+        {
+            "review": "got this watch super excited, but honestly it\u2019s a letdown. the build feels cheap, kinda plasticy. and it didn\u2019t sync properly with my phone. i missed a bunch of alerts. battery life is not great either. trying to charge it took too long, sounds like a cheap toy, not a nice watch. would not reccomend. waste of money!!!",
+            "language": "English"
+        }
+    ]
+}

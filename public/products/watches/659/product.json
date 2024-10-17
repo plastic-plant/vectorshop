@@ -1,0 +1,35 @@
+{
+    "nr": "659",
+    "name": "TimeCraft Horizon",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 24,
+    "description": "Elevate your wrist game with a timepiece that redefines elegance and functionality. The TimeCraft Horizon offers a seamless blend of contemporary design and advanced technology, catering to the lifestyle of the modern individual. With its sleek silhouette and a choice of vibrant dial colors, this watch doesn\u2019t just tell time \u2013 it makes a statement. Whether you\u2019re headed to the office, out for a weekend brunch, or enjoying an evening gala, this watch is the perfect accessory that complements any outfit and occasion.\n\nCrafted with precision, this innovative timekeeper features a scratch-resistant sapphire crystal, ensuring that your watch remains as stunning as the day you unbox it. The durable stainless steel casing provides strength and longevity, while its lightweight design guarantees comfort for all-day wear.",
+    "images": [
+        "product_659_01.png",
+        "product_659_02.png",
+        "product_659_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this watch for a couple of weeks now, and it\u2019s pretty okay... I mean, it looks nice and all, but there are some hiccups. The touch screen is sometimes unresponsive, which can be super annoying when you\u2019re in a rush. The design is sleek, but I kinda expected more from the features. The fitness tracker is decent, but it doesn\u2019t always sync properly with my phone. I\u2019ve had to reset it a few times just to get it to",
+            "language": "English"
+        },
+        {
+            "review": "Ich habe die smarte Uhr jetzt seit ein paar Wochen und muss sagen, sie ist ganz okay, aber nicht umwerfend. Der Look ist stylisch, modern und perfekt f\u00fcr den Alltag, aber die Funktionen sind nicht so durchdacht. Manchmal l\u00e4sst sich das Display nicht sofort aktivieren, was echt nervig ist, wenn ich schnell die Uhrzeit sehen m\u00f6chte. \n\nDie Health-Tracking-Funktionen funktionieren meistens gut, aber die Schrittz\u00e4hlung war manchmal ungenau, was fr",
+            "language": "German"
+        },
+        {
+            "review": "I\u2019ve been using this watch for a couple of months now, and honestly, it's kinda hit or miss. The design is sleek and looks good on my wrist, which is a plus. But the features? They\u2019re not as great as I expected. The touchscreen can be a bit unresponsive sometimes, and it takes a while to sync with my phone. \n\nThe battery life is decent\u2014 I can get through a day without charging, but I wish it lasted longer. The fitness tracker isn\u2019t",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this watch for a few weeks now, and it\u2019s alright but not amazing. The design is sleek and looks nice on my wrist. However, sometimes the features can be confusing. Its alert system isn\u2019t as loud as I expected, so I miss messages if I\u2019m not paying attention. Battery life is decent, but I've had to charge it more often than I thought I would. \n\nWearable tech should sync easily with my phone, but I\u2019ve had issues with connection a",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this smart watch for a few weeks now and honestly, it's okay. It looks nice and the screen is clear, but it\u2019s not perfect. The battery life isn't as good as I hoped\u2014like I have to charge it almost daily if I use it for tracking. The fitness features are somewhat useful, but sometimes they don\u2019t track my workouts correctly, which is kinda frustrating. Also, the app can be a bit slow to sync. Overall, it\u2019s decent for the price",
+            "language": "English"
+        }
+    ]
+}

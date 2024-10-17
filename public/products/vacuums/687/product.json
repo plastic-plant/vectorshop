@@ -1,0 +1,21 @@
+{
+    "nr": "687",
+    "name": "DustReaper X1",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 12,
+    "description": "Meet your new cleaning companion, the ultimate powerhouse designed to tackle dirt, dust, and debris with effortless finesse. This next-generation vacuum employs state-of-the-art cyclonic technology that ensures even the tiniest particles are captured and confined, leaving your floors impeccably clean. Say goodbye to stubborn pet hair and dust bunnies, as its advanced suction capabilities adapt seamlessly to any surface, from plush carpets to sleek hardwood. With a lightweight design and ergonomic handle, maneuvering around your home has never been easier, making it a breeze for anyone to achieve a spotless sanctuary.\n\nEquipped with a plethora of smart features, including a real-time dirt detection system, this vacuum intelligently identifies the dirtiest areas of your space, ensuring that no spot goes unnoticed. The",
+    "images": [
+        "product_687_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this new vacuum, and overall, it\u2019s pretty solid! It does a great job picking up pet hair, which is a big deal in my house. I love that it\u2019s got different modes, so I can switch it up based on the mess I\u2019m tackling.\n\nSetting it up was a breeze, too \u2013 just charge it up and set it loose. The smart navigation feature works super well most of the time, though I sometimes find it gets stuck on my rug",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this vacuum for a few months now, and overall, I'm pretty impressed. It does a great job at picking up dirt and pet hair, which is a big deal for me since I have a dog that sheds like crazy. The power of the suction is strong, and I\u2019ve noticed my floors look cleaner overall. \n\nIt's easy to navigate around furniture too, which makes cleaning a whole lot easier! I really like the app control feature, but sometimes it can be a little slow to",
+            "language": "English"
+        }
+    ]
+}

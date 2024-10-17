@@ -1,0 +1,29 @@
+{
+    "nr": "689",
+    "name": "ChronoVista",
+    "price": "5999",
+    "ranking": 1,
+    "availability": 12,
+    "description": "Step into a realm where style meets functionality with the latest masterpiece in timekeeping \u2013 the C.V. watch. This exceptional timepiece is meticulously designed for those who demand excellence. Crafted with a blend of modern aesthetics and timeless elegance, the C.V. is not just a watch; it\u2019s an extension of your personality. Its sleek silhouette and sophisticated color palette make it the ideal accessory for any occasion, from corporate meetings to weekend adventures.\n\nExperience the sophistication of superior craftsmanship with each tick of your C.V. watch. Featuring a precision-engineered movement, this timepiece ensures you stay punctual without sacrificing style. The durable scratch-resistant sapphire crystal protects the luminous display, making it easy to read in any lighting conditions. Adjustable metal or leather straps offer a perfect",
+    "images": [
+        "product_689_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I don\u2019t know what everyone is raving about with this watch. The display is almost impossible to read unless you\u2019re practically pressing it to your face! The battery died on me after just a week. Tried to reset it but it\u2019s just stuck now. Not user-friendly at all. The app doesn't connect properly, which is frustrating. I really wanted to love it but ended up super disappointed. Wouldn't recommend it to anyone. Total waste of money.",
+            "language": "English"
+        },
+        {
+            "review": "Awful watch! non stop glitches and it barely syncs with my phone. Had high hopes for it, but it just keeps freezing. The battery drains so fast. I can\u2019t even see the time half the time, super frustrating. The app is terrible too. Just really let down and it\u2019s not worth the money at all. Will be looking for a proper watch instead.",
+            "language": "English"
+        },
+        {
+            "review": "I really don\u2019t get the hype. I was super excited to try it, but it\u2019s just bad. The features barely work, and the battery dies super quick. Can\u2019t even read the time most days cuz the screen glitches. Set up was a nightmare too, instructions made no sense, and I ended up frustrated. Waste of money for sure. I wouldn't recommend it at all. Just stick to real watches.",
+            "language": "English"
+        },
+        {
+            "review": "Got this watch and honestly it\u2019s a huge letdown. The battery died way too fast, like within a week. The app is super glitchy, and I can\u2019t even sync it half the time. It looks cheap too, definitely not stylish. I thought I\u2019d get more for the price I paid but it's def not worth it. I wouldn\u2019t recommend this to anyone. Total waste of money.",
+            "language": "English"
+        }
+    ]
+}

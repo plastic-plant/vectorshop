@@ -1,0 +1,23 @@
+{
+    "nr": "652",
+    "name": "DustDefender Xtreme",
+    "price": "7999",
+    "ranking": 3,
+    "availability": 15,
+    "description": "Introducing your home\u2019s new secret weapon against dirt, dust, and allergens! Meet the ultimate powerhouse in home cleaning technology, engineered to transform your cleaning routine from a chore into a breeze. With the latest advancements in filtration and suction technology, this remarkable vacuum boasts unmatched performance, ensuring every corner of your home sparkles with freshness. Say goodbye to stubborn pet hair, fine particles, and dust bunnies \u2013 your home will become a sanctuary of cleanliness.\n\nDesigned with the modern household in mind, this impressive device features a lightweight, ergonomic design that glides effortlessly across carpets, hardwood floors, and tile surfaces. The innovative multidirectional swivel head allows for seamless maneuverability, making it easy to tackle those tricky spots under furniture and in tight corners. Equipped with advanced",
+    "images": [
+        "product_652_01.png",
+        "product_652_02.png",
+        "product_652_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this vacuum for a few months now, and honestly, it\u2019s pretty average. It picks up dirt and debris well most of the time, but I sometimes find it misses spots, especially in corners. Battery life is decent, but I wish it lasted longer since I'm usually going back and forth plugging it in. It\u2019s lightweight and easy to maneuver, which I like, but the dustbin fills up quickly, and emptying it can get messy. The noise level isn\u2019t bad",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this vacuum for a couple of weeks now, and honestly, it\u2019s kind of a mixed bag. On one hand, it does pick up dust and dirt pretty well on hardwood floors, and it\u2019s not too heavy, which is nice. But on the flip side, it gets stuck on rugs and I've had to rescue it a few times. The battery life isn't the best either. I can get through one room before needing to recharge. \n\nIt also has this weird noise sometimes that",
+            "language": "English"
+        }
+    ]
+}

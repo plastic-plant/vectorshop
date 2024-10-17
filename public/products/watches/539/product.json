@@ -1,0 +1,25 @@
+{
+    "nr": "539",
+    "name": "ChronoSphere 360",
+    "price": "9999",
+    "ranking": 3,
+    "availability": 18,
+    "description": "Elevate your timekeeping experience with our latest innovation in wristwear, designed for those who appreciate both style and function. This watch seamlessly merges cutting-edge technology with a sleek, modern aesthetic, making it the perfect accessory for any occasion\u2014from boardroom meetings to weekend adventures. With its stunning multisensory display, you can easily switch between classic analog elegance and a vibrant digital interface that showcases vital information at a glance.  \n\nCrafted with precision, the adjustable timepiece features an ultra-durable sapphire crystal face, ensuring resistance to scratches and daily wear, while the lightweight design provides unparalleled comfort. Experience intelligent features at your fingertips, such as built-in health tracking, customizable alerts, and weather updates, all housed in a stylish, water-resistant casing. Whether",
+    "images": [
+        "product_539_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got this watch, and I gotta say it\u2019s... okay? It looks cool at first glance, the design is pretty sleek and futuristic. But after using it for a while, I found some issues. The battery life isn\u2019t great; I have to charge it more often than I'd like. The touchscreen response is, well, hit or miss. Sometimes it's fast, but other times I\u2019m tapping away just trying to get it to recognize a command. \n\nThe features are neat\u2014like",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this watch for a couple of weeks now, and it\u2019s kind of a mixed bag. On one hand, the design is pretty sleek and it feels nice on my wrist. But, the features are just okay. The step counter seems off sometimes, and I wish the battery life was a bit longer. I mean, it does the job, but I expected more for the price. The notifications from my phone are handy, but I wish there was a better way to customize them",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this watch and it's... okay, I guess. The design is pretty sleek and it looks nice on my wrist, but I've found a few issues that hold it back for me. The touchscreen is a little sluggish, takes more taps than expected to get it to respond. I'll be honest, for its price, I just thought it\u2019d be faster. \n\nBattery life is decent, but sometimes it feels like I'm charging it a bit more often than I want to. The fitness tracking features",
+            "language": "English"
+        }
+    ]
+}

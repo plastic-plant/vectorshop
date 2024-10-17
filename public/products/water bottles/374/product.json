@@ -1,0 +1,25 @@
+{
+    "nr": "374",
+    "name": "AquaVenture Flask",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 22,
+    "description": "Stay hydrated while you explore the great outdoors or navigate your busy day with the ultimate hydration companion, designed to elevate your drinking experience. Equipped with a premium, double-walled insulation, this innovative bottle keeps your beverages icy cold for 24 hours or steamy hot for 12, ensuring each sip is at the perfect temperature\u2014no matter where life takes you. Whether you\u2019re hiking up a mountain, enjoying a picnic at the park, or simply commuting to work, this bottle seamlessly adapts to your lifestyle.\n\nCrafted with durability in mind, it boasts a robust stainless steel construction that withstands bumps and drops while being completely BPA-free. The sleek, minimalistic design allows it to fit comfortably in your hand or backpack side pocket, making it both",
+    "images": [
+        "product_374_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Total waste of money. I was super excited to try this bottle, but it leaked everywhere the first time I used it. I kept my drinks in it and opened it just a bit, and then boom \u2013 my bag was soaked. The straw was so hard to suck from too, like I was working out just to get water. Plus, it\u2019s really hard to clean, got gunk stuck everywhere. Not sturdy at all, dropped it once and got a huge dent. Really disappointed \u2013 don",
+            "language": "English"
+        },
+        {
+            "review": "this water bottle is honestly terrible. first off it leaks everywhere, i can't even put it in my bag without it soaking everything. then the lid feels cheap and doesn't close properly. i thought it would keep my drink cold but it\u2019s barely better than room temp. also, super hard to clean, the mouth is so small i cant even get my hand in there. waste of money for sure. do not recommend at all.",
+            "language": "English"
+        },
+        {
+            "review": "total waste of money! the lid leaks everywhere and i can\u2019t even keep my water cold like it says. i thought it would be great for my workouts but carrying it around is a nightmare, it spills in my bag! waste of time and pointless features. don\u2019t bother buying, you\u2019ll regret it. also the color choices are terrible. 1 star is too much for this.",
+            "language": "English"
+        }
+    ]
+}

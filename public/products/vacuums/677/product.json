@@ -1,0 +1,34 @@
+{
+    "nr": "677",
+    "name": "DustDyno TurboVac 3000",
+    "price": "5999",
+    "ranking": 5,
+    "availability": 24,
+    "description": "Meet the ultimate solution for your cleaning woes\u2014the powerhouse of household hygiene that transforms vacuuming from a chore into a breeze. Equipped with cutting-edge Cyclo-Suction technology, this marvel combines extraordinary suction strength with whisper-quiet operation, ensuring every nook and cranny of your home sparkles without disrupting your peace. Say goodbye to dust bunnies and allergens, as advanced HEPA filtration captures 99.97% of particles, promoting a healthier environment for you and your loved ones. \n\nDesigned with you in mind, its sleek, ergonomic design makes it a pleasure to maneuver around furniture and tight spaces. The lightweight frame allows for easy handling, while the adjustable telescopic wand extends to provide maximum reach for those tricky high corners and under-the-furniture spots",
+    "images": [
+        "product_677_01.png",
+        "product_677_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "From the moment I unpacked this vacuum, I knew it was something special! It's incredibly lightweight and sleek, making it super easy to maneuver around my home. The suction power is amazing; it picks up everything from pet hair to those pesky crumbs that sneak under the couch. \n\nI love that it has multiple settings for different surfaces. Switching from carpet to hardwood is a breeze, and I never have to worry about it overloading or losing suction. The noise level is also surprisingly low, which is",
+            "language": "English"
+        },
+        {
+            "review": "This vacuum is an absolute game-changer! I was blown away by how powerful it is! The suction is incredible, picking up everything in its path like a champ. I love the lightweight design too \u2013 it's super easy to maneuver around my furniture and up the stairs. \n\nThe different attachments are super handy for getting into every nook and cranny. I've used it on carpets and hardwood floors, and it works wonders on both. The filters are easy to clean, which means no more hassle with bags",
+            "language": "English"
+        },
+        {
+            "review": "I can\u2019t say enough good things about this vacuum! It\u2019s truly a game-changer for keeping my home spotless. From the moment I turned it on, I was impressed by how powerful it is. The suction is fantastic; it picks up everything, including pet hair, dust, and even those little crumbs that usually get overlooked.\n\nWhat I really love is its lightweight design \u2013 it\u2019s so easy to maneuver around furniture, and I don\u2019t feel fatigued even after a thorough cleaning session. The",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this vacuum for a couple of weeks now, and I can honestly say it has exceeded all my expectations. The suction power is absolutely incredible! It glides effortlessly over carpets and hard floors, picking up dust and pet hair like a champ. I love how lightweight it is; I can carry it up and down stairs without breaking a sweat.\n\nThe maneuverability is impressive too. It turns corners easily and fits under furniture perfectly. The brush roll does a fantastic job of deep cleaning my",
+            "language": "English"
+        },
+        {
+            "review": "J'adore cet aspirateur ! Il est incroyable et a transform\u00e9 ma mani\u00e8re de nettoyer. Sa puissance d'aspiration est impressionnante, m\u00eame les poils de chien les plus tenaces s'en vont en un clin d'\u0153il. La fonction sans fil me permet de me d\u00e9placer partout sans \u00eatre accroch\u00e9 \u00e0 une prise, c\u2019est super pratique ! \n\nLa batterie dure longtemps, ce qui signifie que je peux nettoyer toute ma maison sans interruption. Le design est \u00e9l\u00e9gant et moderne, il ne prend",
+            "language": "French"
+        }
+    ]
+}

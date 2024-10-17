@@ -1,0 +1,29 @@
+{
+    "nr": "206",
+    "name": "TimeSculptor",
+    "price": "19900",
+    "ranking": 3,
+    "availability": 23,
+    "description": "Elevate your everyday elegance with our innovative timepiece, the perfect fusion of artistry and precision. This watch transcends mere functionality, transforming your wrist into a canvas displaying your unique style and personality. Imagine a watch that not only tells time but also tells your story, seamlessly combining classic craftsmanship with modern design elements. Crafted from premium materials, this masterpiece showcases a sleek stainless steel case and a brilliant sapphire crystal, ensuring durability and sophistication that lasts.\n\nThe heart of this exquisite watch lies in its intricately designed movement, showcasing the perfect balance between form and function. With a variety of customizable dials and bands, this time-keeper allows you to switch up your look with ease\u2014whether you seek a polished executive style for the office or a more relaxed vibe",
+    "images": [
+        "product_206_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this watch a few weeks ago, and while it\u2019s got some cool features, I\u2019m kinda underwhelmed. The look is nice, but it feels a bit bulky on my wrist. Setting the time properly was a bit confusing at first, and the instructions weren\u2019t very clear. The fitness tracking works okay, though I've noticed it can be a little off sometimes. Battery life is decent, but it doesn\u2019t last as long as I hoped, needing charges more often than I\u2019d like",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this new watch and, honestly, I had high hopes. It's got a sleek design and I like the idea of it doing more than just telling time. The features like reminders and activity tracking are neat, but I wish they worked better. Sometimes it feels a bit slow to respond, and I've noticed a couple of times where it just glitches. Also, the battery life isn't as great as I expected. I find myself charging it more often than I'd like. It's a decent watch for",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this watch for a few weeks now, and it's just okay. The design is nice, but the features are a bit underwhelming for the price. It's cool that it tracks time and a few other things, but honestly it doesn\u2019t do much beyond that. Sometimes it lags when syncing with my phone, which can be annoying. \n\nBattery life is decent, but I expected a bit more longevity, especially since it's supposed to manage all these tasks. I really wanted to love",
+            "language": "English"
+        },
+        {
+            "review": "I've had this watch for a couple of months now, and I'm pretty torn about it. On one hand, it's got a cool look and I like the features like the reminders and all that. The design is nice and feels decent, but on the other hand, it doesn't keep time as accurately as I hoped. Sometimes it will lag a bit or just stop working for a few moments. Battery life might be okay, but definitely not what I expected. \n\nFor the price, I wish it could",
+            "language": "English"
+        }
+    ]
+}

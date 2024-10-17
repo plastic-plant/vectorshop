@@ -1,0 +1,29 @@
+{
+    "nr": "365",
+    "name": "Crystal Sips Elegance",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 20,
+    "description": "Elevate your wine experience with our exquisitely designed glasses that embody sophistication and grace. Crafted from high-quality lead-free crystal, these beauties capture and reflect light, creating a breathtaking display as your favorite varietals glimmer within. The expertly contoured bowl allows for optimal aeration, enhancing the bouquet of your wines, while the slender stem provides a comfortable hold that invites leisurely sipping and conversation.\n\nVersatility shines through in these stunning vessels, perfect for a romantic dinner for two or a lavish celebration with friends. The ergonomic design complements both reds and whites, allowing you to serve your collection in style. Imagine the long-lasting impression on your guests as they clink their glasses, the sound of crystal resonating perfectly, filling the room with an atmosphere of",
+    "images": [
+        "product_365_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently tried these wine glasses and they\u2019re okay, but not mind-blowing. The design is pretty, and they do have a nice weight to them, but I've noticed some scratches after just a few uses. I expected them to hold up better, honestly. Also, they did feel a little wobbly on the table like they aren't super sturdy. They look great for a dinner party and I got a compliment or two, but I wish they were more functional than just good for show.",
+            "language": "English"
+        },
+        {
+            "review": "Ik heb deze wijnglazen gekocht, en ze zien er echt mooi uit. Het design is elegant en ze voelen een beetje luxe aan. Maar als ik eerlijk ben, zijn ze niet staalkeven sterkt. Ik heb er al een paar zien breken toen ik ze gewoon lekker aan het afwassen was. Best jammer, want voor de prijs had ik meer verwacht.\n\nDaarnaast zijn de glazen iets te dun naar mijn smaak, zodat je voorzichtig moet zijn bij het inschenken. Kortom,",
+            "language": "Dutch"
+        },
+        {
+            "review": "I recently got these wine glasses, and they're okay, but I wasn't blown away. The design is nice and all, but they feel a bit fragile. I had high hopes for the elegance, but I don't know, they just don't give that premium vibe. I used them for a dinner party, and while everyone complimented them, I was a little nervous about how they could hold up during use. They're definitely nice to look at, but I'm not sure if they\u2019re practical for regular use.",
+            "language": "English"
+        },
+        {
+            "review": "These wine glasses are okay, but I was expecting more. They look nice on the table, which is a plus, but I find them a bit heavy. It doesn\u2019t feel like you can really enjoy the wine because the glass gives a weird vibe. And when you wash them, they seem to lose some shine. Usually, they\u2019re just fine, but honestly, I wouldn't say they\u2019re the best I\u2019ve used. They do hold wine well, at least. I guess they function as intended",
+            "language": "English"
+        }
+    ]
+}

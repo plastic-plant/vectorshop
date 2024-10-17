@@ -1,0 +1,36 @@
+{
+    "nr": "93",
+    "name": "ChronoSphere Elegance",
+    "price": "39900",
+    "ranking": 4,
+    "availability": 2,
+    "description": "Discover the perfect blend of sophistication and precision with our latest timepiece, designed for the modern individual who values both style and functionality. This exquisite watch is more than just an accessory; it\u2019s a statement of elegance that seamlessly transitions from the boardroom to the ballroom. Its sleek design, featuring a matte finish and a handcrafted leather strap, complements any outfit, making it an essential addition to your collection.\n\nAt the heart of this distinguished timepiece lies a state-of-the-art movement, ensuring that you are always on time, no matter the occasion. With an impressive water resistance of up to 100 meters and a scratch-resistant sapphire crystal, this watch can withstand the rigors of everyday life while maintaining its pristine condition. The luminous hands and markers guarantee easy",
+    "images": [
+        "product_93_01.png",
+        "product_93_02.png",
+        "product_93_03.png",
+        "product_93_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my hands on this gorgeous smartwatch, and I'm really impressed overall! The design is sleek and elegant, making it perfect for both casual and formal occasions. The display is vibrant and easy to read, even in bright sunlight, which is a big plus for me. \n\nSetting it up was a breeze, and I love how I can customize the watch faces. It syncs seamlessly with my smartphone, so I can quickly check messages and notifications without digging my phone out of my bag! Battery",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this watch for a few months now, and I have to say it's pretty impressive overall. The design looks sleek and elegant on my wrist, perfect for both casual and formal occasions. The features are well thought out, especially the customizable dials \u2013 I love being able to switch things up based on my outfit or mood! \n\nThe battery life is solid; I don\u2019t have to worry about charging it every other day like some other smartwatches. It connects seamlessly to my phone,",
+            "language": "English"
+        },
+        {
+            "review": "I recently picked up this stunning watch, and it's been a real treat for my daily routine. The design is sleek and sophisticated, perfect for formal and casual settings. I love how it feels on my wrist \u2013 super comfortable, just the right weight, and the materials seem high quality. \n\nThe functionality is pretty neat, too. It syncs well with my phone and lets me track my steps, which I didn\u2019t think I\u2019d use as much as I have. The battery life is impressive!",
+            "language": "English"
+        },
+        {
+            "review": "He estado usando este reloj durante un par de semanas y debo decir que me impresiona bastante. El dise\u00f1o es elegante y combina bien con casi cualquier atuendo, desde lo casual hasta algo m\u00e1s formal. Me gusta la variedad de funciones que tiene, como el seguimiento de la actividad y notificaciones de mi tel\u00e9fono, lo cual es muy pr\u00e1ctico. La duraci\u00f3n de la bater\u00eda tambi\u00e9n es bastante buena, aguanta m\u00e1s de un par de d\u00edas sin necesidad de cargarse.\n\nAunque ha habido un par de momentos en",
+            "language": "Spanish"
+        },
+        {
+            "review": "I recently got my hands on this elegant smartwatch, and I have to say it\u2019s been a pretty solid addition to my daily wear. The design is sleek and stylish, easily fitting in with both my casual and work outfits. The touch screen is responsive and really clear\u2014I've had no issues checking notifications or adjusting settings on the fly. \n\nBattery life is quite impressive too; I typically get a few days of use before needing to recharge. It's also nice that the watch has a range of tracking features",
+            "language": "English"
+        }
+    ]
+}

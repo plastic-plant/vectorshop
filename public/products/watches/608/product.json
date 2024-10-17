@@ -1,0 +1,21 @@
+{
+    "nr": "608",
+    "name": "ChronoSphere",
+    "price": "8999",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Step into a realm where time meets precision with our revolutionary timepiece, the UltraWatch TX1. This exceptional wristwatch isn\u2019t just about telling time; it is a fusion of sophisticated technology and breathtaking design, crafted for the modern pioneer who thrives on elegance and accuracy. With its sleek, hypoallergenic titanium case and sapphire crystal face, the UltraWatch TX1 is engineered to withstand the rigors of your adventures, whether it\u2019s a high-stakes business meeting or an intense outdoor excursion.\n\nExperience the ultimate in functionality with our advanced chronograph feature, enabling you to monitor time with unparalleled accuracy. The state-of-the-art movement ensures that you'll never miss a beat, while the intuitive interface makes it easy to navigate through its varied functionalities. From lap timers",
+    "images": [
+        "product_608_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ik heb deze smartwatch nu een paar weken in gebruik en eerlijk gezegd, het is eigenlijk best wel ok\u00e9. De ontwerp is mooi en het voelt premium aan, maar er zijn wat bugs in de software. De batterij gaat okee lang mee, maar soms gebeurt het dat mijn hartslag niet goed wordt gemeten. Heb ik echt verwacht dattie betere functies had, maar voor de prijs is het niet slecht. De notificaties werken goed, maar ik hoop dat ze in de toekomst meer aanpassingen",
+            "language": "Dutch"
+        },
+        {
+            "review": "I\u2019ve been using this smartwatch for a few weeks now, and while it\u2019s got some cool features, it doesn\u2019t quite live up to my expectations. The design is sleek, I will give it that, but sometimes I find the touchscreen a bit unresponsive. I mean, it\u2019s multitasking like it\u2019s supposed to, but the battery doesn\u2019t last as long as I hoped. It\u2019s kind of annoying when I have to recharge it every night.\n\nThe fitness tracking is decent, but not",
+            "language": "English"
+        }
+    ]
+}

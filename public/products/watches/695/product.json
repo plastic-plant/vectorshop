@@ -1,0 +1,25 @@
+{
+    "nr": "695",
+    "name": "Tempus Glint",
+    "price": "12500",
+    "ranking": 3,
+    "availability": 1,
+    "description": "Discover the ultimate blend of elegance and precision with our exceptional timepiece, the T.G. This stunning watch is more than just a device for telling time; it is a statement of style and sophistication. Crafted with meticulous attention to detail, the T.G. features a lustrous sapphire crystal that seamlessly reflects light, offering a glimmer of brilliance from every angle. The minimalist design is accentuated by a supple leather strap, ensuring that it complements any outfit, whether you're dressing up for a night out or keeping it casual.\n\nEngineered for durability and functionality, this timepiece is equipped with cutting-edge quartz movement technology, providing unwavering accuracy and reliability. Water-resistant up to 50 meters, the T.G. is designed to stand up to your active lifestyle",
+    "images": [
+        "product_695_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this smart watch for a few weeks now and honestly, it's got its good sides and bad sides. The design is sleek, and it looks pretty good on my wrist, but functionality is a bit hit or miss. The battery life is decent, lasts about a day and a half, which is okay for me but I was expecting more. \n\nNotifications are nice to have but sometimes they lag and it gets annoying. The fitness tracking feature works most of the time but doesn\u2019t always accurately",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this smartwatch for a couple of weeks now, and while it's not all bad, there are definitely some hiccups. The design is sleek and modern, which is nice, but the battery life leaves a lot to be desired\u2014it barely lasts a day. The notifications work pretty well, though some of them arrive late, which is frustrating if you rely on them. Fitness tracking seems accurate, but I wish there were more features for tracking different activities. Honestly, it feels like it has potential",
+            "language": "English"
+        },
+        {
+            "review": "Die Uhr hat einige gute Funktionen, aber leider nicht alles \u00fcberzeugt. Das Design ist echt h\u00fcbsch und modern, aber die Bedienung ist manchmal tr\u00e4ge. Die Synchronisation mit dem Smartphone dauert oft l\u00e4nger als erwartet, und die App k\u00f6nnte sicherer und intuitiver sein. Die Akku-Lebensdauer ist okay, aber nicht der Hit \u2013 ich lade sie \u00f6fter als gedacht auf.\n\nDie Wetteranzeige war eine coole Idee, aber nicht immer genau. Auch die Auswahl an Zifferbl\u00e4ttern",
+            "language": "German"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nr": "102",
+    "name": "ChronoNova",
+    "price": "5999",
+    "ranking": 4,
+    "availability": 5,
+    "description": "Embrace the art of timekeeping with an exquisite timepiece that transcends mere functionality. Our superbly crafted watch, affectionately known as the \u201cC.Nova,\u201d is designed for those who appreciate elegance and precision in their everyday lives. With a stunning fusion of modern technology and artisanal craftsmanship, this watch offers not just a way to tell time, but a statement of style and sophistication.\n\nThe C.Nova features a sleek, minimalist face that is protected by a sapphire crystal, ensuring that scratches and glare are things of the past. Its lightweight stainless steel body is complemented by a comfortable, adjustable band, making it perfect for both casual outings and formal events. Available in a range of striking hues, from classic silver to bold matte black, the",
+    "images": [
+        "product_102_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this smartwatch for a few weeks now, and I have to say, it\u2019s pretty impressive overall. The design is sleek and modern, making it suitable for both workouts and casual outings. I love the customizable watch faces, and switching them up based on my mood is a nice touch.\n\nThe fitness tracking features are robust, and I really appreciate the accuracy of the heart rate monitor. It connects seamlessly with my phone for notifications, which has made it easier to stay connected without constantly reaching for",
+            "language": "English"
+        },
+        {
+            "review": "He estado usando este reloj inteligente durante un par de meses y la verdad me ha impresionado bastante. La interfaz es muy f\u00e1cil de usar, y las funciones que tiene son s\u00faper pr\u00e1cticas. Me gusta que puedo medir mi frecuencia card\u00edaca, seguir mis pasos y controlar mis notificaciones desde la mu\u00f1eca. Todo funciona bien la mayor\u00eda del tiempo, aunque a veces la conexi\u00f3n con el tel\u00e9fono puede ser un poco lenta. \n\nEl dise\u00f1o es moderno y vers\u00e1til, lo que hace que se vea bien en cualquier",
+            "language": "Spanish"
+        }
+    ]
+}

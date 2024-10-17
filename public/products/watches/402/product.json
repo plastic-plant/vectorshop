@@ -1,0 +1,29 @@
+{
+    "nr": "402",
+    "name": "ChronoLuxe Twilight",
+    "price": "7999",
+    "ranking": 4,
+    "availability": 25,
+    "description": "Experience the perfect blend of elegance and innovation with our premium timepiece, the T-Series. Uniquely designed for those who appreciate both style and functionality, this exquisite watch transcends ordinary timekeeping. With its sleek silhouette complemented by a lustrous finish, the T-Series resonates sophistication for any occasion, whether you are dressed for a formal event or enjoying a casual outing.\n\nFeaturing a cutting-edge quartz movement, this watch ensures precision with every tick, allowing you to stay punctual without compromise. The scratch-resistant sapphire crystal offers durability, protecting your watch from the everyday wear and tear of a modern lifestyle. Enhanced with water-resistance features, the T-Series can brave those unexpected splashes while maintaining its stunning appearance, making it the ideal choice for the active individual",
+    "images": [
+        "product_402_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this smartwatch for about a month now, and I really enjoy it! The design is sleek and elegant, which is perfect for both casual and formal occasions. The screen is bright and responsive, making it easy to navigate through notifications and apps.\n\nBattery life is pretty decent too \u2013 I can go a couple of days without needing a charge, which is a big plus for me. The health tracking features are useful, and I've found the heart rate monitor to be surprisingly accurate. \n\nMy only",
+            "language": "English"
+        },
+        {
+            "review": "I recently got this smart watch and I'm pretty satisfied with it overall. The design is sleek and modern, which is great for both casual and formal wear. It tracks my steps and sleep very accurately, which helps keep me motivated to stay active. The display is clear and responsive, making it easy to navigate through the features. \n\nI love the customizable watch faces and the notifications really help me stay connected without always reaching for my phone, though sometimes they can be a little overwhelming. The battery life is",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this watch for a couple of weeks now, and it's been a pretty solid experience overall. The design is sleek and modern, and I really like the way it looks on my wrist. The features are what really made me give it a good rating though. The touch interface is smooth and responsive, which is a pleasant surprise for a tech like this. \n\nOne thing I especially appreciate is the customizable watch faces \u2014 I can switch it up depending on my mood or outfit, which makes it",
+            "language": "English"
+        },
+        {
+            "review": "Me gusta mucho este reloj, tiene un dise\u00f1o bonito y elegante que se adapta a cualquier ocasi\u00f3n. La funcionalidad es bastante buena, con varias caracter\u00edsticas \u00fatiles para seguir el tiempo y alguna notificaci\u00f3n del tel\u00e9fono que no me pierdo. Sin embargo, hay momentos en que la conexi\u00f3n con la app se siente un poco lenta. A veces me gustar\u00eda que la bater\u00eda durara m\u00e1s, pero en general es un buen producto. Por el precio, creo que vale la pena.",
+            "language": "Spanish"
+        }
+    ]
+}

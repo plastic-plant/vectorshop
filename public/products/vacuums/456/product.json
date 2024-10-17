@@ -1,0 +1,25 @@
+{
+    "nr": "456",
+    "name": "Dust Dynamo 3000",
+    "price": "8999",
+    "ranking": 5,
+    "availability": 24,
+    "description": "Introducing the ultimate housecleaning ally that transforms the way you tackle dirt and debris. Effortlessly glide from carpets to hardwood floors with an innovative vacuum that boasts powerful suction technology, ensuring that even the tiniest particles are whisked away in a flash. Say goodbye to the tedious chore of vacuuming and hello to more free time to enjoy your home, as this high-performance machine works smarter, not harder.\n\nEquipped with a lightweight design and an easy-to-maneuver swivel head, this vacuum reaches those stubborn corners and under furniture without a hitch. Its state-of-the-art filtration system captures allergens and fine dust, promoting a healthier environment for you and your loved ones. Whether you have furry family members leaving trails of fur or kids who love to",
+    "images": [
+        "product_456_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I absolutely love my new vacuum! It's like having a cleaning assistant at home. The suction power is unbelievable; it picks up everything from dust bunnies to pet hair in no time. The design is sleek and lightweight, making it super easy to maneuver around the house. I can reach all those tricky corners and under furniture without any hassle.\n\nThe battery life is impressive as well; I can clean the entire house on a single charge. Plus, the clever features, like the smart navigation system, mean",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely obsessed with this vacuum! It has made cleaning a total breeze! I can\u2019t believe how powerful it is; it picks up everything \u2013 pet hair, dust, even the crumbs my kids leave everywhere. The suction is just phenomenal. I love the smart navigation; it maneuvers around furniture effortlessly and never gets stuck. \n\nOne of my favorite features is the self-cleaning brush roll. No more hair tangles driving me crazy! Plus, it's so quiet compared to my old vacuum, which",
+            "language": "English"
+        },
+        {
+            "review": "I can\u2019t believe how much I love this vacuum! It makes cleaning feel almost effortless. The suction power is incredible, picking up everything from pet hair to those pesky crumbs I always seem to miss. It glides smoothly over carpets and hardwood floors alike, and the self-cleaning filters mean I don\u2019t have to worry about maintenance as much. \n\nThe sleek design is also a huge plus\u2014it's so lightweight that I can carry it up and down the stairs without breaking a sweat. I also appreciate",
+            "language": "English"
+        }
+    ]
+}

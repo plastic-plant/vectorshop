@@ -1,0 +1,29 @@
+{
+    "nr": "246",
+    "name": "AquaFusion Flask",
+    "price": "1299",
+    "ranking": 1,
+    "availability": 12,
+    "description": "Elevate your hydration game with our cutting-edge water bottle, the ideal companion for every adventure. Crafted from high-grade, BPA-free materials, this sleek hydration solution ensures that you stay healthy while maintaining a minimalist style. The double-walled insulation keeps your beverages icy cold for up to 24 hours or steaming hot for 12 hours, making it perfect for everything from morning coffees to afternoon hikes. With a lightweight design and ergonomic grip, you'll find it easy to sip on the go, whether you're at the gym, on your daily commute, or exploring breathtaking trails.\n\nAccessibility meets innovation with our one-handed flip-top lid, engineered for quick hydration during breaks in action. You'll appreciate the convenient built-in straw that provides effortless sipping, allowing you to stay refreshed",
+    "images": [
+        "product_246_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "No me gust\u00f3 este termo para nada. Se filtra cada vez que lo uso, es super molesto. Adem\u00e1s se calienta el agua muy r\u00e1pido, no dura fr\u00eda. Pens\u00e9 que seria mucho mejor por el precio que pague, pero es un brutto error. No lo recomiendo, guardad vuestro dinero.",
+            "language": "Spanish"
+        },
+        {
+            "review": "I really regret buying this water bottle. First off it leaks all over the place, even when it\u2019s closed tight. I've had it in my bag and my stuff gets all wet. The cap is super hard to screw on and off. Sometimes I just can\u2019t get the water out at all \u2013 like it\u2019s stuck. It's way heavier than I thought too, not convenient for carrying around. \n\nAnd honestly, I thought it would keep my drink cold but it doesn\u2019t seem to make a difference",
+            "language": "English"
+        },
+        {
+            "review": "I bought this water bottle and it\u2019s been nothing but trouble. Leaks everywhere, like it can never stay sealed right. Tried it on a hike and my bag got soaked. Super disappointed. Also, the plastic feels really cheap, not what I expected at all. I don\u2019t get the hype, maybe I got a bad one but just no good experience. Goes straight to the trash for me. Don\u2019t waste your money.",
+            "language": "English"
+        },
+        {
+            "review": "got this water bottle and it leaks everywhere!!! wasted so much water because the lid won\u2019t close right. also, the design looks good but it\u2019s super flimsy and feels like it\u2019ll break if I drop it once. what\u2019s the point of a water bottle that can\u2019t hold water?? totally regret buying it. I wouldn\u2019t recommend this to anyone.",
+            "language": "English"
+        }
+    ]
+}

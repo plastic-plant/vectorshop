@@ -1,0 +1,21 @@
+{
+    "nr": "280",
+    "name": "Tempus Aura",
+    "price": "7999",
+    "ranking": 5,
+    "availability": 23,
+    "description": "Unveil a new dimension of timekeeping with the revolutionary wrist companion designed for those who appreciate elegance and precision. The sleek silhouette is not only a statement piece but also a masterclass in craftsmanship, merging a classic analog face with cutting-edge smart technology. With its lightweight titanium casing and scratch-resistant sapphire crystal, this watch offers durability without compromising on style. Whether you\u2019re at the boardroom or enjoying an evening out, this timepiece seamlessly enhances your look, making it the perfect accessory for every occasion.\n\nEquipped with advanced tracking features, you\u2019ll not only stay punctual but also monitor your daily activities with ease. The intuitive interface allows you to receive notifications, track your fitness goals, and even check the weather \u2014 all at a glance. Embrace the",
+    "images": [
+        "product_280_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich bin absolut begeistert von dieser Smartwatch! Sie sieht nicht nur toll aus, sondern hat auch so viele n\u00fctzliche Funktionen. Die Gesundheits\u00fcberwachung funktioniert einwandfrei, ich kann meinen Schlaf, meine Schritte und sogar meinen Herzschlag problemlos im Blick behalten. Die Batterie h\u00e4lt echt lange, sodass ich sie nicht st\u00e4ndig aufladen muss. \n\nDas Display ist klar und einfach zu bedienen, ich kann sogar meine Nachrichten darauf lesen, ohne mein Handy herauszuholen! Auch die verschiedenen personliger Farben",
+            "language": "German"
+        },
+        {
+            "review": "I've been using this incredible watch for a few weeks now, and I\u2019m absolutely in love with it! The design is sleek and stylish, making it perfect for both everyday wear and special occasions. The customizable watch faces are a game-changer, allowing me to match my mood or outfit effortlessly.\n\nThe features are impressive! The health tracking options keep me motivated to stay active, and the notifications work like a charm. I love how it syncs seamlessly with my phone, so I never miss an important",
+            "language": "English"
+        }
+    ]
+}

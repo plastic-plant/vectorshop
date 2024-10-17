@@ -1,0 +1,21 @@
+{
+    "nr": "705",
+    "name": "CrystalVista Wine Chalice",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 23,
+    "description": "Elevate your wine experience to new heights with our exquisite chalice that redefines elegance and functionality in every sip. Crafted with precision from the finest lead-free crystal, this stunning glass effortlessly captures light, creating mesmerizing reflections that dance across your table. Each hand-blown piece showcases a timeless silhouette that balances both sophistication and comfort, allowing you to enjoy not only the flavor but also the art of wine drinking. Whether it\u2019s a casual weekday dinner or a lavish celebration, this glass promises to be the centerpiece of your table, instantly transforming any occasion into a memorable event.\n\nDesigned with a generous bowl and a tapered rim, this exquisite glass is engineered to enhance your wine's aroma and flavor profile, letting you appreciate every subtle note as you swirl your drink.",
+    "images": [
+        "product_705_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought these wine glasses thinking they would be nice... but they\u2019re awful. First, they came already scratched up. Seriously?! The shape looks fancy but makes it hard to hold. They feel so fragile too, I almost dropped one just setting it on the table. And they don't wash good in the dishwasher, all cloudy and weird after one use. Would NOT recommend, save your money!",
+            "language": "English"
+        },
+        {
+            "review": "i bought these because of the fancy ads but honestly, they are just a letdown. glass is too thin, feels like it might break any second. i poured a nice red and it stained after just one use, like seriously??! also, the design isn't even good, hard to hold and feels awkward. not worth it at all. totally regret my purchase, would not recommend.",
+            "language": "English"
+        }
+    ]
+}

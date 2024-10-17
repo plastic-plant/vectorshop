@@ -1,0 +1,29 @@
+{
+    "nr": "398",
+    "name": "AquaVibe Flask",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 12,
+    "description": "Discover a hydration revolution with the ultimate companion for an active lifestyle \u2013 a game-changing water bottle that marries style with functionality. Crafted from premium, BPA-free stainless steel, this sleek and durable vessel ensures your favorite beverages remain crisp and refreshing for hours on end. Whether you\u2019re hitting the gym, embarking on a hiking adventure, or simply tackling your daily routine, this stylish bottle keeps you hydrated in an eco-friendly way.\n\nExperience the innovative double-walled insulation that locks in temperature, ensuring your morning coffee stays piping hot while your post-workout smoothie remains refreshingly cool. With a generous capacity that holds up to 32 ounces, you can finally say goodbye to constant refills and hello to sustained hydration throughout your day. The wide-mouth opening allows for",
+    "images": [
+        "product_398_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this water bottle, but it's just not cutting it. First off, the design is nice, but that's about where the good things end. The leak-proof feature? Yeah, that\u2019s a myth. I\u2019ve had it spill all over my bag more times than I can count. Also, the insulation doesn\u2019t hold up like it should; drinks don\u2019t stay cold for long, and warm water is not what I want. I expected more for the price. Overall, it",
+            "language": "English"
+        },
+        {
+            "review": "I wanted to love this flask, but honestly, it just didn't live up to expectations. First off, it leaks if tilted even slightly, which is super annoying! I\u2019ve had wet backpacks more than once now. The design is sleek, but that\u2019s about it - it doesn't hold temperature for very long either, at least not like they claim. I was hoping for cold water during the summer, but it\u2019s lukewarm after a few hours. Also, the mouthpiece is kind of hard",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try this water bottle, but honestly, it just didn't live up to my expectations. The design looks nice, but it feels kinda flimsy\u2014like it\u2019s gonna break any minute. The cap doesn't seal properly, so I've had some leaks in my bag. Not what I wanted, especially when I\u2019m on the go. Sure, it keeps drinks cool for a little while, but then it just kinda warms up too quickly. Could also use a bigger opening for ice.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this flask, but it just didn\u2019t work for me. First off, it claims to keep water cold for hours, but I found it only stays cold for a little over an hour. Not exactly what I expected. Also, the lid is hard to screw on properly, like it never feels tight enough. A couple of times I thought I had it sealed and it leaked in my bag - super annoying. The design is nice and all, but it\u2019s not worth the",
+            "language": "English"
+        }
+    ]
+}

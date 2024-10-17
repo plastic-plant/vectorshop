@@ -1,0 +1,29 @@
+{
+    "nr": "221",
+    "name": "DustBuster Pro 360",
+    "price": "14999",
+    "ranking": 1,
+    "availability": 3,
+    "description": "Meet your new cleaning companion, the Ultimate CleanWhiz! Say goodbye to dust bunnies and dirt that lurks in hard-to-reach corners. With its state-of-the-art suction technology, this compact powerhouse ensures that every speck of dust and debris is captured with remarkable efficiency. Whether it's cereal crumbs under the kitchen table or pet hair hiding in the corners, the Ultimate CleanWhiz tackles it all, transforming your cleaning regimen into a swift, effortless task.\n\nEquipped with a smart dual-mode functionality, this vacuum seamlessly transitions from floor to upholstery with a flick of a switch. Its lightweight design ensures you can glide from room to room without the hassle of dragging a bulky machine behind you. The 360-degree swivel head allows for easy maneuvering",
+    "images": [
+        "product_221_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "total waste of money, i\u2019m really disappointed. it does not suck up anything! tried it on crumbs and dust....nada. battery doesn\u2019t last long at all, only a few minutes then it just stops working. also, it\u2019s super heavy and hard to handle, my wrist hurts after using it. the filters are a pain to clean too, I probably won\u2019t use it again. save your cash and get something else!",
+            "language": "English"
+        },
+        {
+            "review": "I bought this thinking it would be a game changer but boy was I wrong. Doesn\u2019t pick up anything, just pushes dirt around. Battery dies sooo quick, I can barely finish one room. The design hurts my hand after using it for a few minutes. The filter is annoying to clean and it clogs up super fast. Seriously regretting this purchase, definitely not worth the money! I expected way more smh.",
+            "language": "English"
+        },
+        {
+            "review": "this vacuum is terrible. it barely picks up anything and runs out of battery super fast. i tried to use it on my carpet and it just got stuck. not worth the money at all! the design is cheap and feels like it\u2019ll break any second. such a waste of time and effort, should have read the other reviews. i'm very disappointed. save your money for something actually good!",
+            "language": "English"
+        },
+        {
+            "review": "didnt work like expected. felt weak and kept shutting off!! i was so annoyed. tried to use it on floors and stuff but it just pushed dirt around. battery life was super short too like what even??? honestly regret buying this. just not worth the money. disappointment all around!!",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nr": "159",
+    "name": "AquaVibe Flask",
+    "price": "1499",
+    "ranking": 4,
+    "availability": 5,
+    "description": "Elevate your hydration game with the ultimate companion for any adventure, the stylish and functional hydration vessel that\u2019s designed to keep your drinks at their best. Crafted with state-of-the-art double-wall insulation, this sleek gem ensures your favorite beverages, whether piping hot or ice-cold, retain their optimal temperature for hours on end. Say goodbye to lukewarm water and hello to refreshing sips that invigorate you throughout the day!\n\nDesigned with the modern lifestyle in mind, this innovative bottle features a leak-proof cap and smart carry handle, perfect for gym sessions, hiking trails, or simply commuting to work. The lightweight, durable material means it's easy to toss into your backpack, while the anti-slip texture guarantees a secure grip during your most vigorous activities.",
+    "images": [
+        "product_159_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Estoy bastante satisfecho con esta botella. El dise\u00f1o es muy atractivo y me encanta la variedad de colores que ofrece. La capacidad es adecuada para mis necesidades diarias de hidrataci\u00f3n. Tambi\u00e9n me gusta que mantenga la temperatura, ya sea caliente o fr\u00eda, durante horas. Es ligera, lo que la hace f\u00e1cil de llevar en mis caminatas y al gimnasio.\n\nEl \u00fanico pero que tengo es que la tapa puede ser un poco complicada a veces. En ocasiones me cuesta abrirla con una mano cuando estoy",
+            "language": "Spanish"
+        },
+        {
+            "review": "I recently picked up this water bottle, and I have to say, I\u2019m impressed! The design is sleek and stylish, making it easy to carry around wherever I go. It holds a good amount of water without being too bulky. \n\nOne thing I really love is how well it keeps my drinks cold. I\u2019ve tested it out on hot days, and my ice water stays refreshingly cool for hours. The straw feature is super convenient too for when I'm at the gym\u2014no spills!\n\nThe",
+            "language": "English"
+        }
+    ]
+}
