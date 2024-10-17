@@ -1,0 +1,21 @@
+{
+    "nr": "361",
+    "name": "Silk Shave Bliss",
+    "price": "1299",
+    "ranking": 3,
+    "availability": 17,
+    "description": "Experience the ultimate in shaving luxury with our revolutionary cream designed to elevate your daily routine. Enriched with natural botanical extracts, this exceptional formula glides effortlessly across the skin, providing a silky-smooth surface for the closest shave imaginable. Say goodbye to nicks, cuts, and irritation\u2014each application transforms your shaving experience into a soothing ritual, leaving your skin feeling refreshed and velvety soft.\n\nCrafted for both men and women, this versatile cream adapts to your unique needs. Rich in hydrating ingredients, it locks in moisture while creating a protective barrier that ensures superior glide and precision. Infused with invigorating essential oils, it awakens your senses, making every shave not just a task, but a rejuvenating escape. Whether you're tackling",
+    "images": [
+        "product_361_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've tried this shaving cream a few times now. The texture is nice and creamy, and it glides on pretty well. However, I expected a bit more. The scent is kind of light, which some might like, but I prefer something more fragrant to really feel pampered. It doesn't give me that super-close shave I hoped for; I still have to go over some spots a few times. My skin feels okay afterward\u2014not irritated, but not as moisturized as I wanted either. Overall",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve tried this shaving cream a few times now. Honestly, it's kind of okay. The texture is nice and smooth, and it does help with the razor gliding. I didn\u2019t get too many nicks, which is a plus! But, the scent is a bit odd \u2013 kinda floral but also something else that I can\u2019t put my finger on. \n\nIt doesn\u2019t feel super moisturizing, so my skin was kinda dry afterward. I expected a bit more from it, especially since I've",
+            "language": "English"
+        }
+    ]
+}

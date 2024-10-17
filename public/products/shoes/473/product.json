@@ -1,0 +1,33 @@
+{
+    "nr": "473",
+    "name": "StrideSync Shoes",
+    "price": "5999",
+    "ranking": 2,
+    "availability": 7,
+    "description": "Step into the future of comfort and style with the ultimate footwear revolution. Designed for those who demand more from their shoes, these innovative kicks are engineered to provide a harmonious blend of flexibility and support. Imagine feeling as though you're walking on clouds while still enjoying the supportive structure every step of the way. The advanced cushioned insole molds to your foot, ensuring a personalized fit that adapts to your movements, making every stride feel effortless.\n\nBut comfort never means compromising on style. With a sleek, modern design available in an array of vibrant colors and patterns, these shoes effortlessly transition from a morning jog to afternoon brunch with friends. The breathable, lightweight fabric not only keeps your feet cool during active wear but also offers a chic appearance that turns heads on the",
+    "images": [
+        "product_473_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like these shoes, but I\u2019m pretty disappointed. They claim to be super comfy and supportive, but they feel stiff and awkward on my feet. The fit is kinda off\u2014make my toes feel squished even when I got the right size. I\u2019ve tried breaking them in, but they still hurt after wearing them for a while. The look is okayish, but not worth the discomfort. I thought the features like step tracking would be fun, but they don\u2019t seem to",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these shoes for a couple of weeks now, and honestly, I was expecting more. They look great, but that\u2019s about it. The comfort level isn\u2019t really there; they feel kinda stiff and rub against my heels. I thought they would be supportive for long walks or casual days but ended up with sore feet. The sole seems durable, but they slip a bit on wet surfaces, which is a bit unsettling. Also, I\u2019ve noticed some seams are coming apart already. With",
+            "language": "English"
+        },
+        {
+            "review": "I gotta say, I had high hopes for these shoes, but they just fall short. The fit is off\u2014way too tight in some spots and way too loose in others. And don\u2019t even get me started on the comfort. I expected a lot more cushion but my feet were aching after just a few hours of walking. \n\nAlso, the design looked great, but they scuffed up way too easily, like I wore them for one day and they looked old already. The hype just isn",
+            "language": "English"
+        },
+        {
+            "review": "I had really high hopes for these shoes, but honestly, they just missed the mark for me. The design is somewhat appealing and I was definitely excited to try them out. However, comfort? Not so much. The fit feels off, and after wearing them for even a short walk, my feet were aching.\n\nI also expected some innovative features since the hype was pretty strong, but I didn't notice anything remarkable. They felt more like regular sneakers and not what I hoped for in terms of technology.",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping these shoes would be great based on the hype, but they just didn\u2019t live up to expectations. They look nice, sure, but comfort is lacking. I got sore feet after just a short walk, and for the price, I expected way better. The fit is weird too\u2014too tight in some spots and loose in others. The tech features seem cool in theory but are clunky in practice. Honestly, I would not recommend them until they sort out the sizing and comfort",
+            "language": "English"
+        }
+    ]
+}

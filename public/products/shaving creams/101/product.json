@@ -1,0 +1,21 @@
+{
+    "nr": "101",
+    "name": "Silken Glide Shaving Cream",
+    "price": "299",
+    "ranking": 3,
+    "availability": 15,
+    "description": "Transform your daily routine into a luxurious grooming experience with our revolutionary shaving cream, affectionately known as \"SG.\" This exceptional formulation promises to elevate your shaving ritual, ensuring that every glide of your razor feels like a gentle caress rather than a chore. Crafted with the finest natural ingredients, SG envelops your skin in a silky, nourishing lather that softens even the coarsest facial hair, providing you with a shave that\u2019s not only close but incredibly comfortable.\n\nSG boasts a unique blend of botanicals and moisturizing agents, including aloe vera and shea butter, which work together to protect your skin from irritation and razor burn. The cream's rich, velvety texture is designed to create a barrier that allows your razor to effortlessly glide across",
+    "images": [
+        "product_101_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I tried this shaving cream since I saw the reviews but honestly, I'm a bit torn. It goes on pretty smoothly and has a nice scent, which is definitely a plus. However, I feel like it doesn't provide that extra glide that I hoped for. I sometimes end up with little nicks, which is not ideal. It's okay for the price, but I've tried better products. It gets the job done but it doesn't quite stand out for me. Wouldn't say it\u2019s a bad choice,",
+            "language": "English"
+        },
+        {
+            "review": "Ich finde die Rasiercreme ganz okay, aber nicht wow. Sie sch\u00e4umt ganz gut und hat einen angenehmen Duft, aber irgendwie rasiert sie nicht so gr\u00fcndlich wie ich es mir w\u00fcnsche. Manchmal hab ich das Gef\u00fchl, ich muss mehrmals \u00fcberstellen, damit es wirklich glatt wird. Die Pflege danach ist auch mittelm\u00e4\u00dfig.   \nIm Gro\u00dfen und Ganzen erf\u00fcllt sie ihren Zweck, aber ich hatte schon bessere. Preis-Leistung ist auch so lala; ich glaube,",
+            "language": "German"
+        }
+    ]
+}

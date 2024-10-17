@@ -1,0 +1,33 @@
+{
+    "nr": "108",
+    "name": "SilkenEdge Shave Cream",
+    "price": "299",
+    "ranking": 3,
+    "availability": 5,
+    "description": "Experience the ultimate in grooming luxury with our revolutionary shaving cream, expertly crafted to transform your daily routine into a sublime ritual. This rich, velvety formula glides effortlessly across your skin, creating a protective barrier that ensures a close, comfortable shave without the irritation or discomfort commonly associated with traditional creams. Wave goodbye to nicks and cuts and say hello to effortless precision as our unique blend of natural emollients and skin-soothing ingredients nourishes and revitalizes your skin with every stroke.\n\nInfused with invigorating botanical extracts, this shaving cream offers more than just protection\u2014it hydrates and rejuvenates your skin, leaving it soft, smooth, and irresistibly touchable. Whether you're preparing for a morning meeting or a casual night out, our formula",
+    "images": [
+        "product_108_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been trying this shave cream for a few weeks now, and honestly, it\u2019s just okay. The texture is nice and smooth, but I didn't find it gave the closest shave. Sometimes I feel like I still have stubble even after going over the same spots multiple times. It lathers up pretty well, but the scent was kind of overpowering for me \u2013 not super pleasant.\n\nIt does feel moisturizing, but I still had some irritation on my sensitive skin. The price point is alright",
+            "language": "English"
+        },
+        {
+            "review": "I picked this up after hearing some buzz about it. The texture feels nice and creamy when you apply it, and it does give a decent glide. However, I've had a few issues. It clogs my razor more than I expected, which means way more rinsing and kinda slows down the process. The scent is fine, not too overwhelming but also not super fresh or anything. It's okay for a quick shave, but I wish it offered a bit more moisture. Overall, it's decent but didn",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this shave cream for a few weeks now, and it's pretty average, to be honest. It lathers up okay, not the best I\u2019ve tried, but it does the job. My skin feels decently smooth after, but I wouldn\u2019t say it\u2019s as moisturizing as advertised. Sometimes I get small nicks, which can be annoying, especially when I haven't rushed the shave. The scent is nice but kinda faint, I wish it had a stronger fragrance to make the whole",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this shave cream for a few weeks now, and I\u2019m kind of on the fence about it. It goes on smoothly, and the texture is nice, but I'm not super impressed. The scent is a bit strong for my liking, almost overpowering, which makes it feel like I\u2019m using something that\u2019s more synthetic. \n\nIt gives an okay shave but I\u2019ve had to deal with more nicks and irritation than with my usual cream. I appreciate the moisturizing aspect, but",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this shave cream for a while now, and honestly, it\u2019s just okay. It lathers pretty well and smells nice, but I didn\u2019t find it to be as moisturizing as I hoped. It leaves my skin feeling a bit dry after shaving, which isn\u2019t great. I\u2019ve had better results with others I've tried, but it\u2019s not the worst either. It works in a pinch but probably wouldn\u2019t go out of my way to buy it again. Feels more like",
+            "language": "English"
+        }
+    ]
+}

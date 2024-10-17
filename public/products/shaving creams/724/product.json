@@ -1,0 +1,33 @@
+{
+    "nr": "724",
+    "name": "SilkenShave Elixir",
+    "price": "1499",
+    "ranking": 3,
+    "availability": 19,
+    "description": "Experience the transformative power of a silky-smooth shave with our premium shaving cream, affectionately known as SSEL. Formulated with a blend of natural oils and botanical extracts, SSEL not only prepares your skin for a close and comfortable shave but also nourishes and hydrates as you glide. Say goodbye to irritation and razor burn; this luxurious elixir provides a protective barrier that leaves your skin feeling soft, refreshed, and rejuvenated.\n\nWhat sets SSEL apart is its unique ability to create a rich, creamy lather that clings beautifully to your skin and facial hair. Infused with calming aloe vera and invigorating essential oils, each application turns your daily grooming routine into a soothing ritual. The delightful crisp scent elevates your shave to an",
+    "images": [
+        "product_724_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ik heb deze scheercr\u00e8me nu een paar weken gebruikt en ik moet zeggen dat het me nogal ligt. Het schuim is ok\u00e9, maar niet echt bijzonder. Het glijdt wel redelijk over de huid, maar ik had verwacht dat het wat meer hydraterend zou zijn. Na het scheren laat het soms een lichte irritatie achter, wat niet zo fijn is.\n\nDe geur is niet echt mijn favoriet; het ruikt een beetje chemisch, wat de ervaring minder aangenaam maakt",
+            "language": "Dutch"
+        },
+        {
+            "review": "I\u2019ve been using this shaving cream for a few weeks now, and honestly, it\u2019s just kind of okay. The texture is nice and rich, but it doesn\u2019t lather as much as I expected. My razor does glide on my skin, which is good, but I\u2019ve noticed a bit of irritation afterwards. It has a lightly pleasant scent, but it goes away too quickly. For the price, I thought I\u2019d get more out of it. Sometimes it works well, other times it",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this shaving cream for a few weeks now, and I\u2019m a bit torn. The texture is nice \u2013 it\u2019s smooth and glides on rather well. But honestly, it doesn't do much above other creams I've tried. The fragrance is alright, not too strong, which I appreciate, but it kind of fades away too quickly. \n\nAhhhh, and I did notice some irritation on my skin a couple of times. I mean, it's not awful, but I was hoping for",
+            "language": "English"
+        },
+        {
+            "review": "I tried this shaving cream and honestly, it's just okay. It lathers up nice but I found it a bit too sticky afterward. The scent is pleasant, but it's not as long-lasting as I'd hoped. My razor glided fairly well, though I still had a few nicks here and there\u2014it doesn\u2019t fully protect from irritation. The bottle is cute, but for the price, I expected a bit more. It's not terrible, but I'm not rushing to buy it again. It gets the",
+            "language": "English"
+        },
+        {
+            "review": "Lo compr\u00e9 porque vi buenas rese\u00f1as, pero la verdad no es lo que esperaba. La textura es buena y al principio me gust\u00f3 c\u00f3mo se siente, pero no me dio el apurado que esperaba. Despu\u00e9s de usarlo, a veces siento irritaci\u00f3n en mi piel, lo cual es decepcionante. El aroma es agradable, pero no dura mucho. Es un producto ok, pero hay otros que he probado que me han funcionado mejor. As\u00ed que, no s\u00e9 si lo volver\u00eda",
+            "language": "Spanish"
+        }
+    ]
+}

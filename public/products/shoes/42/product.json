@@ -1,0 +1,24 @@
+{
+    "nr": "42",
+    "name": "StrideFusion Sneakers",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 3,
+    "description": "Step into a realm of unparalleled comfort and style with our latest athletic marvel, the \"FF Sneakers.\" Designed for those who refuse to compromise on performance while embracing modern aesthetics, these shoes are crafted to elevate your every move. Whether you\u2019re jogging through the park, hitting the gym, or enjoying a casual day out, these sneakers will have you covered with their innovative design and superior functionality.\n\nThe FF Sneakers boast a featherlight construction, making them feel like a second skin on your feet. Engineered with advanced cushioning technology, each step feels like a gentle embrace, reducing fatigue even during the longest of outings. The breathable mesh upper promotes airflow, ensuring your feet stay cool and dry, while the seamless fit eliminates discomfort, allowing you to push your limits effortlessly",
+    "images": [
+        "product_42_01.png",
+        "product_42_02.png",
+        "product_42_03.png",
+        "product_42_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using these sneakers for a couple of weeks now, and honestly, they're just okay. The design is pretty nice, and I love the colors, but comfort-wise, they don't meet my expectations. The cushioning isn't as soft as I hoped. After wearing them all day, my feet start to hurt. They fit well at first, but I feel like they might not be very durable. I was expecting more, especially with the price. If you're looking for something stylish, these might do,",
+            "language": "English"
+        },
+        {
+            "review": "I was pretty excited to try these sneakers after reading some hype, but I have mixed feelings. They look stylish, and I like the colors available. However, comfort-wise, they don\u2019t really stand out. The fit is a bit snug around the toes, and after a few hours, I found myself wanting to switch to something else. \n\nThe grip is decent, but I wouldn't say it\u2019s the best I've experienced. It's fine for short walks, but anything longer starts to feel a bit if",
+            "language": "English"
+        }
+    ]
+}

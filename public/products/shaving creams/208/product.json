@@ -1,0 +1,29 @@
+{
+    "nr": "208",
+    "name": "SilkShield Shave Cream",
+    "price": "349",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Transform your daily grooming ritual into a luxurious experience with our revolutionary shaving cream. Formulated for the modern individual, this creamy elixir glides effortlessly over your skin, creating a protective barrier that helps your razor glide smoothly for an irritation-free shave. Say goodbye to nicks, cuts, and razor burn, as each application envelops your skin in a luscious, hydrating layer\u2014ensuring that every stroke is as gentle as a whisper.\n\nInfused with natural botanical extracts and nourishing oils, this shaving cream not only prepares your skin for a flawless shave but also nourishes and hydrates as you go. Enriched with soothing aloe vera and vitamin E, it delivers essential moisture that leaves your skin feeling revitalized and refreshed. The lightweight formula traps essential",
+    "images": [
+        "product_208_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely thrilled with this shave cream! From the moment I squeezed it out of the tube, I could tell it would be different. The texture is luxuriously creamy and feels so smooth when applying. It glides on effortlessly, creating a rich lather that not only helps the razor glide perfectly but also leaves my skin feeling super soft.\n\nThe scent is divine\u2014light and refreshing but not overpowering, which is a huge plus for me. I feel like I\u2019m treating myself to a",
+            "language": "English"
+        },
+        {
+            "review": "Wow, I am absolutely blown away by this shaving cream! From the first time I used it, I noticed how smooth my razor glided over my skin. The incredible lather feels luxurious, and I love how it softens my hair, making shaving so effortless. I\u2019ve tried many brands, but this one really stands out. \n\nThe scent is just right\u2014refreshing but not overwhelming. It makes my morning routine feel like a little pampering session. Plus, so far, I haven",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this shave cream for a few weeks now, and it has honestly changed my shaving game completely! The texture is rich and creamy, which glides on effortlessly and feels like pure luxury on my skin. I love how it lathers up and provides an excellent barrier between my razor and my face, significantly reducing irritation. \n\nWhat I appreciate the most is that it hydrates my skin while I shave, leaving me feeling smooth and fresh afterward. I\u2019ve had zero nicks or cuts",
+            "language": "English"
+        },
+        {
+            "review": "Ich kann gar nicht ausdr\u00fccken, wie begeistert ich von dieser Rasiercreme bin! Die Textur ist unglaublich cremig und l\u00e4sst sich super leicht auftragen. Sie bildet einen perfekten Schutzfilm auf der Haut, der die Rasur so sanft macht. Ich hatte noch nie so eine glatte, irritationfreie Rasur. Selbst empfindliche Stellen f\u00fchlen sich nach der Anwendung nicht gereizt an \u2013 ein echtes Wunderwerk! \n\nDie Anwendung ist einfach und man braucht wirklich nur eine kleine Menge.",
+            "language": "German"
+        }
+    ]
+}

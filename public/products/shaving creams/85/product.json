@@ -1,0 +1,24 @@
+{
+    "nr": "85",
+    "name": "Silken Edge Shave Cream",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 15,
+    "description": "Transform your daily shaving ritual into a luxurious experience with the ultimate grooming companion. This extraordinary cream provides an incredibly smooth glide, allowing your razor to effortlessly navigate your skin, minimizing irritation and giving you a close, comfortable shave every time. Crafted with a blend of moisturizing botanicals and soothing essential oils, this exquisite formula infuses your skin with hydration, leaving it feeling soft and nourished post-shave.\n\nImagine a cream that works as hard as you do\u2014a formula that lathers beautifully and provides a rich, creamy texture that protects against nicks and cuts. Say goodbye to those irritating bumps and redness, as this unparalleled cream acts as a shield, ensuring your skin remains calm and clear. Infused with natural ingredients like aloe vera, chamomile, and",
+    "images": [
+        "product_85_01.png",
+        "product_85_02.png",
+        "product_85_03.png",
+        "product_85_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this shave cream, but honestly, it just didn\u2019t work for me. I felt like it didn't lather at all, was too runny. My skin didn\u2019t feel smooth after shaving, and I still had some irritation which I was really trying to avoid. Plus, the scent was kinda generic and didn\u2019t last which was disappointing. I expected a lot more for the price. I don't think I'll be repurchasing it anytime soon. Just didn't live up to the",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this shave cream, but it just didn't cut it for me. The texture feels kind of greasy and it doesn\u2019t lather well at all. I was expecting a smooth shave, but I ended up with nicks and irritation. Plus, the scent is pretty overpowering, which isn't great for a close shave. I\u2019ve tried better products that left my skin feeling fresh and smooth, but this one really disappointed me. Honestly, I was hoping for something more reliable. Not",
+            "language": "English"
+        }
+    ]
+}

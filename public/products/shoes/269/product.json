@@ -1,0 +1,33 @@
+{
+    "nr": "269",
+    "name": "StrideSphere Shoes",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 25,
+    "description": "Step into a world where comfort meets style with our latest footwear innovation\u2014designed for the modern lifestyle. The SS Shoes are not just a pair of shoes; they are your perfect companions for every adventure, from bustling city streets to serene nature trails. Crafted with a lightweight, breathable mesh upper, these shoes ensure your feet remain cool and comfortable, no matter where your day takes you. \n\nExperience cutting-edge cushioning technology that cradles your feet with each step, reducing fatigue and making long-distance walks feel effortless. The responsive sole adapts to your every move, providing stability when you need it most. Whether you're dashing to meet a friend for coffee or taking a leisurely stroll through the park, the SS Shoes support you with their plush interior and",
+    "images": [
+        "product_269_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently tried these shoes and honestly, they\u2019re not bad but not great either. They fit alright, a bit tight around the toe area, which is annoying. The design looks good and gets some compliments, but comfort just isn't quite there for me. I expected a more cushioned feel since that's what they\u2019re marketed for. They do have good grip, so that\u2019s a plus when walking on different surfaces. The color options are nice, though! Overall, I think they\u2019re just okay -",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these shoes, but they\u2019re just okay. They look pretty cool and the style is on point, but comfort-wise, they\u2019re a bit hit or miss. Sometimes I feel like they fit perfectly, but other times they pinch my toes. Not great for long walks. \n\nThe grip on the sole is decent for indoor stuff, but outside I don\u2019t feel super stable. Plus, the color options are nice but... the material feels a bit cheap. They definitely turn heads",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these shoes for a few weeks now, and honestly, they\u2019re just okay. They look great and the style is on point, but when it comes to comfort, they fall a bit short. I expected something more cushy for my daily walks, but they hurt my feet after a while. The size also feels kind of off; I went for my usual size, but they are a tad snug. \n\nThe sole grips well, so that\u2019s good for outdoor use, but",
+            "language": "English"
+        },
+        {
+            "review": "Les chaussures ont l'air cool, mais... elles ne sont pas aussi confortables que je l'attendais. Apr\u00e8s quelques heures, mes pieds commencent \u00e0 avoir mal. Le design est sympa, ils vont bien avec beaucoup de tenues, mais la qualit\u00e9 semble un peu... bon, pas g\u00e9niale. La semelle semble fine et j'ai peur qu'elle s'ab\u00eeme vite. En plus, elles sont un peu petites m\u00eame si je prends ma taille habituelle. Je dirais que ce",
+            "language": "French"
+        },
+        {
+            "review": "I was excited to try these shoes based on the hype, but honestly, they don't live up to expectations. They're decent for casual wear, but they have a few issues. The comfort level is kinda hit or miss, especially during long walks. I expected them to be more supportive and cushioned. Also, the fit is a bit off; they are either too tight or too loose depending on the socks I wear. \n\nOn the plus side, they do look good and get compliments, which is",
+            "language": "English"
+        }
+    ]
+}

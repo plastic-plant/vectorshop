@@ -1,0 +1,35 @@
+{
+    "nr": "665",
+    "name": "StrideNova",
+    "price": "8999",
+    "ranking": 2,
+    "availability": 2,
+    "description": "Step into a world of comfort and style with our latest footwear innovation that's designed to elevate your everyday experience. Imagine slipping your feet into a pair of shoes that seamlessly blends cutting-edge technology with contemporary aesthetics. With each stride, you're enveloped in a cloud-like cushion that not only supports your arches but also adapts to the unique contours of your feet. This footwear is not just about looking good\u2014it\u2019s about feeling fantastic, whether you\u2019re dashing to an important meeting or enjoying a casual day out.\n\nEngineered with a lightweight, breathable fabric, these shoes ensure that your feet stay cool even during the busiest of days. The advanced moisture-wicking technology draws sweat away, keeping your feet dry and fresh. The innovative traction sole offers unmatched grip and stability",
+    "images": [
+        "product_665_01.png",
+        "product_665_02.png",
+        "product_665_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to love these shoes, but I can't say I was impressed. They look nice at first glance, but after wearing them for a couple of days, my feet started to hurt. The fit is kind of odd\u2014too tight in some spots and way too loose in others. Plus, the sole feels like it's not padded enough. I expected more comfort for the price. Maybe it's just me, but I\u2019ve had better luck with other brands. I'm not sure I'll keep wearing them.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these shoes, but they just didn\u2019t cut it for me. First off, the comfort isn\u2019t great. I was expecting to walk around and feel supported, but my feet started hurting after a short time. It\u2019s really disappointing since they look nice, but it feels like could use more cushioning. \n\nThe fit is also weird. I ordered my usual size, and they feel too tight around the sides but oddly loose around the heel. I thought maybe it was just me",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these shoes, but honestly, they didn\u2019t live up to the hype. The design looks cool at first glance, but once I tried them on, it was like walking on bricks. I thought they\u2019d be comfy but my feet started hurting after like an hour. The sizing is also off; I had to order a size up but it\u2019s still kinda tight in the toes. Not exactly what I was looking for.\n\nAlso, they kinda make a weird noise when I walk",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try these shoes, but honestly, I've been pretty let down. The design looked awesome online, but in person, they just don't feel that great. The fit is a bit snug, and I thought they would be more comfortable. I've worn them a few times, and they make my feet hurt! The material doesn't breathe well either, my feet get sweaty super quick.\n\nThey look nice, I\u2019ll give them that, but fashion over comfort isn\u2019t really my thing. Plus",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these shoes because they look cool, but I'm pretty disappointed. They don't fit as well as I hoped \u2013 kinda tight around the sides. I've tried wearing them for a couple of days, but they definitely hurt my feet after a while. The soles also feel really thin, and I don't think they are gonna last long. I thought they were gonna be comfy enough for daily wear, but I'm just not feeling it. The style is nice, but comfort is key, you know",
+            "language": "English"
+        }
+    ]
+}

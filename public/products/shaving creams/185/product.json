@@ -1,0 +1,25 @@
+{
+    "nr": "185",
+    "name": "SilkenBlade Shave Cream",
+    "price": "1499",
+    "ranking": 4,
+    "availability": 14,
+    "description": "Elevate your shaving experience with our luxurious cream that transforms the daily ritual into a moment of indulgence. The perfect blend of nourishing ingredients ensures a smooth, close shave while deeply hydrating your skin. As your razor glides effortlessly, our formula works its magic, protecting against nicks and irritation, leaving you with nothing but a velvety finish. Say goodbye to the days of uncomfortable shaves and welcome a new era of effortless grooming that enhances your daily routine.\n\nInfused with natural botanical extracts, each scoop of this creamy delight not only softens your beard but also revitalizes your complexion, delivering an unparalleled combination of care and performance. Rich in vitamins and essential oils, our unique formulation soothes even the most sensitive skin, making it ideal",
+    "images": [
+        "product_185_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this shave cream for a few weeks now, and I have to say it really holds up well! The texture is smooth and creamy, making it easy to apply with just a little amount. It provides a fantastic cushion, allowing my razor to glide effortlessly over my skin. No nicks or irritation so far, which is a huge plus for me. \n\nI appreciate the subtle scent\u2014it's fresh but not overpowering, perfect for a morning routine. It does a good job of moisturizing",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this shave cream for a little while now, and I'm really impressed. The texture is super smooth, making it easy to apply and spread on my skin. It lathers nicely, which is a big plus! My shaver glides without any tugging or pulling at all. \n\nWhat I love the most is how it doesn\u2019t leave my skin feeling dry afterward. Instead, my face feels moisturized and refreshed, almost like it\u2019s been treated to a spa day! Fragrance",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this shave cream for a few weeks now, and overall, it\u2019s pretty solid! The texture is really nice\u2014smooth and creamy, which feels great when you apply it. It also lathers up well, giving good coverage without too much effort. \n\nWhat I love the most is how it leaves my skin feeling soft afterward, without irritation or that dry feeling some creams can cause. The scent is pleasant too, not overpowering, which is a huge plus for me. \n\nMy",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "569",
+    "name": "SilkenSculpt Shave Cream",
+    "price": "299",
+    "ranking": 1,
+    "availability": 3,
+    "description": "Discover the ultimate indulgence for your daily grooming routine with our luxurious shaving cream, affectionately known as \"SS.\" Crafted with a unique formula that combines natural moisturizing ingredients and a touch of elegance, SS transforms your shaving experience into a soothing ritual. Say goodbye to nicks, cuts, and irritation, as our ultra-smooth cream provides a protective barrier that effortlessly glides your razor across your skin, leaving it perfectly primed for a close and comfortable shave.\n\nExperience the rejuvenating power of botanicals with every application. SS is infused with a winning blend of aloe vera, shea butter, and essential oils, making it the ideal companion for all skin types. These ingredients work harmoniously to hydrate and nourish, ensuring that your skin feels soft,",
+    "images": [
+        "product_569_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I regret buying this. It does nothing for my skin. Don\u2019t get how they can sell this, its super clumpy and hard to spread. I ended up with razor burn after using. Smell is awful too, kinda cheap. It\u2019s a total mess every time I try to use it. Really wouldn\u2019t recommend at all, save your money for something better. One star is too much honestly.",
+            "language": "English"
+        },
+        {
+            "review": "Wat een tegenvaller! Deze scheercreme werkt totaal niet. Het schuimt haast niet en ik heb overal snijwonden. Ik verwachtte meer voor de prijs, maar dit is gewoon cement in een tube. Mijn huid begon ook te jeuken na het scheren. Echt zonde van mijn geld. Ik ga het zeker niet meer kopen en kan het niemand aanraden!",
+            "language": "Dutch"
+        },
+        {
+            "review": "J\u2019ai essay\u00e9 cette cr\u00e8me et franchement, c\u2019est un d\u00e9sastre. Elle ne mousse m\u00eame pas correctement ! J\u2019ai attendu un bon moment pour que ma peau soit douce, mais c\u2019est tout le contraire. Elle me laisse des irritations et je fini avec des coupures. Et l\u2019odeur\u2026 horrible ! J\u2019ai m\u00eame jet\u00e9 le reste. Pas recommand\u00e9 du tout. Je ne comprends pas comment \u00e7a peut \u00eatre propos\u00e9 !",
+            "language": "French"
+        },
+        {
+            "review": "Honestly, this stuff is just terrible. Doesn\u2019t lather at all and feels super greasy on my skin. Left my face all red and irritated. I thought it would at least smell good, but the scent was weird and didn't fade away. Felt like scraping my face with a dull butterknife. Definitely not worth the money. I\u2019m really disappointed Ugh, never again.",
+            "language": "English"
+        }
+    ]
+}

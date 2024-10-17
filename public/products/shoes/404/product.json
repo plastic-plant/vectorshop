@@ -1,0 +1,33 @@
+{
+    "nr": "404",
+    "name": "StrideWave Sneakers",
+    "price": "7499",
+    "ranking": 4,
+    "availability": 4,
+    "description": "Step into the future of comfort and style with our revolutionary footwear, designed for those who crave both performance and aesthetic appeal. Whether you\u2019re hitting the gym, running errands, or simply enjoying a day out, these sleek and modern sneakers provide the perfect blend of support and flexibility. The advanced cushioning technology ensures you feel like you\u2019re walking on clouds, reducing fatigue and making long days a breeze. \n\nCrafted with a lightweight, breathable mesh upper, these shoes boast superior ventilation, keeping your feet cool and dry even during the most intense activities. The ergonomic design hugs your foot for a secure fit, while the responsive outsole provides exceptional traction on various surfaces\u2014ideal for city streets or nature trails. Plus, with a range of vibrant colors and trendy patterns,",
+    "images": [
+        "product_404_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using these sneakers for a couple of weeks, and I have to say I'm quite impressed! They\u2019re super comfortable right out of the box, which isn\u2019t always the case with new kicks. The cushioning is just right for those long walks, and I\u2019ve noticed I'd actually lost track of time while out because my feet don\u2019t hurt at all. \n\nThe design is sleek, and I love how they fit snug but aren\u2019t too tight. They have good grip and I feel super stable",
+            "language": "English"
+        },
+        {
+            "review": "Die Sneakers sind echt super! Ich habe sie jetzt eine Weile getragen und bin wirklich zufrieden. Ich habe normalerweise Probleme mit meinen F\u00fc\u00dfen, aber diese Schuhe sind so bequem und passen perfekt. Das Material ist angenehm und die D\u00e4mpfung f\u00fchlt sich toll an, besonders beim Laufen. \n\nDas Design ist auch klasse, sieht modern aus und ich bekomme viele Komplimente. Einziger kleiner Nachteil k\u00f6nnten die Schn\u00fcrsenkel sein, die manchmal etwas rutschen, aber das ist nicht so schlimm",
+            "language": "German"
+        },
+        {
+            "review": "I've been using these sneakers for a few weeks now, and I have to say, I'm quite pleased with them. The comfort level is impressive \u2013 they fit snug but don\u2019t pinch at all. I love how lightweight they are; it feels like I'm walking on clouds. The grip on the sole is excellent too, I\u2019ve taken them running on various terrains, and they\u2019ve held up really well.\n\nThe design is stylish, which is a huge plus for me. I\u2019ve gotten a few compliments when",
+            "language": "English"
+        },
+        {
+            "review": "I recently bought these sneakers, and they\u2019ve turned out to be a solid choice for my workouts and casual outings. The comfort level is impressive right out of the box, with a nice cushioning that really helps during longer walks. I also love the design - they look sleek and go well with a lot of outfits.\n\nOne key thing I noticed is the grip on the sole; it keeps me stable during my runs, which makes a big difference. The breathability is decent too, so my feet stay",
+            "language": "English"
+        },
+        {
+            "review": "These sneakers have been a great addition to my daily routine. Super comfortable for walks and workouts. I love how lightweight they feel, and the cushioning really supports my feet during long days. The design is stylish too, gets compliments all the time! \n\nThe only drawback I've noticed is that they don\u2019t have as much grip on wet surfaces, so I have to be a bit careful. Still, for the price and the comfort level, I'm really satisfied! A solid purchase, and I\u2019d recommend them",
+            "language": "English"
+        }
+    ]
+}

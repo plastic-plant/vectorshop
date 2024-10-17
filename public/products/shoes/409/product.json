@@ -1,0 +1,25 @@
+{
+    "nr": "409",
+    "name": "StrideSphere",
+    "price": "7499",
+    "ranking": 2,
+    "availability": 25,
+    "description": "Step into a realm where comfort meets innovation with our latest footwear marvel. Designed for the modern-day trailblazer, these shoes redefine what it means to be on your feet all day. Featuring a lightweight, breathable fabric, they effortlessly adapt to your every move, ensuring breathability and flexibility like never before. The ultra-cushioned sole is engineered to absorb shock and provide support, making each step feel as if you\u2019re walking on clouds.\n\nEquipped with advanced grip technology, these shoes offer unparalleled traction on any surface, whether you're navigating a bustling city street or hitting the local trail. The snug fit contours to your foot\u2019s unique shape, allowing for all-day wear without discomfort or fatigue. Plus, the stylish design means you won\u2019t just feel good",
+    "images": [
+        "product_409_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Honestly, I had high hopes for these shoes, but they just didn\u2019t live up to my expectations. The fitting is off \u2013 I ordered my usual size, but they feel a bit tight, especially around the toes. The material is okay but doesn't feel like it\u2019s going to last long; I can already see some wear after just a couple of weeks. \n\nThe look is nice aesthetically, but for comfort, they're lacking a lot. I thought they might get better with time, but I still",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try these shoes but honestly, they didn't live up to my expectations. They looked great online, but when I got them, they just felt kinda cheap. The fit was awkward \u2013 like they were a bit too tight around the toe area but loose in the heel. I thought I'd break them in, but that never really happened. After a few walks, my feet hurt, and I just couldn't get comfy. Plus, the grip isn\u2019t all that great either; I almost",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these shoes for a little over a month now, and honestly, they just don\u2019t stack up. First off, they looked great when I bought them, but after a week, the support was gone. It feels like I'm walking on just a thin piece of cardboard. Also, they make this strange squeaking noise -- so embarrassing in public! The fit is okay, but I expected better for the price. The designs are nice, I'll give them that, but what's the point",
+            "language": "English"
+        }
+    ]
+}

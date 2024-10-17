@@ -1,0 +1,21 @@
+{
+    "nr": "576",
+    "name": "StrideSphere",
+    "price": "5999",
+    "ranking": 1,
+    "availability": 7,
+    "description": "Step into a world where comfort meets innovation with our latest footwear creation, simply known as \"The Sphere.\" Engineered for those with an active lifestyle, these shoes blend cutting-edge technology with sleek design, offering unparalleled support and breathability. No longer will your feet feel weary after a long day; these shoes are designed to cushion every step, reducing fatigue and providing a springy bounce that will have you feeling like you\u2019re walking on clouds.\n\nCrafted with a unique multi-layered sole, the Sphere offers exceptional shock absorption and stability, making them ideal for everything from city strolls to intense workouts. The upper is made from a specially engineered mesh that not only promotes airflow to keep your feet fresh but also hugs your foot for a snug, secure fit",
+    "images": [
+        "product_576_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Totally regret buying these shoes. Thought they would be comfy but they're like walking on bricks. My feet hurt after just a few min! The design is all wrong too, they look super clunky. Tried to return them but customer service was a joke. Just a waste of money. Don't fall for the hype like I did. Save yourself the trouble and get something else. Seriously, these are the worst!",
+            "language": "English"
+        },
+        {
+            "review": "these shoes are really bad. they hurt my feet so much, it's like walking on bricks. the size is off too, way too tight and i don\u2019t even have wide feet!!! the laces kept coming undone no matter how much i tried to tie them. wore them for a week and they already look worn out. waste of money, i regret buying them!! don't bother with these if you want comfy shoes. do yourself a favor and stay away.",
+            "language": "English"
+        }
+    ]
+}

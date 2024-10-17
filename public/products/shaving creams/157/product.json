@@ -1,0 +1,25 @@
+{
+    "nr": "157",
+    "name": "Silken Glide Shaving Cream",
+    "price": "499",
+    "ranking": 4,
+    "availability": 9,
+    "description": "Transform your grooming routine with our luxurious shaving cream, expertly designed for those who demand the best in their daily shave. Crafted from a silky blend of natural ingredients, this cream glides effortlessly over the skin, creating a protective barrier that allows your razor to dance with ease. Say goodbye to nicks, cuts, and irritation; with this premium formula, each shave is a smooth, effortless experience that leaves your skin feeling pampered and refreshed.\n\nEnriched with soothing botanicals and hydrating agents, our cream not only preps your skin for a close shave but also nourishes it post-shave. Aloe vera, shea butter, and essential oils work harmoniously to hydrate and calm, ensuring that even the most sensitive skin feels soft and revitalized",
+    "images": [
+        "product_157_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this shaving cream for a couple of weeks now, and I have to say, I'm impressed! The texture is super smooth and glides on effortlessly, making the whole shaving process much easier. I love how it lathers up really well, providing great coverage. My skin feels moisturized and irritation-free after use, which is a big plus for me since I have sensitive skin.\n\nIt doesn\u2019t have that overpowering scent either; it\u2019s just the right amount of fragrance that\u2019s fresh",
+            "language": "English"
+        },
+        {
+            "review": "La crema de afeitar tiene una textura muy suave y cremosa. Se aplica f\u00e1cilmente y hace que la cuchilla se deslice sin problemas. Siento que mi piel est\u00e1 bien hidratada despu\u00e9s de usarla, no deja esa sensaci\u00f3n de tirantez que otras cremas pueden provocar. El aroma es bastante agradable, pero no demasiado intenso, lo justo para frescura sin ser abrumador. Adem\u00e1s, he notado menos irritaci\u00f3n en la piel, lo que siempre es un plus. Recom",
+            "language": "Spanish"
+        },
+        {
+            "review": "I've been using this shaving cream for a few weeks now, and overall, it's really nice. The texture is smooth and it glides on effortlessly. I appreciate how rich and creamy it feels when applying it. It lathers up well, giving a full coat that helps prevent razor burn. \n\nThe scent is subtle but pleasant\u2014not overwhelming like some other creams I\u2019ve tried. I have sensitive skin, and this one has been gentle without irritation, which is a big win for me. My shave feels",
+            "language": "English"
+        }
+    ]
+}

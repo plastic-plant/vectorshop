@@ -1,0 +1,24 @@
+{
+    "nr": "69",
+    "name": "VelvetBlade Shaving Cream",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 2,
+    "description": "Experience the luxurious glide of a shaving cream that transforms your daily routine into a pampering ritual. Formulated with a blend of organic botanicals and rich, creamy moisturizers, this powerhouse delivers unparalleled smoothness and skin-nourishing benefits. Say goodbye to nicks, cuts, and irritation\u2014this exceptional formula envelops your skin in a protective layer, allowing your razor to glide effortlessly for a close and comfortable shave.\n\nHarnessing the power of natural ingredients, our shaving cream hydrates and soothes with every use. Infused with calming aloe vera and invigorating tea tree oil, it helps to minimize redness and irritation, leaving your skin feeling fresh and rejuvenated. Perfect for all skin types, even the most sensitive, this luxurious cream offers an",
+    "images": [
+        "product_69_01.png",
+        "product_69_02.png",
+        "product_69_03.png",
+        "product_69_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I tried this shaving cream and it was okay. The texture is nice, and it offers a smooth glide, but I expected it to give me a closer shave. Sometimes I felt like I had to go over areas a few times. The scent is pleasant but kinda light; I wish it were stronger. My skin did feel soft after using it, which is a plus, but I wouldn\u2019t say it\u2019s a game changer. It\u2019s decent but nothing too special for me. Might keep using it",
+            "language": "English"
+        },
+        {
+            "review": "I tried this shaving cream based on the good stuff I read about it, but honestly, it's just okay. The texture is nice and creamy, which I liked at first, but it didn't lather as much as I expected. Felt a bit dry on my skin, and I had to use more than usual. Shaving was fine, but I ended up with some nicks which was not great. The scent is pretty pleasant, but it fades quickly. I guess it works, but I've had",
+            "language": "English"
+        }
+    ]
+}

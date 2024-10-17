@@ -1,0 +1,25 @@
+{
+    "nr": "728",
+    "name": "StepSphere",
+    "price": "5999",
+    "ranking": 4,
+    "availability": 16,
+    "description": "Discover a world of comfort and style with our innovative footwear that effortlessly combines functionality and flair. Designed for the modern individual, these shoes redefine what it means to step out in confidence. With their unique blend of premium materials, meticulous craftsmanship, and cutting-edge design, every pair caters to those who appreciate both aesthetics and performance in their everyday footwear.\n\nFeaturing advanced cushioning technology, these shoes provide all-day support that feels like you\u2019re walking on clouds. The breathable mesh upper keeps your feet cool and dry, making them perfect for everything from a brisk morning stroll to an all-day adventure around town. Say goodbye to the pinch of uncomfortable footwear; our ergonomic design ensures a snug yet flexible fit that adapts to your stride, giving you the freedom to move naturally without",
+    "images": [
+        "product_728_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I have to say, these shoes are quite impressive! They fit like a glove and provide really good support for my feet, making them perfect for all-day wear. The virtual design is sleek and modern, and I get so many compliments when I wear them out. The app that comes with it is super user-friendly and has helped me track my foot health, which I didn't even know I needed! My only minor issues are that they can feel a bit snug after a long day, and I wish",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these virtual shoes for a little while now, and I have to say, they're pretty impressive! The fit is really nice and they adapt well to my movements, which makes my sessions feel much more real. I love how the added features let me switch between styles easily; it keeps things fresh and exciting. The tracking is usually spot on, though I had a slight glitch once or twice. Also, they could definitely add more color options in the future, but overall, they're a great",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these virtual shoes out, and overall, they\u2019re quite impressive! The design is sleek and modern, which I appreciate. They fit well and are super comfy for walking around my virtual space. I especially love the customization options; I could change the colors and styles to match my vibe.\n\nThere are a few minor quirks though. Sometimes the responsiveness can be a little off if there's too much going on in the virtual environment. I wish the catalogue had a bit more variety too! But",
+            "language": "English"
+        }
+    ]
+}

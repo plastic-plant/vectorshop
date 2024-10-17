@@ -1,0 +1,21 @@
+{
+    "nr": "622",
+    "name": "SilkSmooth Shaving Cream",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 24,
+    "description": "Experience the luxury of a perfectly smooth shave with our premium shaving cream, designed to transform your grooming routine into a pampering ritual. With every application, this cream envelops your skin in a rich, moisturizing lather that glides effortlessly over your face, ensuring a gentle and precise shave. Formulated with a blend of nourishing ingredients, it soothes irritation and hydrates your skin, leaving you feeling refreshed and cared for.\n\nCrafted for the discerning individual, this shaving cream boasts a unique combination of botanical extracts that work harmoniously to protect your skin from nicks and cuts. Its thick, velvety foam not only facilitates a close shave but also reduces friction, making it suitable for all skin types\u2014even sensitive skin. Say goodbye to redness and",
+    "images": [
+        "product_622_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I bought this hoping for a smooth shave but it was a total letdown. First off, it didn\u2019t lather well at all, just kinda sat on my skin. I thought it would help prevent bumps, but I ended up with more! The scent is so strong and kinda ugh, not refreshing at all. After using it, my razor was all gunky, and I had to clean it twice. I wouldn't recommend this - a waste of money if you ask me. Save your",
+            "language": "English"
+        },
+        {
+            "review": "I really can\u2019t believe how bad this stuff is. it doesn\u2019t foam up at all, feels like I\u2019m just putting water on my skin. The scent is way too strong, and honestly, it just burns when I use it. My razor just gets stuck and I end up with nicks everywhere. Never saw a shaving cream that makes my legs feel worse after I shave. Definitely not buying this again, such a waste of money!",
+            "language": "English"
+        }
+    ]
+}

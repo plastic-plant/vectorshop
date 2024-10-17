@@ -1,0 +1,33 @@
+{
+    "nr": "282",
+    "name": "StrideSphere Sneakers",
+    "price": "9999",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Step into a realm of unparalleled comfort and dynamic style with our latest innovation in footwear. Experience every stride like a gentle embrace as our expertly designed sneakers utilize cutting-edge cushioning technology, providing support that adapts to your foot's natural shape. Whether you're conquering city streets or enjoying a leisurely walk in the park, these shoes are engineered to keep you light on your feet while making a bold fashion statement.\n\nWhat sets these kicks apart from the rest is their revolutionary lightweight construction, allowing you to move effortlessly without sacrificing durability. The breathable mesh upper promotes airflow, ensuring your feet stay cool even during the most demanding activities. Coupled with a flexible sole that enhances your range of motion, you can feel the difference with every step, whether you\u2019re hitting the gym",
+    "images": [
+        "product_282_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I have mixed feelings about these sneakers. They look great and the design is really stylish, but I expected more in terms of comfort and support. The cushioning is decent but not plush enough for long walks. The sizing seems a bit off too; I normally wear an 8, but these felt tight around the toes. They also took a few days to break in. However, I\u2019ve received compliments on them, so that\u2019s a plus. Overall, not bad, just wish they felt better for",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these sneakers for a couple of weeks now, and I\u2019m honestly kind of torn about them. They look super cool and have a nice design, but the comfort isn\u2019t quite what I expected. The cushioning is okay, but after walking for a while, my feet start to ache a bit. They fit true to size, which is a plus, but I wish there was a bit more arch support. \n\nAlso, the grip on the outsole is decent but not the greatest\u2014it",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these sneakers for a little while now, and honestly, they\u2019re just okay. The design is nice, kind of stylish I guess, but they feel a bit off when I walk. Cushioning is decent but not amazing\u2014my feet are kinda sore after a long day. \n\nThey fit alright but seem a bit tight around the toes. I was hoping for more comfort given the price. The grip on the soles is decent, though; I didn\u2019t slip on wet surfaces,",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been trying out these new sneakers for a couple of weeks now. They\u2019re decent but not great. The cushion is okay, not too soft and not too firm, so can feel a bit off sometimes. The style is pretty cool, but they squeak a lot when I walk, which can be really annoying. Fit is decent, though I wish they had a wider option since my feet feel a little cramped after a long day. They\u2019re not bad for a casual run or just putting",
+            "language": "English"
+        },
+        {
+            "review": "I bought these sneakers a few weeks ago and overall, I think they are just okay. They look nice, but I expected more comfort for the price. The cushioning isn\u2019t as good as I hoped, especially during long walks. Also, the sizing is a bit off \u2013 I normally wear a size 10, but I had to go for a 10.5. They fit alright now, but I\u2019m not loving how they snug around the toe. \n\nOn the plus side, they are",
+            "language": "English"
+        }
+    ]
+}

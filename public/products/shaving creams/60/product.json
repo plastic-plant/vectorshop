@@ -1,0 +1,24 @@
+{
+    "nr": "60",
+    "name": "Velvet Glide Shaving Cream",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 24,
+    "description": "Transform your daily grooming routine into a luxurious ritual with our remarkable shaving cream, affectionately known as \"The Velvet Touch.\" Crafted for those who demand the best in both performance and comfort, this exquisite formula glides effortlessly over the skin, providing an unparalleled shaving experience. Say goodbye to nicks, cuts, and irritation as the creamy consistency envelops each hair, ensuring a smooth and close shave that leaves your skin feeling fresh and pampered.\n\nRich in nourishing ingredients, The Velvet Touch is infused with natural oils and moisturizers that hydrate and soothe. The moment it meets your skin, you'll feel the hydrating effects as it works to soften the beard and prepare your face for the blade. Designed for all skin types, especially sensitive skin, this shaving cream",
+    "images": [
+        "product_60_01.png",
+        "product_60_02.png",
+        "product_60_03.png",
+        "product_60_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really don't see what the hype is about. This stuff just doesn't work for me. It said it would make shaving smooth but it was dry and really irritating. I've used cheaper brands that did way better. Plus, it feels like I'm spreading foam that just doesn't go away. Now I got razor bumps everywhere. Never buying this again. Wish I could get my money back, total waste!",
+            "language": "English"
+        },
+        {
+            "review": "This shaving cream is terrible. It doesn\u2019t lather at all, feels greasy instead of smooth. I didn\u2019t even get a close shave, ended up with nicks all over my face. My skin feels itchy too. What's the point of using it? I\u2019ll be sticking to my old stuff, just wasted my money on this junk. No way I\u2019m buying again.",
+            "language": "English"
+        }
+    ]
+}

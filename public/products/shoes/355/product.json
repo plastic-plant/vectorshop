@@ -1,0 +1,25 @@
+{
+    "nr": "355",
+    "name": "StrideSphere",
+    "price": "7999",
+    "ranking": 2,
+    "availability": 21,
+    "description": "Elevate your everyday adventures with the ultimate footwear revolution! Meet your new companion for comfort and style\u2014your feet\u2019s best friend, affectionately known as \u201cThe Sphere.\u201d Designed for those who live life on the move, these shoes seamlessly blend innovative technology with sophisticated design, ensuring you look fabulous while feeling fantastic. Say goodbye to the days of sacrificing comfort for style; The Sphere redefines what it means to walk in confidence.\n\nExperience unparalleled comfort with the adaptive cushioning system that molds to the contours of your feet, providing support where you need it most. Each step is cradled by a lightweight, breathable fabric that keeps your feet cool and dry, whether you\u2019re strolling through the park or rushing to that important meeting. And with a slip-resistant sole",
+    "images": [
+        "product_355_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "J'ai essay\u00e9 ces chaussures, et je dois dire que \u00e7a ne va pas. \u00c0 premi\u00e8re vue, elles semblaient bien, mais apr\u00e8s quelques jours, les semelles se d\u00e9t\u00e9riorent d\u00e9j\u00e0. Pas tr\u00e8s confortables non plus. Mes pieds me font mal apr\u00e8s seulement une heure. Et la taille ne correspond pas vraiment. J\u2019ai pris ma taille habituelle, mais \u00e7a serre un peu trop. J\u2019ai vu des avis de gens qui aimaient, mais moi j\u2019en suis d\u00e9\u00e7u.",
+            "language": "French"
+        },
+        {
+            "review": "I really wanted to like these shoes, but they just don\u2019t live up to the hype. The fit is kinda off, like they pinch my toes a lot, which is super uncomfortable. I expected more cushioning, but it feels like I'm walking on hard ground. The design is cool, but it's not enough to make up for the discomfort. Plus, the color started fading after just a few wears. Overall, not impressed. I\u2019d recommend looking elsewhere if you want something really comfy.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these shoes, but honestly, they fell short. The design is cool, but the fit is just off. I got my usual size, but they felt way too loose and didn\u2019t offer any support. Plus, after just a week of wearing them, the material started to fray a little, which is disappointing. It\u2019s like they\u2019re not sturdy at all. I thought they\u2019d be great for all day wear, but I ended up with sore feet by midday.",
+            "language": "English"
+        }
+    ]
+}

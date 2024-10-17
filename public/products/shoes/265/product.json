@@ -1,0 +1,21 @@
+{
+    "nr": "265",
+    "name": "StrideFusion Sneakers",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 5,
+    "description": "Step into a world where comfort meets style with our latest innovation in footwear. These sleek, contemporary sneakers are designed for those who refuse to compromise on either. With cutting-edge technology and a minimalist aesthetic, they effortlessly elevate any outfit, whether you're hitting the gym, running errands, or enjoying a casual night out. The versatile design features a lightweight, breathable upper that adapts to your feet for a second-skin feel, ensuring all-day comfort without sacrificing flair.\n\nEquipped with superior cushioning and shock-absorbent soles, these sneakers provide the perfect support for your everyday adventures. Every step feels like walking on clouds, helping to reduce fatigue regardless of how long you\u2019re on your feet. The innovative tread pattern gives you optimal grip and stability, making",
+    "images": [
+        "product_265_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich hatte mir echt mehr von diesen Sneakern erhofft. Sie sehen gut aus, keine Frage, aber es gibt ein paar Sachen, die mich st\u00f6ren. Der Tragekomfort ist okay, aber nicht so gut, wie ich gedacht hatte. Nach ein paar Stunden tun mir die F\u00fc\u00dfe weh. Die Sohle ist zwar leicht, macht aber nicht genug Halt. Au\u00dferdem rutschen sie ein bisschen beim Laufen. \n\nDie Optik finde ich echt schick, aber f\u00fcr den Preis h\u00e4tte",
+            "language": "German"
+        },
+        {
+            "review": "I\u2019ve been using these sneakers for a little while now, and honestly, they\u2019re okay but not great. The design is stylish, but comfort is not top-notch. I expected more cushioning, and my feet start hurting after a couple of hours. They also don\u2019t have the best grip, so I\u2019ve slipped a few times on wet surfaces, which isn't ideal. \n\nOn the plus side, they are lightweight and pretty breathable, so I guess that's a win, but overall, I think there",
+            "language": "English"
+        }
+    ]
+}

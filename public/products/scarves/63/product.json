@@ -1,0 +1,24 @@
+{
+    "nr": "63",
+    "name": "Whirlwind Wraps",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 7,
+    "description": "Embrace the art of effortless elegance with our latest creation in the world of scarves. Designed for the modern individual who craves style without sacrificing comfort, these chic wraps transform any outfit into a statement of flair and sophistication. Made from a luxurious blend of lightweight, breathable materials, they\u2019re perfect for draping over your shoulders during cool evenings or curling up in on a breezy afternoon.\n\nThe beauty of our signature wraps lies not just in their stunning aesthetics but also in their versatility. Available in a variety of vibrant colors and eye-catching patterns, these wraps can be styled in multiple ways\u2014whether you\u2019re knotting it around your neck for a trendy look or using it as a cozy throw during a cinematic night in. The detachable fringe detail adds a fresh",
+    "images": [
+        "product_63_01.png",
+        "product_63_02.png",
+        "product_63_03.png",
+        "product_63_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was kinda excited to try this scarf, but it didn\u2019t really meet my expectations. The material feels cheap and scratchy, which is disappointing. It\u2019s not very warm either, like I expected. The colors are nice, but after a few wears, it started to look old and worn out. It doesn\u2019t stay in place well, always slipping and looking messy. I guess it works for a quick fashion statement, but it\u2019s not functional at all. I wouldn\u2019t recommend it if you",
+            "language": "English"
+        },
+        {
+            "review": "I was really hopeful for these wraps, but honestly, they just fell short. The fabric feels ok, but the styles are pretty basic and not as cute as I thought they\u2019d be. After a few wears, it started to lose shape, and the fraying edges are so annoying. Also, they don\u2019t keep me very warm, which is kinda the point with scarves, right? For the price, I expected more. I can\u2019t recommend them.",
+            "language": "English"
+        }
+    ]
+}

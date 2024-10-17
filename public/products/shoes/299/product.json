@@ -1,0 +1,26 @@
+{
+    "nr": "299",
+    "name": "StrideSphere Shoes",
+    "price": "7999",
+    "ranking": 5,
+    "availability": 8,
+    "description": "Step into a realm of unparalleled comfort and style with our revolutionary footwear\u2014designed to elevate your everyday adventures. With a perfect blend of modern aesthetics and innovative technology, the S.Shoes promise to become an essential part of your wardrobe. Whether you\u2019re conquering city streets, strolling through parks, or relaxing at home, these shoes effortlessly adapt to every facet of your life.\n\nCrafted with a patent-pending cushioning system, the S.Shoes feature responsive memory foam insoles that mold to the contours of your feet, providing support where you need it most, reducing fatigue significantly. Their lightweight design ensures that while you're on the go, you won\u2019t feel bogged down, allowing you to walk or run with the lightness of a feather. Available",
+    "images": [
+        "product_299_01.png",
+        "product_299_02.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been wearing these shoes for a couple of weeks now, and I can't believe how much they've changed my daily routine! The moment I slipped them on, it was like walking on clouds. They're amazingly lightweight yet provide excellent support. I\u2019ve worn them for long days at work and had no discomfort whatsoever.\n\nThe grip is fantastic, and I've noticed that I'm much more stable on my feet than with my old shoes. The design is sleek and stylish too\u2014I've received numerous compliments from friends and colleagues.",
+            "language": "English"
+        },
+        {
+            "review": "Ich habe mir diese Schuhe gekauft und einfach nur begeistert! Die Passform ist perfekt, sie f\u00fchlen sich an wie eine zweite Haut. Egal, ob ich von morgens bis abends unterwegs bin oder einfach nur spazieren gehe, ich habe nie Probleme mit meinen F\u00fc\u00dfen. Das Design ist total schick und modern \u2013 ich bekomme st\u00e4ndig Komplimente! Au\u00dferdem ist die Sohle super gebrochen und gibt mir das Gef\u00fchl, als ob ich auf Wolken laufe. Die Atmungsaktivit\u00e4t ist auch",
+            "language": "German"
+        },
+        {
+            "review": "Absolutely love these shoes! They\u2019re like walking on clouds. The cushioning is perfect, and I can wear them all day without any discomfort. I\u2019ve tried lots of sneakers before, but these take the cake. The design is super stylish too \u2013 I've gotten so many compliments! \n\nThey're really versatile; I wear them for everything from running errands to casual get-togethers. Plus, they grip the ground really well, so I feel stable. Easy to clean as well; a quick wipe and they're",
+            "language": "English"
+        }
+    ]
+}

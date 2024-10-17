@@ -1,0 +1,25 @@
+{
+    "nr": "547",
+    "name": "Whirlwind Wraps",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 15,
+    "description": "Wrap yourself in a symphony of style and comfort with our luxurious scarf collection that instantly transforms any outfit into a statement of elegance. Crafted from the finest, ultra-soft materials, these versatile accessories provide the ultimate blend of warmth and breathability, making them perfect for both brisk morning strolls and cozy evenings out. The lightweight yet plush fabric drapes gracefully, ensuring you\u2019ll feel as good as you look, no matter the occasion.\n\nDesigned with a modern twist on classic patterns, each piece features an eye-catching array of colors that subtly play off one another, allowing for effortless coordination with any ensemble. Whether you choose a bold geometric print or a soft, flowing floral, adding one of these scarves to your wardrobe will enhance your fashion repertoire. The chic,",
+    "images": [
+        "product_547_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like this scarf, but honestly, it just didn\u2019t do much for me. The material feels kinda cheap, and it's not as soft as I expected. It doesn't keep me warm, and I found myself adjusting it all the time. The colors are vibrant, but they don't match with a lot in my wardrobe. It's a nice idea, but overall, just kinda disappointed. Could've been way better.",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these scarves, but honestly, they didn't impress me at all. The fabric feels kind of cheap and not warm enough for colder days. Also, they don't stay in place, keep slipping off my shoulders. I expected them to be versatile, but they just don\u2019t look good with most outfits. Plus, they\u2019re hard to wash, like they lose shape. They\u2019re not terrible, but definitely not worth the hype. Two stars cause they look okay if you can manage to",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these scarves but they just don't live up to the hype. The fabric feels kinda cheap, not like the cozy wraps I've used before. I've tried styling them in different ways, but they just seem to fall flat and don't stay in place. The colors are okay, but not as vibrant as I expected. I appreciate the idea, but the execution just isn\u2019t there. Overall, a bit disappointed since I had higher expectations.",
+            "language": "English"
+        }
+    ]
+}

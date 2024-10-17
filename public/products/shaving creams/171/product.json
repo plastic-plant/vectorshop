@@ -1,0 +1,21 @@
+{
+    "nr": "171",
+    "name": "SilkenEdge Shaving Cream",
+    "price": "1499",
+    "ranking": 2,
+    "availability": 23,
+    "description": "Transform your daily grooming routine with the ultimate shaving experience that will leave your skin feeling impossibly smooth and refreshed. Our premium cream is expertly crafted to provide an unparalleled glide, ensuring that every stroke of your razor is as seamless as it is effective. Infused with nourishing natural ingredients, this luxurious formulation hydrates and conditions your skin while creating a protective barrier that shields against irritation and razor burn. \n\nSay goodbye to nicks and cuts with a whip of our lightweight formula, designed to create a rich, creamy lather that hugs the contours of your face. The velvety texture feels indulgent as it envelops your skin, preparing each hair for a clean and precise shave. Also, with a subtle fragrance that invigorates your senses, your morning",
+    "images": [
+        "product_171_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this shaving cream, but honestly, it just didn\u2019t live up to my expectations. The texture is weird, not as creamy as I thought it would be. It doesn\u2019t spread easily on the skin, and I found myself using way more than I usually need. Also, it barely gives any cushion while shaving, which led to a few nicks. The scent is kind of off too\u2014not refreshing like I wanted. It feels like I wasted my money on something that didn",
+            "language": "English"
+        },
+        {
+            "review": "I had high expectations but, honestly, I was a bit let down. The texture is nice and creamy, but it didn\u2019t give me the close shave I was hoping for. I felt like I had to use a lot to get any kind of glide, and even then, it didn\u2019t reduce irritation much. The scent is okay but nothing special. After a few uses, my skin felt kind of dry. I thought this would replace my old favorite, but it\u2019s just not living up to",
+            "language": "English"
+        }
+    ]
+}

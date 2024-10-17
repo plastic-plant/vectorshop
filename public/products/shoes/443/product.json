@@ -1,0 +1,21 @@
+{
+    "nr": "443",
+    "name": "StrideVibe Sneakers",
+    "price": "7999",
+    "ranking": 4,
+    "availability": 23,
+    "description": "Step into a world of comfort and style with our innovative footwear designed to elevate your every stride. These extraordinary sneakers redefine what it means to walk with ease. Crafted with a unique blend of breathable materials, each pair ensures that your feet stay cool and comfortable, no matter the adventure. The lightweight construction allows for effortless movement, making them the perfect companions for daily errands, gym sessions, or weekend hikes.\n\nExperience exceptional support with our advanced cushioning technology that adapts to your foot's unique shape. The responsive sole absorbs impact, reducing fatigue and allowing you to stay on your feet longer without discomfort. Say goodbye to the days of sore arches or blisters; these sneakers provide the ultimate foundation for your busy lifestyle. Plus, the non-slip grip gives you confidence",
+    "images": [
+        "product_443_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got my pair of these sneakers, and I have to say, they\u2019re pretty impressive overall. The first thing I noticed was how comfy they were right out of the box. It was like walking on clouds! It provides great support, which is a must for someone like me who\u2019s always on the move.\n\nI\u2019ve worn them for a few runs and they held up nicely. No blisters or sore spots, which is a huge plus! They also have a sleek design that goes well",
+            "language": "English"
+        },
+        {
+            "review": "These sneakers are pretty good! They fit really well and are super comfortable to walk in. I\u2019ve gone on long runs and my feet didn\u2019t ache at all, which is a huge plus. The design is also stylish, I get compliments all the time! \n\nMy only issue is the color choices. I wish there were more options because I\u2019d love to get another pair. They tend to run a little small, so I recommend trying a half size up if you're between sizes. Overall, definitely",
+            "language": "English"
+        }
+    ]
+}

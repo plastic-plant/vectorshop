@@ -1,0 +1,23 @@
+{
+    "nr": "643",
+    "name": "StrideSphere Sneakers",
+    "price": "7999",
+    "ranking": 4,
+    "availability": 13,
+    "description": "Step into a world where comfort meets innovation with our standout kicks! Designed for those who crave a blend of style and functionality, these sneakers redefine what it means to elevate your everyday wear. Engineered with cutting-edge cushioning, your feet will feel as if they are cradled in clouds\u2014perfect for everything from morning jogs to coffee runs. The unique AirFlex technology adapts to your movements, ensuring unparalleled support with each stride, so you can go about your day with a bounce in your step.\n\nCrafted from premium, breathable materials, our footwear showcases a sleek, modern silhouette that effortlessly meshes with any outfit. Whether you're heading to the gym or enjoying a casual outing with friends, the versatility of these sneakers makes them your go-to choice.",
+    "images": [
+        "product_643_01.png",
+        "product_643_02.png",
+        "product_643_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using these sneakers for a few weeks now, and overall, I\u2019m quite pleased! They look really stylish and come in a variety of colors that I love. The cushioning is comfy, making them great for long walks or standing all day. I\u2019ve also noticed they have pretty good grip, which is important for me since I sometimes jog on uneven paths.\n\nHowever, I did notice that the sizing runs slightly bigger than expected, so I suggest trying them on first or checking the size guide",
+            "language": "English"
+        },
+        {
+            "review": "I recently got a pair of these sneakers and I\u2019m quite impressed overall! They look fantastic and go well with almost any outfit. The cushioning inside is super comfy, which makes them great for walking long distances. I really love how lightweight they feel on my feet.\n\nThe only downside I\u2019ve noticed is that the grip on the soles could be a bit better, especially on wet surfaces. I\u2019ve slipped a couple of times turning corners. But aside from that, they fit snugly without being too tight",
+            "language": "English"
+        }
+    ]
+}
