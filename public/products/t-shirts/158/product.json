@@ -1,0 +1,29 @@
+{
+    "nr": "158",
+    "name": "ThreadAlchemy Tees",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 14,
+    "description": "Unleash your individuality with our latest t-shirt collection that transforms daily wear into an art form. Designed for those who dare to express their unique style, this groundbreaking apparel combines comfort with creativity, making it the ultimate canvas for self-expression. Each piece is meticulously crafted from ultra-soft, breathable fabric that wraps your body in a gentle embrace, keeping you cool and comfortable throughout your day, no matter the occasion.\n\nThese t-shirts aren\u2019t just about looking good; they\u2019re about feeling great, too! The innovative, moisture-wicking technology ensures you stay dry during your most active moments, while the lightweight material guarantees unrestricted movement. Perfect for a chill day at home or a spontaneous outing with friends, they adapt seamlessly to your lifestyle. The unique, vibrant",
+    "images": [
+        "product_158_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Super teleurgesteld. De stof is zo goedkoop aanvoeling, het kriebelt gewoon. Ik dacht dat het beter zou zijn maar na een wasbeurt is het al krom. Echt niet de moeite waard en ook de maat klopt niet. Was ook veel te klein terwijl ik een xl besteld heb. Nooit meer voor mij!",
+            "language": "Dutch"
+        },
+        {
+            "review": "I really regret buying these tees. First the fit is weird, super baggy on the shoulders but tight around the waist. Not comfy at all. The material feels cheap and sorta scratchy. After one wash, they shrunk and now they look like I\u2019m wearing a kids shirt. The colors faded too, was bright in the pic, but now dull and lifeless. Definitely not worth the money. It\u2019s like throwing cash into the fire. I'll stick to my old shirts. Disappointed",
+            "language": "English"
+        },
+        {
+            "review": "worst t-shirt i ever bought. fabric is super scratchy and feels cheap. the sizing is off too, ordered a large and it fits like a small. after one wash it started falling apart, strings everywhere. not worth the money at all, save your cash! never getting this again. so disappointed.",
+            "language": "English"
+        },
+        {
+            "review": "I was really disappointed with these shirts. First off, the material feels super cheap, like it\u2019ll fall apart after one wash. And the sizing is totally off. I usually wear a medium, but this felt like a small. Really uncomfortable to wear. The color faded after just 2 washes, and it looked worn-out already. I expected so much more, but this was just a letdown. Save your money!",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nr": "625",
+    "name": "SunSpectra Shades",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 20,
+    "description": "Step into a world of unparalleled style and protection with our revolutionary eyewear design. Crafted for trendsetters and outdoor enthusiasts alike, these sleek shades redefine the way you experience sunny days. With a lightweight, ergonomic frame and a unique blend of comfort and sophistication, you\u2019ll wonder how you ever lived without this stylish escape. Each pair is engineered to provide maximum UV protection, ensuring that your eyes are shielded from harmful rays while you bask in the warm glow of the sun.\n\nWhat sets these shades apart are the innovative polarized lenses that eliminate glare and enhance visual clarity. Whether you\u2019re cruising down the coast, hiking up a mountain, or simply enjoying a day in the park, you'll appreciate the vibrant colors and sharp details that our lenses provide. No more",
+    "images": [
+        "product_625_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got a pair of these shades and I have to say, they\u2019re just okay. The design looks nice at first glance, but the fit isn\u2019t the best. They slide down my nose a bit, which is annoying. The lenses do provide decent UV protection, but they don\u2019t have as much tint as I expected. On sunny days, they aren\u2019t as effective. \n\nI mean the style is alright, and I like how they look with casual outfits, but I wish they were",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these shades for a few weeks, and while they look really stylish, I feel like they miss the mark on comfort. They fit okay, but after a couple of hours, I start to feel the pinch on my nose, which is not great. The lenses are decent for blocking light, but I wish they had better clarity; sometimes it feels like I\u2019m looking through a slight fog. They do keep the sun out, which is cool, but I expected a bit more for",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these shades for a few weeks now. They look nice and feel comfortable, but they don\u2019t have the best UV protection, which is a bit worrysome. On sunny days, my eyes still squint a lot. The style is modern and trendy, so I do get a bunch of compliments, but I was hoping they\u2019d block out more glare. They\u2019re alright for everyday wear; just wouldn\u2019t trust them for long hours at the beach. Overall, good enough, but",
+            "language": "English"
+        }
+    ]
+}

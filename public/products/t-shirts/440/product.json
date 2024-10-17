@@ -1,0 +1,25 @@
+{
+    "nr": "440",
+    "name": "ThreadVoyage T-Shirt",
+    "price": "2499",
+    "ranking": 3,
+    "availability": 2,
+    "description": "Discover the ultimate in casual comfort and style with our remarkable tee that's destined to become your wardrobe\u2019s new best friend. Crafted from a premium blend of soft, breathable fabrics, this stylish garment ensures you stay cool and comfy whether you're lounging at home, running errands, or out enjoying life\u2019s adventures. Its lightweight design drapes effortlessly on all body types, giving you just the right fit without compromising on comfort.\n\nThe all-day durability of this dapper tee is matched only by its versatility. Featuring a classic crew neck and a modern tailored cut, it seamlessly pairs with jeans, shorts, or even casual skirts. Choose from a spectrum of eye-catching colors and trendy prints that reflect your personality and mood. Each piece is designed to withstand the test of time,",
+    "images": [
+        "product_440_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I got this t-shirt hoping it would be super comfy and stylish, but honestly, it\u2019s just okay. The fabric feels nice at first, but it\u2019s not as soft as I expected after a few washes. The fit is average\u2014I was a bit disappointed because it\u2019s kind of snug in weird places. I don\u2019t mind it for everyday wear, but it\u2019s not something I\u2019d reach for on a weekend out. It looks decent, but nothing too special. Overall, not bad, just",
+            "language": "English"
+        },
+        {
+            "review": "The t-shirt is okay, not great but not terrible either. The fit is somewhat odd; it's kind of tight in the shoulders but loose in the waist. The fabric feels soft, but it\u2019s not super breathable, which isn't what I expected. I\u2019ve worn it a few times and it shrank a little after the first wash, which was disappointing. The print on it looks nice, though, and hasn\u2019t faded yet. I guess it\u2019s decent for casual wear. Just don\u2019t expect",
+            "language": "English"
+        },
+        {
+            "review": "I bought this t-shirt thinking it would be amazing because of the hype, but honestly, it\u2019s just okay. The fabric feel is nice and soft, but after a couple of washes, it has started to lose its shape. Colors are good, but not as vibrant as I thought they would be. Sizing runs a bit small too, so keep that in mind if you like your tees a bit looser. It fits fine but hugs more than I like.\n\nOverall, it\u2019s wearable but",
+            "language": "English"
+        }
+    ]
+}

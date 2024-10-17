@@ -1,0 +1,21 @@
+{
+    "nr": "590",
+    "name": "ShadeCrafter",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 3,
+    "description": "Embrace the sunshine with confidence and style, thanks to the sleek, ultra-modern eyewear that redefines sun protection for every occasion. Designed with cutting-edge UV-blocking technology, each pair ensures your eyes are shielded from harmful rays while allowing you to express your unique fashion sense. With a variety of vibrant colors and striking lenses, these sunglasses are not just an accessory; they're a radiant statement that brightens any ensemble.\n\nBut it\u2019s not just about looks. Crafted from lightweight, premium materials, these shades promise all-day comfort without compromising on durability. The innovative anti-scratch coating means they can withstand life\u2019s little adventures, whether you're hitting the beach, hiking the trails, or enjoying a rooftop brunch. The ergonomic design provides a snug fit that",
+    "images": [
+        "product_590_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Absolutely obsessed with these sunglasses! The lens clarity is unreal\u2014everything looks so vibrant and colorful. They fit like a dream; no sliding down my nose or discomfort, even after wearing them for hours at the beach. \n\nCan't believe how lightweight they are. I've worn them while dancing at outdoor parties, jogging, and even just lounging around, and they stayed perfectly in place. The UV protection is a major plus too\u2014my eyes feel great all day long.\n\nThe stylish design is a bonus. I've",
+            "language": "English"
+        },
+        {
+            "review": "I've been searching for the perfect sunglasses for ages, and I finally found them! The fit is absolutely amazing\u2014super comfortable and they feel like they're tailor-made for my face. The lenses provide such clear vision; it's like seeing in HD! Plus, they block out UV rays like a champ\u2014my eyes have never felt so protected. \n\nI love the stylish design too. I've received so many compliments since I started wearing them. Whether I\u2019m at the beach, on a hike, or just out",
+            "language": "English"
+        }
+    ]
+}

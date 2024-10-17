@@ -1,0 +1,29 @@
+{
+    "nr": "247",
+    "name": "ToastMaster 3000",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 7,
+    "description": "Introducing the breakfast game-changer that will revolutionize your mornings: the T3000. Engineered for the ultimate toast experience, this innovative toaster combines cutting-edge technology with sleek design to create your new kitchen essential. With its intelligent toasting system, you can indulge in the perfect slice every time\u2014golden brown on the outside, fluffy on the inside\u2014thanks to customizable browning settings tailored to your unique palate.\n\nEquipped with a swift heating element and an intuitive user interface, the T3000 allows you to toast an array of artisanal breads and bagels to perfection. Say goodbye to the frustration of uneven heating! With its advanced even-toasting technology, every slice emerges consistently delicious, no matter your choice. Plus, its extra-wide",
+    "images": [
+        "product_247_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019ve been using this toaster for a few months now, and honestly, it's okay. It gets the job done, but it\u2019s not anything incredible. Toast comes out alright, but sometimes it\u2019s uneven - a bit burnt on one side and barely warm on the other. The settings are a little confusing too; I wish it was more straightforward to choose how dark I want my toast. \n\nThe build feels a bit cheap, and I don't know how long it'll last. On the plus side,",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks now, and it's kind of hit or miss. It does toast bread, which is nice, but sometimes it takes longer than I expected. The settings don't seem to be very accurate, so I often have to watch it closely to make sure my toast doesn\u2019t burn. \n\nThe design is alright, kinda modern, which fits my kitchen well. However, the crumb tray isn't very easy to clean; I usually end up making a mess when I try to",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few months now, and it's a mixed bag. The design is sleek and fits nicely on my counter, but it doesn\u2019t always toast evenly. Sometimes one side comes out more golden than the other, which can be frustrating when you want a perfect slice. The settings can be a bit tricky to figure out too; some days I find the higher settings don\u2019t burn the bread while other days they turn it to charcoal. \n\nOn the plus side, it heats up",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this toaster for a few months now, and while it\u2019s not the worst, it\u2019s not the best either. The design is sleek and it fits nicely on my counter without taking up too much space. Toasts alright, I guess. It usually takes a couple of tries to get my bagels just right \u2013 sometimes too toasted and sometimes I can't tell if it's done. The dial can be a bit finicky, too, and the button for the cancel function feels a little",
+            "language": "English"
+        }
+    ]
+}

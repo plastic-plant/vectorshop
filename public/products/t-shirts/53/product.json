@@ -1,0 +1,28 @@
+{
+    "nr": "53",
+    "name": "ThreadVibe Tees",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 22,
+    "description": "Step into a world where comfort meets style with our revolutionary t-shirt collection, affectionately referred to as \"Vibe Tees.\" Crafted from the softest, breathable fabric, these tees provide an unmatched level of comfort that feels as good as it looks. Whether you\u2019re lounging at home, hitting the gym, or out for coffee with friends, Vibe Tees are designed to keep you feeling great all day long. The moisture-wicking technology ensures that sweat is a thing of the past, so you can focus on what truly matters: enjoying your life.\n\nEach Vibe Tee showcases a range of vibrant colors and exclusive artistic prints that make a statement without saying a word. Our designs are inspired by global cultures and everyday inspirations, giving you the opportunity",
+    "images": [
+        "product_53_01.png",
+        "product_53_02.png",
+        "product_53_03.png",
+        "product_53_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I was really hoping for more from these tees. The fabric feels kinda rough against my skin, not the soft, comfy vibe I was expecting. After a couple of washes, they started fading. Not impressed with the fit either\u2014it\u2019s sort of boxy and doesn't flatter my shape at all. The design looked cool online, but in person, it seemed cheap. Overall, I guess they're okay for wearing around the house, but definitely not worth the price.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these tees, but they just didn't impress me. The fabric feels kinda cheap and rough against my skin, which was a letdown. I thought they would fit well, but they\u2019re tighter in some weird places and loose in others. Also, the designs looked amazing online, but they came out kinda dull in person. I\u2019ve seen better quality and fit for the same price, so I don't think I'll be buying these again. Might be a hit for some, but not",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these tees, but honestly, I'm kinda disappointed. The fabric feels just okay, not super soft like I expected. After a few washes, it started to lose its shape a bit, which isn't great. The fit is weird too; didn't know if I should size up or down. And the colors? They look nice online but aren't as vibrant in person. I mean, it\u2019s alright for the price, but I wouldn\u2019t buy again. Feels like a missed opportunity",
+            "language": "English"
+        }
+    ]
+}

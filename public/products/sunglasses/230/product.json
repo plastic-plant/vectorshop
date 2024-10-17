@@ -1,0 +1,25 @@
+{
+    "nr": "230",
+    "name": "LuxeShade Vistas",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 9,
+    "description": "Introducing the ultimate in sun protection and style, our latest masterpiece redefines eyewear with its cutting-edge design and flawless execution. Imagine slipping on a pair of sunglasses that not only shields your eyes from harmful UV rays but also elevates your entire look. These shades feature advanced polarized lenses, ensuring crystal-clear vision while dramatically reducing glare. Perfect for everything from beach days to city strolls, they effortlessly combine functionality with flair.\n\nCrafted with an ultra-lightweight frame, these sunglasses promise all-day comfort without compromising on style. The ergonomically designed temples hug your head just right, making them suitable for both active adventures and laid-back lounging. Available in a variety of stunning colors, you can effortlessly express your personality, whether you opt for a bold statement or",
+    "images": [
+        "product_230_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Absolutely love these sunglasses! The design is so chic and modern, perfect for any occasion. They fit really well and don't slip down my nose, which is a huge plus. The UV protection is fantastic, and I can wear them for hours without feeling any discomfort. Plus, I got so many compliments the first day I wore them! The lenses are clear and reduce glare effectively\u2014driving is much more pleasant now. These have quickly become my go-to accessory for every outing. Highly recommend to anyone",
+            "language": "English"
+        },
+        {
+            "review": "Esses \u00f3culos s\u00e3o incr\u00edveis! A qualidade \u00e9 excepcional, e eu t\u00f4 amando usar no dia a dia. As lentes s\u00e3o super confort\u00e1veis e protegem muito bem contra a luz solar. Al\u00e9m disso, o design \u00e9 super moderno e elegante, combinando com v\u00e1rias roupas que tenho. Eles ficam muito bem no rosto e n\u00e3o escorregam, o que me d\u00e1 uma sensa\u00e7\u00e3o de seguran\u00e7a. Eu tenho usado na praia e durante caminhadas, e \u00e9 uma experi\u00eancia maravilhosa. Nunca encontrei um",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I recently got my hands on these amazing sunglasses, and I can't believe how much I love them! The frames fit perfectly and are super lightweight, making them so comfortable to wear all day. The lenses are crystal clear and really cut down on glare\u2014I feel like I can see everything so much better! \n\nI was worried about how they'd look on me, but they totally enhance every outfit. I\u2019ve gotten so many compliments already! They also come in some stylish colors which make it hard to choose just",
+            "language": "English"
+        }
+    ]
+}

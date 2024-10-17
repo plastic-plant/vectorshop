@@ -1,0 +1,36 @@
+{
+    "nr": "23",
+    "name": "CrispCrafter Toaster",
+    "price": "3499",
+    "ranking": 2,
+    "availability": 20,
+    "description": "Elevate your breakfast game with the ultimate kitchen companion that turns your morning routine into a delightful experience! This revolutionary toaster is engineered to deliver perfectly golden slices of toast, bagels, and pastries with unparalleled precision. With a sleek, modern design that complements any kitchen decor, this essential appliance not only performs flawlessly but also makes a stylish statement on your countertop.\n\nExperience the power of customizable browning settings that allow you to achieve your ideal toast, from light and crispy to deep and crunchy. Equipped with advanced heating technology, this toaster ensures even toasting every time, eliminating the frustration of unevenly browned surfaces. The easy-to-use LED display keeps you informed of your settings, while the simple push-button controls make breakfast preparation a breeze, even for the busiest",
+    "images": [
+        "product_23_01.png",
+        "product_23_02.png",
+        "product_23_03.png",
+        "product_23_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this toaster, but I was pretty let down. First of all, it doesn't toast evenly. One slice is burnt while the other is just warm\u2014super annoying. The controls are confusing, and the settings don\u2019t really do much either. I felt like I was just guessing every time I used it. The design looks nice, but honestly, looks can\u2019t make up for poor performance. I've had it for a few months now, and it's already starting to feel like it",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks now, and honestly, it hasn't lived up to my expectations. First of all, it seems to take forever to toast. I mean, I typically find myself standing there, watching bread go from raw to slightly warm without even hitting that golden-brown perfection. Sometimes it even burns the edges while leaving the middle cold. \n\nAlso, the controls are a little confusing. The timer dials don\u2019t really match the toast color at all. I had to",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to get this toaster because of the cool features, but honestly, it\u2019s kind of a letdown. The toast it makes isn\u2019t even that crispy, and half the time it burns the edges. The different settings seem to not do much at all, and it's really inconsistent. Plus, it takes a long time to pop up the bread! \n\nIt looks nice on the counter but with all the problems, I kind of regret the purchase. Not sure if I want to keep",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this toaster based on the claims, but honestly it\u2019s a bit of a letdown. First off, the toasting times are way off. It takes longer than expected and I usually end up having to toast my bread again because it doesn\u2019t brown evenly. I\u2019ve tried different settings, and they don\u2019t seem to make much difference.  Also, the design looked nice at first, but it\u2019s hard to clean! Crumbs get stuck in hard to reach areas.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this toaster but it's just okay. Looks nice on my counter, but it doesn't toast evenly. Sometimes my bread comes out burnt on one side and barely golden on the other. Really frustrating when you're in a hurry. The dials are a bit confusing too. I think I adjust them correctly, but results are still hit or miss. Plus, it takes longer than it should to pop up. I expected better for the price. I'm gonna keep using it for now, but",
+            "language": "English"
+        }
+    ]
+}

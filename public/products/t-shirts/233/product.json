@@ -1,0 +1,33 @@
+{
+    "nr": "233",
+    "name": "ThreadAlchemy Tees",
+    "price": "1999",
+    "ranking": 2,
+    "availability": 6,
+    "description": "Unleash your creativity and elevate your everyday wardrobe with our remarkable collection of imaginative tees. Each piece is designed to fuse comfort with style, crafted with a breathable, ultra-soft fabric that ensures you feel as great as you look. Perfect for casual outings, lounging at home, or a spontaneous adventure, these t-shirts promise versatility that fits every facet of your life.\n\nOur exclusive designs are inspired by art, nature, and the vibrant essence of everyday moments. With vivid colors and unique graphics, these tees are conversation starters that reflect your personality and passions. Say goodbye to generic apparel and step into a world where every shirt tells a story, allowing you to express yourself effortlessly and turn heads wherever you go.\n\nBut it doesn't end there; our signature construction means",
+    "images": [
+        "product_233_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like these tees. They look nice on the website, but when I got them, they just didn\u2019t live up to expectations. The fabric feels kinda cheap, and honestly, it's not as soft as I hoped. After one wash, I noticed some fading and a few loose threads. The fit is also off\u2014it's snug in awkward places and baggy where it shouldn\u2019t be. Plus, I don\u2019t think it breathes well at all; I felt super hot while wearing",
+            "language": "English"
+        },
+        {
+            "review": "Comprei essas camisetas achando que seriam modernas e confort\u00e1veis, mas me decepcionei. O tecido \u00e9 muito fino e parece que n\u00e3o vai durar muito. Al\u00e9m disso, a estampa desbotou na primeira lavagem, o que \u00e9 bem frustrante. O tamanho n\u00e3o condiz com o que estava na tabela, comprei um M e ficou bem justo, que \u00e9 um pouco estranho. No geral, n\u00e3o gostei muito. Esperava mais, vale a pena demorar mais buscando",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I was really excited to try these tees, but they just didn't live up to the hype. The fabric feels cheap and sort of stiff, definitely not soft like I expected. The sizing is kinda off too\u2014I ordered a large and it fits more like a medium. Had to return it because it was tight around the shoulders. Also, they\u2019re not holding up well after a couple of washes; started to pill up which is super disappointing. I thought I was getting a good deal, but I feel",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these tees, but sadly they just don't live up to the hype. The fabric feels kinda cheap, not as soft as I expected. After a couple of washes, I noticed some fading and pilling, which is super disappointing. The fit is okay but doesn't seem to hold its shape after wearing. The colors are nice, but that doesn't make up for the overall feel. I guess they're decent for a casual day around the house, but I wouldn't buy them again. Two",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these tees, but honestly, they're just okay. The fabric feels a bit cheap, almost scratchy on the skin. I expected something softer and more comfortable, but it's just not there. The fit is also kinda weird; it\u2019s too loose in some areas and tight in others, so I can\u2019t even wear it out casually. I tried washing it hoping for some miracle, but it still feels off. The colors look nice in the pictures, but they faded after just",
+            "language": "English"
+        }
+    ]
+}

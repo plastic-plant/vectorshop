@@ -1,0 +1,21 @@
+{
+    "nr": "566",
+    "name": "LunaShade Visors",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 10,
+    "description": "Elevate your sun protection game with the ultimate blend of style and functionality. Meet your new go-to accessory, designed for the modern individual who wants to embrace the sun without compromise. These revolutionary visors deliver not only stunning aesthetics but also superior comfort and UV protection, making them perfect for beach days, outdoor adventures, or simply lounging by the pool. Say goodbye to squinting and hello to an effortless sunny vibe!\n\nCrafted with cutting-edge materials, these visors are lightweight yet sturdy, providing a snug fit that feels as good as it looks. Featuring polarized lenses that block harmful UV rays while enhancing visual clarity, you'll enjoy vibrant colors and crisp details in every environment. Plus, the adjustable band ensures a perfect fit for everyone, allowing you to",
+    "images": [
+        "product_566_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Absolutely love these visors! They've completely changed my outdoor experience. The fit is so comfortable, and I can wear them for hours without any irritation. The visual clarity is outstanding! Whether I'm at the beach or hiking, they cut out glare and let me see everything perfectly. Plus, the stylish design really catches compliments. I especially appreciate how lightweight they are, making them easy to carry around. I just pop them in my bag and I'm good to go. Definitely a must-have for anyone who loves",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with these visors! From the moment I tried them on, I could tell they were a game changer. The design is sleek and modern, and they fit perfectly without slipping or pinching. I\u2019ve worn them on sunny beach days and they\u2019re so effective at blocking out harsh glare\u2014I can finally see clearly without squinting!\n\nWhat really impresses me is how lightweight they feel. I\u2019ve worn them for hours and completely forget I have them on. The comfort is",
+            "language": "English"
+        }
+    ]
+}

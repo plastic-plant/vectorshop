@@ -1,0 +1,33 @@
+{
+    "nr": "400",
+    "name": "ToastAlchemy",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 20,
+    "description": "Transform your mornings with a touch of magic and craftsmanship, thanks to this innovative toaster that brings a new dimension to your breakfast routine. Designed for those who crave both style and functionality, this sleek appliance effortlessly combines cutting-edge technology with an elegant aesthetic, ensuring your kitchen looks as good as your perfectly toasted bread.\n\nImagine waking up to the delightful and enticing aroma of freshly toasted bread, customized to your desired level of crispiness. With its intuitive browning control dial, this toaster lets you achieve everything from lightly golden slices to expertly browned masterpieces, all at the turn of a knob. Featuring multiple toasting functions, including bagel, defrost, and reheat settings, you'll find the perfect solution for any bread or pastry of your choice, whether it\u2019s",
+    "images": [
+        "product_400_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "This toaster is a total waste of money. I can't believe how bad it is. First, it burns my bread on the outside and leaves it cold on the inside. Like, what\u2019s up with that? The buttons stick and I have to press them multiple times to make it work. Also super slow. Takes forever just to toast. I just don\u2019t get it. Maybe I got a faulty one, but honestly, I think it's just junk. Save your cash and get something else!",
+            "language": "English"
+        },
+        {
+            "review": "This toaster is completely useless. Burns everything I put in it no matter what setting I use. It's like it's possessed or something. I tried bread, bagels, even frozen waffles, and they're all just charred scraps when I pull them out. Plus, it takes forever to even start toasting. I've owned cheap ones before and they worked way better than this junk. Don't waste your money, trust me. I\u2019m going back to my old one that did the job right. 1 star",
+            "language": "English"
+        },
+        {
+            "review": "i can't believe i wasted my money on this toaster. it burns the bread, like literally it's on fire after a minute. called \"alchemy\" but it turns breakfast into a disaster. there's no way to adjust it properly, settings are all messed up. even when i tried a light toast, it ended up looking like charcoal. seriously disappointed, wish i could give it zero stars. save your cash, folks.",
+            "language": "English"
+        },
+        {
+            "review": "vraiment d\u00e9\u00e7u par ce grille-pain... d\u00e9j\u00e0 il grille pas !!! on met le pain et \u00e7a fait juste du bruit, rien de dor\u00e9, tout mou. les boutons sont bizarres et la musique de demarrage c est pas utile ! \u00e7a colle toute les miettes, impossible \u00e0 nettoyer. j aurais mieux fait d'acheter une autre marque, je le recommande pas du tout. perte d'argent!!!",
+            "language": "French"
+        },
+        {
+            "review": "Totally disappointing. This toaster is bad. It burns my bread even on low settings and only works half the time. I have to restart it like 3 times just to get it to even toast. So frustrated. The crumb tray doesn\u2019t even fit right and just falls out. Totally not worth the money. Don\u2019t waste your time or dough on this!",
+            "language": "English"
+        }
+    ]
+}

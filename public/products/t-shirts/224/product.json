@@ -1,0 +1,25 @@
+{
+    "nr": "224",
+    "name": "Threaded Dreams",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 7,
+    "description": "Embrace the magic of comfort and style with our latest must-have in every wardrobe. This revolutionary t-shirt is more than just an article of clothing; it\u2019s an experience wrapped in soft, breathable fabric that feels like a gentle hug against your skin. Designed for ultimate versatility, it transitions effortlessly from casual daytime outings to cozy evenings at home, allowing you to express your unique personality wherever you go.\n\nCrafted with a lightweight, premium cotton blend, this tee offers all-day comfort while maintaining its shape and durability wash after wash. Our innovative moisture-wicking technology ensures that you stay cool and dry, whether you're navigating your daily hustle or dancing the night away. Plus, its relaxed fit celebrates all body types, making it a go-to choice for everyone seeking",
+    "images": [
+        "product_224_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for these t-shirts, but honestly, they've been a letdown. The fabric feels kind of rough, not soft like I expected. After just a few washes, I noticed some stitching coming undone, which is really disappointing. The design looks great at first but starts to fade pretty quickly. It\u2019s a shame because the idea was nice. Sizing runs a bit small too. I\u2019d look elsewhere before buying again.",
+            "language": "English"
+        },
+        {
+            "review": "Compr\u00e9 un par de camisetas y la verdad no son lo que esperaba. La calidad del material se siente un poco barata y no son muy c\u00f3modas. Tras unos lavados, ya se ven un poco gastadas y los colores han perdido intensidad. Adem\u00e1s, la talla no es muy fiel; son un poco m\u00e1s peque\u00f1as. El dise\u00f1o es bonito, pero la verdad no justifica lo que pagu\u00e9. No estoy completamente decepcionado, pero no creo que vuelva a comprar de nuevo.",
+            "language": "Spanish"
+        },
+        {
+            "review": "I really wanted to like this t-shirt, but it's just okay. The design looked amazing online, but when I got it, the print wasn't sharp at all\u2014kind of blurry, which was disappointing. The fabric feels a bit cheap, not soft like I expected. The fit is also weird, it's either too tight or too loose in places. I wish it was more flattering, honestly. Probably wouldn\u2019t recommend it unless you\u2019re really into the print or something. Overall, just kinda mediocre.",
+            "language": "English"
+        }
+    ]
+}

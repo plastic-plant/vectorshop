@@ -1,0 +1,32 @@
+{
+    "nr": "29",
+    "name": "Toastopia Artisan Toaster",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 13,
+    "description": "Transform your breakfast experience with the unparalleled precision of the premium toaster that's setting a new standard in the kitchen. Equipped with a state-of-the-art browning control feature, each slice of bread is toasted to perfection according to your personal preference. Whether you crave the golden crispiness of lightly toasted sourdough or the deep, rich warmth of a well-done bagel, this extraordinary appliance guarantees consistency and excellence with every use.\n\nBut it\u2019s not just about performance; it\u2019s about versatility too. The ingenious multi-function features allow you to defrost frozen bread, reheat your favorite pastries, and even enjoy bagels with optimal heating on one side and a perfectly toasted crust on the other. Say goodbye to single-purpose appliances cluttering your countertop! From",
+    "images": [
+        "product_29_01.png",
+        "product_29_02.png",
+        "product_29_03.png",
+        "product_29_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "When I first got this toaster, I was super excited. It looks really nice and seems fancy, but honestly, it's just okay. Sometimes the toast comes out great, but other times it\u2019s either too burnt or barely warmed up. The knobs and settings can be a bit confusing, you know? Took me a few tries to figure out the best combo. \n\nAlso, it doesn\u2019t fit all types of bread well, which is a pain if you have thick slices. Cleaning is a hassle too",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for this toaster, but I found it to be just okay. It\u2019s nice to look at, with a modern design, but that\u2019s really where the excitement ends. Sometimes the toast comes out perfectly, but other times it burns even on the lowest setting. The uneven toasting is a real letdown. \n\nThe features are a bit gimmicky too. The bagel setting does improve things, but it doesn't seem to make much difference for regular bread. And the crumb tray",
+            "language": "English"
+        },
+        {
+            "review": "I was pretty excited to try this toaster after hearing some decent feedback, but I have to say it left me feeling just okay. It does toast bread, which is nice, but it takes longer than my old one. Sometimes I have to keep hitting the lever because it pops up too early. The extra settings for different types of bread are a nice touch, but honestly, they don\u2019t seem to really make much of a difference.\n\nIt looks sleek and modern on my counter, and the different colors",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, it\u2019s kinda a mixed bag. The design is sleek and looks great on my counter, but it doesn\u2019t always toast evenly. Sometimes I get one side a little burnt while the other is barely done. It's a real bummer when you have to keep flipping the bread and checking on it. The settings feel a bit off too; like, I might expect a darker toast on 4, but it\u2019s more of a light golden. Plus, it doesn't toast bagels very well \u2014",
+            "language": "English"
+        }
+    ]
+}

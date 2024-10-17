@@ -1,0 +1,33 @@
+{
+    "nr": "709",
+    "name": "ToastMaster Pro 3000",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 19,
+    "description": "Introducing the ultimate breakfast companion, the revolutionary T-Master 3000. This state-of-the-art toaster transforms the mundane ritual of toasting into a gourmet experience, allowing you to indulge in perfectly golden, crisp slices of bread every single time. With its sleek design and intuitive interface, the T-Master 3000 seamlessly blends into any kitchen d\u00e9cor while capturing the attention of your family and guests.\n\nEquipped with advanced Smart Toast Technology, this remarkable appliance features precision browning controls that deliver customized crispness at the touch of a button. Whether you prefer a light, delicate toast or a deep, rich crunch, the T-Master 3000 caters to your taste exactly. Say goodbye to uneven toasting and hello to consistently impeccable results, all",
+    "images": [
+        "product_709_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for this toaster, but it\u2019s really not living up to expectations. First off, it takes way too long to toast bread, and even then, it seems to burn it in spots. I\u2019ve tried all the settings, but nothing seems to work effectively. The crumb tray is a hassle to remove, and it doesn\u2019t catch all the crumbs anyway, so my counter ends up messy.\n\nAlso, the design is kind of cheap-looking; the shiny finish shows every smudge and",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like this toaster, but I\u2019m kinda disappointed. It looks nice and all, but it doesn\u2019t toast evenly. Sometimes the outside is burnt while the inside is still cold. Plus, the settings are confusing. I\u2019ve tried different levels, but I\u2019m always either underdone or charred. It also takes forever to toast, which is just not what I expected. The size is good, though\u2014it fits nice on the counter. Overall, while it has some nice features,",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love this toaster, but it just doesn\u2019t deliver on what I expected. It looks nice and all, but when it comes to toasting, it's super inconsistent. I often end up with burnt edges while the middle is still cold. Plus, it sometimes takes two rounds to get my bread golden brown. The settings seem confusing, and I wish the buttons were more intuitive. Another thing, it sounds a bit loud when in use, and that gets really annoying if I'm prepping breakfast",
+            "language": "English"
+        },
+        {
+            "review": "Ik heb dit toestel een paar weken geprobeerd en moet zeggen dat ik teleurgesteld ben. Het is niet zo gebruiksvriendelijk als ik had gehoopt. Soms duurt het heel lang om mijn brood te toasten, en dan is het weer niet gelijkmatig. Een kant is vaak bruin en de andere kant bijna niet. Ook is het moeilijk om te weten welke instellingen je moet gebruiken, omdat de beschrijving niet echt helpt. Vaak moet ik het twee keer opnieuw doen voor goed resultaat.",
+            "language": "Dutch"
+        },
+        {
+            "review": "I've had high hopes for this toaster but honestly, I\u2019m pretty disappointed. It claims to be some high-tech model, but all I\u2019ve gotten are undercooked slices half the time and charred ones the other. The settings are super confusing\u2014what's the point of having a dial if it doesn\u2019t even seem to work right? It just burns things! Plus, the crumb tray design is lame; it doesn\u2019t catch crumbs like it should. Also, not a fan of how it looks",
+            "language": "English"
+        }
+    ]
+}

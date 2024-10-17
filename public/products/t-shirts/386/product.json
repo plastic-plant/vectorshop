@@ -1,0 +1,33 @@
+{
+    "nr": "386",
+    "name": "Threaded Dreams",
+    "price": "1999",
+    "ranking": 5,
+    "availability": 24,
+    "description": "Unleash your creativity and express your individuality with our extraordinary collection of soft, breathable tees designed to take comfort and style to the next level. Crafted from 100% organic cotton, each piece offers an ultra-smooth finish that feels as good as it looks. With a lightweight fabric that gently embraces your skin, you'll experience a cozy fit perfect for lounging at home, running errands, or heading out for a casual night with friends. \n\nBut it\u2019s not just about comfort\u2014the thoughtful design features a relaxed, modern cut that flatters every body type. Each t-shirt is tailored with a timeless silhouette, ensuring you look effortlessly chic regardless of the occasion. Choose from an exclusive range of vibrant colors and eye-catching patterns, each telling its own story.",
+    "images": [
+        "product_386_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I am absolutely in love with these t-shirts! From the moment I slipped one on, I could feel the incredible softness of the fabric against my skin. The fit is perfect\u2014not too tight, not too loose\u2014making it super comfortable for all day wear. I\u2019ve worn it to the gym, relaxing at home, and even out with friends, and it always looks fabulous!\n\nThe variety of colors and designs is impressive; I\u2019ve already stocked up on different styles. They wash like a dream too",
+            "language": "English"
+        },
+        {
+            "review": "Absolutely love these t-shirts! The fabric is super soft and breathable, perfect for everyday wear. I\u2019ve tried a few other brands, but none compare to the comfort and fit of these. They hug the body just right without being too tight, and the colors are vibrant and haven't faded even after several washes. I wore one to a casual outing, and I received so many compliments! The designs are trendy yet timeless \u2013 there\u2019s a style for every mood. Overall, my wardrobe just got a major",
+            "language": "English"
+        },
+        {
+            "review": "I recently purchased a few t-shirts from this brand, and I am absolutely in love with them! The fabric is super soft and comfy, making them perfect for all-day wear. They fit just right, not too tight or loose, and the colors are vibrant and haven't faded after several washes. \n\nI really appreciate the unique designs\u2014they're stylish without being over the top, and I've gotten so many compliments already! Whether I'm lounging at home or going out with friends, these shirts are my first choice",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely in love with this t-shirt! The fabric is incredibly soft, making it perfect for all-day wear. Not only does it feel great against my skin, but it also drapes beautifully, which gives me a nice, flattering fit. The colors are vibrant and haven\u2019t faded at all after several washes. I was worried about it shrinking, but it stayed true to size! I've gotten so many compliments lately. It's the perfect blend of comfort and style, and I can't get enough of",
+            "language": "English"
+        },
+        {
+            "review": "J'adore vraiment ces t-shirts ! La qualit\u00e9 est exceptionnelle, le tissu est doux et agr\u00e9able sur la peau. J'aime la fa\u00e7on dont ils s'ajustent; c'est \u00e0 la fois d\u00e9contract\u00e9 et chic. Les couleurs sont vives et restent bien apr\u00e8s plusieurs lavages, ce qui est rare. J'ai re\u00e7u de nombreux compliments en les portant, et je me sens \u00e0 l'aise toute la journ\u00e9e. La coupe est parfaite et j'appr\u00e9cie les petits d\u00e9tails dans le design.",
+            "language": "French"
+        }
+    ]
+}

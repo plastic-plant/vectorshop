@@ -1,0 +1,33 @@
+{
+    "nr": "444",
+    "name": "\"Threaded Dreams\"",
+    "price": "1999",
+    "ranking": 1,
+    "availability": 15,
+    "description": "Unveil the magic of comfort with our latest collection of soft, breathable tees designed to elevate your everyday wardrobe. Crafted with a luxurious blend of top-quality cotton and innovative materials, these shirts are not just clothing; they're an experience. Imagine slipping into your favorite shirt that feels as good as a gentle hug, wrapping you in cozy softness while effortlessly flaunting your unique style. Say goodbye to stiff fabrics and hello to a world where relaxation meets chic fashion.\n\nEach piece features a uniquely curated range of colors and prints, ensuring that you can express your personality on any occasion. Whether you\u2019re lounging at home, heading out for coffee with friends, or layering under your favorite jacket for a night out, this versatile piece has got you covered. The tailored fit hugs",
+    "images": [
+        "product_444_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I\u2019m really disappointed. T-shirt quality is poor. It shrank after one wash and the print faded fast. The colors look nothing like showed in the pics. Sizing was way off too, super tight in places. Construction feels cheap, like it\u2019ll rip any moment. Not worth the money at all. Would not recommend.",
+            "language": "English"
+        },
+        {
+            "review": "Pessimo!!!! Essa camiseta eh um lixo total!!! Caiu fibra depois da primeira lavagem. O tamanho \u00e9 estranho, parece que fui comprando pra um gigante. Lasca a pele, desagradavel demais... nunca mais. N\u00e3o recomendo pra ninguem. Economize seu dinheiro!",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I was really disappointed with this shirt. It fell apart after one wash!! The fabric feels cheap and scratchy, not soft at all. I can\u2019t believe I spent money on this. The fit is terrible too, I ordered my size and it\u2019s way too small. The colors look washed out like they already faded. I wouldn't recommend it to anyone. save your money!",
+            "language": "English"
+        },
+        {
+            "review": "Wow, what a let down. I was really excited to get my t-shirt but it feels cheap and scratchy. The print looks bad too, like it\u2019ll just wash off in a few uses. Sizing is totally off, super small even though I ordered my usual size. Wasted my money on this\ud83d\ude21. Definitely not buying again. Save your cash!",
+            "language": "English"
+        },
+        {
+            "review": "I bought these shirts expecting some quality, but they were a total letdown. The material feels cheap and rough on the skin. After one wash, they shrunk wya too much and now they are almost unwearable. I also found a few loose threads hanging off. The colors are nothing like the pics either, kinda dull and lifeless. Don\u2019t waste your money on these, seriously.",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "nr": "601",
+    "name": "ToastAlchemy 360",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 9,
+    "description": "Transform your breakfast experience with the revolutionary toaster that redefines what it means to enjoy perfectly crisped bread. This state-of-the-art appliance features an intelligent multi-sensor technology that tailors toasting time based on the moisture content of your bread, ensuring golden-brown perfection every single time. Say goodbye to burnt slices and the dilemma of under-toasted bread\u2014it\u2019s time to embrace the future of toasting.\n\nEquipped with a sleek, compact design and a high-resolution touchscreen interface, this innovative device allows you to customize your toasting preferences with just a tap. Whether you prefer a light shade for your artisan sourdough or a deep, crunchy finish for your bagels, it remembers your settings to ensure that each morning starts just the way you",
+    "images": [
+        "product_601_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this toaster for a few months now, and it's been pretty nice overall! The design is sleek, which fits perfectly in my kitchen aesthetic. I love that it has multiple settings; from bagels to regular bread, it handles everything pretty well, and toasting time is quick but precise. \n\nOne feature I really appreciate is the defrost setting. It\u2019s super handy for those mornings when I forget to take the bread out of the freezer. Also, the crumb tray is really easy",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on this toaster and I have to say, it's pretty impressive overall. The design is sleek and modern; it really fits with my kitchen aesthetic. The standout feature is how quickly it heats up. You don\u2019t have to wait forever for breakfast, and it toasts evenly, which I really appreciate.\n\nThe different settings are user-friendly and offer a decent range for various types of bread. I\u2019ve tried bagels, toast, and even frozen waffles, and they all come out",
+            "language": "English"
+        },
+        {
+            "review": "Estou muito satisfeito com o meu novo tostador! Ele trabalha super bem, faz torradas bem douradinhas e crocantes em pouco tempo. O design \u00e9 moderno e combina com a decora\u00e7\u00e3o da minha cozinha, o que \u00e9 um b\u00f4nus. \n\nEle tem v\u00e1rias configura\u00e7\u00f5es de temperatura, ent\u00e3o posso fazer torradas no ponto exato que eu gosto. Quando fiz p\u00e3o integral, fiquei impressionado com a uniformidade da torrada. \u00c0s vezes, ele fica um pouco ruidoso,",
+            "language": "Portuguese"
+        },
+        {
+            "review": "I recently started using this toaster and I gotta say, it's pretty impressive! The sleek design fits right in with my kitchen decor, and it has all these cool features. The toast settings let me experiment with different shades of browning, which is great because I like my toast just a lil\u2019 crispy. \n\nIt also has a bagel setting,,,?! It's perfect for weekend mornings when I'm feeling fancy. It toasts everything evenly, too \u2013 no cold spots. Cleanup is a breeze with the removable",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks now, and it's pretty solid! I love how it looks on my counter\u2014modern and sleek. Thedifferent browning settings allow for a nice range of toast styles, from light to nice and crunchy. I really appreciate the extra-wide slots; I can easily get bagels in without squeezing. \n\nSometimes it does take a second longer to toast than expected, but nothing major. The crumb tray is easy to remove, which makes cleanup a breeze. Overall",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "nr": "89",
+    "name": "Thread Voyager",
+    "price": "2499",
+    "ranking": 1,
+    "availability": 1,
+    "description": "Elevate your everyday style with our latest innovation in casual wear, a t-shirt that transcends the ordinary. Crafted with the modern adventurer in mind, this exceptional garment offers a blend of comfort, durability, and versatility that will become an essential part of your wardrobe. Whether you're lounging at home, hitting the trails, or heading out for a night on the town, this t-shirt adapts effortlessly to your lifestyle.\n\nConstructed from a luxe, breathable fabric, this tee provides an unrivaled softness against your skin while ensuring all-day comfort. The moisture-wicking technology keeps you feeling fresh, even on the warmest days. With its tailored fit, it flatters all body types, giving you that polished appearance without sacrificing ease. Plus, the",
+    "images": [
+        "product_89_01.png",
+        "product_89_02.png",
+        "product_89_03.png",
+        "product_89_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "This t-shirt is just horrible. The sizing is way off. I ordered a medium and it\u2019s like a small. Fabric feels cheap and scratchy, I thought it would be soft based on the pics. I wore it once and there\u2019s already pilling all over. The colors faded after one wash, looked so bad I almost threw it out. I really can\u2019t recommend this to anyone. Wasted my money.",
+            "language": "English"
+        },
+        {
+            "review": "actually really disappointed with this. the t-shirt shrunk in the wash after just one time and the print looks all faded now. fabric feels kinda cheap too like it\u2019ll rip super easy. not worth the money at all honestly. wouldn\u2019t recommend. save your cash for something better.",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these t-shirts but wow, what a letdown. The fabric feels cheap, like it's going to rip after one wash. The sizing is off too, it\u2019s either too tight or way too loose. I tried wearing one, and I've never been so uncomfortable. Plus, the colors faded after the first laundry. Seriously, I don\u2019t get how anyone could like these. Waste of money for sure. Never again.",
+            "language": "English"
+        },
+        {
+            "review": "I was really excited to try these t-shirts, but they turned out to be a total disappointment. The material feels cheap and scratchy against my skin. After just one wash, the color faded so bad it looks like it's from a thrift store. The fit is all wrong, way too tight in some places and super loose in others. Not even worth the money I spent. I wouldn't recommend these to anyone. Save your time and cash!",
+            "language": "English"
+        },
+        {
+            "review": "I really don\u2019t know what I was expecting but these are just bad. The fabric feels cheap and flimsy, like I\u2019m wearing a trash bag. After one wash the seams started to fray, and now there are little holes all over. Also, the fit is way off \u2013 too tight in some places, and way too loose in others. Not even comfortable to wear around the house. Very disappointed. Def not worth the money I spent. Save your cash people!",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "673",
+    "name": "LuxeShade Visionary",
+    "price": "5999",
+    "ranking": 3,
+    "availability": 16,
+    "description": "Elevate your eyewear game with our latest innovation in sun protection and style \u2013 the ultimate fusion of fashion and function. Crafted for the discerning individual who demands both luxury and practicality, these sunglasses redefine what it means to experience the outdoors. Featuring state-of-the-art UV-blocking technology, you can step into the sun with absolute confidence, knowing your eyes are shielded from harmful rays while you exude an aura of sophistication.\n\nEach pair boasts polarized lenses that eliminate glare, ensuring crystal-clear vision whether you're navigating sun-drenched streets or lounging by the pool. The lightweight, durable frame conforms comfortably to your face, offering a tailored fit that will last from morning coffee to evening escapades. Plus, with a variety of chic color options and stylish designs",
+    "images": [
+        "product_673_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently picked up these sunglasses, and I have mixed feelings about them. On one hand, they look really stylish and trendy, which is great for just hanging out or when I want to feel a bit fancy. The frame is lightweight, which is nice since I don\u2019t like heavy stuff on my face. However, they don\u2019t quite block the sunlight as well as I hoped. When it's really bright outside, I still end up squinting.\n\nAlso, I noticed they tend to smudge",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these sunglasses for a few weeks now, and honestly, they're just okay. The design looks nice and they do provide some UV protection, but the fit isn't that great for me. They slide down my nose pretty often, which is a little annoying when I'm trying to enjoy a day outside.\n\nThe lenses have decent clarity, but they're not as polarized as I expected. I find myself squinting in bright sunlight because they don't block glare as well as others I\u2019ve had. Plus,",
+            "language": "English"
+        },
+        {
+            "review": "I recently got these sunglasses hoping for something stylish and effective, but I'm a bit torn. They have a nice look\u2014sleek and modern which is great for going out. The lenses do give decent UV protection too, which is a big plus. \n\nHowever, I'm not a huge fan of the fit. They were a little loose on my face, sliding down too easily, which was annoying. Plus, they fog up pretty quickly if I step outside on a warm day right after being inside.",
+            "language": "English"
+        },
+        {
+            "review": "Me esperaba m\u00e1s de estas gafas. La calidad de los materiales se siente un poco barata para el precio. Los lentes son decentes, pero no son tan oscuros como pensaba. La comodidad es promedio, a veces me aprietan un poco en la cabeza. El dise\u00f1o es moderno y atractivo, lo cual es un plus, pero no s\u00e9 si justifica lo que cuesta. Hay mejores opciones por ah\u00ed. Puede que las use de vez en cuando, pero no son mis favoritas.",
+            "language": "Spanish"
+        }
+    ]
+}

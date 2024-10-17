@@ -1,0 +1,25 @@
+{
+    "nr": "134",
+    "name": "LumiShade Spectra",
+    "price": "4999",
+    "ranking": 4,
+    "availability": 16,
+    "description": "Experience a new level of eye protection and style with our cutting-edge sunglasses, designed to elevate your outdoor adventures and daily outings. The perfect blend of fashion and function, these shades feature advanced UV400 lenses that provide 100% protection against harmful UVA/UVB rays, ensuring your eyes are shielded while you soak up the sun. Whether you're lounging on the beach, hiking through scenic trails, or navigating through the city, stay confident knowing your vision is in safe hands.\n\nCrafted with a lightweight yet durable frame, these sunglasses promise all-day comfort without compromising on durability. The ergonomic design contours to your face for a snug fit, preventing any unwanted slippage during your most active moments. Available in a range of stunning colors, from chic torto",
+    "images": [
+        "product_134_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got these sunglasses, and overall, I'm quite impressed. The design is sleek and modern, which really stands out. The lenses are fantastic, providing a crisp view and great UV protection. I love the way they fit \u2013 snug but comfortable for long wear. \n\nMy only small issue is that they can get a bit heavy on the bridge of my nose after wearing them for a while, especially if I'm out all day. But, for the look and performance, I think it\u2019s worth it",
+            "language": "English"
+        },
+        {
+            "review": "I've been using these sunglasses for a couple of weeks now, and I have to say I'm pretty impressed! The lens colors are vibrant and definitely enhance my view, especially on bright days. They feel really lightweight, which is a plus when I'm out for extended periods. \n\nOne thing I love is the way they fit snugly without pinching. I can easily wear them for hours without discomfort. The polarized lenses make a noticeable difference when driving or at the beach\u2014no more squinting!",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these sunglasses and overall, I think they\u2019re a solid choice for everyday wear. The design is sleek and modern, and they sit comfortably on my face without slipping, even during long days out. The lens quality is pretty impressive\u2014definitely blocks out glare without distorting colors, which is a plus when you\u2019re out in the sun.\n\nI also appreciate that they're lightweight; sometimes I forget I\u2019m even wearing them. My only minor complaint is that the nose pads could be a little",
+            "language": "English"
+        }
+    ]
+}

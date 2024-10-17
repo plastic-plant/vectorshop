@@ -1,0 +1,31 @@
+{
+    "nr": "663",
+    "name": "\"Threaded Visions\"",
+    "price": "1999",
+    "ranking": 3,
+    "availability": 9,
+    "description": "Discover the perfect blend of comfort and expression with our latest collection of thoughtfully crafted tees. Made from an exclusive cotton-poly blend, these shirts offer a soft, breathable feel that ensures you stay comfortable whether you're lounging at home or out with friends. The lightweight fabric effortlessly drapes over your body, providing a flattering fit that flatters every silhouette. You'll never want to wear anything else once you experience the coziness and ease of this remarkable collection.\n\nDesigned for the bold and the imaginative, each tee is adorned with unique, eye-catching graphics that tell a story. From vibrant abstract art to minimalist quotes that inspire, every design acts as a canvas for creativity. The colors are rich and long-lasting, thanks to our state-of-the-art printing technology that ensures your",
+    "images": [
+        "product_663_01.png",
+        "product_663_02.png",
+        "product_663_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "Les t-shirts sont corrects mais pas incroyables. Le tissu est un peu fin et je m'attendais \u00e0 quelque chose de plus doux. Les motifs que je voulais \u00e9taient sympas, mais il y a eu quelques erreurs dans les dimensions. Pas trop d\u00e9\u00e7u mais je ne recommanderais pas forc\u00e9ment \u00e0 tout le monde. C'est un bon choix si vous cherchez quelque chose de simple, mais ne vous attendez pas \u00e0 la perfection.",
+            "language": "French"
+        },
+        {
+            "review": "The t-shirts are pretty decent, I guess. I ordered a couple because the designs looked cool but was kind of let down by the fit. The material feels alright, but after a few washes, they kinda shrank a bit. The colors are nice and all, and I love the graphic on the front, but they just aren\u2019t as comfy as I hoped. I really wanted to love them, but they\u2019re just okay. I would say if you\u2019re looking for something quick and casual,",
+            "language": "English"
+        },
+        {
+            "review": "I recently tried these t-shirts and honestly, they\u2019re just okay. The fabric feels nice at first, but after a few washes, they started to lose shape. I kinda expected them to hold up better. The designs are cool, lots of fun options, but the sizing is a bit weird. I usually wear a medium, but I had to go for a large to be comfortable. \n\nThey're comfortable enough for lounging around the house, but don't expect them to last too long or to be perfect",
+            "language": "English"
+        },
+        {
+            "review": "I bought these t-shirts expecting them to be really great, but they\u2019re just okay. The fabric feels a bit cheap, and after a few washes, they\u2019ve kind of lost their shape. The designs are nice, but some of them look faded already. Sizing is off too; I ordered a medium and it fits more like a small. They\u2019re comfy enough for lounging around the house, but I wouldn\u2019t rely on them for anything nicer. It\u2019s not the worst purchase I\u2019ve made",
+            "language": "English"
+        }
+    ]
+}

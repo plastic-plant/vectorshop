@@ -1,0 +1,33 @@
+{
+    "nr": "448",
+    "name": "Solaris Shades",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 3,
+    "description": "Discover the ultimate fusion of style and functionality with our chic new sunglasses, the perfect accessory for every sun-drenched adventure. Tailored for trendsetters and outdoor enthusiasts alike, these shades effortlessly elevate your look while providing unbeatable protection against harmful UV rays. Imagine yourself lounging at the beach, hiking through vibrant landscapes, or sipping coffee at a sunlit caf\u00e9, all while showcasing a design that radiates sophistication and confidence.\n\nFeaturing premium polarized lenses, you\u2019ll experience a remarkable reduction in glare, ensuring crystal-clear vision regardless of your surroundings. Each pair is meticulously crafted with lightweight yet durable materials, offering a combination of comfort and resilience that keeps up with your active lifestyle. The flexible frames gently contour to your face, allowing for all-day wear without pressure points",
+    "images": [
+        "product_448_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using these shades for a few weeks and honestly, I'm not super impressed. The tint is decent, but the clarity just isn\u2019t there. They feel kinda flimsy too, like I could break them just by grabbing the wrong way. Also, they don't sit well on my face, which is a real bummer when you're trying to enjoy the sun. The style is alright but with all the other issues, it just doesn\u2019t make up for it. Overall, they do what they need",
+            "language": "English"
+        },
+        {
+            "review": "I was really looking forward to using these shades, but honestly, they just didn't live up to expectations. The design seemed great at first, but after a few hours, they started feeling heavy and uncomfortable on my face. I also noticed that the lenses don't really block out the glare as well as I hoped. Outdoors, it's still kinda hard to see with bright sunlight. \n\nThe fit is off; they slide down my nose a lot, which is super annoying. Plus, the colors looked way better",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these sunglasses, but honestly, they didn't live up to the hype. The style is okay, but they just feel kinda flimsy \u2013 like they could break if I drop them. The lenses aren't as dark as I expected, so on really sunny days, it's like wearing regular glasses. Also, they don't fit very well; they slide down my nose a lot. It\u2019s never a good look when you have to keep pushing them back up. For the price, I thought",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to like these sunglasses, but honestly, they just didn\u2019t live up to my expectations. The design looked cool at first, but they quickly felt heavy on my face. The lenses don\u2019t provide the level of glare reduction I hoped for, making it hard to see on bright days. Plus, they\u2019ve already started to scratch after just a few weeks of use. I guess you get what you pay for. I thought I'd be getting something a bit more durable\u2014was a bit disappointed",
+            "language": "English"
+        },
+        {
+            "review": "Honestly, I had high hopes for these sunglasses, but they really didn\u2019t do it for me. The lenses are kinda dark, but not in a good way. It's hard to see things clearly, which defeats the whole purpose, right? & I expected them to block UV rays but somehow, my eyes feel strained after wearing them, and I can\u2019t say I feel protected at all. \n\nAlso, the fit is just weird. They slip off my face too easily, even when I\u2019m just",
+            "language": "English"
+        }
+    ]
+}

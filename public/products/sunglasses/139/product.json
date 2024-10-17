@@ -1,0 +1,21 @@
+{
+    "nr": "139",
+    "name": "LumeShade",
+    "price": "2499",
+    "ranking": 5,
+    "availability": 14,
+    "description": "Step into a world where functionality meets style with our revolutionary eyewear, designed to elevate your outdoor experiences while providing unparalleled protection. Meet the ultimate companion for sun-soaked adventures, whether you're lounging by the pool or navigating city streets - a perfect blend of innovation and chic aesthetics. With its lightweight design and sophisticated frame, this sleek pair of shades effortlessly transitions from casual outings to upscale events, making it a must-have accessory for every fashion-savvy individual.\n\nWhat sets these shades apart is their state-of-the-art adaptive lens technology, which dynamically adjusts to light conditions. Say goodbye to squinting in bright sunlight and hello to crystal-clear vision, even in fluctuating environments. Enjoy the confidence of a UV400 protective coating, ensuring that your eyes are shield",
+    "images": [
+        "product_139_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Absolutely amazed by these sunglasses! The moment I put them on, I felt like I was in a whole new world. Super lightweight yet sturdy \u2013 it's like I\u2019m not wearing anything at all! The lenses are so clear, and they block out that glaring sun perfectly. Plus, the style is just on point. I got compliments everywhere I went!\n\nI've used them for beach days, hikes, and even just running errands, and they never disappoint. The fit is perfect, and they don\u2019t slip",
+            "language": "English"
+        },
+        {
+            "review": "I recently got my hands on these innovative sunglasses, and I\u2019m absolutely in love! The design is sleek and modern, making them the perfect accessory for any outfit. They fit like a dream\u2014super comfortable, and I can wear them for hours without feeling any pressure on my nose or ears.\n\nWhat really wowed me is the unique feature that allows you to adjust the level of tint with just a simple touch. Whether I\u2019m lounging at the beach or going for a bike ride, I can customize",
+            "language": "English"
+        }
+    ]
+}

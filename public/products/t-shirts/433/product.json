@@ -1,0 +1,25 @@
+{
+    "nr": "433",
+    "name": "ThreadVibe Tees",
+    "price": "2499",
+    "ranking": 4,
+    "availability": 2,
+    "description": "Elevate your casual wardrobe with our latest collection of premium tees, designed for those who crave comfort without sacrificing style. Crafted from an ultra-soft, breathable fabric, these shirts provide an unparalleled wearing experience that feels like a gentle hug against your skin. With the perfect blend of cotton and a hint of stretch, you'll find it effortlessly moves with you, whether you're lounging at home, hitting the gym, or out on the town.\n\nEach tee is meticulously tailored for a modern fit, ensuring you look sharp while enjoying total comfort. The lightweight fabric drapes beautifully, while the expertly constructed neckline and sleeves create a polished and refined silhouette. Available in an array of rich, vibrant colors and eye-catching prints, you can effortlessly express your personality and mood on any occasion",
+    "images": [
+        "product_433_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently got a few of these tees, and overall, I\u2019m pretty happy with them! The material feels soft and light, which is great for everyday wear. I appreciate the variety of colors and designs \u2014 they really make it easy to match with anything in my closet. \n\nFit-wise, they\u2019re comfortable without being too tight, but I will say they did shrink a little after the first wash. Not a huge deal, but something to keep in mind if you like a looser fit.",
+            "language": "English"
+        },
+        {
+            "review": "I recently got a few tees from this brand, and I have to say I\u2019m pretty impressed! The fabric feels soft and breathable, which is perfect for the spring weather. I\u2019ve worn them for casual outings and even lounging around at home. The fit is just right\u2014not too tight, not too loose. They drape nicely on the body, and I really appreciate the variety of colors. \n\nThe only downside is that after a couple of washes, they\u2019ve started to lose a bit of their",
+            "language": "English"
+        },
+        {
+            "review": "J'ai essay\u00e9 ces t-shirts r\u00e9cemment et j'aime beaucoup le style qu'ils ont. La mati\u00e8re est douce et agr\u00e9ablement l\u00e9g\u00e8re, id\u00e9ale pour les journ\u00e9es chaudes. Les designs sont modernes et color\u00e9s, ce qui les rend faciles \u00e0 assortir avec d'autres v\u00eatements.\n\nCependant, il y a quelques petites choses qui pourraient \u00eatre am\u00e9lior\u00e9es. La taille est un peu limit\u00e9e, ce qui peut rendre difficile de trouver la bonne fit. Puis, apr\u00e8s quelques lavages, j'ai remarqu\u00e9 que les couleurs",
+            "language": "French"
+        }
+    ]
+}

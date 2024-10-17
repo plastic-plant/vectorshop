@@ -1,0 +1,32 @@
+{
+    "nr": "81",
+    "name": "CrispAura Toaster",
+    "price": "4999",
+    "ranking": 5,
+    "availability": 13,
+    "description": "Transform your breakfast routine with the ultimate kitchen companion designed for perfectionists and casual foodies alike. Our latest innovation delivers a sublime toast experience, featuring a state-of-the-art heating element that ensures every slice is toasted to golden-brown perfection. With customizable settings tailored to your preferences, you can effortlessly achieve that perfect crunch whether you're in the mood for a soft bagel or a crispy artisan loaf.\n\nImagine starting each day with the delightful aroma of freshly toasted bread wafting through your kitchen. This powerhouse comes equipped with an advanced browning control system, allowing you to dial in your preferred level of toastiness. Choose from six precise settings that guarantee consistency, so you can enjoy your breakfast just the way you like it, time after time. Plus,",
+    "images": [
+        "product_81_01.png",
+        "product_81_02.png",
+        "product_81_03.png",
+        "product_81_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ich bin absolut begeistert von diesem Toaster! Er sieht nicht nur stylisch aus, sondern toastet das Brot perfekt. Jeder Toast kommt goldbraun und knusprig heraus \u2013 genau so, wie ich es mag! Die verschiedenen R\u00f6ststufen sind super hilfreich, und ich liebe die Aufw\u00e4rmfunktion f\u00fcr meine Br\u00f6tchen. \n\nDie Bedienung ist kinderleicht und das Ger\u00e4t ist wirklich schnelles und effizient. Besonders beeindruckt bin ich von der gleichm\u00e4\u00dfigen R\u00f6stung \u2013",
+            "language": "German"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks now, and I can't express how thrilled I am with it! Right out of the box, it felt solid and well-made. The sleek design fits perfectly in my kitchen and adds a modern touch. \n\nToasting is a breeze\u2014whether I want it light and crispy or golden brown, it delivers every time! The settings are clear and easy to adjust, making breakfast a joy rather than a hassle. The \u201clift and look\u201d feature is a game",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love my new toaster! It has completely changed my breakfast routine. The sleek design fits perfectly on my countertop, and it looks so modern. The browning settings are super precise \u2013 I can finally get my bread toasted just the way I like it, whether I want it lightly golden or perfectly crisp.\n\nThe wide slots are a game changer too! I can fit artisanal slices, bagels, and even thick bread without any hassle. I've tried several settings and every time the toast comes out",
+            "language": "English"
+        },
+        {
+            "review": "I am absolutely obsessed with my new toaster! It's like a dream come true every time I make breakfast. The browning settings are spot on, giving me perfectly toasted bread just how I like it - whether I want it lightly golden or nicely crispy. \n\nThe design is sleek and modern, and it fits perfectly in my kitchen without making it feel cluttered at all. I also love the extra-wide slots which accommodate artisanal breads without any fuss. Cleanup is a breeze too, with the crumb tray",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nr": "423",
+    "name": "LuxeShade Illumina",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 10,
+    "description": "Step into a world of unparalleled elegance and vibrant style with the ultimate accessory for your sun-soaked adventures. Our stunning shades are meticulously crafted to blend cutting-edge technology with a fashion-forward design, ensuring you not only look fabulous but feel invincible under the sun. Equipped with advanced UV protection, they act as a shield against harmful rays, allowing you to bask in the sunshine with confidence, whether you\u2019re lounging by the pool, hitting the beach, or embarking on a weekend getaway.\n\nEach pair boasts a lightweight yet durable frame that promises all-day comfort, perfectly hugging your face without pinching. The innovative polarized lenses provide crystal-clear vision while filtering out glare, making them ideal for driving, hiking, or simply enjoying a day out. Say goodbye to squ",
+    "images": [
+        "product_423_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "Ik heb deze zonnebril aangeschaft omdat de reviews best goed waren, maar eerlijk gezegd ben ik niet helemaal onder de indruk. Het design is zeker stijlvol, dat moet ik toegeven, maar de stijlvolle uitstraling alleen maakt het niet altijd praktisch. De glazen zijn ook wel goed, maar ik had echt meer verwacht als ik kijk naar de prijs. Soms voelt het alsof ze niet goed passen, en dat is vervelend, vooral op zonnige dagen. Comfort is ook niet parha, na een paar",
+            "language": "Dutch"
+        },
+        {
+            "review": "I've been using these sunglasses for a couple of weeks now, and honestly, they\u2019re just okay. The design is nice and they look pretty stylish, but functionally I feel like they\u2019re lacking a bit. The UV protection is decent, but I expected better clarity. Sometimes it feels like there\u2019s a little distortion in certain light, which is a bit annoying when you\u2019re out and about. \n\nComfort-wise, they fit well enough, but they do start to pinch behind the ears after wearing them",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using these sunglasses for a few weeks now, and honestly, they\u2019re just okay. The style looks great, and I get a lot of compliments, but I had higher hopes for the overall performance. They\u2019re lightweight and fit nicely, but I\u2019ve noticed some distortion in the lenses, especially in bright light. \n\nThe UV protection seems decent, but I keep squinting when the sun is really strong. Plus, I thought the price was a bit much for what you get.",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these sunglasses, but they kind of fall short. They look really stylish and all, but comfort is an issue. They pinch my nose a bit and don\u2019t feel sturdy. The lenses do block out some sun, but I expected better clarity. They feel a bit cheap, honestly, and I've had to adjust them a few times already. Not sure if I\u2019d recommend them or go for something else next time. They do the job just okay, but nothing special.",
+            "language": "English"
+        }
+    ]
+}

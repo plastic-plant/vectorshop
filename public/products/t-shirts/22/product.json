@@ -1,0 +1,32 @@
+{
+    "nr": "22",
+    "name": "Wearable Whimsy Tees",
+    "price": "1999",
+    "ranking": 5,
+    "availability": 25,
+    "description": "Unleash your playful spirit with our line of imaginative t-shirts, designed to transform your wardrobe into a canvas of fun and creativity. Made from ultra-soft, breathable fabric, these tees promise all-day comfort while allowing you to express your unique personality. Whether you\u2019re lounging at home, out with friends, or running errands, each shirt is a delightful blend of style and whimsy, perfect for brightening any occasion.\n\nFeaturing eye-catching designs that spark joy and conversation, these tees take casual wear to the next level. From charming characters to inspiring quotes, each piece tells a story just waiting to be shared. The vibrant colors are not only fade-resistant but also carefully curated to complement any outfit, making them versatile essentials in your closet. With a relaxed",
+    "images": [
+        "product_22_01.png",
+        "product_22_02.png",
+        "product_22_03.png",
+        "product_22_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Absolutely in love with these t-shirts! The fabric is so soft and breathable, perfect for all day wear. I bought a couple and they quickly became my go-to for both lounging at home and running errands. The prints are super fun and unique\u2014everyone always asks where I got them! They wash really well too, no fading or shrinking. I've even worn them to the gym, and they managed to keep me comfy and stylish. Seriously, I can\u2019t recommend these enough! They\u2019re like wearing",
+            "language": "English"
+        },
+        {
+            "review": "I absolutely love these tees! The designs are so fun and whimsical, and the colors are super vibrant. I wear mine all the time, and I've had so many compliments already! They're incredibly soft and comfy, making them perfect for lounging at home or dressing up for a casual outing. The fit is just right\u2014not too tight and not too loose\u2014and they wash really well too. I don't have to worry about shrinking or fading. Plus, they come in a variety of sizes, which is a huge",
+            "language": "English"
+        },
+        {
+            "review": "Ces t-shirts sont tout simplement incroyables ! La qualit\u00e9 du tissu est excellente, hyper doux et confortable \u00e0 porter. J'adore comment ils s'ajustent parfaitement, ni trop serr\u00e9s ni trop amples. C'est vraiment une joie de les enfiler chaque matin. Les motifs sont super amusants et originaux, ils apportent vraiment une touche de fantaisie \u00e0 ma garde-robe. \u00c0 chaque fois que je porte un de ces t-shirts, j'attire les compliments de mes amis.",
+            "language": "French"
+        },
+        {
+            "review": "I absolutely LOVE these tees! The colors are so vibrant and really pop\u2014I've worn mine to several casual outings, and I've received countless compliments. The fabric is super soft and breathable, making it perfect for all-day wear, especially during those warmer days. I really appreciate how the fit flatters my shape without feeling restrictive. Plus, they're incredibly easy to care for; after several washes, they still look and feel brand new! I\u2019m probably going to get one in every color; they brighten up",
+            "language": "English"
+        }
+    ]
+}

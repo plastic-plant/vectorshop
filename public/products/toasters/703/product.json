@@ -1,0 +1,29 @@
+{
+    "nr": "703",
+    "name": "CrispFusion Toaster",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 2,
+    "description": "Transform your morning routine with the innovative toaster designed to elevate your culinary experience. This cutting-edge appliance combines sleek aesthetics with unmatched functionality, ensuring that every slice of bread achieves the perfect golden-brown crispness you desire. With its powerful heating elements and advanced toasting technology, even the thickest artisan loaf is perfectly toasted in minutes, making your breakfasts not just meals, but gourmet experiences.\n\nEquipped with a user-friendly digital interface, this remarkable toaster features customizable settings for your preferred doneness, from light and fluffy to deeply toasted. The unique Shade Control dial allows you to fine-tune the browning level, ensuring that each piece of bread, bagel, or waffle suits your taste perfectly. Plus, its defrost function is a game-changer",
+    "images": [
+        "product_703_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently purchased this toaster, and I have to say, it\u2019s been a solid addition to my kitchen. The design is sleek and modern, which fits perfectly with my other appliances. It toasts bread evenly and has multiple settings, which I love for making both light and crispy toast as well as bagels.\n\nWhile it\u2019s not quite the top of the line, it definitely has great performance for the price. I enjoy how quickly it heats up; no more waiting around for first toast of the",
+            "language": "English"
+        },
+        {
+            "review": "I'm really pleased with my new toaster. It has a sleek design that fits perfectly on my kitchen counter, and it toasts bread evenly every time! I've tried different types of bread and bagels, and they all come out golden brown. The different settings are super handy; I love how I can customize the browning level based on what I\u2019m making. \n\nThe only thing holding it back from being a 5-star for me is that it takes a little longer than I expected to toast thicker",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks now, and I really like it! It has a sleek design that fits nicely on my kitchen counter. Toasting is super quick, and I love how evenly it browns everything\u2014no more burnt edges! The crumb tray is easy to pull out and clean, which is a huge plus for me.\n\nThe features are impressive too\u2014six different browning levels mean I can customize my toast just how I like it, whether crispy or lightly toasted. The",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks now, and it\u2019s pretty good! The design is sleek and looks nice on my countertop. It warms up quickly, and I love how evenly it toasts my bread. No more burnt edges or cold centers! The settings are intuitive, and I really appreciate having the option for bagels too. \n\nOne small downside is that the crumb tray could be easier to access. It's a tad tricky to slide out sometimes, but it\u2019s not a major issue",
+            "language": "English"
+        }
+    ]
+}

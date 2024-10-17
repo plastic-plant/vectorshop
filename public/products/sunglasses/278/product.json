@@ -1,0 +1,21 @@
+{
+    "nr": "278",
+    "name": "LuxeShade Spectra",
+    "price": "4999",
+    "ranking": 2,
+    "availability": 23,
+    "description": "Step into a world of unparalleled style and protection with our exquisite eyewear that seamlessly blends function and fashion. Designed for individuals who demand not only eye comfort but also a chic aesthetic, these shades feature polarized lenses that eliminate glare, allowing you to embrace the outdoors with crystal clarity. Say goodbye to squinting under the sun and hello to effortless vision, whether you're lounging poolside, hiking up your favorite trail, or navigating a bright cityscape.\n\nCrafted with precision, these sunglasses boast a lightweight yet durable frame, making them the perfect companion for your everyday adventures. The iconic design enhances your features without compromising on comfort, ensuring you can wear them all day long. With adjustable nose pads and flexible temples, every face shape can find its perfect fit,",
+    "images": [
+        "product_278_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I really wanted to like these sunglasses, but I\u2019ve been pretty disappointed. The style is nice, they look sleek and all, but that\u2019s about it. They don\u2019t block out the sun very well at all. On bright days, it feels like I'm staring right into the light. Not great for driving or spending time outside. The fit is also kinda awkward; they slide down my nose too much and it\u2019s annoying to keep pushing them up. I mean, the price isn\u2019t terrible,",
+            "language": "English"
+        },
+        {
+            "review": "Comprei esses \u00f3culos de sol recentemente e, para ser sincero, fiquei bem decepcionado. A qualidade parece ser normal, mas a prote\u00e7\u00e3o UV n\u00e3o \u00e9 l\u00e1 essas coisas. Usei durante um dia de sol e ainda senti que meus olhos estavam meio cansados. O design at\u00e9 \u00e9 bonito, mas eles n\u00e3o se ajustam bem no meu rosto e acabaram apertando as orelhas. Al\u00e9m disso, a embalagem financeira era bem simples, pelo pre\u00e7o eu esperava um pouco mais",
+            "language": "Portuguese"
+        }
+    ]
+}

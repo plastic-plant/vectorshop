@@ -1,0 +1,29 @@
+{
+    "nr": "518",
+    "name": "Toastopia Artisan Toaster",
+    "price": "2999",
+    "ranking": 4,
+    "availability": 18,
+    "description": "Discover a new realm of breakfast perfection with this innovative kitchen marvel that transforms your morning routine into an exquisite experience. Engineered for both style and functionality, this toaster is designed to be the centerpiece of your countertop, offering an eye-catching blend of modern aesthetics and vintage charm. With its sleek, stainless steel finish and subtle matte accents, it elevates any kitchen d\u00e9cor while promising reliable performance at your fingertips.\n\nPrepare to indulge your taste buds as this remarkable device features advanced toasting technology, allowing you to choose from seven customizable browning settings. Whether you crave golden brown bagels, perfectly crispy artisan bread, or warm, gooey pastries, you\u2019ll always achieve your desired level of toastiness in seconds. The high-lift lever ensures that even the smallest",
+    "images": [
+        "product_518_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I recently upgraded my kitchen with one of the newer toasters, and overall, I\u2019m quite pleased with it! The design is sleek and blends in nicely with my countertop. It offers several browning options, which is great because I like my toast crispy while my partner prefers it lighter. \n\nIt took a bit of time to figure the best setting for my bread type, but once I did, it toasted evenly every time! The extra-wide slots are a game changer; no more jamming.",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks, and I\u2019m pretty happy with it overall. It has a sleek design that fits well on my countertop, and it definitely looks more modern than my old one. \n\nToasting quality is excellent; my bread comes out nice and crispy every time, just the way I like it. There are six different settings, which is great because I can toast lighter or darker depending on my mood. I also love the bagel feature, which does a great job",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few months now, and I have to say, it's pretty impressive. It has a sleek design that fits well in my kitchen, and the options are easy to understand. I love how it offers multiple settings for different bread types, and it doesn\u2019t just burn my toast like my old one did!\n\nThe bread comes out perfectly toasted every time, with that nice golden-brown color. I also appreciate the extra-wide slots; it accommodates my artisan loaves without issues",
+            "language": "English"
+        },
+        {
+            "review": "I've been using this toaster for a few weeks now, and I have to say, it's become my go-to kitchen gadget! The design is sleek and modern, fitting perfectly on my countertop. The way it toasts bread evenly is impressive; no more burnt edges, just perfectly golden bread each time. \n\nI love the different settings it offers \u2014 you can customize how toasted you want your bread, and honestly, I appreciate the precision. It also has a nice wide slot that comfortably fits bagels and",
+            "language": "English"
+        }
+    ]
+}

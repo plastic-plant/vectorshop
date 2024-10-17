@@ -1,0 +1,21 @@
+{
+    "nr": "150",
+    "name": "ToastMaster 3000",
+    "price": "2999",
+    "ranking": 3,
+    "availability": 6,
+    "description": "Transform your breakfast routine with the innovative toasting marvel that promises to elevate your culinary creations to new heights. This sleek kitchen appliance not only toasts but also serves as a culinary companion, delivering perfectly browned slices of bread at your command. With a user-friendly interface, you'll have the power of precision at your fingertips, allowing you to customize the browning level to achieve your ideal toast, from golden perfection to a hearty crunch.\n\nEquipped with advanced technology, this remarkable toaster features a built-in intelligent sensor that adjusts the toasting time according to the thickness of your bread, bagels, or even artisanal loaves. No more guessing games or burnt toast; the smart system ensures consistent results every time. The extra-wide slots can accommodate various bread sizes",
+    "images": [
+        "product_150_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this toaster for a couple of weeks now, and honestly, it's just okay. The design is pretty sleek and fits my kitchen nicely, but it has its quirks. \n\nFirst off, it does toast bread well, but sometimes it takes longer than expected. I\u2019ve noticed that I have to give it a few tries to get the desired darkness on the bread, which is kind of annoying. The settings are a bit confusing too; it feels like some of them don't really do much",
+            "language": "English"
+        },
+        {
+            "review": "I\u2019ve been using this toaster for a few months now, and honestly, it's just... okay. It gets the job done but nothing more. The browning settings aren\u2019t super consistent, so sometimes I end up with a slice that\u2019s perfectly golden on one side and totally pale on the other. \n\nIt\u2019s also a bit bulky; takes up more space on my counter than I\u2019d like. The design looks nice, but it would be better with a retractable cord. For the price,",
+            "language": "English"
+        }
+    ]
+}

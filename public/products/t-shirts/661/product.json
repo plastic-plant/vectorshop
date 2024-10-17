@@ -1,0 +1,35 @@
+{
+    "nr": "661",
+    "name": "ThreadQuest Tees",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 5,
+    "description": "Experience the ultimate blend of comfort and style with our premium cotton shirts, designed for the modern adventurer in you. Made from high-quality, breathable fabric, these tees offer a luxuriously soft touch against the skin, making them perfect for both lounging at home and tackling your next quest outdoors. Whether you're running errands, hitting the gym, or enjoying a weekend getaway, these tees are your go-to companion.\n\nAvailable in a vibrant array of colors and eye-catching prints, each shirt features a unique and inspiring design that resonates with your personal journey. With a tailored fit that flatters every body type, you'll not only feel good but look great too. Our innovative moisture-wicking technology ensures you stay cool and dry, no matter where your adventures take you",
+    "images": [
+        "product_661_01.png",
+        "product_661_02.png",
+        "product_661_03.png"
+    ],
+    "reviews": [
+        {
+            "review": "I had high hopes for these tees based on the hype, but honestly, I'm kinda disappointed. The fit is off; it's not as comfortable as I thought it would be, and the fabric feels a bit cheap. I expected better quality for the price. Also, the colors are way too different from what was shown online. I've washed them a few times, and they just don't hold up. It's frustrating because I wanted to love them. Overall, not worth it in my opinion.",
+            "language": "English"
+        },
+        {
+            "review": "Je ne suis pas tr\u00e8s impressionn\u00e9 par ces t-shirts. La qualit\u00e9 n\u2019est pas au rendez-vous, le tissu semble cheap et pas agr\u00e9able sur la peau. Apr\u00e8s quelques lavages, ils se d\u00e9forment d\u00e9j\u00e0, et les couleurs s\u2019estompent rapidement. J'esp\u00e8re que ce n'\u00e9tait qu'un mauvais lot, mais j'avais plus d'attentes. En plus, la taille ne correspond pas vraiment, le L est plus petit que d'habitude ! \u00c0 peine port\u00e9 et j\u2019ai des doutes",
+            "language": "French"
+        },
+        {
+            "review": "I was really excited to try these tees, but honestly, they didn\u2019t live up to the hype. The fit is weird; it\u2019s either too tight in some places and too loose in others. I expected them to be soft and comfy, but they feel kinda scratchy, and I found some loose threads after a couple of washes. The colors are nice but fade pretty quickly. Overall, not worth the price I paid. Wouldn\u2019t buy again.",
+            "language": "English"
+        },
+        {
+            "review": "I had high hopes for these tees, but honestly they didn't live up to my expectations. The fabric feels kind of cheap and scratchy, and after a few washes, they started to lose their shape. The fit is a bit off too; it\u2019s either too tight in some places or too loose in others. I was hoping for something a little more stylish, but I just end up wearing them around the house. Not sure I\u2019ll be buying again, sadly. Just not what I expected.",
+            "language": "English"
+        },
+        {
+            "review": "I was really hoping for something special with this t-shirt, but it just didn\u2019t live up to the hype. The fabric feels kinda cheap and not as soft as I expected. Plus, the sizing is off. I ordered a medium, but it fits more like a small. I can barely move in it! The designs are cool, but they started to crack after just one wash. \n\nThe colors are nice, but what good is a nice color if it\u2019s not comfy? Overall, it",
+            "language": "English"
+        }
+    ]
+}

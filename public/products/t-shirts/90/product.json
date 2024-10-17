@@ -1,0 +1,32 @@
+{
+    "nr": "90",
+    "name": "Threads of Whimsy",
+    "price": "2499",
+    "ranking": 2,
+    "availability": 5,
+    "description": "Step into a world where comfort meets creativity with our latest addition to casual wear. This t-shirt takes inspiration from the vibrant threads of imagination, designed for those who seek individuality in every stitch. Crafted from a luxurious blend of soft, breathable cotton, you\u2019ll experience all-day coziness whether you\u2019re lounging at home or exploring the city with friends. Its lightweight fabric drapes effortlessly, ensuring you feel as good as you look.\n\nBut this isn\u2019t just any ordinary tee. Unleash your playful side with whimsical graphics that speak to the dreamer in you. Each design is a work of art, meticulously printed with eco-friendly inks that are both bold and vibrant, promising to retain their stunning colors even after multiple washes. With a range of unique patterns",
+    "images": [
+        "product_90_01.png",
+        "product_90_02.png",
+        "product_90_03.png",
+        "product_90_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "Die T-Shirts sehen auf den ersten Blick ganz nett aus, aber die Qualit\u00e4t l\u00e4sst stark zu w\u00fcnschen \u00fcbrig. Nach ein paar W\u00e4schen (und ich folge schon den Anweisungen!) hat das Material angefangen zu pillen. Auch die Passform ist nicht optimal, sie sitzen nicht wirklich gut und tragen sich eher unangenehm. Ich hatte erwartet, dass sie sich weicher anf\u00fchlen, aber das Gegenteil ist der Fall. Schade eigentlich, denn das Design war wirklich ansprechend.",
+            "language": "German"
+        },
+        {
+            "review": "I was really hoping for something special with these t-shirts, but honestly, they just miss the mark. The fabric feels kind of scratchy instead of comfy, and after one wash, they shrank more than I expected. The prints looked cute online, but in person, they aren't that vibrant. They also fit a bit weird around the armpits, which is uncomfortable. I tried to like them, but I\u2019ll probably just wear them around the house. Definitely not the best purchase I've made",
+            "language": "English"
+        },
+        {
+            "review": "I was really expecting more from these t-shirts. The fabric feels kinda cheap and thin, like it might rip easily. I washed it once and there\u2019s already some pilling! The fit is off too; it\u2019s a bit boxy and just doesn\u2019t flatter me. The designs looked great online but on the shirt, they\u2019re kinda faded and don\u2019t pop at all. I thought the price was reasonable, but now I see it was because the quality isn\u2019t really there. Disappointing",
+            "language": "English"
+        },
+        {
+            "review": "I really wanted to love these t-shirts, but they just didn\u2019t live up to my expectations. The design is cute, but the fabric feels rough and cheap on the skin. After only one wash, it started to look worn out. I was excited to wear these out, but they don't fit quite right either; kind of boxy and awkward. I tried to reach out for customer service, but got no response. Overall, not the best experience for the price. Wouldn't really recommend it",
+            "language": "English"
+        }
+    ]
+}

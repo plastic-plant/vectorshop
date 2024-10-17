@@ -1,0 +1,21 @@
+{
+    "nr": "422",
+    "name": "ToastCraft Pro",
+    "price": "4999",
+    "ranking": 3,
+    "availability": 9,
+    "description": "Elevate your breakfast game with the ultimate culinary companion designed for toast aficionados: the exceptional TC Pro. Engineered for perfection, this toaster seamlessly blends style and functionality, giving you the crisp, golden-brown toast you crave without compromise. Its sleek stainless-steel exterior not only complements any kitchen d\u00e9cor but also promises durability, making it a lasting addition to your countertop.\n\nExperience the convenience of precision with TC Pro\u2019s intuitive interface. Equipped with customizable browning settings, users can effortlessly achieve their desired level of toasting, whether it's a light crunch or a deep, artisanal finish. The extra-wide slots cater to all types of bread\u2014from artisanal sourdough to bagels\u2014ensuring every slice is evenly toasted, every time. Plus, with",
+    "images": [
+        "product_422_01.png"
+    ],
+    "reviews": [
+        {
+            "review": "I've been using this toaster for a couple of months now, and honestly, it's okay but not great. It does toast my bread, but sometimes it takes longer than I expected. I\u2019ve noticed uneven toasting, and a couple of times, my bagels came out colder than I\u2019d like. \n\nThe design is nice; it looks cool on my counter, but functionality could be better. The buttons are kinda confusing too, I find myself pressing them more than once. Maybe I'm just doing it",
+            "language": "English"
+        },
+        {
+            "review": "I have mixed feelings about this toaster. It looks kinda sleek and modern, fits nicely on the counter, but it just doesn't toast bread evenly every time. Some slices come out perfect, while others are burnt on one side. The settings can be a little tricky too; I\u2019ve found myself having to guess which level to use. \n\nAlso, the timer feels off\u2014sometimes it pops up too early, and I end up needing to toast again. It's not terrible, but I've definitely had better to",
+            "language": "English"
+        }
+    ]
+}

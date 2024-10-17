@@ -1,0 +1,24 @@
+{
+    "nr": "84",
+    "name": "ToastCraft Pro",
+    "price": "2999",
+    "ranking": 5,
+    "availability": 3,
+    "description": "Transform your mornings with the ultimate toasting experience that combines cutting-edge technology, sleek design, and unparalleled performance. Say goodbye to dull breakfasts and hello to a world of perfectly toasted creations! Embrace the joy of your daily routine with a toaster that not only elevates your kitchen aesthetic but also elevates your bread game to new heights.\n\nThis innovative kitchen marvel boasts an intelligent browning control system, allowing you to customize your toast to the exact shade of golden perfection you desire. With its user-friendly interface, each morning becomes an effortless journey through a variety of settings. Whether you crave lightly crisped bagels or quarter-inch thick slices of artisan bread, each toast is crafted to your personal taste, eliminating the guesswork and ensuring consistent results.\n\nCrafted",
+    "images": [
+        "product_84_01.png",
+        "product_84_02.png",
+        "product_84_03.png",
+        "product_84_04.png"
+    ],
+    "reviews": [
+        {
+            "review": "This toaster is an absolute game-changer! I\u2019ve gone through my fair share of toasters, but nothing compares to this one. The instant heat-up feature is so impressive; I don\u2019t have to wait long at all for that first slice of toast in the morning. \n\nThe browning settings are like magic. I love that I can get my toast exactly how I like it\u2014perfectly golden and crispy outside while staying fluffy inside. The design is sleek and modern, which makes it a",
+            "language": "English"
+        },
+        {
+            "review": "Ich bin einfach begeistert von diesem Toaster! Er toastet mein Brot gleichm\u00e4\u00dfig und perfekt - die Einstellungen sind super einfach zu nutzen. Egal ob ich mein frisches Brot knusprig oder nur leicht an ger\u00f6stet haben m\u00f6chte, er erf\u00fcllt jeden Wunsch. \n\nDie automatische Auswurf-Funktion ist ein tolles Extra; ich muss nie warten und pl\u00e4tschere morgens im Halbschlaf einfach dar\u00fcber hinweg. Das Desgin sieht nicht nur modern aus, sondern passt auch wirklich gut in meine",
+            "language": "German"
+        }
+    ]
+}
